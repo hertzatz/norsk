@@ -38,11 +38,11 @@ Når skal vi møtes? | On se voit quand ? | When shall we meet?
 Jeg vil gjerne møte familien din. | J'aimerais rencontrer ta famille. | I'd like to meet your family.
 Hvem kom sist? | Qui est arrivé en dernier ? | Who came last?
 Det er siste sjanse. | C'est la dernière chance. | It's the last chance.
-Send meg et ord når du er hjemme. | Envoie-moi un mot quand tu es à la maison. | Send me a word when you're home.
+Send meg en melding når du er hjemme. | Envoie-moi un message quand tu es à la maison. | Send me a message when you're home.
 Saken er ikke så enkel. | L'affaire n'est pas si simple. | It's not so simple.
 Det var en gal dag. | C'était une journée de fou. | It was a crazy day.
 Barna sitter under bordet. | Les enfants sont assis sous la table. | The children are sitting under the table.
-Han slapp pengene. | Il a lâché l'argent. | He dropped the money.
+Han slapp pengene på gulvet. | Il a laissé tomber l'argent par terre. | He dropped the money on the floor.
 Vi sov hele natta. | On a dormi toute la nuit. | We slept all night.
 Jeg vil leve her hele livet. | Je veux vivre ici toute ma vie. | I want to live here all my life.
 Hun har sin egen måte å snakke på. | Elle a sa propre façon de parler. | She has her own way of talking.
@@ -68,7 +68,7 @@ Den første delen er lett. | La première partie est facile. | The first part is
 Først må du ringe. | D'abord, tu dois appeler. | First you have to call.
 Det er kaldt inne. | Il fait froid à l'intérieur. | It's cold inside.
 Alle mennesker er like. | Tous les êtres humains sont égaux. | All people are equal.
-Vi kaller det en dag. | On s'arrête là pour aujourd'hui. | Let's call it a day.
+Hva kaller du dette på norsk? | Comment appelles-tu ça en norvégien ? | What do you call this in Norwegian?
 Han gikk gjennom døra. | Il est passé par la porte. | He went through the door.
 Jeg vil heller vente. | Je préfère attendre. | I'd rather wait.
 Kjære deg, kom hit! | Mon chéri, viens ici ! | Darling, come here!
@@ -154,7 +154,7 @@ Hun fortsatte å snakke. | Elle a continué à parler. | She kept talking.
 Bussen var sen [i dag]. | Le bus était en retard aujourd'hui. | The bus was late today.
 Jeg er litt sen. | Je suis un peu en retard. | I'm a bit late.
 Hva har du under jakka? | Qu'est-ce que tu as sous ta veste ? | What have you got under your jacket?
-Vi var ute under hele dagen. | Nous étions dehors toute la journée. | We were out all day.
+Under hele middagen var det stille. | Pendant tout le dîner, c'était silencieux. | During the whole dinner it was quiet.
 Han kjørte bort. | Il est parti en voiture. | He drove away.
 Ta det bort! | Enlève ça ! | Take it away!
 Jeg er inne hele dagen. | Je suis à l'intérieur toute la journée. | I'm inside all day.

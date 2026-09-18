@@ -145,17 +145,19 @@ function formRows(w) {
   return [];
 }
 
+// Forms line of a word card: every form is clickable (plays + popover), labels stay plain
 function formsLine(w) {
   const f = w.forms;
   if (!f) return "";
-  if (w.pos === "noun") return [f.def, f.pl, f.defpl].map(first).join(" · ");
-  if (w.pos === "npl") return f.defpl ? first(f.defpl) : "";
-  if (w.pos === "verb") return `pres. ${first(f.pres)} · past ${first(f.past)} · perf. har ${first(f.perf)}` +
-    (MODALS.has(w.lemma) ? "" : ` · fut. skal ${f.inf}`);
+  const c = (x) => x ? vf(first(x)) : "";
+  if (w.pos === "noun") return [f.def, f.pl, f.defpl].map(c).filter(Boolean).join(" · ");
+  if (w.pos === "npl") return c(f.defpl);
+  if (w.pos === "verb") return `pres. ${c(f.pres)} · past ${c(f.past)} · perf. ${vf("har " + first(f.perf))}` +
+    (MODALS.has(w.lemma) ? "" : ` · fut. ${vf("skal " + f.inf)}`);
   if (w.pos === "adj") {
-    const parts = [f.neut, f.pl].map(first);
-    if (f.comp && f.comp !== f.base) parts.push(first(f.comp), first(f.sup));
-    return parts.join(" · ");
+    const parts = [f.neut, f.pl].map(c);
+    if (f.comp && f.comp !== f.base) parts.push(c(f.comp), c(f.sup));
+    return parts.filter(Boolean).join(" · ");
   }
   return "";
 }
@@ -169,7 +171,7 @@ function glossHTML(w) {
 function lemmaHTML(w) {
   const art = w.pos === "noun" && w.gender ? `<span class="art">${ART[w.gender]}</span> ` : "";
   const verb = w.pos === "verb" ? `<span class="art">å</span> ` : "";
-  return art + verb + esc(w.lemma);
+  return art + verb + `<span class="vf" data-t="${esc(w.lemma)}">${esc(w.lemma)}</span>`;
 }
 
 // Level filter: up to the selected level, or exactly that level when "Only this level" is ticked
@@ -219,7 +221,7 @@ const sentencesWith = (id) => SENTENCES.filter((s) => s.tokens.some((t) => t.w =
   .sort((a, b) => a.level - b.level || a.no.length - b.no.length);
 
 // ---------- sentence card (used in the list and in the sheet) ----------
-function sentenceHTML(s, hitId = null) {
+function sentenceHTML(s, hitId = null, showPass = false) {
   const toks = s.tokens.map((t, i) => {
     if (!t.w && !t.name) return esc(t.t);
     const cls = ["tok", t.name && "name", t.x && "extra", hitId && t.w === hitId && "hit"].filter(Boolean).join(" ");
@@ -235,7 +237,7 @@ function sentenceHTML(s, hitId = null) {
         <button class="play" aria-label="Play sentence">▶</button>
       </div>
       ${tr}
-      <div class="meta">level ${s.level}${s.theme ? " · " + esc(s.themeLabel || s.theme) : ""}</div>
+      <div class="meta">level ${s.level}${s.theme ? " · " + esc(s.themeLabel || s.theme) : ""}${!showPass ? "" : s._new ? ` · <b>${s._new} new word${s._new > 1 ? "s" : ""}</b>` : s._pass ? ` · pass ${s._pass}` : ""}</div>
     </article>`;
 }
 
@@ -257,7 +259,7 @@ function renderWords() {
       <button class="play" aria-label="Play">🔊</button>
       <div class="main">
         <div class="lemma">${lemmaHTML(w)}<span class="badge cat">${esc(catLabel(w))}</span>${w.rank ? `<span class="badge">#${w.rank}</span>` : ""}</div>
-        <div class="forms">${esc(formsLine(w))}</div>
+        <div class="forms">${formsLine(w)}</div>
         <div class="gloss">${glossHTML(w)}</div>
       </div>
       <button class="more" aria-label="See sentences">📚 ${countFor(w.id)}<span> sentences</span></button>
@@ -267,8 +269,37 @@ function renderWords() {
 // ---------- sentences view ----------
 function filteredSentences() {
   const q = fold(state.sq.trim());
-  return SENTENCES.filter((s) => sentInLevel(s) && (!state.theme || s.theme === state.theme) &&
-    (!q || fold(s.no).includes(q) || fold(s.fr).includes(q) || fold(s.en).includes(q)));
+  return orderForCoverage(SENTENCES.filter((s) => sentInLevel(s) && (!state.theme || s.theme === state.theme) &&
+    (!q || fold(s.no).includes(q) || fold(s.fr).includes(q) || fold(s.en).includes(q))));
+}
+
+// Order the list so that every word of the level is met as early as possible:
+// pass 1 covers each word once, pass 2 a second time, ... up to TARGET times (greedy, lazy max-heap).
+const TARGET = 5;
+function orderForCoverage(list) {
+  const target = new Set(WORDS.filter(inLevel).map((w) => w.id));
+  const ids = list.map((s) => [...new Set(s.tokens.filter((t) => t.w && target.has(t.w)).map((t) => t.w))]);
+  const count = {};
+  const done = new Uint8Array(list.length);
+  const out = [];
+  const heap = []; // [score, index]
+  const push = (it) => { heap.push(it); let i = heap.length - 1; while (i > 0) { const p = (i - 1) >> 1; if (heap[p][0] >= heap[i][0]) break; [heap[p], heap[i]] = [heap[i], heap[p]]; i = p; } };
+  const pop = () => { const top = heap[0], last = heap.pop(); if (heap.length) { heap[0] = last; let i = 0; for (;;) { const l = 2 * i + 1, r = l + 1; let m = i; if (l < heap.length && heap[l][0] > heap[m][0]) m = l; if (r < heap.length && heap[r][0] > heap[m][0]) m = r; if (m === i) break; [heap[m], heap[i]] = [heap[i], heap[m]]; i = m; } } return top; };
+  for (let k = 1; k <= TARGET; k++) {
+    const score = (i) => ids[i].reduce((n, id) => n + ((count[id] || 0) < k ? 1 : 0), 0);
+    heap.length = 0;
+    for (let i = 0; i < list.length; i++) if (!done[i]) { const sc = score(i); if (sc) push([sc, i]); }
+    while (heap.length) {
+      const [sc, i] = pop();
+      const now = score(i);
+      if (!now) continue;
+      if (heap.length && now < heap[0][0]) { push([now, i]); continue; }
+      done[i] = 1; list[i]._new = k === 1 ? now : 0; list[i]._pass = k; out.push(list[i]);
+      ids[i].forEach((id) => (count[id] = (count[id] || 0) + 1));
+    }
+  }
+  for (let i = 0; i < list.length; i++) if (!done[i]) { list[i]._new = 0; list[i]._pass = 0; out.push(list[i]); }
+  return out;
 }
 
 function renderSentences() {
@@ -280,7 +311,7 @@ function renderSentences() {
     box.innerHTML = `<p class="empty">No sentences for this level yet.</p>`;
     return;
   }
-  box.innerHTML = list.slice(0, shown).map((s) => sentenceHTML(s)).join("") +
+  box.innerHTML = list.slice(0, shown).map((s) => sentenceHTML(s, null, true)).join("") +
     (list.length > shown ? `<button class="load-more" id="loadMore">Show more (${list.length - shown} left)</button>` : "");
 }
 
@@ -446,7 +477,7 @@ function openSheet(id) {
   const here = all.filter((s) => s.level <= state.level);
   const above = all.filter((s) => s.level > state.level);
   const rows = formRows(w);
-  document.getElementById("sheetTitle").innerHTML = `<span class="vf" data-t="${esc(w.lemma)}">${lemmaHTML(w)}</span>`;
+  document.getElementById("sheetTitle").innerHTML = lemmaHTML(w);
   document.getElementById("sheetBody").innerHTML = `
     <div class="gloss">${glossHTML(w)}</div>
     ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v)}</td></tr>`).join("")}</table>` : ""}
@@ -562,6 +593,7 @@ function bind() {
   const words = document.getElementById("words");
   words.onclick = (e) => {
     const li = e.target.closest(".word"); if (!li) return;
+    if (e.target.closest(".vf")) return; // a form: handled by the global word handler
     if (e.target.closest(".more")) return openSheet(li.dataset.id);
     const w = BY_ID[li.dataset.id];
     if (w) playWord(w.lemma, li.querySelector(".play"));

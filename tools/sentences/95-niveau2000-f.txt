@@ -89,7 +89,7 @@ Legen behandlet såret med det samme. | Le médecin a traité la plaie tout de s
 Barnet kastet opp etter godteriet. | L'enfant a vomi après les bonbons. | The child threw up after the sweets.
 Hun sultet seg for å gå ned i vekt. | Elle s'est affamée pour perdre du poids. | She starved herself to lose weight.
 Sykepleieren undersøkte pasienten nøyaktig. | L'infirmière a examiné le patient attentivement. | The nurse examined the patient carefully.
-Blind mann med hund på fortauet. | Un aveugle avec un chien sur le trottoir. | A blind man with a dog on the pavement.
+En blind mann med hund gikk på fortauet. | Un aveugle avec un chien marchait sur le trottoir. | A blind man with a dog walked on the pavement.
 Bestemor er døv, snakk høyt. | Grand-mère est sourde, parle fort. | Grandma is deaf, speak up.
 Han er utslitt etter dobbel vakt. | Il est épuisé après un double service. | He's exhausted after a double shift.
 Kroppen trenger mosjon og sunn mat. | Le corps a besoin d'exercice et d'une alimentation saine. | The body needs exercise and healthy food.
@@ -108,7 +108,7 @@ Skrivebordet og madrassen kom i går. | Le bureau et le matelas sont arrivés hi
 Gardinene på loftet er gammeldags. | Les rideaux du grenier sont démodés. | The curtains in the attic are old-fashioned.
 Kalenderen viser at det er helligdag i dag. | Le calendrier indique que c'est un jour férié aujourd'hui. | The calendar shows it's a public holiday today.
 Verktøyet, hammeren og skruene er i boksen. | Les outils, le marteau et les vis sont dans la boîte. | The tools, hammer and screws are in the box.
-Spikeren gikk gjennom tauet. | Le clou est passé à travers la corde. | The nail went through the rope.
+Spikeren gikk rett gjennom veggen. | Le clou est passé à travers le mur. | The nail went right through the wall.
 Stigen står ved gjerdet i hagen. | L'échelle est contre la clôture dans le jardin. | The ladder is by the fence in the garden.
 Legg lommeboka og brillene i lomma. | Mets le portefeuille et les lunettes dans la poche. | Put the wallet and glasses in the pocket.
 Kofferten og paraplyen står i gangen. | La valise et le parapluie sont dans l'entrée. | The suitcase and umbrella are in the hall.
@@ -163,7 +163,7 @@ Tollvesenet åpnet kofferten min. | La douane a ouvert ma valise. | Customs open
 Fabrikken og lageret ligger ved motorveien. | L'usine et l'entrepôt sont près de l'autoroute. | The factory and warehouse are by the motorway.
 Leverandøren kom med varer av god kvalitet. | Le fournisseur a livré des marchandises de bonne qualité. | The supplier brought goods of good quality.
 Servicen på verkstedet var elendig. | Le service à l'atelier était nul. | The service at the workshop was lousy.
-Mengden turister øker i antall hvert år. | Le nombre de touristes augmente chaque année. | The number of tourists increases every year.
+Mengden snø og antallet turister øker hvert år. | La quantité de neige et le nombre de touristes augmentent chaque année. | The amount of snow and the number of tourists increase every year.
 Markedet på torget har salg på klær. | Le marché de la place a des soldes sur les vêtements. | The market in the square has a sale on clothes.
 Handelen med Sverige er viktig. | Le commerce avec la Suède est important. | Trade with Sweden is important.
 Rabatt for pensjonister på ferga. | Réduction pour les retraités sur le ferry. | Discount for pensioners on the ferry.

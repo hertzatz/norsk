@@ -6,7 +6,7 @@ Jeg har null kroner. | J'ai zéro couronne. | I have zero kroner.
 Det er null grader ute. | Il fait zéro degré dehors. | It's zero degrees outside.
 Nummeret mitt begynner med null. | Mon numéro commence par zéro. | My number starts with zero.
 Null, en, to, tre{tre_num}, fire, fem. | Zéro, un, deux, trois, quatre, cinq. | Zero, one, two, three, four, five.
-Vi har bare null eller en sjanse. | Nous n'avons que zéro ou une chance. | We have zero or one chance.
+Vi har null sjanse uten hjelp. | Nous n'avons aucune chance sans aide. | We have zero chance without help.
 Jeg har en{en_num} bror og to søstre. | J'ai un frère et deux sœurs. | I have one brother and two sisters.
 Vent ett{en_num} minutt! | Attends une minute ! | Wait one minute!
 Jeg har bare ett barn. | Je n'ai qu'un enfant. | I only have one child.
@@ -131,7 +131,7 @@ Vi har tusen ting å gjøre. | On a mille choses à faire. | We have a thousand 
 Det bor fem millioner i Norge. | Cinq millions de personnes vivent en Norvège. | Five million people live in Norway.
 Det koster en million. | Ça coûte un million. | It costs a million.
 Han har en million kroner. | Il a un million de couronnes. | He has a million kroner.
-Takk en million! | Merci un million de fois ! | Thanks a million!
+En million takk! | Un million de mercis ! | A million thanks!
 Det er millioner av folk der. | Il y a des millions de gens là-bas. | There are millions of people there.
 Det er andre gang jeg er her. | C'est la deuxième fois que je suis ici. | It's the second time I'm here.
 Hun bor i andre etasje. | Elle habite au deuxième étage. | She lives on the second floor.
@@ -149,7 +149,7 @@ Det er femte gang jeg sier det. | C'est la cinquième fois que je le dis. | It's
 Hun bor i femte etasje. | Elle habite au cinquième étage. | She lives on the fifth floor.
 Han kom på femte plass. | Il est arrivé cinquième. | He came fifth.
 Det er den femte dagen. | C'est le cinquième jour. | It's the fifth day.
-Femte uke på jobb. | Cinquième semaine au travail. | Fifth week at work.
+Det er min femte uke på jobb. | C'est ma cinquième semaine de travail. | It's my fifth week at work.
 Det tar halvannen time. | Ça prend une heure et demie. | It takes an hour and a half.
 Jeg har venta i halvannen time. | J'ai attendu une heure et demie. | I've waited an hour and a half.
 Vi har bodd her i halvannet år. | Nous habitons ici depuis un an et demi. | We've lived here for a year and a half.
@@ -260,10 +260,10 @@ Vi gifta oss i mai. | Nous nous sommes mariés en mai. | We got married in May.
 I juni er det lyst{lys_adj} hele natta. | En juin, il fait jour toute la nuit. | In June it's light all night.
 Skolen slutter i juni. | L'école finit en juin. | School ends in June.
 Vi drar til Frankrike i juni. | On va en France en juin. | We're going to France in June.
-Juni er min måned. | Juin est mon mois. | June is my month.
+Juni er den beste måneden. | Juin est le meilleur mois. | June is the best month.
 Hun kommer i juni. | Elle vient en juin. | She's coming in June.
 I juli har vi ferie. | En juillet, nous avons des vacances. | In July we're on holiday.
-Juli er varm. | Juillet est chaud. | July is warm.
+Juli er en varm måned. | Juillet est un mois chaud. | July is a warm month.
 Mange folk er borte i juli. | Beaucoup de gens sont partis en juillet. | Lots of people are away in July.
 Restauranten er full i juli. | Le restaurant est plein en juillet. | The restaurant is full in July.
 Vi jobber mye i juli. | Nous travaillons beaucoup en juillet. | We work a lot in July.

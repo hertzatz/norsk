@@ -123,7 +123,7 @@ Une phrase peut combiner le tronc commun du niveau et un thème métier choisi.
 
 ## 8 bis. État d'avancement (18/09/2026)
 - [x] Vocabulaire : 1000 mots classés (300/600/1000) + **niveau 2000** (996 mots supplémentaires : verbes, noms, adjectifs, adverbes, verbes à particule, expressions) + 130 essentiels + 136 mots métier et vie locale.
-- [x] Phrases : ~7870 phrases, **chaque mot dans au moins 5 phrases de son niveau, y compris au niveau 2000** (validé par script), tolérance de 20 % de mots bonus par phrase.
+- [x] Phrases : ~8000 phrases, **chaque mot dans au moins 5 phrases de son niveau, y compris au niveau 2000** (validé par script), tolérance de 20 % de mots bonus par phrase.
 - [x] Audio : deux voix (Pernille, Finn) pour tous les mots, formes et phrases, en alternance à chaque lecture en mode « Both ».
 - [x] Application : phrases cliquables, formes étiquetées (temps des verbes), double-clic → phrases d'un mot, filtres niveau/thème/catégorie, recherche NO/FR/EN sans accents, vitesse et voix réglables, onglets Verbs et Pronouns, interface en anglais, case « Only this level » (n'affiche que les mots et phrases du niveau choisi), tout mot norvégien cliquable partout.
 - [x] Mise en ligne GitHub Pages : https://hertzatz.github.io/norsk/

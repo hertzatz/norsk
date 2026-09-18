@@ -92,7 +92,7 @@ Vi spiser grøt til frokost. | Nous mangeons du porridge au petit-déjeuner. | W
 Oppskriften er enkel. | La recette est simple. | The recipe is simple.
 Følg oppskriften! | Suis la recette ! | Follow the recipe!
 Hun har en god oppskrift på kake. | Elle a une bonne recette de gâteau. | She has a good cake recipe.
-Et måltid uten kjøtt. | Un repas sans viande. | A meal without meat.
+Et måltid uten kjøtt er også godt. | Un repas sans viande est bon aussi. | A meal without meat is good too.
 Vi spiser tre måltider om dagen. | Nous mangeons trois repas par jour. | We eat three meals a day.
 Middagen var deilig. | Le dîner était délicieux. | Dinner was delicious.
 Det smaker deilig! | C'est délicieux ! | It tastes delicious!

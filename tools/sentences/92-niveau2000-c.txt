@@ -121,7 +121,7 @@ Vi trenger mer kjøkkenrull. | Il nous faut plus d'essuie-tout. | We need more k
 Matvarene ligger i posen. | Les denrées sont dans le sac. | The groceries are in the bag.
 Sjekk holdbarheten på melka. | Vérifie la date de péremption du lait. | Check the use-by date on the milk.
 Jeg har ingen appetitt i dag. | Je n'ai pas d'appétit aujourd'hui. | I have no appetite today.
-Har dere vegetar mat? | Vous avez de la nourriture végétarienne ? | Do you have vegetarian food?
+Har dere noe vegetar på menyen? | Avez-vous du végétarien au menu ? | Do you have anything vegetarian on the menu?
 Vi nyter en god middag. | Nous savourons un bon dîner. | We're enjoying a good dinner.
 Han svelget maten uten å tygge. | Il a avalé sans mâcher. | He swallowed the food without chewing.
 Barna sulter etter skolen. | Les enfants meurent de faim après l'école. | The children are starving after school.

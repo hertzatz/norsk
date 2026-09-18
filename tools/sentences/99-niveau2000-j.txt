@@ -2,34 +2,34 @@
 @level 2000
 
 @theme uttrykk Phrasal verbs
-Kan jeg be om regningen og ta imot kortet? | Puis-je demander l'addition et prendre la carte ? | May I ask for the bill and take the card?
+Kan jeg be om regningen? Tar dere imot kort? | Puis-je demander l'addition ? Acceptez-vous la carte ? | May I ask for the bill? Do you take cards?
 Tilbudet gjelder for alle som er med. | L'offre vaut pour tous ceux qui participent. | The offer applies to everyone who takes part.
 Han tilbød seg å finne ut hva som skjedde. | Il a proposé de découvrir ce qui s'est passé. | He offered to find out what happened.
 Det ser ut som regn; pass på barna. | On dirait de la pluie ; fais attention aux enfants. | It looks like rain; watch the children.
 Vi holder på med å rydde opp på kjøkkenet. | Nous sommes en train de ranger la cuisine. | We're busy tidying up the kitchen.
 [Går det an]{gå_an} å få tak i en rørlegger i dag? | Est-il possible de joindre un plombier aujourd'hui ? | Is it possible to get hold of a plumber today?
 Hun kom seg hjem og sto opp tidlig. | Elle est rentrée et s'est levée tôt. | She got home and got up early.
-Har du lyst på kaffe? Jeg stoler på deg. | Tu as envie d'un café ? Je te fais confiance. | Do you fancy a coffee? I trust you.
+Har du lyst på kaffe? Jeg stoler på at du låser etter deg. | Tu as envie d'un café ? Je compte sur toi pour fermer à clé en partant. | Do you fancy a coffee? I trust you to lock up after you.
 Pakk inn gaven og hopp over kortet. | Emballe le cadeau et saute la carte. | Wrap the present and skip the card.
 Vi snakket om været og hørte på radio. | Nous avons parlé de la météo et écouté la radio. | We talked about the weather and listened to the radio.
-De bor sammen og dukket opp sammen. | Ils vivent ensemble et sont arrivés ensemble. | They live together and turned up together.
+De bor sammen og dukket opp på festen sammen. | Ils vivent ensemble et sont arrivés ensemble à la fête. | They live together and turned up at the party together.
 Vis fram passet{pass} ditt før vi setter i gang. | Montre ton passeport avant que nous commencions. | Show your passport before we start.
-Elva tørret ut, og vi regnet med regn. | La rivière s'est asséchée, et nous comptions sur la pluie. | The river dried up, and we counted on rain.
-Jeg leter etter brillene og setter pris på hjelp. | Je cherche mes lunettes et j'apprécie de l'aide. | I'm looking for my glasses and appreciate help.
+Elva tørret ut, men vi regner med regn snart. | La rivière s'est asséchée, mais nous comptons sur de la pluie bientôt. | The river dried up, but we're counting on rain soon.
+Jeg leter etter brillene mine og setter pris på litt hjelp. | Je cherche mes lunettes et j'apprécierais un peu d'aide. | I'm looking for my glasses and would appreciate a little help.
 Ikke gå glipp av festen; bli kvitt stresset. | Ne rate pas la fête ; débarrasse-toi du stress. | Don't miss the party; get rid of the stress.
-Det kommer til å snø; sørg for ved. | Il va neiger ; assure-toi d'avoir du bois. | It's going to snow; make sure you have wood.
+Det kommer til å snø; sørg for at vi har nok ved. | Il va neiger ; assure-toi que nous avons assez de bois. | It's going to snow; make sure we have enough wood.
 Ikke gi opp; del ut kortene på nytt. | N'abandonne pas ; redistribue les cartes. | Don't give up; deal the cards again.
-Tøm ut vannet og lov bort bøtta. | Vide l'eau et promets le seau. | Empty out the water and promise away the bucket.
-Vi stemte for planen og [talte med]{telle_med} alle. | Nous avons voté pour le plan et compté tout le monde. | We voted for the plan and counted everyone.
-Uværet varte ved; ring tilbake i morgen. | Les intempéries ont continué ; rappelle demain. | The storm continued; call back tomorrow.
+Tøm ut vannet; jeg har lovet bort bøtta til naboen. | Vide l'eau ; j'ai promis le seau au voisin. | Empty out the water; I've promised the bucket to the neighbour.
+Vi stemte for planen, og alle stemmene [talte med]{telle_med}. | Nous avons voté pour le plan, et toutes les voix ont compté. | We voted for the plan, and every vote counted.
+Uværet varer ved; ring tilbake i morgen. | Les intempéries continuent ; rappelle demain. | The storm continues; call back tomorrow.
 Sjekk inn klokka tre og sjekk ut klokka elleve. | Enregistre-toi à trois heures et libère la chambre à onze heures. | Check in at three and check out at eleven.
 Vi gjør rent og tar en pause klokka tolv. | Nous nettoyons et faisons une pause à midi. | We clean and take a break at twelve.
-Hun har det travelt og stiller inn klokka. | Elle est pressée et règle l'horloge. | She's busy and sets the clock.
+Hun har det travelt, så hun stiller inn klokka på fem. | Elle est pressée, alors elle règle le réveil sur cinq heures. | She's busy, so she sets the alarm for five.
 Still spørsmål hvis du lurer på noe. | Pose des questions si tu te demandes quelque chose. | Ask questions if you're wondering about something.
 Jeg gleder meg til ferien, men har ikke råd til fly. | J'ai hâte des vacances, mais je n'ai pas les moyens de prendre l'avion. | I'm looking forward to the holiday but can't afford to fly.
 Du tar feil; jeg er ikke enig. | Tu te trompes ; je ne suis pas d'accord. | You're wrong; I don't agree.
 Hun er lei seg, men holder ut. | Elle est triste, mais elle tient bon. | She's sad but holds out.
-Kjenn på teppet og tørk opp vannet. | Touche le tapis et essuie l'eau. | Feel the carpet and wipe up the water.
+Kjenn på teppet; det er vått. Tørk opp vannet. | Touche le tapis ; il est mouillé. Essuie l'eau. | Feel the carpet; it's wet. Wipe up the water.
 Vi pusset opp badet og kostet på nytt gulv. | Nous avons rénové la salle de bain et investi dans un nouveau sol. | We renovated the bathroom and splashed out on a new floor.
 Handle inn mat og bytt om på planene. | Fais les courses et change les plans. | Buy food and swap the plans around.
 Slå opp ordet og skriv ned setningen. | Cherche le mot et note la phrase. | Look up the word and write down the sentence.
@@ -50,7 +50,7 @@ Vi snakker om det når vi ringer tilbake. | Nous en parlerons quand nous rappell
 Jeg stoler på at du holder ut. | Je compte sur toi pour tenir bon. | I trust you to hold out.
 Hør på læreren og still spørsmål. | Écoute le professeur et pose des questions. | Listen to the teacher and ask questions.
 De bor sammen i huset de pusset opp. | Ils vivent ensemble dans la maison qu'ils ont rénovée. | They live together in the house they renovated.
-Vi leter etter nøkkelen vi gikk glipp av. | Nous cherchons la clé que nous avons ratée. | We're looking for the key we missed.
+Vi leter etter nøkkelen; ikke gå glipp av bussen. | Nous cherchons la clé ; ne rate pas le bus. | We're looking for the key; don't miss the bus.
 Tøm ut bøtta og tørk opp gulvet. | Vide le seau et essuie le sol. | Empty the bucket and wipe up the floor.
 
 @theme uttrykk2 Expressions
@@ -60,13 +60,13 @@ Han kom [i det hele tatt] ikke; [for øvrig] var det stengt. | Il n'est pas venu
 [I forhold til] i fjor er det varmt, [på tross av] vinden. | Par rapport à l'an dernier, il fait chaud, malgré le vent. | Compared to last year it's warm, despite the wind.
 [I stedet for] kake fikk vi frukt [på vegne av] sjefen. | Au lieu de gâteau, nous avons eu des fruits de la part du chef. | Instead of cake we got fruit on behalf of the boss.
 [Takket være] naboen kom vi hjem, [slik at] ingen frøs. | Grâce au voisin, nous sommes rentrés, de sorte que personne n'a eu froid. | Thanks to the neighbour we got home, so that nobody froze.
-Det er [i det hele tatt] ikke lov [på grunn av] loven. | Ce n'est pas du tout permis à cause de la loi. | It's not allowed at all because of the law.
+Det er [i det hele tatt] ikke lov å parkere her [på grunn av] snøen. | Il n'est pas du tout permis de se garer ici à cause de la neige. | Parking here is not allowed at all because of the snow.
 [For øvrig] kommer hun [i stedet for] meg. | D'ailleurs, elle vient à ma place. | Besides, she's coming instead of me.
 [Til og med] kongen kom, [takket være] været. | Même le roi est venu, grâce au temps. | Even the king came, thanks to the weather.
 [I tillegg] jobber han [på vegne av] kommunen. | En plus, il travaille au nom de la commune. | In addition he works on behalf of the municipality.
 [På tross av] regnet gikk vi [i stedet] [til fots]. | Malgré la pluie, nous sommes plutôt sortis. | Despite the rain we went out instead.
-[I forhold til] prisen er kvaliteten god, [slik at] vi kjøper. | Par rapport au prix, la qualité est bonne, donc nous achetons. | Compared to the price the quality is good, so we're buying.
-Jepp, javel, javisst; det er sant. | Ouais, bon, bien sûr ; c'est vrai. | Yep, all right, certainly; it's true.
+[I forhold til] prisen er kvaliteten god, [slik at] vi kjøper den. | Par rapport au prix, la qualité est bonne, donc nous l'achetons. | Compared to the price the quality is good, so we're buying it.
+Jepp, det stemmer; javisst er det sant. | Ouais, c'est ça ; bien sûr que c'est vrai. | Yep, that's right; of course it's true.
 Javel, da drar vi; jepp, jeg er klar. | Bon, alors on y va ; ouais, je suis prêt. | All right, let's go; yep, I'm ready.
 Javisst kan du låne bilen, sa hun. | Bien sûr que tu peux emprunter la voiture, a-t-elle dit. | Of course you can borrow the car, she said.
 Har du engang sett resten av filmen? | As-tu seulement vu le reste du film ? | Have you even seen the rest of the film?
@@ -80,37 +80,37 @@ Etter jobben går vi hjemover og utover mot vannet. | Après le travail, nous re
 Ingensteds er det så stille som på vidda. | Nulle part ce n'est aussi calme que sur le plateau. | Nowhere is it as quiet as on the plateau.
 Dersom det regner, blir vi inne, ettersom teltet er vått. | S'il pleut, nous restons à l'intérieur, puisque la tente est mouillée. | If it rains we stay inside, since the tent is wet.
 Hvorvidt han kommer, vet jeg ikke; dermed venter vi. | S'il vient, je ne sais pas ; donc nous attendons. | Whether he's coming I don't know; thus we wait.
-Jo tidligere, desto bedre, allikevel venter vi. | Le plus tôt sera le mieux, pourtant nous attendons. | The earlier the better, still we wait.
-Antakelig, muligens, sannsynligvis i morgen. | Probablement, peut-être, vraisemblablement demain. | Presumably, possibly, probably tomorrow.
-Tydeligvis, åpenbart, naturligvis: han sov. | Visiblement, manifestement, naturellement : il dormait. | Evidently, obviously, naturally: he was asleep.
-Forhåpentligvis, tilfeldigvis, overhodet ikke sent. | Espérons-le, par hasard, pas du tout en retard. | Hopefully, by chance, not late at all.
+Jo tidligere, desto bedre; allikevel må vi vente. | Le plus tôt sera le mieux ; pourtant nous devons attendre. | The earlier the better; still, we have to wait.
+Det blir antakelig i morgen, muligens på fredag. | Ce sera probablement demain, peut-être vendredi. | It'll presumably be tomorrow, possibly Friday.
+Han sov, tydeligvis; det var åpenbart for alle. | Il dormait, visiblement ; c'était évident pour tous. | He was asleep, evidently; it was obvious to everyone.
+Forhåpentligvis er han overhodet ikke sen i dag. | Espérons qu'il ne soit pas du tout en retard aujourd'hui. | Hopefully he's not late at all today.
 Gjennomsnittlig snør det inntil mai her. | En moyenne, il neige jusqu'en mai ici. | On average it snows until May here.
 Dessuten er det unødvendig og uviktig. | De plus, c'est inutile et sans importance. | Besides, it's unnecessary and unimportant.
 
 @theme mat2 Food
-Bacon, egg og havregryn på frokostbordet. | Bacon, œufs et flocons d'avoine sur la table du petit-déjeuner. | Bacon, eggs and oats on the breakfast table.
-Frokostblanding med jordbær og blåbær. | Céréales avec fraises et myrtilles. | Cereal with strawberries and blueberries.
-Tyttebær til storfekjøtt og svinekjøtt. | Airelles avec le bœuf et le porc. | Lingonberries with beef and pork.
+Det er bacon, egg og havregryn på frokostbordet. | Il y a du bacon, des œufs et des flocons d'avoine sur la table du petit-déjeuner. | There's bacon, eggs and oats on the breakfast table.
+Jeg spiser frokostblanding med jordbær og blåbær. | Je mange des céréales avec des fraises et des myrtilles. | I eat cereal with strawberries and blueberries.
+Vi har tyttebær til storfekjøtt og svinekjøtt. | Nous servons des airelles avec le bœuf et le porc. | We have lingonberries with beef and pork.
 Torsk, sild og makrell er fisk fra sjøen. | Cabillaud, hareng et maquereau sont des poissons de la mer. | Cod, herring and mackerel are fish from the sea.
 Pasta med sennep, eddik og ketsjup? Nei takk. | Des pâtes avec moutarde, vinaigre et ketchup ? Non merci. | Pasta with mustard, vinegar and ketchup? No thanks.
-Nudler, kål og paprika i pannen. | Nouilles, chou et poivron dans la poêle. | Noodles, cabbage and pepper in the pan.
-Agurk, sitron og appelsin i mugga. | Concombre, citron et orange dans la carafe. | Cucumber, lemon and orange in the jug.
-Pære, nøtter og kjeks til teen. | Poire, noix et biscuits avec le thé. | Pear, nuts and biscuits with the tea.
+Jeg steker nudler, kål og paprika i pannen. | Je fais sauter des nouilles, du chou et du poivron dans la poêle. | I fry noodles, cabbage and pepper in the pan.
+Det er agurk, sitron og appelsin i mugga. | Il y a du concombre, du citron et de l'orange dans la carafe. | There's cucumber, lemon and orange in the jug.
+Vi tar pære, nøtter og kjeks til teen. | Nous prenons une poire, des noix et des biscuits avec le thé. | We have a pear, nuts and biscuits with the tea.
 En teskje sennep i sausen. | Une cuillère à café de moutarde dans la sauce. | A teaspoon of mustard in the sauce.
-Stekeovnen, boksåpneren og korktrekkeren. | Le four, l'ouvre-boîte et le tire-bouchon. | The oven, the tin opener and the corkscrew.
-Kjøkkenrull og lokk ved grillen. | Essuie-tout et couvercle près du barbecue. | Kitchen roll and lid by the barbecue.
+Stekeovnen er ny, men boksåpneren og korktrekkeren er gamle. | Le four est neuf, mais l'ouvre-boîte et le tire-bouchon sont vieux. | The oven is new, but the tin opener and corkscrew are old.
+Kjøkkenrullen og lokket ligger ved grillen. | L'essuie-tout et le couvercle sont près du barbecue. | The kitchen roll and lid are by the barbecue.
 Sjekk holdbarheten på matvarene. | Vérifie la date limite des denrées. | Check the shelf life of the groceries.
-Vegetar er ideell for dietten. | Le végétarien est idéal pour le régime. | Vegetarian is ideal for the diet.
+Vegetar er ideelt for dietten. | Le végétarien est idéal pour le régime. | Vegetarian is ideal for the diet.
 Appetitten kom med lukta av bacon. | L'appétit est venu avec l'odeur du bacon. | The appetite came with the smell of bacon.
 Kaffen er lunken, og teen er iskald. | Le café est tiède, et le thé est glacé. | The coffee is lukewarm, and the tea is ice cold.
-Havregryn og blåbær hver morgen. | Flocons d'avoine et myrtilles chaque matin. | Oats and blueberries every morning.
+Jeg spiser havregryn og blåbær hver morgen. | Je mange des flocons d'avoine et des myrtilles chaque matin. | I eat oats and blueberries every morning.
 Svinekjøtt og kål er tradisjonell mat. | Le porc et le chou sont une nourriture traditionnelle. | Pork and cabbage are traditional food.
 Kjøp matvarer før stengetid. | Achète des denrées avant l'heure de fermeture. | Buy groceries before closing time.
-Sild med eddik og løk til jul. | Hareng au vinaigre et à l'oignon pour Noël. | Herring with vinegar and onion for Christmas.
-Torsk med smør, nudler med sennep. | Cabillaud au beurre, nouilles à la moutarde. | Cod with butter, noodles with mustard.
+Vi spiser sild med eddik og løk til jul. | Nous mangeons du hareng au vinaigre et à l'oignon pour Noël. | We eat herring with vinegar and onion for Christmas.
+Vi spiser torsk med smør og nudler med sennep. | Nous mangeons du cabillaud au beurre et des nouilles à la moutarde. | We eat cod with butter and noodles with mustard.
 
 @theme natur2 Nature
-Bjørk, gran og mose i skogen. | Bouleau, sapin et mousse dans la forêt. | Birch, spruce and moss in the forest.
+Det er bjørk, gran og mose i skogen. | Il y a du bouleau, du sapin et de la mousse dans la forêt. | There's birch, spruce and moss in the forest.
 Ekornet hoppet fra gren til gren. | L'écureuil a sauté de branche en branche. | The squirrel jumped from branch to branch.
 Ugla og ørnen jakter om natta. | La chouette et l'aigle chassent la nuit. | The owl and the eagle hunt at night.
 Reinen og geita beiter på åsen. | Le renne et la chèvre paissent sur la colline. | The reindeer and the goat graze on the ridge.
@@ -118,12 +118,12 @@ Hanen og anda er på gården. | Le coq et le canard sont à la ferme. | The roos
 Måken og selen er ved havna. | La mouette et le phoque sont au port. | The seagull and the seal are by the harbour.
 Hvalen er enorm, og reven er liten. | La baleine est énorme, et le renard est petit. | The whale is enormous, and the fox is small.
 Rotta, musa og ormen bor i kjelleren. | Le rat, la souris et le ver vivent dans la cave. | The rat, the mouse and the worm live in the cellar.
-Bier, fluer, edderkopper og insekter om sommeren. | Abeilles, mouches, araignées et insectes en été. | Bees, flies, spiders and insects in summer.
-Lyn og torden over bølgene. | Éclairs et tonnerre sur les vagues. | Lightning and thunder over the waves.
+Om sommeren er det bier, fluer, edderkopper og andre insekter. | En été, il y a des abeilles, des mouches, des araignées et d'autres insectes. | In summer there are bees, flies, spiders and other insects.
+Det var lyn og torden over bølgene. | Il y avait des éclairs et du tonnerre au-dessus des vagues. | There was lightning and thunder over the waves.
 Jordskjelvet og flommen kom samme år. | Le tremblement de terre et l'inondation sont venus la même année. | The earthquake and the flood came the same year.
 Tørken og forurensningen skader miljøet. | La sécheresse et la pollution nuisent à l'environnement. | The drought and pollution harm the environment.
 Fabrikken forurenser elva med gass og kull. | L'usine pollue la rivière avec du gaz et du charbon. | The factory pollutes the river with gas and coal.
-Månen og planetene i universet. | La lune et les planètes dans l'univers. | The moon and the planets in the universe.
+Månen og planetene er en del av universet. | La lune et les planètes font partie de l'univers. | The moon and the planets are part of the universe.
 Brønnen og kilden gir kaldt vann. | Le puits et la source donnent de l'eau froide. | The well and the spring give cold water.
 Stien er bratt, og bakken er glatt. | Le sentier est raide, et la pente est glissante. | The path is steep, and the slope is slippery.
 Plantene og bladene er våte etter regnet. | Les plantes et les feuilles sont mouillées après la pluie. | The plants and leaves are wet after the rain.
@@ -132,15 +132,15 @@ Elgen står i skogen ved bekken. | L'élan est dans la forêt près du ruisseau.
 Ulven og bjørnen sover om vinteren. | Le loup et l'ours dorment en hiver. | The wolf and the bear sleep in winter.
 Stormen gjorde utsikten uklar. | La tempête a rendu la vue floue. | The storm made the view unclear.
 Årstidene skifter fort på vidda. | Les saisons changent vite sur le plateau. | The seasons change fast on the plateau.
-Grana er flat på toppen etter stormen. | Le sapin est plat au sommet après la tempête. | The spruce is flat on top after the storm.
-Vannet i brønnen er iskaldt og mildt i smaken. | L'eau du puits est glacée et douce au goût. | The water in the well is ice cold and mild in taste.
-Hvalen sank, og måken fløy. | La baleine a plongé, et la mouette s'est envolée. | The whale sank, and the seagull flew.
+Steinen er flat og fin å sitte på. | La pierre est plate et agréable pour s'asseoir. | The stone is flat and nice to sit on.
+Vannet i brønnen er iskaldt, men godt. | L'eau du puits est glacée, mais bonne. | The water in the well is ice cold but good.
+Båten sank, og måken fløy vekk. | Le bateau a coulé, et la mouette s'est envolée. | The boat sank, and the seagull flew away.
 
 @theme klaer2 Clothes
-Jeans, shorts og caps om sommeren. | Jean, short et casquette en été. | Jeans, shorts and cap in summer.
-Regnjakke, dunjakke og strømpebukse om høsten. | Veste de pluie, doudoune et collant en automne. | Rain jacket, down jacket and tights in autumn.
-Undertøy, joggesko og tøfler i kofferten. | Sous-vêtements, baskets et chaussons dans la valise. | Underwear, trainers and slippers in the suitcase.
-Sandaler og belte i prøverommet. | Sandales et ceinture dans la cabine d'essayage. | Sandals and belt in the fitting room.
+Jeg går i jeans, shorts og caps om sommeren. | Je porte un jean, un short et une casquette en été. | I wear jeans, shorts and a cap in summer.
+Om høsten trenger du regnjakke, dunjakke og strømpebukse. | En automne, il te faut une veste de pluie, une doudoune et un collant. | In autumn you need a rain jacket, down jacket and tights.
+Jeg pakket undertøy, joggesko og tøfler i kofferten. | J'ai mis des sous-vêtements, des baskets et des chaussons dans la valise. | I packed underwear, trainers and slippers in the suitcase.
+Hun prøvde sandaler og belte i prøverommet. | Elle a essayé des sandales et une ceinture dans la cabine d'essayage. | She tried on sandals and a belt in the fitting room.
 Slipset er skjevt, og glidelåsen er ødelagt. | La cravate est de travers, et la fermeture éclair est cassée. | The tie is crooked and the zip is broken.
 Klesplagget er slitt, men moderne. | Le vêtement est usé, mais moderne. | The garment is worn but modern.
 Dunjakka og hodetelefonene er nye. | La doudoune et le casque sont neufs. | The down jacket and headphones are new.
@@ -149,17 +149,17 @@ Joggeskoene er ubrukelige i snøen. | Les baskets sont inutilisables dans la nei
 Tøflene og shortsen er i kofferten. | Les chaussons et le short sont dans la valise. | The slippers and shorts are in the suitcase.
 
 @theme fritid2 Leisure
-Aking, strikking og puslespill i juleferien. | Luge, tricot et puzzle pendant les vacances de Noël. | Sledging, knitting and jigsaws in the Christmas holidays.
-Pianoet og instrumentene på scenen. | Le piano et les instruments sur scène. | The piano and instruments on stage.
+Vi liker aking, strikking og puslespill i juleferien. | Nous aimons la luge, le tricot et les puzzles pendant les vacances de Noël. | We like sledging, knitting and jigsaws in the Christmas holidays.
+Pianoet og instrumentene står på scenen. | Le piano et les instruments sont sur scène. | The piano and the instruments are on stage.
 Sangeren i bandet vant premien. | Le chanteur du groupe a gagné le prix. | The singer in the band won the prize.
 Maleriet vant konkurransen på museet. | Le tableau a gagné le concours au musée. | The painting won the competition at the museum.
-Fiskestanga og teltturen i sommerferien. | La canne à pêche et le camping pendant les vacances d'été. | The fishing rod and camping trip in the summer holidays.
+Fiskestanga er med på teltturen i sommerferien. | La canne à pêche vient au camping pendant les vacances d'été. | The fishing rod comes on the camping trip in the summer holidays.
 Fotballbanen og skolegården er fulle av snø. | Le terrain de foot et la cour d'école sont pleins de neige. | The football pitch and playground are full of snow.
 Terningen viste seks; humøret var godt. | Le dé a montré six ; l'humeur était bonne. | The dice showed six; the mood was good.
 Vi fotograferer nordlyset på nyttårsaften. | Nous photographions les aurores boréales à la Saint-Sylvestre. | We photograph the northern lights on New Year's Eve.
 Julaften, nyttår og nasjonaldagen er fridager. | La veille de Noël, le nouvel an et la fête nationale sont des jours fériés. | Christmas Eve, New Year and the national day are days off.
 Høstferien er kort, sommerferien lang. | Les vacances d'automne sont courtes, celles d'été longues. | The autumn holidays are short, the summer holidays long.
-Wifi og ladekabel på hytta? Nei. | Wifi et câble de charge au chalet ? Non. | Wifi and charging cable at the cabin? No.
+Har dere wifi og ladekabel på hytta? Nei. | Vous avez le wifi et un câble de charge au chalet ? Non. | Do you have wifi and a charging cable at the cabin? No.
 Oppdateringen ga en feilmelding på sosiale medier. | La mise à jour a donné un message d'erreur sur les réseaux sociaux. | The update gave an error message on social media.
 Vi aker nedover bakken og går oppover igjen. | Nous descendons la pente en luge et remontons. | We sledge down the hill and walk back up.
 Drømmejobben min er å opptre med piano. | Mon travail de rêve est de me produire au piano. | My dream job is to perform with piano.

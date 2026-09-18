@@ -1,60 +1,88 @@
-# Niveau 1000, lot 6 (fin)
+# Niveau 1000, lot f : phrases de complément (réécrites)
 @level 1000
 
 @theme hverdag Everyday life
-Vi vil overraske henne, men den stygge kjolen er ikke fin. | Nous voulons lui faire une surprise, mais la robe moche n'est pas belle. | We want to surprise her, but the ugly dress isn't nice.
-Sikkerheten er viktig: enten gjør du det ordentlig, eller ikke. | La sécurité est importante : soit tu le fais correctement, soit pas du tout. | Safety matters: either you do it properly or not at all.
-Han har liksom vondt i øret og nesa. | Il a genre mal à l'oreille et au nez. | He sort of has pain in his ear and nose.
-Firmaet vil diskutere fremtiden med gjengen. | L'entreprise veut discuter de l'avenir avec l'équipe. | The company wants to discuss the future with the team.
-Hils på den slemme hunden, forresten. | Salue le méchant chien, au fait. | Say hello to the naughty dog, by the way.
-Buksa og skjorta er private klær. | Le pantalon et la chemise sont des vêtements personnels. | The trousers and shirt are personal clothes.
-Det er stor forskjell på begynnelsen og slutten. | Il y a une grande différence entre le début et la fin. | There's a big difference between the start and the end.
-Meld fra om ny adresse, ellers kommer posten altfor sent. | Signale ta nouvelle adresse, sinon le courrier arrive beaucoup trop tard. | Report your new address, otherwise the post comes far too late.
-En fremmed fortalte en vits og ropte høyt. | Un inconnu a raconté une blague et a crié fort. | A stranger told a joke and shouted loudly.
-Ifølge sjefen må vi gjenta opplæringen. | Selon le chef, nous devons refaire la formation. | According to the boss we must repeat the training.
-Vi leier en maskin, og dessuten en bil. | Nous louons une machine, et en plus une voiture. | We're renting a machine, and a car too.
-Iallfall kom han derfra helt overrasket. | En tout cas, il est revenu de là-bas tout surpris. | Anyway, he came back from there completely surprised.
-Hun er stadig modig. | Elle est toujours courageuse. | She's always brave.
-Årsaken er at jeg ikke orker mer. | La raison, c'est que je n'en peux plus. | The reason is that I can't take any more.
-Forslaget er bra, men verken jeg eller han er enig. | La proposition est bonne, mais ni lui ni moi ne sommes d'accord. | The suggestion is good, but neither he nor I agree.
-Varm{varme_verb} opp suppa, jeg fryser. | Réchauffe la soupe, j'ai froid. | Heat up the soup, I'm freezing.
-Vi varmer{varme_verb} opp maten i ovnen. | Nous réchauffons le repas au four. | We heat the food in the oven.
-Hun varma{varme_verb} hendene ved peisen. | Elle s'est réchauffé les mains près de la cheminée. | She warmed her hands by the fire.
-Jeg varmer{varme_verb} melk til barna. | Je fais chauffer du lait pour les enfants. | I'm warming milk for the children.
-Trykk her og gjett samtidig. | Appuie ici et devine en même temps. | Press here and guess at the same time.
-Vanligvis tør jeg ikke kose med katten. | D'habitude, je n'ose pas câliner le chat. | Usually I don't dare cuddle the cat.
-Lokale folk sier at do er nylig vasket. | Les gens du coin disent que les WC ont été lavés récemment. | Locals say the loo was recently cleaned.
-Slapp av, det koster ti kroner per time. | Détends-toi, ça coûte dix couronnes de l'heure. | Relax, it costs ten kroner an hour.
-Au, jeg klatret og slo skulderen på skiftet. | Aïe, j'ai grimpé et je me suis cogné l'épaule pendant mon service. | Ouch, I climbed and hit my shoulder on my shift.
+Vi vil overraske henne, men den stygge kjolen er ikke en god gave. | Nous voulons la surprendre, mais la robe laide n'est pas un bon cadeau. | We want to surprise her, but the ugly dress isn't a good gift.
+Sikkerheten er viktig: enten gjør du det ordentlig, eller så lar du det være. | La sécurité est importante : soit tu le fais correctement, soit tu laisses tomber. | Safety matters: either you do it properly, or you leave it.
+Han har liksom alltid vondt i øret. | Il a comme toujours mal à l'oreille. | He sort of always has an earache.
+Firmaet vil diskutere fremtiden med de ansatte. | L'entreprise veut discuter de l'avenir avec les employés. | The company wants to discuss the future with the employees.
+Forresten, den hunden er ikke slem. | Au fait, ce chien n'est pas méchant. | By the way, that dog isn't nasty.
+Buksa og skjorta er private klær, ikke uniform. | Le pantalon et la chemise sont des vêtements personnels, pas un uniforme. | The trousers and shirt are private clothes, not uniform.
+Det er stor forskjell på begynnelsen og slutten av filmen. | Il y a une grande différence entre le début et la fin du film. | There's a big difference between the beginning and the end of the film.
+Meld fra om ny adresse, ellers kommer posten altfor sent. | Signale ta nouvelle adresse, sinon le courrier arrivera beaucoup trop tard. | Report your new address, otherwise the post will come far too late.
+En fremmed mann ropte høyt på gata. | Un inconnu a crié fort dans la rue. | A stranger shouted loudly in the street.
+Ifølge sjefen må vi gjenta opplæringen. | D'après le chef, nous devons refaire la formation. | According to the boss we have to repeat the training.
+Vi leier en maskin, og dessuten en bil. | Nous louons une machine, et en plus une voiture. | We're renting a machine, and a car as well.
+Iallfall kom han hjem derfra i går. | En tout cas, il est rentré de là hier. | At any rate he came home from there yesterday.
+Hun er stadig like modig. | Elle est toujours aussi courageuse. | She's still just as brave.
+Årsaken er at jeg ikke orker mer. | La raison est que je n'en peux plus. | The reason is that I can't take any more.
+Forslaget er bra, men verken jeg eller han er enig. | La proposition est bonne, mais ni lui ni moi ne sommes d'accord. | The proposal is good, but neither he nor I agree.
+Varm{varme_verb} opp suppa; jeg fryser. | Réchauffe la soupe ; j'ai froid. | Heat up the soup; I'm freezing.
+Vi varmer{varme_verb} opp maten i ovnen. | Nous réchauffons la nourriture au four. | We heat up the food in the oven.
+Hun varma{varme_verb} hendene ved peisen. | Elle s'est réchauffé les mains près du poêle. | She warmed her hands by the fire.
+Jeg varmer{varme_verb} melk til barna. | Je chauffe du lait pour les enfants. | I'm warming milk for the children.
+Trykk her og gjett hva som skjer. | Appuie ici et devine ce qui se passe. | Press here and guess what happens.
+Vanligvis tør jeg ikke kose med katten. | D'habitude je n'ose pas caresser le chat. | Usually I don't dare cuddle the cat.
+Lokale folk sier at badet er nylig vasket. | Les gens du coin disent que la salle de bain a été lavée récemment. | Local people say the bathroom was recently cleaned.
+Slapp av; det koster bare ti kroner per time. | Détends-toi ; ça ne coûte que dix couronnes de l'heure. | Relax; it only costs ten kroner an hour.
+Au, jeg slo skulderen på skiftet i går. | Aïe, je me suis cogné l'épaule pendant le service hier. | Ouch, I hit my shoulder on the shift yesterday.
 Venninna mi kan oversette alt unntatt dialekt. | Mon amie peut tout traduire sauf le dialecte. | My friend can translate everything except dialect.
-Den fattige mannen passerte oss med et dyr{dyr_noun}. | L'homme pauvre nous a dépassés avec un animal. | The poor man passed us with an animal.
-Ikke vær{være} frekk, vent innenfor med den rosa jakka. | Ne sois pas insolent, attends à l'intérieur avec la veste rose. | Don't be rude, wait inside with the pink jacket.
-Jeg har nemlig ikke kontanter. | C'est que je n'ai pas de liquide. | You see, I don't have cash.
+Den fattige mannen passerte oss med et dyr{dyr_noun} i armene. | Le pauvre homme est passé devant nous avec un animal dans les bras. | The poor man passed us with an animal in his arms.
+Ikke vær{være} frekk; vent innenfor med den rosa jakka. | Ne sois pas insolent ; attends à l'intérieur avec la veste rose. | Don't be rude; wait inside with the pink jacket.
+Jeg har nemlig ikke kontanter. | En fait, je n'ai pas de liquide. | You see, I don't have cash.
 Den grå katten gidder ikke å gå ut i regnet. | Le chat gris n'a pas envie de sortir sous la pluie. | The grey cat can't be bothered to go out in the rain.
-Ta frukt istedenfor sjokolade. | Prends des fruits au lieu du chocolat. | Have fruit instead of chocolate.
-Parker bilen og jobb hjemmefra [i dag]. | Gare la voiture et travaille de chez toi aujourd'hui. | Park the car and work from home today.
-Det er kort{kort_adj} vei og praktisk å sykle. | C'est un court trajet et pratique à vélo. | It's a short way and practical to cycle.
-Kort{kort_adj} sagt: det er praktisk. | Bref : c'est pratique. | In short: it's practical.
-Mange hilsener, jeg er spent på svaret. | Amitiés, j'ai hâte d'avoir la réponse. | Best wishes, I'm eager for the answer.
-Utgangen og inngangen er temmelig smale. | La sortie et l'entrée sont assez étroites. | The exit and entrance are rather narrow.
-Lad mobilen, passordet står på laderen. | Charge ton portable, le mot de passe est sur le chargeur. | Charge your phone, the password is on the charger.
-Hun er sjenert, men hun smiler bredt. | Elle est timide, mais elle a un grand sourire. | She's shy, but she smiles broadly.
-Oppskriften er utenlandsk. | La recette est étrangère. | The recipe is foreign.
-Søknaden har frist på fredag. | La candidature a une date limite vendredi. | The application deadline is Friday.
-Vi går langs bekken med skjerf og votter. | Nous marchons le long du ruisseau avec écharpe et moufles. | We walk along the stream with scarves and mittens.
-Fridagen min er i morgen. | Mon jour de congé, c'est demain. | My day off is tomorrow.
-Jeg fryser når det er vind. | J'ai froid quand il y a du vent. | I'm cold when it's windy.
-Vi frøs hele natta. | Nous avons eu froid toute la nuit. | We were cold all night.
-Klatre sakte, du kan falle. | Grimpe lentement, tu peux tomber. | Climb slowly, you might fall.
-Vi sykler fordi det er praktisk. | Nous faisons du vélo parce que c'est pratique. | We cycle because it's practical.
-Maskinen er privat. | La machine est privée. | The machine is private.
-Slapp av etter skiftet. | Détends-toi après ton service. | Relax after your shift.
-Skiftet begynner cirka klokka tre. | Le service commence vers trois heures. | The shift starts at about three.
+Ta frukt istedenfor sjokolade. | Prends des fruits au lieu de chocolat. | Have fruit instead of chocolate.
+Parker bilen, og jobb hjemmefra i dag. | Gare la voiture, et travaille de chez toi aujourd'hui. | Park the car, and work from home today.
+Det er kort{kort_adj} vei, så det er praktisk å sykle. | C'est un court trajet, donc c'est pratique d'y aller à vélo. | It's a short way, so it's practical to cycle.
+Kort{kort_adj} sagt: det er praktisk. | En bref : c'est pratique. | In short: it's practical.
+Mange hilsener; jeg er spent på svaret. | Bien des salutations ; j'ai hâte d'avoir la réponse. | Best regards; I'm excited about the answer.
+Utgangen og inngangen er temmelig smale. | La sortie et l'entrée sont plutôt étroites. | The exit and the entrance are rather narrow.
+Lad mobilen; passordet står på laderen. | Charge le portable ; le mot de passe est sur le chargeur. | Charge the phone; the password is on the charger.
+Hun er sjenert, men hun smiler bredt. | Elle est timide, mais elle sourit largement. | She's shy, but she smiles broadly.
+Oppskriften er utenlandsk, men enkel. | La recette est étrangère, mais simple. | The recipe is foreign but simple.
+Søknaden har frist på fredag. | La candidature a une date limite vendredi. | The application has a deadline on Friday.
+Vi går langs bekken med skjerf og votter. | Nous marchons le long du ruisseau avec écharpe et moufles. | We walk along the stream with scarf and mittens.
+Fridagen min er i morgen. | Mon jour de congé est demain. | My day off is tomorrow.
+Jeg fryser når det er vind. | J'ai froid quand il y a du vent. | I get cold when it's windy.
+Vi frøs hele natta i teltet. | Nous avons eu froid toute la nuit dans la tente. | We were cold all night in the tent.
+Klatre sakte; du kan falle. | Grimpe lentement ; tu peux tomber. | Climb slowly; you could fall.
+Vi sykler fordi det er praktisk. | Nous allons à vélo parce que c'est pratique. | We cycle because it's practical.
+Maskinen er privat; ikke bruk den. | La machine est privée ; ne l'utilise pas. | The machine is private; don't use it.
+Slapp av etter skiftet. | Détends-toi après le service. | Relax after the shift.
+Skiftet begynner cirka klokka tre. | Le service commence vers trois heures. | The shift starts around three o'clock.
 Han ble skuffet over regnet. | Il a été déçu par la pluie. | He was disappointed by the rain.
-Du kan parkere ved den brede veien. | Tu peux te garer près de la grande route. | You can park by the wide road.
-Hun er sjenert og litt skuffet. | Elle est timide et un peu déçue. | She's shy and a bit disappointed.
-Regnet kommer cirka klokka fem. | La pluie arrive vers cinq heures. | The rain comes at about five.
+Du kan parkere ved den brede veien. | Tu peux te garer près de la route large. | You can park by the wide road.
+Hun er sjenert og litt skuffet. | Elle est timide et un peu déçue. | She's shy and a little disappointed.
+Regnet kommer cirka klokka fem. | La pluie arrive vers cinq heures. | The rain is coming at about five.
 Senga er bred, og jeg slapper av. | Le lit est large, et je me détends. | The bed is wide, and I'm relaxing.
-Ikke parker her, gjestene kommer. | Ne te gare pas ici, les clients arrivent. | Don't park here, the guests are coming.
-Skiftet{skift} mitt er ferdig klokka ti. | Mon service finit à dix heures. | My shift ends at ten.
-Regnet{regn} er kaldt [i dag]. | La pluie est froide aujourd'hui. | The rain is cold today.
+Ikke parker her; gjestene kommer. | Ne te gare pas ici ; les invités arrivent. | Don't park here; the guests are coming.
+Skiftet{skift} mitt er ferdig klokka ti. | Mon service se termine à dix heures. | My shift finishes at ten.
+Regnet{regn} er kaldt i dag. | La pluie est froide aujourd'hui. | The rain is cold today.
+
+@theme rest Complement
+Vi prøver å unngå den glatte veien om vinteren. | Nous essayons d'éviter la route glissante en hiver. | We try to avoid the slippery road in winter.
+Jeg har en ring på fingeren. | J'ai une bague au doigt. | I have a ring on my finger.
+Det var en herlig middag hos naboen. | C'était un délicieux dîner chez le voisin. | It was a lovely dinner at the neighbour's.
+Gjengen fra jobben går ut på fredag. | La bande du travail sort vendredi. | The gang from work is going out on Friday.
+Vi tar en flaske vann med på turen. | Nous emportons une bouteille d'eau pour la balade. | We're taking a bottle of water on the walk.
+Bestefar forteller den samme vitsen hver jul. | Grand-père raconte la même blague chaque Noël. | Grandpa tells the same joke every Christmas.
+Hunden har kald nese. | Le chien a le nez froid. | The dog has a cold nose.
+Jeg ble overrasket da jeg så prisen. | J'ai été surpris quand j'ai vu le prix. | I was surprised when I saw the price.
+Hvor er do på denne restauranten? | Où sont les toilettes dans ce restaurant ? | Where's the toilet in this restaurant?
+Jeg må på do før vi kjører. | Je dois aller aux toilettes avant qu'on parte. | I need the toilet before we drive.
+Han er skilt og bor alene med hunden. | Il est divorcé et vit seul avec son chien. | He's divorced and lives alone with the dog.
+De var fattige, men de hadde et godt liv. | Ils étaient pauvres, mais ils avaient une belle vie. | They were poor, but they had a good life.
+Toget passerer stasjonen uten å stoppe. | Le train passe la gare sans s'arrêter. | The train passes the station without stopping.
+Kan du anbefale en god kafé i sentrum? | Peux-tu recommander un bon café au centre ? | Can you recommend a good café in the centre?
+Vent innenfor; det regner ute. | Attends à l'intérieur ; il pleut dehors. | Wait inside; it's raining outside.
+Vi nådde toppen før klokka tolv. | Nous avons atteint le sommet avant midi. | We reached the top before twelve.
+Hun har brune øyne og brunt hår. | Elle a les yeux marron et les cheveux bruns. | She has brown eyes and brown hair.
+Frokost er det første måltidet på dagen. | Le petit-déjeuner est le premier repas de la journée. | Breakfast is the first meal of the day.
+Hilsen fra hele familien i Frankrike. | Salutations de toute la famille en France. | Greetings from the whole family in France.
+Utgangen er ved siden av kassen. | La sortie est à côté de la caisse. | The exit is next to the till.
+Det er koselig med lys og peis om kvelden. | C'est agréable avec des bougies et le poêle le soir. | It's cosy with candles and the fire in the evening.
+Jeg øver på å uttale navnet på bygda. | Je m'entraîne à prononcer le nom du village. | I'm practising pronouncing the village's name.
+Oppskriften på vafler er enkel. | La recette des gaufres est simple. | The recipe for waffles is simple.
+Senteret i *Kongsberg har en stor butikk. | Le centre commercial de Kongsberg a un grand magasin. | The centre in Kongsberg has a big shop.
+Jeg har fridag på lørdag. | J'ai un jour de congé samedi. | I have a day off on Saturday.
+Hele gjengen kom på festen. | Toute la bande est venue à la fête. | The whole gang came to the party.

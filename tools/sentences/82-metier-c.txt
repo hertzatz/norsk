@@ -27,7 +27,7 @@ Mye salt er ikke sunt. | Beaucoup de sel, ce n'est pas sain. | A lot of salt isn
 Saltet er tomt. | Il n'y a plus de sel. | The salt has run out.
 Stek fisken i litt olje. | Fais cuire le poisson dans un peu d'huile. | Fry the fish in a little oil.
 Vi har ikke mer mel. | Nous n'avons plus de farine. | We're out of flour.
-Rømme og brunost til vaflene. | De la crème aigre et du fromage brun pour les gaufres. | Sour cream and brown cheese for the waffles.
+Vi har rømme og brunost til vaflene. | Nous avons de la crème aigre et du fromage brun pour les gaufres. | We have sour cream and brown cheese for the waffles.
 Rekene er fra *Nord-Norge. | Les crevettes viennent du nord de la Norvège. | The prawns are from Northern Norway.
 Mikrobølgeovnen er skitten. | Le micro-ondes est sale. | The microwave is dirty.
 Kan du hakke løken? | Tu peux hacher l'oignon ? | Can you chop the onion?
@@ -56,7 +56,7 @@ Tørketrommelen tar en time. | Le sèche-linge prend une heure. | The tumble dry
 Klesvasken henger ute. | Le linge sèche dehors. | The laundry is hanging outside.
 Toalettpapiret er i kjelleren. | Le papier toilette est à la cave. | The toilet paper is in the basement.
 Rengjøringen går fort [i dag]. | Le nettoyage va vite aujourd'hui. | The cleaning is going fast today.
-Feie gulvet før du vasker. | Balaie le sol avant de laver. | Sweep the floor before you wash.
+Fei gulvet før du vasker. | Balaie le sol avant de laver. | Sweep the floor before you wash.
 Dunken er full. | La poubelle est pleine. | The bin is full.
 Lyspæra i badet er gått. | L'ampoule de la salle de bains a grillé. | The bathroom bulb has blown.
 

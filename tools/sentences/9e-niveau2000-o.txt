@@ -13,7 +13,7 @@ Soldaten og kapteinen kom hjem fra krigen. | Le soldat et le capitaine sont rent
 Fienden gjemte seg, men vi fanget ham til slutt. | L'ennemi s'est caché, mais nous l'avons attrapé à la fin. | The enemy hid, but we caught him in the end.
 Tyven brøt opp inngangsdøra og stjal smykkene. | Le voleur a forcé la porte d'entrée et volé les bijoux. | The thief broke open the front door and stole the jewellery.
 Politiet avslørte hemmeligheten om tyveriet. | La police a révélé le secret du vol. | The police revealed the secret of the theft.
-Vi krangler ikke; vi slutter å krangle, med respekt. | Nous ne nous disputons pas ; nous arrêtons de nous disputer, avec respect. | We don't argue; we stop quarrelling, with respect.
+Vi krangler ikke; vi snakker sammen med respekt. | Nous ne nous disputons pas ; nous nous parlons avec respect. | We don't argue; we talk together with respect.
 Kompisen min er skyldig; han innrømte det. | Mon copain est coupable ; il l'a admis. | My mate is guilty; he admitted it.
 Frykten for fienden tvang folk til å skjule seg. | La peur de l'ennemi a forcé les gens à se cacher. | Fear of the enemy forced people to hide.
 Røyken fra brannen skjulte hele bygningen. | La fumée de l'incendie a caché tout le bâtiment. | The smoke from the fire hid the whole building.
@@ -41,7 +41,7 @@ Innvandreren ble medlem av laget. | L'immigré est devenu membre de l'équipe. |
 Bruden gråt av glede; tårene kom. | La mariée pleurait de joie ; les larmes sont venues. | The bride cried with joy; the tears came.
 Brudgommen var takknemlig for gaven fra kusina. | Le marié était reconnaissant du cadeau de la cousine. | The groom was grateful for the gift from the cousin.
 Humøret til sjefen var elendig i dag. | L'humeur du chef était exécrable aujourd'hui. | The boss's mood was lousy today.
-Skam etter løgnen var større enn skuffelsen. | La honte après le mensonge était plus grande que la déception. | Shame after the lie was greater than the disappointment.
+Skammen etter løgnen var større enn skuffelsen. | La honte après le mensonge était plus grande que la déception. | The shame after the lie was greater than the disappointment.
 Han er teit, men snill og menneskelig. | Il est bête, mais gentil et humain. | He's silly but kind and humane.
 Personligheten hennes er sterk og tålmodig. | Sa personnalité est forte et patiente. | Her personality is strong and patient.
 Det er merkelig at ingen hvisker på biblioteket. | C'est étrange que personne ne chuchote à la bibliothèque. | It's strange that nobody whispers in the library.
@@ -71,7 +71,7 @@ Han kastet opp etter den ekle fisken. | Il a vomi après le poisson dégoûtant.
 Mosjon og diett holder vekten nede. | L'exercice et le régime maintiennent le poids. | Exercise and diet keep the weight down.
 Mygg og insekter plager oss ved brønnen. | Les moustiques et les insectes nous embêtent près du puits. | Mosquitoes and insects bother us by the well.
 Hun nyser av kattene; det er ikke forkjølelse. | Elle éternue à cause des chats ; ce n'est pas un rhume. | She sneezes because of the cats; it's not a cold.
-Hosten er borte, men skjegget er der. | La toux est partie, mais la barbe est là. | The cough is gone, but the beard is there.
+Hosten er borte, men han er fortsatt trøtt. | La toux est partie, mais il est encore fatigué. | The cough is gone, but he's still tired.
 Han er blind på ett øye og døv på ett øre. | Il est aveugle d'un œil et sourd d'une oreille. | He's blind in one eye and deaf in one ear.
 Solbrillene beskytter øynene på fjellet. | Les lunettes de soleil protègent les yeux en montagne. | Sunglasses protect the eyes in the mountains.
 Undertøy av ull holder kroppen varm. | Des sous-vêtements en laine gardent le corps au chaud. | Wool underwear keeps the body warm.
@@ -101,18 +101,18 @@ Lås opp døra og slå på lyset. | Déverrouille la porte et allume la lumière
 
 @theme mat3 Food
 Bacon og egg til frokost, sild til lunsj. | Bacon et œufs au petit-déjeuner, hareng au déjeuner. | Bacon and eggs for breakfast, herring for lunch.
-Havregryn med blåbær og yoghurt. | Flocons d'avoine avec myrtilles et yaourt. | Oats with blueberries and yoghurt.
-Torsk med kål og gulrot. | Cabillaud avec chou et carotte. | Cod with cabbage and carrot.
-Svinekjøtt med hvitløk og paprika. | Porc à l'ail et au poivron. | Pork with garlic and pepper.
-Kjøttdeig, nudler og ketsjup til barna. | Viande hachée, nouilles et ketchup pour les enfants. | Minced meat, noodles and ketchup for the children.
-Pasta med erter og bønner. | Pâtes avec petits pois et haricots. | Pasta with peas and beans.
+Jeg spiser havregryn med blåbær og yoghurt. | Je mange des flocons d'avoine avec des myrtilles et du yaourt. | I eat oats with blueberries and yoghurt.
+Vi spiser torsk med kål og gulrot. | Nous mangeons du cabillaud avec du chou et de la carotte. | We eat cod with cabbage and carrot.
+Vi lager svinekjøtt med hvitløk og paprika. | Nous préparons du porc à l'ail et au poivron. | We make pork with garlic and pepper.
+Barna får kjøttdeig, nudler og ketsjup. | Les enfants ont de la viande hachée, des nouilles et du ketchup. | The children get minced meat, noodles and ketchup.
+Vi spiser pasta med erter og bønner. | Nous mangeons des pâtes avec des petits pois et des haricots. | We eat pasta with peas and beans.
 Vi grillet lam og makrell på grillen. | Nous avons grillé de l'agneau et du maquereau au barbecue. | We grilled lamb and mackerel on the barbecue.
-Ørret fra fjorden og jordbær fra hagen. | Truite du fjord et fraises du jardin. | Trout from the fjord and strawberries from the garden.
-Tyttebær og syltetøy til pannekakene. | Airelles et confiture avec les crêpes. | Lingonberries and jam with the pancakes.
-Sitron og eddik i salaten med agurk. | Citron et vinaigre dans la salade au concombre. | Lemon and vinegar in the salad with cucumber.
-Kjeks og nøtter til kaffen; appelsin til dessert. | Biscuits et noix avec le café ; orange en dessert. | Biscuits and nuts with the coffee; orange for dessert.
+Vi spiser ørret fra fjorden og jordbær fra hagen. | Nous mangeons de la truite du fjord et des fraises du jardin. | We eat trout from the fjord and strawberries from the garden.
+Vi har tyttebær og syltetøy til pannekakene. | Nous avons des airelles et de la confiture pour les crêpes. | We have lingonberries and jam for the pancakes.
+Ha sitron og eddik i salaten med agurk. | Mets du citron et du vinaigre dans la salade au concombre. | Put lemon and vinegar in the salad with cucumber.
+Vi tar kjeks og nøtter til kaffen og appelsin til dessert. | Nous prenons des biscuits et des noix avec le café et une orange en dessert. | We have biscuits and nuts with the coffee and an orange for dessert.
 Matvarene er billige med rabatt. | Les denrées sont bon marché avec la remise. | The groceries are cheap with the discount.
-Vegetar er sunt, sier dietten. | Le végétarien est sain, dit le régime. | Vegetarian is healthy, says the diet.
+Vegetar er sunt, sier legen. | Le végétarien est sain, dit le médecin. | Vegetarian is healthy, says the doctor.
 Frokostblandingen og pæra er til barna. | Les céréales et la poire sont pour les enfants. | The cereal and the pear are for the children.
 Teen var lunken, og kjeksene var myke. | Le thé était tiède, et les biscuits étaient mous. | The tea was lukewarm, and the biscuits were soft.
 
@@ -127,7 +127,7 @@ Geita beiter på åsen; høna er i låven. | La chèvre paît sur la colline ; l
 Ormen og edderkoppen er ikke farlige. | Le ver et l'araignée ne sont pas dangereux. | The worm and the spider are not dangerous.
 Bier og fluer flyr over blomstene. | Les abeilles et les mouches volent au-dessus des fleurs. | Bees and flies fly over the flowers.
 Rotta biter i kabelen i kjelleren. | Le rat mord le câble dans la cave. | The rat bites the cable in the cellar.
-Lyn og torden over fjellveggen. | Éclairs et tonnerre au-dessus de la paroi rocheuse. | Lightning and thunder over the rock face.
+Det var lyn og torden over fjellveggen. | Il y avait des éclairs et du tonnerre au-dessus de la paroi rocheuse. | There was lightning and thunder over the rock face.
 Flommen og skredet stengte veien. | L'inondation et l'avalanche ont fermé la route. | The flood and the avalanche closed the road.
 Nordlyset lyste over vidda i vinterferien. | Les aurores boréales brillaient sur le plateau pendant les vacances d'hiver. | The northern lights shone over the plateau in the winter holidays.
 Stjernene og månen er klare når det er iskaldt. | Les étoiles et la lune sont claires quand il fait glacial. | The stars and moon are clear when it's ice cold.
@@ -173,7 +173,7 @@ Vi fylte bensin og skiftet dekk før turen. | Nous avons fait le plein et chang�
 Lastebilen bremset foran lyskrysset. | Le camion a freiné devant le feu. | The lorry braked in front of the traffic lights.
 Fartsgrensen er femti ved skolegården. | La limitation est à cinquante près de la cour d'école. | The speed limit is fifty by the playground.
 Førerkortet og visumet er gyldige. | Le permis et le visa sont valables. | The licence and visa are valid.
-Tollvesenet sjekket referatet? Nei, bagasjen. | La douane a vérifié le compte rendu ? Non, les bagages. | Customs checked the minutes? No, the luggage.
+Tollvesenet sjekket bagasjen, ikke papirene. | La douane a contrôlé les bagages, pas les papiers. | Customs checked the luggage, not the papers.
 Leverandøren sendte faktura for diesel. | Le fournisseur a envoyé une facture pour le diesel. | The supplier sent an invoice for diesel.
 Rørleggeren og elektrikeren kom samme formiddag. | Le plombier et l'électricien sont venus la même matinée. | The plumber and the electrician came the same morning.
 
@@ -204,8 +204,8 @@ Sannsynligvis kommer bussen for sent igjen. | Probablement, le bus sera encore e
 Antakelig snør det inntil påske. | Probablement, il neige jusqu'à Pâques. | Presumably it snows until Easter.
 Muligens tar vi drosje; allikevel går vi. | Peut-être prendrons-nous un taxi ; pourtant nous marchons. | Possibly we'll take a taxi; still, we walk.
 Umiddelbart etter møtet gikk vi hjem. | Immédiatement après la réunion, nous sommes rentrés. | Immediately after the meeting we went home.
-Tydeligvis er kafeen åpenbart stengt. | Visiblement, le café est manifestement fermé. | Evidently the café is obviously closed.
-Naturligvis kom han tilfeldigvis samtidig. | Naturellement, il est arrivé par hasard en même temps. | Naturally he happened to arrive at the same time.
+Kafeen er tydeligvis stengt; det er åpenbart for alle. | Le café est visiblement fermé ; c'est évident pour tous. | The café is evidently closed; it's obvious to everyone.
+Han kom tilfeldigvis samtidig som oss, naturligvis uten å ringe. | Il est arrivé par hasard en même temps que nous, naturellement sans appeler. | He happened to arrive at the same time as us, naturally without calling.
 Forhåpentligvis blir det sol; dersom ikke, blir vi inne. | Espérons du soleil ; sinon, nous restons à l'intérieur. | Hopefully it'll be sunny; if not, we stay inside.
 Ettersom det regner, går vi neppe ut. | Comme il pleut, nous sortirons à peine. | Since it's raining, we'll hardly go out.
 Jo lenger vi venter, desto kaldere blir det. | Plus nous attendons, plus il fait froid. | The longer we wait, the colder it gets.
@@ -218,16 +218,16 @@ Etter hvert ble det svært kaldt. | Petit à petit, il a fait très froid. | Gra
 I det hele tatt var det en skikkelig fin dag. | Dans l'ensemble, c'était une vraiment belle journée. | All in all, it was a really nice day.
 For øvrig er det utrolig hva han klarer. | D'ailleurs, c'est incroyable ce qu'il arrive à faire. | Besides, it's incredible what he manages.
 I stedet for kaffe drakk vi te i tillegg til vann. | Au lieu de café, nous avons bu du thé en plus de l'eau. | Instead of coffee we drank tea in addition to water.
-Til og med bestemor gikk på ski i forhold til i fjor. | Même grand-mère a skié par rapport à l'an dernier. | Even Grandma skied compared to last year.
+Til og med bestemor gikk på ski i år; i forhold til i fjor er hun mye sterkere. | Même grand-mère a skié cette année ; par rapport à l'an dernier, elle est bien plus forte. | Even Grandma skied this year; compared to last year she is much stronger.
 På tross av regnet kom vi i nærheten av toppen. | Malgré la pluie, nous sommes arrivés près du sommet. | Despite the rain we got near the top.
 I løpet av natta kom det snø, slik at veien var stengt. | Pendant la nuit, il a neigé, de sorte que la route était fermée. | During the night snow came, so that the road was closed.
-Javel, jepp, javisst; vi er enige. | Bon, ouais, bien sûr ; nous sommes d'accord. | All right, yep, certainly; we agree.
+Jepp, javisst; da er vi enige. | Ouais, bien sûr ; alors nous sommes d'accord. | Yep, certainly; then we agree.
 Ingensteds er det så stille som her ved brønnen. | Nulle part ce n'est aussi calme qu'ici près du puits. | Nowhere is it as quiet as here by the well.
 Vi gikk på tvers av enga og utover mot fjorden. | Nous avons traversé le pré et sommes allés vers le fjord. | We walked across the meadow and out towards the fjord.
 Det er gjennomsnittlig ti minus i januar. | Il fait en moyenne moins dix en janvier. | It's on average minus ten in January.
 
 @theme handling Actions
-Han sparket ballen; den gled og pep? Nei, den fløy. | Il a tapé la balle ; elle a glissé et sifflé ? Non, elle a volé. | He kicked the ball; it slid and whistled? No, it flew.
+Han sparket ballen, og den fløy over gjerdet. | Il a tapé dans la balle, et elle a volé par-dessus la clôture. | He kicked the ball, and it flew over the fence.
 Vi rev ned gjerdet og bandt tauet. | Nous avons démoli la clôture et attaché la corde. | We tore down the fence and tied the rope.
 Hun strøk skjorta og sydde knappen. | Elle a repassé la chemise et cousu le bouton. | She ironed the shirt and sewed the button.
 Vi plantet, vannet og høstet i hagen. | Nous avons planté, arrosé et récolté dans le jardin. | We planted, watered and harvested in the garden.
@@ -235,7 +235,7 @@ Han bremset, svingte og rygget inn. | Il a freiné, tourné et reculé. | He bra
 Isen sprakk, og han krøp i land. | La glace s'est fendue, et il a rampé jusqu'à la rive. | The ice cracked, and he crawled ashore.
 Vi kjølte ned suppa og varmet opp brødet. | Nous avons refroidi la soupe et réchauffé le pain. | We cooled the soup and warmed up the bread.
 Hun snublet, men grep tauet. | Elle a trébuché, mais a saisi la corde. | She stumbled but grabbed the rope.
-Han sulter aldri; han spiser og tygger hele dagen. | Il n'a jamais faim ; il mange et mâche toute la journée. | He never starves; he eats and chews all day.
+Han sulter aldri; han spiser hele dagen. | Il n'a jamais faim ; il mange toute la journée. | He never starves; he eats all day.
 Vi bråket, og naboen ba oss stanse. | Nous avons fait du bruit, et le voisin nous a demandé d'arrêter. | We made noise, and the neighbour asked us to stop.
 Bilen synker i snøen; vi dytter og drar. | La voiture s'enfonce dans la neige ; nous poussons et tirons. | The car sinks in the snow; we push and pull.
 Han gjemte pengene og skjulte nøkkelen. | Il a caché l'argent et dissimulé la clé. | He hid the money and concealed the key.
@@ -251,7 +251,7 @@ Vi regnet med kø og gikk glipp av toget. | Nous comptions sur une queue et avon
 Hun har rett; vi må holde ut til våren. | Elle a raison ; nous devons tenir jusqu'au printemps. | She's right; we must hold out until spring.
 Tørk opp vannet og gjør rent på badet. | Essuie l'eau et nettoie la salle de bain. | Wipe up the water and clean the bathroom.
 Vi tok en pause og handlet inn mat. | Nous avons fait une pause et acheté à manger. | We took a break and bought food.
-Vi kjørte inn i tunnelen og ga opp å finne fram. | Nous sommes entrés dans le tunnel et avons renoncé à trouver le chemin. | We drove into the tunnel and gave up finding the way.
+Vi kjørte inn i tunnelen og ga opp å finne kafeen. | Nous sommes entrés dans le tunnel et avons renoncé à trouver le café. | We drove into the tunnel and gave up finding the café.
 Jeg lovet bort helga; jeg kan ikke være med. | J'ai promis mon week-end ; je ne peux pas participer. | I've promised the weekend away; I can't join.
 Han la seg tidlig og sto opp sent. | Il s'est couché tôt et s'est levé tard. | He went to bed early and got up late.
 Få tak i nøkkelen og lås opp. | Récupère la clé et déverrouille. | Get hold of the key and unlock.

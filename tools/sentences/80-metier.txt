@@ -110,8 +110,8 @@ Ta en ren klut. | Prends un chiffon propre. | Take a clean cloth.
 Svampen er gammel. | L'éponge est vieille. | The sponge is old.
 Vi trenger nye svamper. | Nous avons besoin de nouvelles éponges. | We need new sponges.
 Kosten er borte. | Le balai a disparu. | The broom is gone.
-Hent kosten og feie gulvet. | Va chercher le balai et balaie le sol. | Get the broom and sweep the floor.
-Feie trappa før du vasker. | Balaie l'escalier avant de laver. | Sweep the stairs before washing.
+Hent kosten og fei gulvet. | Prends le balai et balaie le sol. | Get the broom and sweep the floor.
+Fei trappa før du vasker. | Balaie l'escalier avant de laver. | Sweep the stairs before you wash.
 Jeg feide hele gangen. | J'ai balayé tout le couloir. | I swept the whole hallway.
 Støvsugeren er full. | L'aspirateur est plein. | The vacuum cleaner is full.
 Støvsugeren lager mye lyd. | L'aspirateur fait beaucoup de bruit. | The vacuum cleaner is very noisy.

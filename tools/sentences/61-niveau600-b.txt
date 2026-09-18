@@ -249,7 +249,7 @@ Han er rik. | Il est riche. | He's rich.
 Jeg hører på musikk. | J'écoute de la musique. | I'm listening to music.
 Jeg skrev et brev. | J'ai écrit une lettre. | I wrote a letter.
 Hva er den lyden? | C'est quoi, ce bruit ? | What's that noise?
-Særlig om kvelden. | Surtout le soir. | Especially in the evening.
+Han er trøtt, særlig om kvelden. | Il est fatigué, surtout le soir. | He's tired, especially in the evening.
 Han har vondt i ryggen. | Il a mal au dos. | His back hurts.
 Han nevnte ikke det. | Il n'en a pas parlé. | He didn't mention that.
 Vi har en liten leilighet. | Nous avons un petit appartement. | We have a small flat.
@@ -279,7 +279,7 @@ Vi besøker dem ofte. | Nous leur rendons souvent visite. | We visit them often.
 Hvem eier bilen? | À qui appartient la voiture ? | Who owns the car?
 Han tilbød meg jobb. | Il m'a proposé un travail. | He offered me a job.
 Jeg søker jobb. | Je cherche du travail. | I'm looking for work.
-Bring meg boka. | Apporte-moi le livre. | Bring me the book.
+Bussen bringer deg til byen på en time. | Le bus t'emmène en ville en une heure. | The bus takes you to town in an hour.
 Iblant kommer han sent. | Parfois il arrive en retard. | Sometimes he comes late.
 Kan jeg beholde det? | Je peux le garder ? | Can I keep it?
 Himmelen er blå [i dag]. | Le ciel est bleu aujourd'hui. | The sky is blue today.

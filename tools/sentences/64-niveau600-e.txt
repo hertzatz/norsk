@@ -68,7 +68,7 @@ Kan du telle barna? | Tu peux compter les enfants ? | Can you count the children
 Vi avtalte å ringe. | Nous avions convenu de nous appeler. | We agreed to call.
 Det fungerer ikke nå. | Ça ne marche pas maintenant. | It doesn't work now.
 Nyheten kom [i går]. | La nouvelle est arrivée hier. | The news came yesterday.
-Til stor glede{glede_noun} for barna. | À la grande joie des enfants. | To the children's great joy.
+Snøen kom, til stor glede{glede_noun} for barna. | La neige est arrivée, pour le plus grand plaisir des enfants. | The snow came, to the great joy of the children.
 Glede{glede_noun} er viktig. | La joie est importante. | Joy is important.
 Det tar en halv{halv_adj} dag. | Ça prend une demi-journée. | It takes half a day.
 Du kan være stolt. | Tu peux être fier. | You can be proud.
@@ -117,7 +117,7 @@ Han er tøff. | Il est dur. | He's tough.
 Det er umulig! | C'est impossible ! | It's impossible!
 Han vokste fort. | Il a grandi vite. | He grew fast.
 Håret vokser. | Les cheveux poussent. | The hair is growing.
-Er det alvorlig, legen? | C'est grave, docteur ? | Is it serious, doctor?
+Er det alvorlig, doktor? | Est-ce grave, docteur ? | Is it serious, doctor?
 Det er god luft her. | L'air est bon ici. | The air is good here.
 Luften er kald. | L'air est froid. | The air is cold.
 Rekker du det? | Tu as le temps ? | Will you make it?
@@ -134,13 +134,13 @@ Særlig barna liker det. | Surtout les enfants aiment ça. | Especially the chil
 Ryggen er sterk. | Le dos est fort. | The back is strong.
 Han nevnte ingenting. | Il n'a rien mentionné. | He didn't mention anything.
 Dessverre er det for sent. | Malheureusement, c'est trop tard. | Unfortunately it's too late.
-Spesielt [i dag]. | Surtout aujourd'hui. | Especially today.
+Det er kaldt, spesielt [i dag]. | Il fait froid, surtout aujourd'hui. | It's cold, especially today.
 Jeg nekter! | Je refuse ! | I refuse!
 Takk, du er vennlig. | Merci, tu es aimable. | Thanks, you're kind.
 Jeg er våken nå. | Je suis réveillé maintenant. | I'm awake now.
 Hun er opptatt med barna. | Elle est occupée avec les enfants. | She's busy with the children.
 Det er interessant. Fortell mer! | C'est intéressant. Raconte encore ! | That's interesting. Tell me more!
-Et stykke av huset. | Une partie de la maison. | A piece of the house.
+Et stykke av taket er nytt. | Une partie du toit est neuve. | A piece of the roof is new.
 Katten er så lat. | Le chat est si paresseux. | The cat is so lazy.
 Ikke vær{være} lat! | Ne sois pas paresseux ! | Don't be lazy!
 Hvem har ansvaret? | Qui est responsable ? | Who's in charge?
@@ -153,9 +153,9 @@ En øl, takk! | Une bière, s'il vous plaît ! | A beer, please!
 Vi eier ikke huset. | La maison n'est pas à nous. | We don't own the house.
 Han tilbød seg å hjelpe. | Il a proposé d'aider. | He offered to help.
 Jeg søker etter en jobb. | Je cherche un travail. | I'm looking for a job.
-Hun bringer mat. | Elle apporte à manger. | She brings food.
+Hun bringer mat til bestemor hver dag. | Elle apporte à manger à grand-mère chaque jour. | She brings food to Grandma every day.
 Iblant går vi ut. | Parfois, on sort. | Sometimes we go out.
-Beholde den! | Garde-la ! | Keep it!
+Behold den! | Garde-la ! | Keep it!
 Han beholdt pengene. | Il a gardé l'argent. | He kept the money.
 Himmelen er mørk [i kveld]. | Le ciel est sombre ce soir. | The sky is dark tonight.
 Barna leker med steiner. | Les enfants jouent avec des pierres. | The children play with stones.
@@ -200,3 +200,4 @@ Katten vår er svart. | Notre chat est noir. | Our cat is black.
 Svart kaffe, takk. | Un café noir, merci. | Black coffee, please.
 Et stykke til, takk. | Encore un morceau, merci. | One more piece, please.
 Gi meg et lite stykke. | Donne-moi un petit morceau. | Give me a small piece.
+Kan du bringe pakken til naboen? | Peux-tu apporter le colis au voisin ? | Can you take the parcel to the neighbour?
