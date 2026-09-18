@@ -33,6 +33,7 @@ FREQ_FILE = ROOT / "tools" / "freq" / "no_50k.txt"
 OUT = ROOT / "data" / "words.json"
 
 LEVELS = (300, 600, 1000)
+LEVEL2 = 2000  # list core2: ranked after the 1000, all at level 2000
 VOWELS = "aeiouyæøå"
 
 
@@ -172,14 +173,27 @@ def build_entry(fields, lst, group):
                 variants.append(defsup)
     freqforms = list(variants)  # imperative excluded: it often collides (men, vekk, lei)
     if kind == "verb":
-        imp = drop_e(lemma)
+        if " " in lemma:  # phrasal verb: imperative of the head word + particle ("still inn", "kjøl ned")
+            head, rest = lemma.split(" ", 1)
+            h = drop_e(head)
+            imp = h + " " + rest
+            imp2 = h[:-1] + " " + rest if h.endswith("mm") else None  # tømme ut -> tøm ut
+        else:
+            imp = drop_e(lemma)
+            imp2 = imp[:-1] if imp.endswith("mm") else None  # tømme -> tøm, komme -> kom
         passive = lemma + "s" if not lemma.endswith("s") and " " not in lemma else None
-        imp2 = imp[:-1] if imp.endswith("mm") else None  # tømme -> tøm, komme -> kom
         for extra in (imp, imp2, passive):
             if extra and extra not in variants:
                 variants.append(extra)
     if lemma.lower() not in variants:
         variants.insert(0, lemma.lower())
+    # reflexive phrases: "sette seg" is also "setter meg / deg / oss / dere"
+    if kind == "verb" and " seg" in lemma:
+        for v in list(variants):
+            for pron in ("meg", "deg", "oss", "dere"):
+                alt = v.replace(" seg", " " + pron)
+                if alt not in variants:
+                    variants.append(alt)
 
     entry = {
         "lemma": lemma,
@@ -251,15 +265,19 @@ def main():
         e["rank"] = rank
         e["level"] = next((lv for lv in LEVELS if rank <= lv), None)
 
+    core2 = sorted((e for e in entries if e["list"] == "core2"), key=lambda e: -e["freq"])
+    for i, e in enumerate(core2, 1):
+        e["rank"] = LEVELS[-1] + i
+        e["level"] = LEVEL2
     for e in entries:
         if e["list"] == "essentials":
             e["level"] = LEVELS[0]
-        elif e["list"] != "core":  # thematic lists (métier, vie locale)
+        elif e["list"] not in ("core", "core2"):  # thematic lists (métier, vie locale)
             e["level"] = LEVELS[-1]
 
     out = [e for e in entries if e.get("level")]
     dropped = [e for e in core if not e.get("level")]
-    order = {"core": 0, "essentials": 1, "theme": 2}
+    order = {"core": 0, "core2": 1, "essentials": 2, "theme": 3}
     out.sort(key=lambda e: (order.get(e["list"], 9), e.get("rank", 0)))
 
     OUT.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
@@ -267,6 +285,7 @@ def main():
     print(f"core candidates: {len(core)}  kept: {n_core}  dropped: {len(dropped)}")
     print(f"essentials: {sum(1 for e in out if e['list'] == 'essentials')}")
     print(f"theme: {sum(1 for e in out if e['list'] == 'theme')}")
+    print(f"core2 (level 2000): {len(core2)}")
     if "--report" in sys.argv:
         zero = [e["lemma"] for e in core if e["freq"] == 0]
         print("zero freq:", ", ".join(zero))

@@ -348,3 +348,4 @@ Han er kjent i hele byen. | Il est connu dans toute la ville. | He's known all o
 Jeg stikker innom [i morgen]. | Je passe demain. | I'll drop by tomorrow.
 Kjære mamma! | Chère maman ! | Dear Mum!
 Rommet er fullt av folk. | La pièce est pleine de monde. | The room is full of people.
+Sønnen min er ti år [i dag]. | Mon fils a dix ans aujourd'hui. | My son is ten today.

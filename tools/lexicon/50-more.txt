@@ -145,7 +145,7 @@ tilbud | n | offre, promotion | offer, special offer | tilbud,tilbudet,tilbud,ti
 vare | m | article, marchandise | item, product | | freq=varen,varer,varene
 pakke | m | paquet, colis | parcel, package | | freq=pakken,pakkene
 kø | m | file d'attente | queue | kø,køen,køer,køene
-kasse | m | caisse ; boîte | checkout ; box
+kasse | m | caisse ; boîte | checkout ; box | kasse,kassa/kassen,kasser,kassene
 bro | m | pont | bridge | bro,broen,broer,broene
 fridag | m | jour de congé | day off
 bryllup | n | mariage | wedding | bryllup,bryllupet,bryllup,bryllupene

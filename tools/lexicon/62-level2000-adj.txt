@@ -1,0 +1,157 @@
+# Niveau 2000 : adjectifs, adverbes, autres
+@list core2
+
+# Adjectifs
+utrolig | adj | incroyable | incredible
+forsiktig | adj | prudent | careful
+skikkelig | adj | correct, vrai, bien | proper, real
+merkelig | adj | étrange | strange
+personlig | adj | personnel | personal
+lykkelig | adj | heureux | happy
+interessert | adj | intéressé | interested | interessert,interessert,interesserte
+hemmelig | adj | secret | secret
+uskyldig | adj | innocent | innocent
+skyldig | adj | coupable | guilty
+ansvarlig | adj | responsable | responsible
+tydelig | adj | clair, net | clear
+uvanlig | adj | inhabituel | unusual
+ulovlig | adj | illégal | illegal
+lovlig | adj | légal | legal
+offentlig | adj | public | public
+nøyaktig | adj | précis, exact | exact
+komplisert | adj | compliqué | complicated | komplisert,komplisert,kompliserte
+enorm | adj | énorme | enormous
+kraftig | adj | puissant, fort | powerful, strong
+mektig | adj | puissant | mighty
+berømt | adj | célèbre | famous | berømt,berømt,berømte
+ukjent | adj | inconnu | unknown | ukjent,ukjent,ukjente
+menneskelig | adj | humain | human
+naturlig | adj | naturel | natural
+kunstig | adj | artificiel | artificial
+falsk | adj | faux | false, fake
+urolig | adj | inquiet, agité | worried, restless
+feig | adj | lâche | cowardly
+flau | adj | gêné | embarrassed | flau,flaut,flaue
+skamfull | adj | honteux | ashamed | skamfull,skamfullt,skamfulle
+sjalu | adj | jaloux | jealous | sjalu,sjalu,sjalu
+misunnelig | adj | envieux | envious
+takknemlig | adj | reconnaissant | grateful
+misfornøyd | adj | mécontent | dissatisfied | misfornøyd,misfornøyd,misfornøyde
+ensom | adj | seul, solitaire | lonely | ensom,ensomt,ensomme
+tålmodig | adj | patient | patient
+utålmodig | adj | impatient | impatient
+streng | adj | strict, sévère | strict
+mild | adj | doux | mild | mild,mildt,milde
+grusom | adj | cruel, horrible | cruel, terrible | grusom,grusomt,grusomme
+forferdelig | adj | terrible | terrible
+fryktelig | adj | affreux | dreadful
+fæl | adj | horrible, moche | nasty, awful | fæl,fælt,fæle
+ekkel | adj | dégoûtant | disgusting | ekkel,ekkelt,ekle
+strålende | adj | radieux, splendide | brilliant | strålende,strålende,strålende
+imponerende | adj | impressionnant | impressive | imponerende,imponerende,imponerende
+spennende | adj | passionnant | exciting | spennende,spennende,spennende
+latterlig | adj | ridicule | ridiculous
+teit | adj | bête, nul | silly | teit,teit,teite
+dyktig | adj | compétent | skilled
+elendig | adj | nul, misérable | lousy
+ideell | adj | idéal | ideal | ideell,ideelt,ideelle
+typisk | adj | typique | typical
+generell | adj | général | general | generell,generelt,generelle
+nasjonal | adj | national | national
+internasjonal | adj | international | international
+moderne | adj | moderne | modern | moderne,moderne,moderne
+gammeldags | adj | démodé | old-fashioned | gammeldags,gammeldags,gammeldags
+tradisjonell | adj | traditionnel | traditional | tradisjonell,tradisjonelt,tradisjonelle
+lunken | adj | tiède | lukewarm | lunken,lunkent,lunkne
+iskald | adj | glacial | ice-cold | iskald,iskaldt,iskalde
+fuktig | adj | humide | damp
+rotete | adj | en désordre | messy | rotete,rotete,rotete
+sløv | adj | émoussé | blunt | sløv,sløvt,sløve
+ru | adj | rugueux | rough | ru,rutt,rue
+skjev | adj | de travers | crooked | skjev,skjevt,skjeve
+rund | adj | rond | round | rund,rundt,runde
+flat | adj | plat | flat | flat,flatt,flate
+uklar | adj | flou, pas clair | unclear
+høylytt | adj | bruyant | loud | høylytt,høylytt,høylytte
+langsom | adj | lent | slow | langsom,langsomt,langsomme
+utslitt | adj | épuisé | exhausted | utslitt,utslitt,utslitte
+blind | adj | aveugle | blind | blind,blindt,blinde
+døv | adj | sourd | deaf | døv,døvt,døve
+tilgjengelig | adj | disponible, accessible | available
+sannsynlig | adj | probable | probable
+usikker | adj | incertain | unsure | usikker,usikkert,usikre
+uviktig | adj | sans importance | unimportant
+unødvendig | adj | inutile | unnecessary
+nyttig | adj | utile | useful
+ubrukelig | adj | inutilisable | useless | ubrukelig,ubrukelig,ubrukelige
+verdt | adj | qui vaut | worth | verdt,verdt,verdt
+verdifull | adj | précieux | valuable | verdifull,verdifullt,verdifulle
+tilfeldig | adj | fortuit, au hasard | random
+felles | adj | commun | shared, common | felles,felles,felles
+dobbel | adj | double | double | dobbel,dobbelt,doble
+ulik | adj | différent | different | ulik,ulikt,ulike
+annerledes | adj | différent, autrement | different | annerledes,annerledes,annerledes
+
+# Adverbes et particules
+lenger | adv | plus loin, plus longtemps | further, longer
+unna | adv | à l'écart, loin | away
+engang | adv | même (ikke engang = même pas) | even (not even)
+videre | adv | plus loin, ensuite | further, on
+resten | adv | le reste | the rest
+svært | adv | très | very
+ille | adv | mal, grave | badly
+noensinne | adv | jamais (dans une question) | ever
+inntil | prep | jusqu'à | until
+slett | adv | pas du tout (slett ikke) | not at all
+ifra | prep | de (fra) | from
+neppe | adv | à peine, guère | hardly
+tydeligvis | adv | visiblement | evidently
+åpenbart | adv | manifestement | obviously
+naturligvis | adv | naturellement | naturally
+omkring | prep | autour de, environ | around
+javel | int | bon, d'accord | all right
+jepp | int | ouais | yep
+vidt | adv | largement (så vidt = à peine) | widely (så vidt = barely)
+javisst | int | bien sûr | certainly
+allikevel | adv | quand même | anyway
+muligens | adv | peut-être | possibly
+umiddelbart | adv | immédiatement | immediately
+sannsynligvis | adv | probablement | probably
+tilfeldigvis | adv | par hasard | by chance
+antakelig | adv | probablement | presumably
+overhodet | adv | du tout | at all
+forhåpentligvis | adv | avec un peu de chance | hopefully
+etter hvert | adv | petit à petit | gradually
+med det samme | adv | tout de suite | right away
+i det hele tatt | adv | du tout | at all
+for øvrig | adv | par ailleurs | otherwise
+i stedet | adv | à la place | instead
+i tillegg | adv | en plus | in addition
+til slutt | adv | enfin, à la fin | finally
+til og med | adv | même | even
+på grunn av | prep | à cause de | because of
+i forhold til | prep | par rapport à | compared to
+i løpet av | prep | au cours de | during
+ved siden av | prep | à côté de | next to
+på tross av | prep | malgré | despite
+i stedet for | prep | au lieu de | instead of
+på vegne av | prep | au nom de | on behalf of
+takket være | prep | grâce à | thanks to
+i nærheten | adv | à proximité | nearby
+ingensteds | adv | nulle part | nowhere
+hjemover | adv | vers la maison | homewards
+utover | adv | vers l'extérieur ; au-delà | outwards ; beyond
+innover | adv | vers l'intérieur | inwards
+oppover | adv | vers le haut | upwards
+nedover | adv | vers le bas | downwards
+bortover | adv | le long, par là | along
+framover | adv | en avant | forward
+bakover | adv | en arrière | backwards
+tvers | adv | en travers (på tvers) | across
+gjennomsnittlig | adj | moyen | average
+dersom | konj | si (formel) | if
+ettersom | konj | puisque | since
+slik at | konj | de sorte que | so that
+dermed | adv | ainsi, par conséquent | thereby
+desto | adv | d'autant (jo mer, desto bedre) | the (jo... desto)
+hvorvidt | konj | si (oui ou non) | whether

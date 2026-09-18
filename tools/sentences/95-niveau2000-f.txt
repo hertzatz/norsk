@@ -1,0 +1,178 @@
+# Niveau 2000, lot 6 : phrases denses (personnes, santé, maison, ville)
+@level 2000
+
+@theme folk Meeting people
+Kapteinen takket soldatene etter kampen. | Le capitaine a remercié les soldats après la bataille. | The captain thanked the soldiers after the battle.
+Herr *Berg er advokat, og fru *Berg er doktor. | Monsieur Berg est avocat, et madame Berg est docteur. | Mr Berg is a lawyer, and Mrs Berg is a doctor.
+Frøken *Lund er sykepleier på legevakten. | Mademoiselle Lund est infirmière aux urgences. | Miss Lund is a nurse at the emergency clinic.
+Doktoren ga pasienten en resept og en bandasje. | Le docteur a donné au patient une ordonnance et un pansement. | The doctor gave the patient a prescription and a bandage.
+Advokaten og direktøren skrev under kontrakten. | L'avocat et le directeur ont signé le contrat. | The lawyer and the director signed the contract.
+Politimannen fant tyven i kjelleren. | Le policier a trouvé le voleur à la cave. | The policeman found the thief in the basement.
+Sjåføren på bussen er en gammel kompis. | Le chauffeur du bus est un vieux copain. | The bus driver is an old buddy.
+Partneren min er kamerat med naboen. | Mon compagnon est ami avec le voisin. | My partner is friends with the neighbour.
+En idiot kjørte på skiltet ved lyskrysset. | Un idiot a percuté le panneau au feu. | An idiot drove into the sign at the traffic lights.
+Presten og enken snakket lenge etter begravelsen. | Le pasteur et la veuve ont longtemps parlé après l'enterrement. | The priest and the widow talked for a long time after the funeral.
+Kongen hilste på fangene i fengselet. | Le roi a salué les prisonniers en prison. | The king greeted the prisoners in the prison.
+Dronningen og prinsessen besøkte museet. | La reine et la princesse ont visité le musée. | The queen and the princess visited the museum.
+Prinsen liker friluftsliv, sier avisa. | Le prince aime la vie en plein air, dit le journal. | The prince likes outdoor life, says the paper.
+Presidenten møtte regjeringen på tirsdag. | Le président a rencontré le gouvernement mardi. | The president met the government on Tuesday.
+Eieren av fabrikken er medlem av styret. | Le propriétaire de l'usine est membre du conseil. | The owner of the factory is a board member.
+Publikum takket kunstneren med latter og smil. | Le public a remercié l'artiste par des rires et des sourires. | The audience thanked the artist with laughter and smiles.
+Fetteren og kusina mi bor på øya. | Mon cousin et ma cousine habitent sur l'île. | My cousin and his sister live on the island.
+Bruden gråt av glede, og brudgommen smilte. | La mariée pleurait de joie, et le marié souriait. | The bride cried with joy, and the groom smiled.
+Ektemannen hennes er tannlege i *Kongsberg. | Son mari est dentiste à Kongsberg. | Her husband is a dentist in Kongsberg.
+Pasienten tok pillen med lunkent vann. | Le patient a pris la pilule avec de l'eau tiède. | The patient took the pill with lukewarm water.
+Frisøren og mekanikeren deler et verksted. | Le coiffeur et le mécanicien partagent un atelier. | The hairdresser and the mechanic share a workshop.
+Snekkeren bygde gjerdet og porten. | Le menuisier a construit la clôture et le portail. | The carpenter built the fence and the gate.
+Elektrikeren skiftet stikkontakten på loftet. | L'électricien a changé la prise au grenier. | The electrician changed the socket in the attic.
+Rørleggeren ordnet kranen i oppvaskkummen. | Le plombier a réparé le robinet de l'évier. | The plumber fixed the tap in the sink.
+Bibliotekaren lånte oss et eventyr og en roman. | La bibliothécaire nous a prêté un conte et un roman. | The librarian lent us a fairy tale and a novel.
+Kjendisen kom med bagasje og solbriller. | La célébrité est arrivée avec des bagages et des lunettes de soleil. | The celebrity arrived with luggage and sunglasses.
+Tyven stjal smykker og en lommebok. | Le voleur a volé des bijoux et un portefeuille. | The thief stole jewellery and a wallet.
+Vitnet fortalte politimannen alt. | Le témoin a tout raconté au policier. | The witness told the policeman everything.
+Offeret ble reddet av en modig nabo. | La victime a été sauvée par un voisin courageux. | The victim was saved by a brave neighbour.
+Fienden ble en venn etter krigen. | L'ennemi est devenu un ami après la guerre. | The enemy became a friend after the war.
+Helten fikk en medalje av kongen. | Le héros a reçu une médaille du roi. | The hero got a medal from the king.
+Ungdommen og pensjonistene møtes på biblioteket. | Les jeunes et les retraités se retrouvent à la bibliothèque. | The young people and pensioners meet at the library.
+Tenåringen sover til formiddagen. | L'adolescent dort jusqu'en fin de matinée. | The teenager sleeps until late morning.
+Innvandrere og flyktninger lærer norsk på kurset. | Immigrés et réfugiés apprennent le norvégien au cours. | Immigrants and refugees learn Norwegian on the course.
+Befolkningen i dalen blir eldre. | La population de la vallée vieillit. | The population in the valley is getting older.
+Hver generasjon har sin egen stil. | Chaque génération a son propre style. | Each generation has its own style.
+Studenten og lærlingen deler leilighet. | L'étudiant et l'apprenti partagent un appartement. | The student and the apprentice share a flat.
+Han er en dyktig sjåfør, men en dårlig kokk. | C'est un chauffeur compétent, mais un mauvais cuisinier. | He's a skilled driver but a bad cook.
+Postmannen kommer klokka elleve hver ukedag. | Le facteur passe à onze heures chaque jour de semaine. | The postman comes at eleven every weekday.
+Jegeren så en hjort og en hare ved bekken. | Le chasseur a vu un cerf et un lièvre près du ruisseau. | The hunter saw a deer and a hare by the stream.
+Søsknene mine bor i Sverige. | Mes frères et sœurs habitent en Suède. | My siblings live in Sweden.
+Herregud, kapteinen har glemt passet{pass}! | Mon Dieu, le capitaine a oublié son passeport ! | Good God, the captain has forgotten his passport!
+Gud vet hvor nøkkelringen er. | Dieu sait où est le porte-clés. | God knows where the keyring is.
+Herr *Olsen er en ukjent mann for meg. | Monsieur Olsen est un inconnu pour moi. | Mr Olsen is a stranger to me.
+Fru *Dahl er kjent for sine pannekaker. | Madame Dahl est connue pour ses crêpes. | Mrs Dahl is known for her pancakes.
+Menneskeheten trenger frihet og fred. | L'humanité a besoin de liberté et de paix. | Humanity needs freedom and peace.
+Kompisen min har en drøm om å bli sanger. | Mon copain rêve de devenir chanteur. | My buddy dreams of becoming a singer.
+Kameraten min er skuespiller på teateret. | Mon camarade est acteur au théâtre. | My mate is an actor at the theatre.
+Doktoren sa at hjernen trenger søvn. | Le docteur a dit que le cerveau a besoin de sommeil. | The doctor said the brain needs sleep.
+Soldatene sov i telt i stormen. | Les soldats ont dormi sous la tente pendant la tempête. | The soldiers slept in tents in the storm.
+Idioten kastet bort hele lønna på spill. | L'idiot a gaspillé tout son salaire au jeu. | The idiot wasted his whole wage on games.
+Morderen ble tatt ved grensen. | Le meurtrier a été attrapé à la frontière. | The murderer was caught at the border.
+Offeret og vitnet kjente hverandre. | La victime et le témoin se connaissaient. | The victim and the witness knew each other.
+Direktøren sparket sjåføren. | Le directeur a viré le chauffeur. | The director sacked the driver.
+Medlemmene betaler avgift hvert år. | Les membres paient une cotisation chaque année. | The members pay a fee every year.
+
+@theme helse Health
+Huden på hælen er tørr og hard. | La peau du talon est sèche et dure. | The skin on the heel is dry and hard.
+Han har vondt i nakken og skuldrene etter jobben. | Il a mal à la nuque et aux épaules après le travail. | He has pain in his neck and shoulders after work.
+Brystet gjør vondt når jeg hoster. | J'ai mal à la poitrine quand je tousse. | My chest hurts when I cough.
+Kinnene er røde av kulda. | Les joues sont rouges de froid. | The cheeks are red from the cold.
+Hun bet seg i leppa. | Elle s'est mordu la lèvre. | She bit her lip.
+Han har skjegg på haka. | Il a une barbe au menton. | He has a beard on his chin.
+Tærne er iskalde i støvlene. | Les orteils sont glacés dans les bottes. | My toes are ice-cold in the boots.
+Albuen og håndleddet er hovne. | Le coude et le poignet sont enflés. | The elbow and wrist are swollen.
+Lårene og musklene skjelver etter langrenn. | Les cuisses et les muscles tremblent après le ski de fond. | My thighs and muscles are shaking after cross-country skiing.
+Ankelen er stiv etter at jeg snublet. | La cheville est raide après que j'ai trébuché. | My ankle is stiff after I stumbled.
+Såret på fingeren blør ikke lenger. | La plaie au doigt ne saigne plus. | The wound on my finger isn't bleeding any more.
+Smerten i magen kom etter frokosten. | La douleur au ventre est venue après le petit-déjeuner. | The stomach pain came after breakfast.
+Sykdommen sprer seg fort om vinteren. | La maladie se propage vite en hiver. | The illness spreads fast in winter.
+Forkjølelse og influensa er vanlig i januar. | Le rhume et la grippe sont courants en janvier. | Colds and flu are common in January.
+Kreft er en alvorlig sykdom. | Le cancer est une maladie grave. | Cancer is a serious illness.
+Hosten holdt meg våken hele natta. | La toux m'a tenu éveillé toute la nuit. | The cough kept me awake all night.
+God søvn gir godt humør. | Un bon sommeil donne une bonne humeur. | Good sleep gives a good mood.
+Pusten er tung etter fjellturen. | La respiration est lourde après la randonnée. | Breathing is heavy after the mountain hike.
+Ta av bandasjen og sett på et nytt plaster. | Enlève le pansement et mets un nouveau sparadrap. | Take off the bandage and put on a new plaster.
+Pillene ligger ved siden av resepten. | Les pilules sont à côté de l'ordonnance. | The pills are next to the prescription.
+Hun gikk ned i vekt med diett og mosjon. | Elle a perdu du poids avec un régime et de l'exercice. | She lost weight with diet and exercise.
+Stress og lite søvn gir dårlig helse. | Le stress et le manque de sommeil donnent une mauvaise santé. | Stress and little sleep give poor health.
+Jeg nyser når jeg er i nærheten av katter. | J'éternue quand je suis près des chats. | I sneeze when I'm near cats.
+Han svetter og skjelver, han har feber. | Il transpire et tremble, il a de la fièvre. | He's sweating and shaking, he has a fever.
+Bøy og strekk ryggen hver morgen. | Plie et étire ton dos chaque matin. | Bend and stretch your back every morning.
+Jeg gled og brakk håndleddet. | J'ai glissé et je me suis cassé le poignet. | I slipped and broke my wrist.
+Legen behandlet såret med det samme. | Le médecin a traité la plaie tout de suite. | The doctor treated the wound right away.
+Barnet kastet opp etter godteriet. | L'enfant a vomi après les bonbons. | The child threw up after the sweets.
+Hun sultet seg for å gå ned i vekt. | Elle s'est affamée pour perdre du poids. | She starved herself to lose weight.
+Sykepleieren undersøkte pasienten nøyaktig. | L'infirmière a examiné le patient attentivement. | The nurse examined the patient carefully.
+Blind mann med hund på fortauet. | Un aveugle avec un chien sur le trottoir. | A blind man with a dog on the pavement.
+Bestemor er døv, snakk høyt. | Grand-mère est sourde, parle fort. | Grandma is deaf, speak up.
+Han er utslitt etter dobbel vakt. | Il est épuisé après un double service. | He's exhausted after a double shift.
+Kroppen trenger mosjon og sunn mat. | Le corps a besoin d'exercice et d'une alimentation saine. | The body needs exercise and healthy food.
+Lungene og hjernen trenger frisk luft. | Les poumons et le cerveau ont besoin d'air frais. | The lungs and brain need fresh air.
+Sikkerheten i verkstedet er dårlig. | La sécurité dans l'atelier est mauvaise. | Safety in the workshop is poor.
+Barna tygger godteri hele dagen. | Les enfants mâchent des bonbons toute la journée. | The children chew sweets all day.
+Han led av hodepine i flere døgn. | Il a souffert de maux de tête pendant plusieurs jours. | He suffered from headaches for several days.
+Tannlegen fant et hull i tanna. | Le dentiste a trouvé un trou dans la dent. | The dentist found a hole in the tooth.
+
+@theme hjem At home
+Bygningen har balkong og terrasse. | Le bâtiment a un balcon et une terrasse. | The building has a balcony and a terrace.
+Loftet er fullt av gamle møbler. | Le grenier est plein de vieux meubles. | The attic is full of old furniture.
+Gjerdet og porten er malt hvite. | La clôture et le portail sont peints en blanc. | The fence and gate are painted white.
+Inngangsdøra har ringeklokke og nøkkelring. | La porte d'entrée a une sonnette et un porte-clés. | The front door has a doorbell and a keyring.
+Skrivebordet og madrassen kom i går. | Le bureau et le matelas sont arrivés hier. | The desk and mattress arrived yesterday.
+Gardinene på loftet er gammeldags. | Les rideaux du grenier sont démodés. | The curtains in the attic are old-fashioned.
+Kalenderen viser at det er helligdag i dag. | Le calendrier indique que c'est un jour férié aujourd'hui. | The calendar shows it's a public holiday today.
+Verktøyet, hammeren og skruene er i boksen. | Les outils, le marteau et les vis sont dans la boîte. | The tools, hammer and screws are in the box.
+Spikeren gikk gjennom tauet. | Le clou est passé à travers la corde. | The nail went through the rope.
+Stigen står ved gjerdet i hagen. | L'échelle est contre la clôture dans le jardin. | The ladder is by the fence in the garden.
+Legg lommeboka og brillene i lomma. | Mets le portefeuille et les lunettes dans la poche. | Put the wallet and glasses in the pocket.
+Kofferten og paraplyen står i gangen. | La valise et le parapluie sont dans l'entrée. | The suitcase and umbrella are in the hall.
+Ringen og smykkene ligger i skuffen. | La bague et les bijoux sont dans le tiroir. | The ring and jewellery are in the drawer.
+Leken og ballen ligger under senga. | Le jouet et la balle sont sous le lit. | The toy and the ball are under the bed.
+Hjelm, telt og sovepose til turen. | Casque, tente et sac de couchage pour la sortie. | Helmet, tent and sleeping bag for the trip.
+Kompasset og lommelykta er i sekken. | La boussole et la lampe de poche sont dans le sac à dos. | The compass and torch are in the backpack.
+Batteriet og kabelen ligger på skrivebordet. | La pile et le câble sont sur le bureau. | The battery and cable are on the desk.
+Stikkontakten ved senga er ødelagt. | La prise près du lit est cassée. | The socket by the bed is broken.
+Varmen er på, men det er kaldt på loftet. | Le chauffage est allumé, mais il fait froid au grenier. | The heating is on, but it's cold in the attic.
+Røyken fra bålet kom inn på balkongen. | La fumée du feu est entrée sur le balcon. | The smoke from the fire came onto the balcony.
+Røykvarsleren og brannslukkeren sjekkes hvert år. | Le détecteur de fumée et l'extincteur sont vérifiés chaque année. | The smoke alarm and fire extinguisher are checked every year.
+Forsikringen betalte for det nye taket. | L'assurance a payé le nouveau toit. | The insurance paid for the new roof.
+Husleia og strømregningen tar halve lønna. | Le loyer et la facture d'électricité prennent la moitié du salaire. | The rent and electricity bill take half the wage.
+Nabolaget har et felles verksted. | Le quartier a un atelier commun. | The neighbourhood has a shared workshop.
+Vi hvilte oss på terrassen i skyggen. | Nous nous sommes reposés sur la terrasse à l'ombre. | We rested on the terrace in the shade.
+Kle av deg de våte klærne og legg deg. | Enlève tes vêtements mouillés et couche-toi. | Take off your wet clothes and go to bed.
+Sett deg på benken, så løfter jeg esken. | Assieds-toi sur le banc, je soulève la boîte. | Sit on the bench and I'll lift the box.
+Slå på varmen og slå av radioen. | Allume le chauffage et éteins la radio. | Turn on the heating and turn off the radio.
+Dytt porten, ikke dra i den. | Pousse le portail, ne tire pas dessus. | Push the gate, don't pull it.
+Vi bygde om loftet til soverom. | Nous avons transformé le grenier en chambre. | We converted the attic into a bedroom.
+Lås opp inngangsdøra med den store nøkkelen. | Ouvre la porte d'entrée avec la grande clé. | Unlock the front door with the big key.
+Han rev av gardinene i sinne. | Il a arraché les rideaux de colère. | He tore down the curtains in anger.
+Skruen er løs og hammeren er borte. | La vis est desserrée et le marteau a disparu. | The screw is loose and the hammer is gone.
+Bind tauet til stigen. | Attache la corde à l'échelle. | Tie the rope to the ladder.
+Røykvarsleren piper når batteriet er tomt. | Le détecteur de fumée bipe quand la pile est vide. | The smoke alarm beeps when the battery is flat.
+Vi trenger en ny madrass og nye gardiner. | Il nous faut un nouveau matelas et de nouveaux rideaux. | We need a new mattress and new curtains.
+Møblene på balkongen er våte etter uværet. | Les meubles du balcon sont mouillés après les intempéries. | The furniture on the balcony is wet after the bad weather.
+Kalenderen på skrivebordet er fra i fjor. | Le calendrier sur le bureau est de l'an dernier. | The calendar on the desk is from last year.
+Legg boksen med verktøy i garasjen. | Mets la boîte à outils dans le garage. | Put the toolbox in the garage.
+Hjelmen henger på en spiker i gangen. | Le casque est accroché à un clou dans l'entrée. | The helmet hangs on a nail in the hallway.
+Teltet er tørt, men soveposen er våt. | La tente est sèche, mais le sac de couchage est mouillé. | The tent is dry, but the sleeping bag is wet.
+Lommelykta lyser dårlig, bytt batteri. | La lampe de poche éclaire mal, change la pile. | The torch is dim, change the battery.
+Kabelen til varmen gikk gjennom veggen. | Le câble du chauffage passe à travers le mur. | The heating cable went through the wall.
+Forsikringen dekker ikke innbrudd. | L'assurance ne couvre pas les cambriolages. | The insurance doesn't cover burglary.
+
+@theme byen In town
+Torget ligger ved siden av krysset. | La place est à côté du carrefour. | The square is next to the crossroads.
+Fortauet er glatt ved lyskrysset. | Le trottoir est glissant au feu. | The pavement is slippery at the traffic lights.
+Skiltet før tunnelen viser fartsgrensen. | Le panneau avant le tunnel indique la limitation de vitesse. | The sign before the tunnel shows the speed limit.
+Motorveien er stengt, ta ruta gjennom dalen. | L'autoroute est fermée, prends la route par la vallée. | The motorway is closed, take the route through the valley.
+Bensinstasjonen selger bensin og diesel. | La station-service vend de l'essence et du gazole. | The petrol station sells petrol and diesel.
+Elbilen lades på bensinstasjonen. | La voiture électrique se recharge à la station-service. | The electric car charges at the petrol station.
+Lastebilen og traktoren står på verkstedet. | Le camion et le tracteur sont à l'atelier. | The lorry and the tractor are at the workshop.
+Motoren og dekkene er nye. | Le moteur et les pneus sont neufs. | The engine and tyres are new.
+Rattet er kaldt om vinteren. | Le volant est froid en hiver. | The steering wheel is cold in winter.
+Mist ikke førerkortet, du får bot. | Ne perds pas ton permis, tu auras une amende. | Don't lose your licence, you'll get a fine.
+Holdeplassen ligger ved ferga. | L'arrêt est près du ferry. | The stop is by the ferry.
+Bagasjen kom fram til flyplassen. | Les bagages sont arrivés à l'aéroport. | The luggage arrived at the airport.
+Passet{pass} og visumet må vises ved grensen. | Le passeport et le visa doivent être montrés à la frontière. | The passport and visa must be shown at the border.
+Tollvesenet åpnet kofferten min. | La douane a ouvert ma valise. | Customs opened my suitcase.
+Fabrikken og lageret ligger ved motorveien. | L'usine et l'entrepôt sont près de l'autoroute. | The factory and warehouse are by the motorway.
+Leverandøren kom med varer av god kvalitet. | Le fournisseur a livré des marchandises de bonne qualité. | The supplier brought goods of good quality.
+Servicen på verkstedet var elendig. | Le service à l'atelier était nul. | The service at the workshop was lousy.
+Mengden turister øker i antall hvert år. | Le nombre de touristes augmente chaque année. | The number of tourists increases every year.
+Markedet på torget har salg på klær. | Le marché de la place a des soldes sur les vêtements. | The market in the square has a sale on clothes.
+Handelen med Sverige er viktig. | Le commerce avec la Suède est important. | Trade with Sweden is important.
+Rabatt for pensjonister på ferga. | Réduction pour les retraités sur le ferry. | Discount for pensioners on the ferry.
+Kvitteringen og fakturaen ligger i mappa. | Le reçu et la facture sont dans le dossier. | The receipt and invoice are in the folder.
+Vi rygget inn og bremset foran porten. | Nous avons reculé et freiné devant le portail. | We reversed in and braked in front of the gate.
+Sving til høyre etter bensinstasjonen. | Tourne à droite après la station-service. | Turn right after the petrol station.
+Fyll bensin før du kjører inn i tunnelen. | Fais le plein avant d'entrer dans le tunnel. | Fill up before you drive into the tunnel.
+Skift dekk på verkstedet i oktober. | Change les pneus à l'atelier en octobre. | Change the tyres at the workshop in October.
+Gå av ferga og gå på bussen. | Descends du ferry et monte dans le bus. | Get off the ferry and get on the bus.
+Han kjørte på en elg på motorveien. | Il a percuté un élan sur l'autoroute. | He hit a moose on the motorway.
+Vi gikk omkring på markedet i formiddag. | Nous avons flâné au marché ce matin. | We wandered around the market this morning.
+Torget er tomt om vinteren. | La place est vide en hiver. | The square is empty in winter.

@@ -1,0 +1,233 @@
+# Niveau 2000, lot 4 : loisirs, technologie, temps, sentiments, adjectifs, adverbes
+@level 2000
+
+@theme fritid Leisure
+Idrett er viktig for barna i bygda. | Le sport est important pour les enfants du village. | Sport is important for the children in the village.
+Kampen endte med seier for laget vårt. | Le match s'est terminé par une victoire pour notre équipe. | The match ended in victory for our team.
+Tapet var tungt for spillerne. | La défaite a été dure pour les joueurs. | The loss was hard for the players.
+Hun vant konkurransen og fikk en premie. | Elle a gagné le concours et a reçu un prix. | She won the competition and got a prize.
+Han tok medalje i langrenn. | Il a remporté une médaille en ski de fond. | He won a medal in cross-country skiing.
+Slalåm er morsomt, men dyrt. | Le ski alpin est amusant, mais cher. | Alpine skiing is fun but expensive.
+Barna går på skøyter på innsjøen. | Les enfants patinent sur le lac. | The children skate on the lake.
+Aking i bakken er populært om vinteren. | La luge sur la pente est populaire en hiver. | Sledging on the slope is popular in winter.
+Kjelken står i garasjen. | La luge est dans le garage. | The sledge is in the garage.
+Skiheisen åpner klokka ni. | La remontée mécanique ouvre à neuf heures. | The ski lift opens at nine.
+Løypa går gjennom skogen. | La piste traverse la forêt. | The trail goes through the forest.
+Vi tok en fjelltur på søndag. | Nous avons fait une randonnée en montagne dimanche. | We went on a mountain hike on Sunday.
+Telttur ved innsjøen i juli. | Camping au bord du lac en juillet. | Camping by the lake in July.
+Vi grillet på stranda. | Nous avons fait un barbecue sur la plage. | We had a barbecue on the beach.
+Svømmehallen er stengt i juli. | La piscine est fermée en juillet. | The swimming pool is closed in July.
+Jeg trener på treningssenteret tre ganger i uka. | Je m'entraîne à la salle de sport trois fois par semaine. | I train at the gym three times a week.
+Fotballbanen ligger ved skolen. | Le terrain de foot est près de l'école. | The football pitch is by the school.
+Vi så et stykke på teateret. | Nous avons vu une pièce au théâtre. | We saw a play at the theatre.
+Konserten var strålende. | Le concert était magnifique. | The concert was brilliant.
+Festivalen er i august hvert år. | Le festival a lieu en août chaque année. | The festival is in August every year.
+Museet har en utstilling om bygda. | Le musée a une exposition sur le village. | The museum has an exhibition about the village.
+Maleriet henger i stua. | Le tableau est accroché au salon. | The painting hangs in the living room.
+Kunstneren bor i *Rollag. | L'artiste habite à Rollag. | The artist lives in Rollag.
+Forfatteren skrev en roman om dalen. | L'écrivain a écrit un roman sur la vallée. | The writer wrote a novel about the valley.
+Barna leser dikt og eventyr. | Les enfants lisent des poèmes et des contes. | The children read poems and fairy tales.
+Serien går på tv hver mandag. | La série passe à la télé tous les lundis. | The series is on TV every Monday.
+Skuespilleren er berømt i Norge. | L'acteur est célèbre en Norvège. | The actor is famous in Norway.
+Sangeren opptrer på festivalen. | Le chanteur se produit au festival. | The singer performs at the festival.
+Bandet spiller på lørdag. | Le groupe joue samedi. | The band plays on Saturday.
+Hvilket instrument spiller du? | De quel instrument joues-tu ? | Which instrument do you play?
+Han spiller gitar og piano. | Il joue de la guitare et du piano. | He plays guitar and piano.
+Vi spiller kort og terning om kvelden. | Nous jouons aux cartes et aux dés le soir. | We play cards and dice in the evening.
+Puslespillet har tusen biter. | Le puzzle a mille pièces. | The jigsaw has a thousand pieces.
+Strikking er hobbyen hennes. | Le tricot est son loisir. | Knitting is her hobby.
+Hagearbeid gir meg ro. | Le jardinage me calme. | Gardening gives me peace.
+Jeg plantet tomater i vår. | J'ai planté des tomates au printemps. | I planted tomatoes in the spring.
+Vann blomstene hver dag. | Arrose les fleurs tous les jours. | Water the flowers every day.
+Barna tegner og fotograferer på turen. | Les enfants dessinent et prennent des photos pendant la sortie. | The children draw and take photos on the trip.
+Vi filmet bryllupet. | Nous avons filmé le mariage. | We filmed the wedding.
+Vi akte hele ettermiddagen. | Nous avons fait de la luge tout l'après-midi. | We sledged all afternoon.
+Han vinket til oss fra båten. | Il nous a fait signe depuis le bateau. | He waved to us from the boat.
+Ballen gikk i mål! | La balle est entrée dans le but ! | The ball went into the goal!
+
+@theme tek Technology
+Datamaskinen på kontoret er gammel. | L'ordinateur du bureau est vieux. | The computer in the office is old.
+Skjermen er for lys om kvelden. | L'écran est trop lumineux le soir. | The screen is too bright in the evening.
+Tastaturet er norsk. | Le clavier est norvégien. | The keyboard is Norwegian.
+Skriveren er tom for papir. | L'imprimante n'a plus de papier. | The printer is out of paper.
+Last ned appen på mobilen. | Télécharge l'application sur ton portable. | Download the app on your phone.
+Nettsiden til kommunen har all informasjon. | Le site web de la commune a toutes les informations. | The municipality's website has all the information.
+Klikk på lenken i e-posten. | Clique sur le lien dans l'e-mail. | Click the link in the email.
+Lagre filen i mappa. | Enregistre le fichier dans le dossier. | Save the file in the folder.
+Slett{slette} de gamle bildene. | Supprime les vieilles photos. | Delete the old photos.
+Videoen er på nettsiden. | La vidéo est sur le site. | The video is on the website.
+Kameraet tar gode bilder i mørket. | L'appareil photo prend de bonnes photos dans le noir. | The camera takes good photos in the dark.
+Skru ned høyttaleren, barna sover. | Baisse l'enceinte, les enfants dorment. | Turn down the speaker, the children are asleep.
+Hodetelefonene er i sekken. | Le casque est dans le sac. | The headphones are in the bag.
+Ladekabelen er hjemme. | Le câble de charge est à la maison. | The charging cable is at home.
+Hva er passordet til wifien? | Quel est le mot de passe du wifi ? | What's the wifi password?
+Nettverket er nede i dag. | Le réseau est en panne aujourd'hui. | The network is down today.
+Brukernavnet er e-posten din. | Le nom d'utilisateur est ton e-mail. | The username is your email.
+Innloggingen virker ikke. | La connexion ne marche pas. | The login doesn't work.
+Det kom en oppdatering i natt. | Une mise à jour est arrivée cette nuit. | An update came last night.
+Jeg får en feilmelding hver gang. | Je reçois un message d'erreur à chaque fois. | I get an error message every time.
+Ungdommen bruker sosiale medier hele dagen. | Les jeunes utilisent les réseaux sociaux toute la journée. | Young people use social media all day.
+Nyhetene på radio klokka sju. | Les actualités à la radio à sept heures. | The news on the radio at seven.
+Bytt kanal, dette er kjedelig. | Change de chaîne, c'est ennuyeux. | Change the channel, this is boring.
+Det er for mye reklame på tv. | Il y a trop de publicité à la télé. | There's too much advertising on TV.
+Logg inn med brukernavn og passord. | Connecte-toi avec ton nom d'utilisateur et ton mot de passe. | Log in with your username and password.
+Logg ut når du er ferdig. | Déconnecte-toi quand tu as fini. | Log out when you're done.
+Trykk på den grønne knappen. | Appuie sur le bouton vert. | Press the green button.
+Klikk her for å laste opp bildet. | Clique ici pour téléverser la photo. | Click here to upload the photo.
+Søk på nettet etter oppskriften. | Cherche la recette en ligne. | Search online for the recipe.
+Batteriet lades om natta. | La batterie se charge la nuit. | The battery charges overnight.
+
+@theme tid Time
+Vent et sekund, jeg kommer. | Attends une seconde, j'arrive. | Wait a second, I'm coming.
+Bussen går om et kvarter. | Le bus part dans un quart d'heure. | The bus leaves in a quarter of an hour.
+Butikken er åpen hele døgnet. | Le magasin est ouvert 24 heures sur 24. | The shop is open around the clock.
+Jeg jobber alle ukedager. | Je travaille tous les jours de semaine. | I work every weekday.
+Første mai er helligdag i Norge. | Le premier mai est un jour férié en Norvège. | The first of May is a public holiday in Norway.
+Vinteren er den lengste årstiden her. | L'hiver est la saison la plus longue ici. | Winter is the longest season here.
+Vi kom hjem ved midnatt. | Nous sommes rentrés à minuit. | We got home at midnight.
+Møtet er klokka tolv, altså midt på dagen. | La réunion est à midi, donc en milieu de journée. | The meeting is at twelve, so in the middle of the day.
+Jeg jobber om formiddagen og har fri om ettermiddagen. | Je travaille le matin et je suis libre l'après-midi. | I work in the late morning and have the afternoon off.
+I skumringen kommer elgen fram. | Au crépuscule, l'élan apparaît. | At dusk the moose comes out.
+Vi sto opp ved daggry. | Nous nous sommes levés à l'aube. | We got up at dawn.
+Fortiden er over, tenk på framtiden. | Le passé est derrière, pense à l'avenir. | The past is over, think about the future.
+Lev i nåtiden. | Vis dans le présent. | Live in the present.
+Det var en vanskelig periode. | C'était une période difficile. | It was a difficult period.
+Hvilket tidspunkt passer deg? | Quel moment te convient ? | What time suits you?
+Juleferien starter i desember. | Les vacances de Noël commencent en décembre. | The Christmas holidays start in December.
+Sommerferien er lang i Norge. | Les vacances d'été sont longues en Norvège. | The summer holidays are long in Norway.
+Vinterferien er i februar. | Les vacances d'hiver sont en février. | The winter holidays are in February.
+Høstferien er i uke førti. | Les vacances d'automne sont la semaine quarante. | The autumn holidays are in week forty.
+Godt nyttår! | Bonne année ! | Happy New Year!
+Vi feirer nyttårsaften med venner. | Nous fêtons la Saint-Sylvestre avec des amis. | We celebrate New Year's Eve with friends.
+På julaften spiser vi klokka fem. | La veille de Noël, nous mangeons à cinq heures. | On Christmas Eve we eat at five.
+Nasjonaldagen er i mai. | La fête nationale est en mai. | The national day is in May.
+Bursdagsfesten er på lørdag. | La fête d'anniversaire est samedi. | The birthday party is on Saturday.
+Fristen for søknaden er i morgen. | La date limite pour la candidature est demain. | The deadline for the application is tomorrow.
+Hun jobber lenger enn meg hver dag. | Elle travaille plus longtemps que moi chaque jour. | She works longer than me every day.
+Vi ses videre i uka. | On se voit plus tard dans la semaine. | See you later in the week.
+Resten av dagen har jeg fri. | Le reste de la journée, je suis libre. | I have the rest of the day off.
+Inntil videre bor vi her. | Pour l'instant, nous habitons ici. | For now we live here.
+Etter hvert lærte jeg dialekten. | Petit à petit, j'ai appris le dialecte. | Gradually I learned the dialect.
+Til slutt kom bussen. | Enfin, le bus est arrivé. | Finally the bus came.
+I løpet av uka blir det snø. | Au cours de la semaine, il va neiger. | During the week there will be snow.
+Umiddelbart etter møtet ringte jeg. | Immédiatement après la réunion, j'ai appelé. | Immediately after the meeting I called.
+
+@theme folelser Feelings
+Følelsen av å være hjemme er god. | La sensation d'être chez soi est bonne. | The feeling of being home is good.
+Sorgen etter bestemor var stor. | Le chagrin après grand-mère était grand. | The grief after grandma was great.
+Frykten for ulven er gammel. | La peur du loup est ancienne. | The fear of the wolf is old.
+Han viste sinne på møtet. | Il a montré de la colère à la réunion. | He showed anger at the meeting.
+Hat{hat} er en tung følelse. | La haine est un sentiment lourd. | Hatred is a heavy feeling.
+Det er alltid håp{håp}. | Il y a toujours de l'espoir. | There's always hope.
+Humøret hans er dårlig om morgenen. | Son humeur est mauvaise le matin. | His mood is bad in the morning.
+Stemningen på festen var god. | L'ambiance à la fête était bonne. | The atmosphere at the party was good.
+Latteren hennes er høy. | Son rire est fort. | Her laughter is loud.
+Han fikk et smil fra kunden. | Il a eu un sourire du client. | He got a smile from the customer.
+Tårene kom da hun leste brevet. | Les larmes sont venues quand elle a lu la lettre. | Tears came when she read the letter.
+Gi meg en klem! | Fais-moi un câlin ! | Give me a hug!
+Et kyss på kinnet er vanlig i Frankrike. | Un baiser sur la joue est courant en France. | A kiss on the cheek is common in France.
+Vennskapet vårt er gammelt. | Notre amitié est ancienne. | Our friendship is old.
+Tålmodighet er viktig med barn. | La patience est importante avec les enfants. | Patience is important with children.
+Det krever mot å flytte til et nytt land. | Il faut du courage pour déménager dans un nouveau pays. | It takes courage to move to a new country.
+Hun har sterk vilje. | Elle a une forte volonté. | She has a strong will.
+Barna har behov for ro. | Les enfants ont besoin de calme. | The children need calm.
+Drømmejobben min er i *Rollag. | Mon emploi de rêve est à Rollag. | My dream job is in Rollag.
+Jeg hadde et mareritt i natt. | J'ai fait un cauchemar cette nuit. | I had a nightmare last night.
+For en overraskelse! | Quelle surprise ! | What a surprise!
+Skuffelsen var stor da vi tapte. | La déception a été grande quand nous avons perdu. | The disappointment was great when we lost.
+Det var en misforståelse. | C'était un malentendu. | It was a misunderstanding.
+Konflikten på jobben er over. | Le conflit au travail est terminé. | The conflict at work is over.
+Krangelen varte hele kvelden. | La dispute a duré toute la soirée. | The quarrel lasted all evening.
+Hun ba om tilgivelse. | Elle a demandé pardon. | She asked for forgiveness.
+Personligheten hans er rolig. | Sa personnalité est calme. | His personality is calm.
+Hun har god humor. | Elle a de l'humour. | She has a good sense of humour.
+Det er en dårlig vane å røyke. | Fumer est une mauvaise habitude. | Smoking is a bad habit.
+Han har en uvane: han kommer sent. | Il a un défaut : il arrive en retard. | He has a bad habit: he's late.
+Oppførselen hans var frekk. | Son comportement était insolent. | His behaviour was rude.
+Holdningen din er viktig på jobb. | Ton attitude est importante au travail. | Your attitude is important at work.
+Hun har evne til å lære fort. | Elle a la capacité d'apprendre vite. | She has the ability to learn fast.
+Skam er en vond følelse. | La honte est un sentiment pénible. | Shame is a painful feeling.
+Stoltheten over jobben er stor. | La fierté du travail est grande. | Pride in the job is great.
+Ærlighet varer lengst. | L'honnêteté paie toujours. | Honesty lasts longest.
+Han er lykkelig med familien. | Il est heureux avec sa famille. | He's happy with his family.
+Jeg er interessert i norsk historie. | Je m'intéresse à l'histoire norvégienne. | I'm interested in Norwegian history.
+Er du skyldig eller uskyldig? | Es-tu coupable ou innocent ? | Are you guilty or innocent?
+Hun er ansvarlig for kjøkkenet. | Elle est responsable de la cuisine. | She's responsible for the kitchen.
+Han var urolig før intervjuet. | Il était inquiet avant l'entretien. | He was anxious before the interview.
+Ikke vær feig, si det! | Ne sois pas lâche, dis-le ! | Don't be a coward, say it!
+Jeg ble flau da jeg sa feil ord. | J'ai été gêné quand j'ai dit le mauvais mot. | I was embarrassed when I said the wrong word.
+Han var skamfull etter krangelen. | Il avait honte après la dispute. | He was ashamed after the quarrel.
+Hun er sjalu på søstera si. | Elle est jalouse de sa sœur. | She's jealous of her sister.
+Ikke vær misunnelig på naboen. | Ne sois pas envieux du voisin. | Don't be envious of the neighbour.
+Vi er takknemlige for hjelpen. | Nous sommes reconnaissants pour l'aide. | We're grateful for the help.
+Kunden var misfornøyd med maten. | Le client était mécontent du repas. | The customer was dissatisfied with the food.
+Jeg er ensom om vinteren. | Je me sens seul en hiver. | I'm lonely in winter.
+Vær tålmodig med den nye kollegaen. | Sois patient avec le nouveau collègue. | Be patient with the new colleague.
+Barna er utålmodige før jul. | Les enfants sont impatients avant Noël. | The children are impatient before Christmas.
+Læreren er streng, men snill. | Le professeur est strict, mais gentil. | The teacher is strict but kind.
+Været er mildt i dag. | Le temps est doux aujourd'hui. | The weather is mild today.
+Det var en grusom ulykke. | C'était un accident terrible. | It was a terrible accident.
+For et fælt vær! | Quel temps horrible ! | What awful weather!
+Maten var ekkel. | Le repas était dégoûtant. | The food was disgusting.
+Utsikten fra toppen er strålende. | La vue depuis le sommet est splendide. | The view from the top is brilliant.
+Resultatet var imponerende. | Le résultat était impressionnant. | The result was impressive.
+Filmen var spennende. | Le film était passionnant. | The film was exciting.
+Det er latterlig dyrt. | C'est ridiculement cher. | It's ridiculously expensive.
+Ikke vær teit! | Ne sois pas bête ! | Don't be silly!
+Hun er dyktig i jobben. | Elle est compétente dans son travail. | She's skilled at her job.
+Været var elendig i ferien. | Le temps était nul pendant les vacances. | The weather was lousy on holiday.
+Dette er et ideelt sted for barn. | C'est un endroit idéal pour les enfants. | This is an ideal place for children.
+Det er typisk norsk å gå på tur. | C'est typiquement norvégien de se promener. | Going for a walk is typically Norwegian.
+Den generelle regelen er enkel. | La règle générale est simple. | The general rule is simple.
+Dette er en nasjonal helligdag. | C'est un jour férié national. | This is a national public holiday.
+Firmaet er internasjonalt. | L'entreprise est internationale. | The company is international.
+Vi lager tradisjonell mat til jul. | Nous préparons des plats traditionnels pour Noël. | We make traditional food for Christmas.
+Vannet er lunkent, ikke varmt. | L'eau est tiède, pas chaude. | The water is lukewarm, not hot.
+Det er iskaldt ute i dag. | Il fait un froid glacial dehors aujourd'hui. | It's ice-cold outside today.
+Kjelleren er fuktig. | La cave est humide. | The basement is damp.
+Rommet er rotete, rydd det. | La chambre est en désordre, range-la. | The room is messy, tidy it.
+Kniven er sløv, ta en skarp. | Le couteau est émoussé, prends-en un tranchant. | The knife is blunt, take a sharp one.
+Veggen er ru. | Le mur est rugueux. | The wall is rough.
+Bildet henger skjevt. | Le tableau est de travers. | The picture hangs crooked.
+Bordet er rundt og flatt. | La table est ronde et plate. | The table is round and flat.
+Beskjeden var uklar. | Le message n'était pas clair. | The message was unclear.
+Naboene er høylytte om natta. | Les voisins sont bruyants la nuit. | The neighbours are loud at night.
+Bussen er langsom, men billig. | Le bus est lent, mais bon marché. | The bus is slow but cheap.
+Jeg er utslitt etter vakta. | Je suis épuisé après le service. | I'm exhausted after the shift.
+Hun er blind på ett øye. | Elle est aveugle d'un œil. | She's blind in one eye.
+Bestefar er nesten døv. | Grand-père est presque sourd. | Grandpa is almost deaf.
+Rommet er tilgjengelig fra klokka tre. | La chambre est disponible à partir de trois heures. | The room is available from three o'clock.
+Det er sannsynlig at det snør. | Il est probable qu'il neige. | It's likely to snow.
+Jeg er usikker på svaret. | Je ne suis pas sûr de la réponse. | I'm unsure about the answer.
+Det er uviktig hvem som vant. | Peu importe qui a gagné. | It's unimportant who won.
+Det er unødvendig å ringe. | Il est inutile d'appeler. | It's unnecessary to call.
+Kartet er nyttig i fjellet. | La carte est utile en montagne. | The map is useful in the mountains.
+Den gamle mobilen er ubrukelig. | Le vieux portable est inutilisable. | The old phone is useless.
+Er det verdt prisen? | Ça vaut le prix ? | Is it worth the price?
+Ringen er verdifull. | La bague a de la valeur. | The ring is valuable.
+Vi møttes tilfeldig på toget. | Nous nous sommes rencontrés par hasard dans le train. | We met by chance on the train.
+Kjøkkenet er felles for alle. | La cuisine est commune à tous. | The kitchen is shared by everyone.
+Vi har dobbel seng på hytta. | Nous avons un lit double au chalet. | We have a double bed at the cabin.
+De to søstrene er ulike. | Les deux sœurs sont différentes. | The two sisters are different.
+Livet her er annerledes enn i Frankrike. | La vie ici est différente de la France. | Life here is different from France.
+Det er utrolig vakkert her. | C'est incroyablement beau ici. | It's incredibly beautiful here.
+Vær forsiktig på isen. | Sois prudent sur la glace. | Be careful on the ice.
+Vi fikk en skikkelig middag. | Nous avons eu un vrai dîner. | We had a proper dinner.
+Det var en merkelig lyd fra loftet. | Il y avait un bruit étrange venant du grenier. | There was a strange noise from the attic.
+Dette er min personlige mening. | C'est mon avis personnel. | This is my personal opinion.
+Vi har en hemmelig plan for bursdagen. | Nous avons un plan secret pour l'anniversaire. | We have a secret plan for the birthday.
+Beskjeden var tydelig. | Le message était clair. | The message was clear.
+Det er uvanlig med snø i mai. | La neige en mai, c'est inhabituel. | Snow in May is unusual.
+Det er lovlig å fiske her. | Il est légal de pêcher ici. | It's legal to fish here.
+Parken er offentlig. | Le parc est public. | The park is public.
+Vær nøyaktig når du måler. | Sois précis quand tu mesures. | Be exact when you measure.
+Skjemaet er komplisert. | Le formulaire est compliqué. | The form is complicated.
+Fjellet er enormt. | La montagne est énorme. | The mountain is enormous.
+Vinden var kraftig i natt. | Le vent était fort cette nuit. | The wind was strong last night.
+Kongen er mektig, men snill. | Le roi est puissant, mais gentil. | The king is powerful but kind.
+Kunstneren er berømt i hele landet. | L'artiste est célèbre dans tout le pays. | The artist is famous across the country.
+En ukjent mann ringte på døra. | Un inconnu a sonné à la porte. | An unknown man rang the doorbell.
+Det er menneskelig å gjøre feil. | Il est humain de se tromper. | It's human to make mistakes.
+Honning er et naturlig produkt. | Le miel est un produit naturel. | Honey is a natural product.
+Blomstene er kunstige. | Les fleurs sont artificielles. | The flowers are artificial.
+Pengene var falske. | L'argent était faux. | The money was fake.

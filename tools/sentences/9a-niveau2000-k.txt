@@ -1,0 +1,197 @@
+# Niveau 2000, lot 11 : verbes et adjectifs du quotidien
+@level 2000
+
+@theme hverdag Everyday life
+Det er ikke min skyld at bussen var sen. | Ce n'est pas ma faute si le bus était en retard. | It's not my fault the bus was late.
+Vi nyter utsikten fra toppen. | Nous profitons de la vue depuis le sommet. | We enjoy the view from the top.
+Hva slags bil har naboen? | Quel genre de voiture a le voisin ? | What kind of car does the neighbour have?
+Elva er vid og stille om sommeren. | La rivière est large et calme en été. | The river is wide and calm in summer.
+Spilleren på laget skjøt mål. | Le joueur de l'équipe a marqué. | The player on the team scored.
+Passet{pass} ligger i lommeboka. | Le passeport est dans le portefeuille. | The passport is in the wallet.
+Hjelmen beskytter hodet på ski. | Le casque protège la tête à ski. | The helmet protects the head when skiing.
+Det hender at toget er sent. | Il arrive que le train soit en retard. | It happens that the train is late.
+Vi betalte gjelden til banken i fjor. | Nous avons remboursé la dette à la banque l'an dernier. | We paid the debt to the bank last year.
+Isen brøt under skøytene. | La glace a cédé sous les patins. | The ice broke under the skates.
+Hun leder møtet på mandag. | Elle dirige la réunion lundi. | She leads the meeting on Monday.
+Jeg pleier å stå opp klokka seks. | J'ai l'habitude de me lever à six heures. | I usually get up at six.
+Katten overlevde vinteren i låven. | Le chat a survécu à l'hiver dans la grange. | The cat survived the winter in the barn.
+Læreren retter{rette} prøvene i kveld. | Le professeur corrige les tests ce soir. | The teacher corrects the tests tonight.
+Tjenesten på hotellet var god. | Le service à l'hôtel était bon. | The service at the hotel was good.
+Veden brenner godt i ovnen. | Le bois brûle bien dans le poêle. | The wood burns well in the stove.
+Hunden gjemte beinet i hagen. | Le chien a caché l'os dans le jardin. | The dog hid the bone in the garden.
+Tordenen skremte barna. | Le tonnerre a effrayé les enfants. | The thunder scared the children.
+Det er håp{håp} om sol i morgen. | Il y a de l'espoir de soleil demain. | There's hope of sun tomorrow.
+Nyhetene kommer klokka sju på radio. | Les nouvelles passent à sept heures à la radio. | The news comes at seven on the radio.
+Minn meg på å kjøpe melk. | Rappelle-moi d'acheter du lait. | Remind me to buy milk.
+Vinteren her er annerledes enn i *Frankrike. | L'hiver ici est différent de celui de France. | Winter here is different from France.
+Turen var verdt pengene. | Le voyage valait l'argent. | The trip was worth the money.
+Det er en personlig gave fra bestemor. | C'est un cadeau personnel de grand-mère. | It's a personal gift from Grandma.
+Det er merkelig at døra er åpen. | C'est étrange que la porte soit ouverte. | It's strange that the door is open.
+Skriveren på kontoret virker ikke. | L'imprimante du bureau ne marche pas. | The printer at the office doesn't work.
+Hold pusten under vann. | Retiens ton souffle sous l'eau. | Hold your breath under water.
+Styret møtes hver måned. | Le conseil se réunit chaque mois. | The board meets every month.
+Ingen tvinger deg til å bli. | Personne ne te force à rester. | Nobody's forcing you to stay.
+Hun sørger over hunden sin. | Elle pleure son chien. | She's grieving for her dog.
+Er du interessert i fotball? | Tu t'intéresses au foot ? | Are you interested in football?
+Et kyss på kinnet før jobb. | Un baiser sur la joue avant le travail. | A kiss on the cheek before work.
+Gaven er hemmelig til jul. | Le cadeau est secret jusqu'à Noël. | The gift is a secret until Christmas.
+Sikre{sikre} stigen godt før du klatrer opp. | Bloque bien l'échelle avant de monter. | Secure the ladder well before you climb up.
+Myggen plager oss ved vannet om kvelden. | Les moustiques nous embêtent près du lac le soir. | The mosquitoes bother us by the lake in the evening.
+Hun kysset barnet på panna. | Elle a embrassé l'enfant sur le front. | She kissed the child on the forehead.
+Sjefen holdt en kort tale. | Le chef a fait un court discours. | The boss gave a short speech.
+Det var et fælt vær i går. | Il a fait un temps affreux hier. | The weather was awful yesterday.
+Hunden er uskyldig; det var katten. | Le chien est innocent ; c'était le chat. | The dog is innocent; it was the cat.
+Veien var forferdelig glatt. | La route était terriblement glissante. | The road was terribly slippery.
+Det er et hull i sokken. | Il y a un trou dans la chaussette. | There's a hole in the sock.
+Røyken fra bålet lukter godt. | La fumée du feu sent bon. | The smoke from the fire smells good.
+Bussen stanser ved kirka. | Le bus s'arrête à l'église. | The bus stops at the church.
+Klokka på veggen er falsk. | L'horloge au mur est fausse. | The clock on the wall is fake.
+Hunden bet i ballen. | Le chien a mordu la balle. | The dog bit the ball.
+Vi filmet bryllupet med mobilen. | Nous avons filmé le mariage avec le portable. | We filmed the wedding with the phone.
+Han følte seg skyldig etter krangelen. | Il s'est senti coupable après la dispute. | He felt guilty after the argument.
+Det var fryktelig kaldt i natt. | Il a fait terriblement froid cette nuit. | It was terribly cold last night.
+Snøen hindret bussen i å komme. | La neige a empêché le bus d'arriver. | The snow prevented the bus from coming.
+Nyheten spredte seg fort i bygda. | La nouvelle s'est vite répandue dans le village. | The news spread fast in the village.
+Bestefar snakker mye om fortiden. | Grand-père parle beaucoup du passé. | Grandpa talks a lot about the past.
+Bandet står klart på scenen. | Le groupe est prêt sur scène. | The band is ready on stage.
+Katten ble begravd i hagen. | Le chat a été enterré dans le jardin. | The cat was buried in the garden.
+Datteren ligner på mora si. | La fille ressemble à sa mère. | The daughter looks like her mother.
+Hun har evnen til å lytte. | Elle a la capacité d'écouter. | She has the ability to listen.
+Hat{hat} gjør ingen glad. | La haine ne rend personne heureux. | Hatred makes nobody happy.
+Jeg angrer på at jeg solgte hytta. | Je regrette d'avoir vendu le chalet. | I regret selling the cabin.
+Framtiden ser lys ut for bygda. | L'avenir semble radieux pour le village. | The future looks bright for the village.
+Boka var spennende til siste side. | Le livre était passionnant jusqu'à la dernière page. | The book was exciting to the last page.
+Prisene stiger hvert år. | Les prix montent chaque année. | Prices rise every year.
+Ulykken var grusom. | L'accident était atroce. | The accident was horrific.
+De jakter på elg i oktober. | Ils chassent l'élan en octobre. | They hunt moose in October.
+Vi gulver kjøkkenet hver kveld. | Nous lavons le sol de la cuisine chaque soir. | We wash the kitchen floor every evening.
+Barna har ulike interesser. | Les enfants ont des intérêts différents. | The children have different interests.
+Den blinde mannen har en hund. | L'aveugle a un chien. | The blind man has a dog.
+Det er ulovlig å kjøre uten lys. | Il est illégal de rouler sans phares. | It's illegal to drive without lights.
+Han skjulte sitt sinne godt. | Il a bien caché sa colère. | He hid his anger well.
+Jeg våger ikke å hoppe. | Je n'ose pas sauter. | I don't dare jump.
+Lua ser latterlig ut. | Le bonnet a l'air ridicule. | The hat looks ridiculous.
+Tidspunktet passer meg fint. | L'heure me convient bien. | The time suits me fine.
+Hvem er ansvarlig for nøklene? | Qui est responsable des clés ? | Who's responsible for the keys?
+Det lyder som en god plan. | Ça sonne comme un bon plan. | That sounds like a good plan.
+Badet er offentlig og gratis. | La piscine est publique et gratuite. | The pool is public and free.
+Skiltet er tydelig. | Le panneau est clair. | The sign is clear.
+Kongen var mektig i gamle dager. | Le roi était puissant autrefois. | The king was powerful in the old days.
+Kaffen på stasjonen er elendig. | Le café de la gare est nul. | The coffee at the station is lousy.
+Vi bestilte et dobbelt rom. | Nous avons réservé une chambre double. | We booked a double room.
+Grip tauet og hold fast. | Saisis la corde et tiens bon. | Grab the rope and hold on.
+Det er menneskelig å glemme navn. | Il est humain d'oublier des noms. | It's human to forget names.
+Skjemaet fra banken er komplisert. | Le formulaire de la banque est compliqué. | The form from the bank is complicated.
+Jeg har ikke energi i dag. | Je n'ai pas d'énergie aujourd'hui. | I have no energy today.
+Vi er takknemlige for maten. | Nous sommes reconnaissants pour la nourriture. | We're grateful for the food.
+Tapet av nøkkelen kostet dyrt. | La perte de la clé a coûté cher. | Losing the key was expensive.
+Barnet våknet av et mareritt. | L'enfant s'est réveillé d'un cauchemar. | The child woke from a nightmare.
+En ukjent bil sto utenfor huset. | Une voiture inconnue était devant la maison. | An unknown car was outside the house.
+Det er uvanlig varmt for oktober. | Il fait inhabituellement chaud pour octobre. | It's unusually warm for October.
+Det var teit å glemme nøkkelen. | C'était bête d'oublier la clé. | It was silly to forget the key.
+Vi har et felles kjøkken. | Nous avons une cuisine commune. | We have a shared kitchen.
+Barn skal ikke straffes for det. | Les enfants ne doivent pas être punis pour ça. | Children shouldn't be punished for that.
+Vei{veie} melet på vekta. | Pèse la farine sur la balance. | Weigh the flour on the scales.
+Det er naturlig å være trøtt. | C'est naturel d'être fatigué. | It's natural to be tired.
+Katten er feit og lat. | Le chat est gros et paresseux. | The cat is fat and lazy.
+Vi har behov for mer ved. | Nous avons besoin de plus de bois. | We need more wood.
+Jeg spanderer kake på alle i dag. | J'offre du gâteau à tout le monde aujourd'hui. | Cake's on me for everyone today.
+Han følte skam etter løgnen. | Il a eu honte après le mensonge. | He felt shame after the lie.
+Sorgen var tung etter begravelsen. | Le chagrin était lourd après l'enterrement. | The grief was heavy after the funeral.
+Hun er sjalu på søsteren. | Elle est jalouse de sa sœur. | She's jealous of her sister.
+Jeg vil unnskylde meg for bråket. | Je veux m'excuser pour le bruit. | I want to apologise for the noise.
+Utsikten er imponerende. | La vue est impressionnante. | The view is impressive.
+Det er rot på rommet ditt. | Il y a du désordre dans ta chambre. | Your room is a mess.
+Det er forbudt å røyke her. | Il est interdit de fumer ici. | Smoking is forbidden here.
+Regnet var kraftig i natt. | La pluie était forte cette nuit. | The rain was heavy last night.
+Vi møttes helt tilfeldig. | Nous nous sommes rencontrés tout à fait par hasard. | We met completely by chance.
+Vi tok drosje til flyplassen. | Nous avons pris un taxi jusqu'à l'aéroport. | We took a taxi to the airport.
+Det er typisk norsk å gå på ski. | C'est typiquement norvégien de faire du ski. | It's typically Norwegian to go skiing.
+Kafeen er populær om sommeren. | Le café est populaire en été. | The café is popular in summer.
+Vinteren var mild i år. | L'hiver a été doux cette année. | The winter was mild this year.
+Jeg slettet{slette} meldingen. | J'ai supprimé le message. | I deleted the message.
+Hun klemte bestemoren sin. | Elle a serré sa grand-mère dans ses bras. | She hugged her grandmother.
+Jeg ble flau da jeg glemte navnet. | J'ai été gêné quand j'ai oublié le nom. | I was embarrassed when I forgot the name.
+Klokka til bestefar er verdifull. | La montre de grand-père a de la valeur. | Grandpa's watch is valuable.
+Oppførselen hans var dårlig. | Son comportement était mauvais. | His behaviour was bad.
+Vennskapet varte hele livet. | L'amitié a duré toute la vie. | The friendship lasted a lifetime.
+Han besto prøven på første forsøk. | Il a réussi le test du premier coup. | He passed the test on the first try.
+Toget er langsomt, men billig. | Le train est lent, mais bon marché. | The train is slow but cheap.
+Vi tok opp lån for å kjøpe hus. | Nous avons contracté un prêt pour acheter une maison. | We took out a loan to buy a house.
+Kartet er nyttig på fjellet. | La carte est utile en montagne. | The map is useful in the mountains.
+Jeg er usikker på veien. | Je ne suis pas sûr du chemin. | I'm unsure of the way.
+Er det lovlig å fiske her? | Est-il légal de pêcher ici ? | Is it legal to fish here?
+Tårene kom da hun sa ha det. | Les larmes sont venues quand elle a dit au revoir. | Tears came when she said goodbye.
+Den nye generasjonen bruker mobil. | La nouvelle génération utilise le portable. | The new generation uses mobiles.
+Veien svinger{svinge} til venstre etter skolen. | La route tourne à gauche après l'école. | The road bends left after the school.
+Hotellet har internasjonale gjester. | L'hôtel a des clients internationaux. | The hotel has international guests.
+Det er en god vane å gå tur. | C'est une bonne habitude de se promener. | Going for a walk is a good habit.
+Vær ikke feig; si det. | Ne sois pas lâche ; dis-le. | Don't be a coward; say it.
+Stoltheten hans er stor. | Sa fierté est grande. | His pride is great.
+Latteren fylte rommet. | Le rire a rempli la pièce. | Laughter filled the room.
+Er legen tilgjengelig i dag? | Le médecin est-il disponible aujourd'hui ? | Is the doctor available today?
+Han har vondt i lungene etter røyken. | Il a mal aux poumons après la fumée. | His lungs hurt after the smoke.
+Det var en misforståelse om tiden. | C'était un malentendu sur l'heure. | It was a misunderstanding about the time.
+Produktet er laget i Norge. | Le produit est fabriqué en Norvège. | The product is made in Norway.
+Tålmodighet er viktig på kjøkkenet. | La patience est importante en cuisine. | Patience is important in the kitchen.
+Det er sannsynlig at bussen er sen. | Il est probable que le bus soit en retard. | The bus is likely to be late.
+Paraplyen er ubrukelig i vinden. | Le parapluie est inutile dans le vent. | The umbrella is useless in the wind.
+Hun har en god holdning. | Elle a une bonne attitude. | She has a good attitude.
+Temaet i dag er været. | Le thème d'aujourd'hui est la météo. | Today's topic is the weather.
+Jobben er slitsom, men fin. | Le travail est fatigant, mais bien. | The job is tiring but nice.
+Han har god humor. | Il a un bon sens de l'humour. | He has a good sense of humour.
+Hunden er gammel og døv. | Le chien est vieux et sourd. | The dog is old and deaf.
+Mål{måle} lengden på bordet. | Mesure la longueur de la table. | Measure the length of the table.
+Han ba om tilgivelse for løgnen. | Il a demandé pardon pour le mensonge. | He asked forgiveness for the lie.
+Det er unødvendig å vente lenger. | Il est inutile d'attendre plus longtemps. | There's no need to wait any longer.
+Han klipper skjegget hver uke. | Il taille sa barbe chaque semaine. | He trims his beard every week.
+Nasjonaldagen feires med is og kake. | La fête nationale est célébrée avec de la glace et du gâteau. | The national day is celebrated with ice cream and cake.
+Vinteren er en lang periode her. | L'hiver est une longue période ici. | Winter is a long period here.
+Jeg er utslitt etter skiftet. | Je suis épuisé après le service. | I'm exhausted after the shift.
+Ikke mas om godteri. | N'insiste pas pour des bonbons. | Don't nag about sweets.
+Det ble konflikt om parkeringen. | Il y a eu un conflit au sujet du parking. | There was a conflict about the parking.
+Hun har en sterk personlighet. | Elle a une forte personnalité. | She has a strong personality.
+Stemningen på jobb er god. | L'ambiance au travail est bonne. | The mood at work is good.
+Ikke nøl; ring legen. | N'hésite pas ; appelle le médecin. | Don't hesitate; call the doctor.
+Skoene er slitte. | Les chaussures sont usées. | The shoes are worn out.
+Navnet står øverst på lista. | Le nom est en haut de la liste. | The name is at the top of the list.
+Vinduet smalt{smelle} igjen i vinden. | La fenêtre a claqué dans le vent. | The window slammed shut in the wind.
+Gni såpe på flekken. | Frotte du savon sur la tache. | Rub soap on the stain.
+Det er en generell regel. | C'est une règle générale. | It's a general rule.
+Vi satt på benken ved elva. | Nous étions assis sur le banc près de la rivière. | We sat on the bench by the river.
+Han er misunnelig på bilen til naboen. | Il envie la voiture du voisin. | He's envious of the neighbour's car.
+Ærlighet er viktig i et vennskap. | L'honnêteté est importante dans une amitié. | Honesty is important in a friendship.
+Skuffelsen var stor etter tapet. | La déception était grande après la défaite. | The disappointment was great after the loss.
+Hosten holdt meg våken. | La toux m'a tenu éveillé. | The cough kept me awake.
+Blomstene på bordet er kunstige. | Les fleurs sur la table sont artificielles. | The flowers on the table are artificial.
+Vi spiser tradisjonell mat på julaften. | Nous mangeons de la nourriture traditionnelle la veille de Noël. | We eat traditional food on Christmas Eve.
+Skriv navnet på arket. | Écris le nom sur la feuille. | Write the name on the sheet.
+Detaljen er uviktig. | Le détail est sans importance. | The detail is unimportant.
+Garasjen er rotete. | Le garage est en désordre. | The garage is messy.
+Lev i nåtiden, ikke i fortiden. | Vis dans le présent, pas dans le passé. | Live in the present, not in the past.
+Kunden var misfornøyd med rommet. | Le client était mécontent de la chambre. | The customer was unhappy with the room.
+Prisen står nederst på siden. | Le prix est en bas de la page. | The price is at the bottom of the page.
+Vi høster{høste} epler i september. | Nous récoltons les pommes en septembre. | We harvest apples in September.
+Rygg{rygge} bilen inn i garasjen. | Recule la voiture dans le garage. | Reverse the car into the garage.
+Været er ideelt for ski. | Le temps est idéal pour le ski. | The weather is ideal for skiing.
+Foten er hoven etter turen. | Le pied est enflé après la balade. | The foot is swollen after the walk.
+Kundene er utålmodige før lunsj. | Les clients sont impatients avant le déjeuner. | The customers are impatient before lunch.
+Naboene var høylytte i natt. | Les voisins ont été bruyants cette nuit. | The neighbours were loud last night.
+Kjelleren er fuktig om våren. | La cave est humide au printemps. | The cellar is damp in spring.
+Kniven er sløv; bruk en annen. | Le couteau est émoussé ; prends-en un autre. | The knife is blunt; use another one.
+Bilene forurenser lufta i byen. | Les voitures polluent l'air en ville. | Cars pollute the air in town.
+Billetten er gyldig i en time. | Le billet est valable une heure. | The ticket is valid for one hour.
+Billetten er ugyldig etter midnatt. | Le billet n'est plus valable après minuit. | The ticket is invalid after midnight.
+Veggen er ru og kald. | Le mur est rugueux et froid. | The wall is rough and cold.
+Han var skamfull etter festen. | Il avait honte après la fête. | He was ashamed after the party.
+Å spise for fort er en uvane. | Manger trop vite est une mauvaise habitude. | Eating too fast is a bad habit.
+Barna leker i skolegården. | Les enfants jouent dans la cour d'école. | The children play in the playground.
+Drømmejobben min er på fjellet. | Mon travail de rêve est en montagne. | My dream job is in the mountains.
+Bekken tørker ut om sommeren. | Le ruisseau s'assèche en été. | The stream dries up in summer.
+Tøm ut kaffen i vasken. | Vide le café dans l'évier. | Pour the coffee out in the sink.
+Jeg har lovet bort bilen i helga. | J'ai promis la voiture pour le week-end. | I've promised the car away for the weekend.
+Jeg stemmer for planen. | Je vote pour le plan. | I vote for the plan.
+Vi har ikke råd til ny bil. | Nous n'avons pas les moyens d'une nouvelle voiture. | We can't afford a new car.
+Jeg er enig med sjefen. | Je suis d'accord avec le chef. | I agree with the boss.
+Fisken er fortsatt i live. | Le poisson est encore vivant. | The fish is still alive.
+Vi gikk til fots til kirka. | Nous sommes allés à pied à l'église. | We walked to the church on foot.

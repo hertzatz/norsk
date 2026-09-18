@@ -1,0 +1,331 @@
+# Niveau 2000 : compléments (nourriture, vêtements, loisirs, tech, temps, sentiments)
+@list core2
+
+# Nourriture et cuisine
+frokostblanding | f | céréales | breakfast cereal
+havregryn | npl | flocons d'avoine | oats | havregryn,havregrynene
+yoghurt | m | yaourt | yoghurt | yoghurt,yoghurten,yoghurter,yoghurtene
+syltetøy | n | confiture | jam | syltetøy,syltetøyet,,
+sennep | m | moutarde | mustard | sennep,sennepen,,
+ketsjup | m | ketchup | ketchup | ketsjup,ketsjupen,,
+eddik | m | vinaigre | vinegar | eddik,eddiken,,
+hvitløk | m | ail | garlic | hvitløk,hvitløken,,
+gulrot | f | carotte | carrot | gulrot,gulrota,gulrøtter,gulrøttene
+agurk | m | concombre | cucumber
+paprika | m | poivron | pepper (vegetable) | paprika,paprikaen,paprikaer,paprikaene
+kål | m | chou | cabbage
+erter | npl | petits pois | peas | erter,ertene
+bønner | npl | haricots | beans | bønner,bønnene
+sopp | m | champignon | mushroom
+appelsin | m | orange | orange
+sitron | m | citron | lemon
+pære | f | poire | pear
+jordbær | n | fraise | strawberry | jordbær,jordbæret,jordbær,jordbærene
+blåbær | n | myrtille | blueberry | blåbær,blåbæret,blåbær,blåbærene
+tyttebær | n | airelle | lingonberry | tyttebær,tyttebæret,tyttebær,tyttebærene
+nøtt | f | noix | nut | nøtt,nøtta,nøtter,nøttene
+svinekjøtt | n | porc (viande) | pork | svinekjøtt,svinekjøttet,,
+storfekjøtt | n | bœuf (viande) | beef | storfekjøtt,storfekjøttet,,
+lam | n | agneau | lamb | lam,lammet,lam,lamma
+kjøttdeig | m | viande hachée | minced meat | kjøttdeig,kjøttdeigen,,
+bacon | n | bacon | bacon | bacon,baconet,,
+makrell | m | maquereau | mackerel | makrell,makrellen,makrell,makrellene
+sild | f | hareng | herring | sild,silda,sild,sildene
+pasta | m | pâtes | pasta | pasta,pastaen,,
+nudler | npl | nouilles | noodles | nudler,nudlene
+pannekake | f | crêpe | pancake
+kjeks | m | biscuit | biscuit | kjeks,kjeksen,kjeks,kjeksene
+godteri | n | bonbons | sweets | godteri,godteriet,godterier,godteriene
+frokostbord | n | table du petit-déjeuner | breakfast table | frokostbord,frokostbordet,frokostbord,frokostbordene
+oppvaskkum | m | évier | sink | oppvaskkum,oppvaskkummen,oppvaskkummer,oppvaskkummene
+stekeovn | m | four | oven
+kjøkkenbenk | m | plan de travail | kitchen counter
+skål | f | bol | bowl
+mugge | f | carafe, pichet | jug
+teskje | f | cuillère à café | teaspoon | teskje,teskjea/teskjeen,teskjeer,teskjeene
+lokk | n | couvercle | lid | lokk,lokket,lokk,lokka
+korktrekker | m | tire-bouchon | corkscrew | korktrekker,korktrekkeren,korktrekkere,korktrekkerne
+boksåpner | m | ouvre-boîte | can opener | boksåpner,boksåpneren,boksåpnere,boksåpnerne
+kjøkkenrull | m | essuie-tout | kitchen roll
+matvarer | npl | denrées alimentaires | groceries | matvarer,matvarene
+holdbarhet | f | date de péremption | shelf life | holdbarhet,holdbarheten,,
+appetitt | m | appétit | appetite | appetitt,appetitten,,
+vegetar | adj | végétarien (plat) | vegetarian | vegetar,vegetar,vegetar
+
+# Vêtements
+klesplagg | n | vêtement | garment | klesplagg,klesplagget,klesplagg,klesplagga/klesplaggene
+t-skjorte | f | T-shirt | T-shirt | t-skjorte,t-skjorta,t-skjorter,t-skjortene
+jeans | m | jean | jeans | jeans,jeansen,jeans,jeansene
+shorts | m | short | shorts | shorts,shortsen,shorts,shortsene
+skjørt | n | jupe | skirt | skjørt,skjørtet,skjørt,skjørta
+dress | m | costume | suit | dress,dressen,dresser,dressene
+slips | n | cravate | tie | slips,slipset,slips,slipsa
+frakk | m | manteau | coat
+regnjakke | f | imperméable | raincoat
+dunjakke | f | doudoune | down jacket
+ullgenser | m | pull en laine | wool sweater | ullgenser,ullgenseren,ullgensere,ullgenserne
+ull | f | laine | wool | ull,ulla,,
+bomull | f | coton | cotton | bomull,bomulla,,
+undertøy | n | sous-vêtements | underwear | undertøy,undertøyet,,
+strømpebukse | f | collant | tights
+joggesko | m | baskets | trainers | joggesko,joggeskoen,joggesko,joggeskoene
+sandal | m | sandale | sandal
+tøffel | m | pantoufle | slipper | tøffel,tøffelen,tøfler,tøflene
+belte | n | ceinture | belt
+knapp | m | bouton | button
+glidelås | m | fermeture éclair | zip
+caps | m | casquette | cap | caps,capsen,capser,capsene
+solbriller | npl | lunettes de soleil | sunglasses | solbriller,solbrillene
+prøverom | n | cabine d'essayage | fitting room | prøverom,prøverommet,prøverom,prøveromma
+
+# Loisirs, sport, culture
+idrett | m | sport | sport | idrett,idretten,idretter,idrettene
+kamp | m | match | match
+seier | m | victoire | victory | seier,seieren,seire,seirene
+tap | n | défaite | loss | tap,tapet,tap,tapa
+konkurranse | m | concours, compétition | competition
+premie | m | prix (récompense) | prize
+medalje | m | médaille | medal
+langrenn | n | ski de fond | cross-country skiing | langrenn,langrennet,,
+slalåm | m | ski alpin | alpine skiing | slalåm,slalåmen,,
+skøyter | npl | patins à glace | ice skates | skøyter,skøytene
+aking | f | luge | sledging | aking,akinga,,
+kjelke | m | luge (objet) | sledge
+skiheis | m | remontée mécanique | ski lift
+løype | f | piste | trail, track
+fjelltur | m | randonnée en montagne | mountain hike
+telttur | m | camping | camping trip
+bål | n | feu de camp | campfire | bål,bålet,bål,båla
+grill | m | barbecue | barbecue
+fiskestang | f | canne à pêche | fishing rod | fiskestang,fiskestanga,fiskestenger,fiskestengene
+jakt | f | chasse | hunting | jakt,jakta/jakten,,
+svømmehall | m | piscine (couverte) | swimming pool | svømmehall,svømmehallen,svømmehaller,svømmehallene
+treningssenter | n | salle de sport | gym | treningssenter,treningssenteret,treningssentre,treningssentrene
+fotballbane | m | terrain de foot | football pitch
+teater | n | théâtre | theatre | teater,teateret,teatre,teatrene
+konsert | m | concert | concert
+festival | m | festival | festival
+museum | n | musée | museum | museum,museet,museer,museene
+utstilling | f | exposition | exhibition
+maleri | n | tableau (peinture) | painting | maleri,maleriet,malerier,maleriene
+kunstner | m | artiste | artist | kunstner,kunstneren,kunstnere,kunstnerne
+forfatter | m | écrivain | writer | forfatter,forfatteren,forfattere,forfatterne
+roman | m | roman | novel
+dikt | n | poème | poem | dikt,diktet,dikt,dikta
+eventyr | n | conte | fairy tale | eventyr,eventyret,eventyr,eventyra
+serie | m | série | series
+skuespiller | m | acteur | actor | skuespiller,skuespilleren,skuespillere,skuespillerne
+sanger | m | chanteur | singer | sanger,sangeren,sangere,sangerne
+band | n | groupe (musique) | band | band,bandet,band,banda
+instrument | n | instrument | instrument | instrument,instrumentet,instrumenter,instrumentene
+gitar | m | guitare | guitar
+piano | n | piano | piano | piano,pianoet,pianoer,pianoene
+terning | m | dé | dice
+puslespill | n | puzzle | jigsaw | puslespill,puslespillet,puslespill,puslespilla
+strikking | f | tricot | knitting | strikking,strikkinga,,
+hagearbeid | n | jardinage | gardening | hagearbeid,hagearbeidet,,
+
+# Technologie, médias
+datamaskin | m | ordinateur | computer
+skjerm | m | écran | screen
+tastatur | n | clavier | keyboard | tastatur,tastaturet,tastaturer,tastaturene
+skriver | m | imprimante | printer | skriver,skriveren,skrivere,skriverne
+app | m | application | app | app,appen,apper,appene
+nettside | f | site web | website
+lenke | f | lien | link
+fil | f | fichier | file
+mappe | f | dossier | folder
+video | m | vidéo | video | video,videoen,videoer,videoene
+kamera | n | appareil photo | camera | kamera,kameraet,kameraer,kameraene
+høyttaler | m | enceinte, haut-parleur | speaker | høyttaler,høyttaleren,høyttalere,høyttalerne
+hodetelefoner | npl | casque audio | headphones | hodetelefoner,hodetelefonene
+ladekabel | m | câble de charge | charging cable | ladekabel,ladekabelen,ladekabler,ladekablene
+wifi | m | wifi | wifi | wifi,wifien,,
+nettverk | n | réseau | network | nettverk,nettverket,nettverk,nettverka
+brukernavn | n | nom d'utilisateur | username | brukernavn,brukernavnet,brukernavn,brukernavna
+innlogging | f | connexion | login
+oppdatering | f | mise à jour | update
+feilmelding | f | message d'erreur | error message
+sosiale medier | npl | réseaux sociaux | social media | sosiale medier,sosiale mediene
+radio | m | radio | radio | radio,radioen,radioer,radioene
+kanal | m | chaîne | channel
+reklame | m | publicité | advertising
+
+# Temps et calendrier
+døgn | n | 24 heures, journée entière | day (24 hours) | døgn,døgnet,døgn,døgna
+ukedag | m | jour de semaine | weekday
+helligdag | m | jour férié | public holiday
+årstid | f | saison | season
+midnatt | f | minuit | midnight | midnatt,midnatten,,
+formiddag | m | matinée | late morning
+skumring | f | crépuscule | dusk | skumring,skumringa/skumringen,,
+daggry | n | aube | dawn | daggry,daggryet,,
+fortid | f | passé | past | fortid,fortida/fortiden,,
+nåtid | f | présent | present | nåtid,nåtida/nåtiden,,
+framtid | f | avenir | future | framtid,framtida/framtiden,,
+periode | m | période | period
+tidspunkt | n | moment (précis) | point in time | tidspunkt,tidspunktet,tidspunkt,tidspunkta
+juleferie | m | vacances de Noël | Christmas holidays
+sommerferie | m | vacances d'été | summer holidays
+vinterferie | m | vacances d'hiver | winter holidays
+høstferie | m | vacances d'automne | autumn holidays
+nyttår | n | nouvel an | New Year | nyttår,nyttåret,,
+nyttårsaften | m | Saint-Sylvestre | New Year's Eve | nyttårsaften,nyttårsaftenen,,
+julaften | m | veille de Noël | Christmas Eve | julaften,julaftenen,,
+nasjonaldag | m | fête nationale | national day
+bursdagsfest | m | fête d'anniversaire | birthday party
+
+# Sentiments, caractère
+sorg | f | chagrin | grief | sorg,sorga/sorgen,sorger,sorgene
+frykt | m | peur | fear | frykt,frykten,,
+sinne | n | colère | anger | sinne,sinnet,,
+hat | n | haine | hatred | hat,hatet,,
+håp | n | espoir | hope | håp,håpet,,
+humør | n | humeur | mood | humør,humøret,,
+stemning | f | ambiance | atmosphere
+latter | m | rire | laughter | latter,latteren,,
+smil | n | sourire | smile | smil,smilet,smil,smila
+tåre | f | larme | tear
+klem | m | câlin | hug | klem,klemmen,klemmer,klemmene
+kyss | n | baiser | kiss | kyss,kysset,kyss,kyssa
+vennskap | n | amitié | friendship | vennskap,vennskapet,,
+tålmodighet | f | patience | patience | tålmodighet,tålmodigheten,,
+vilje | m | volonté | will
+behov | n | besoin | need | behov,behovet,behov,behova
+drømmejobb | m | emploi de rêve | dream job
+mareritt | n | cauchemar | nightmare | mareritt,marerittet,mareritt,mareritta
+overraskelse | m | surprise | surprise
+skuffelse | m | déception | disappointment
+misforståelse | m | malentendu | misunderstanding
+konflikt | m | conflit | conflict
+krangel | m | dispute | quarrel | krangel,krangelen,krangler,kranglene
+tilgivelse | f | pardon | forgiveness | tilgivelse,tilgivelsen,,
+personlighet | m | personnalité | personality
+humor | m | humour | humour | humor,humoren,,
+vane | m | habitude | habit
+uvane | m | mauvaise habitude | bad habit
+oppførsel | m | comportement | behaviour | oppførsel,oppførselen,,
+holdning | f | attitude | attitude
+evne | f | capacité | ability
+skam | f | honte | shame | skam,skamma,,
+stolthet | f | fierté | pride | stolthet,stoltheten,,
+ærlighet | f | honnêteté | honesty | ærlighet,ærligheten,,
+
+# Verbes supplémentaires
+le av | v | rire de | laugh at | le av,ler av,lo av,ledd av
+klemme | v2 | serrer dans ses bras | hug
+trøste | v1 | consoler | comfort
+sette i gang | v | démarrer, lancer | get started | sette i gang,setter i gang,satte i gang,satt i gang
+gå gjennom | v | passer en revue | go through | gå gjennom,går gjennom,gikk gjennom,gått gjennom
+slå opp | v | chercher (dans un dictionnaire) | look up | slå opp,slår opp,slo opp,slått opp
+skrive ned | v | noter | write down | skrive ned,skriver ned,skrev ned,skrevet ned
+lese gjennom | v2 | relire | read through | lese gjennom,leser gjennom,leste gjennom,lest gjennom
+laste ned | v1 | télécharger | download | laste ned,laster ned,lasta ned/lastet ned,lasta ned/lastet ned
+laste opp | v1 | téléverser | upload | laste opp,laster opp,lasta opp/lastet opp,lasta opp/lastet opp
+logge inn | v1 | se connecter | log in | logge inn,logger inn,logga inn/logget inn,logga inn/logget inn
+logge ut | v1 | se déconnecter | log out | logge ut,logger ut,logga ut/logget ut,logga ut/logget ut
+trykke på | v1 | appuyer sur | press | trykke på,trykker på,trykka på/trykket på,trykka på/trykket på
+klikke | v1 | cliquer | click
+lagre | v1 | enregistrer, sauvegarder | save
+slette | v1 | supprimer | delete
+søke på | v2 | chercher (en ligne) | search for | søke på,søker på,søkte på,søkt på
+sende inn | v2 | envoyer (formulaire) | submit | sende inn,sender inn,sendte inn,sendt inn
+fylle ut | v2 | remplir (formulaire) | fill in | fylle ut,fyller ut,fylte ut,fylt ut
+krysse av | v1 | cocher | tick | krysse av,krysser av,kryssa av/krysset av,kryssa av/krysset av
+strekke | v | étirer | stretch | strekke,strekker,strakk,strukket
+bøye | v3 | plier | bend
+snuble | v1 | trébucher | stumble
+gli | v | glisser | slide, slip | gli,glir,gled,glidd
+gå på ski | v | faire du ski | ski | gå på ski,går på ski,gikk på ski,gått på ski
+gå på skøyter | v | patiner | skate | gå på skøyter,går på skøyter,gikk på skøyter,gått på skøyter
+ake | v | faire de la luge | sledge | ake,aker,akte/aket,akt/aket
+grille | v1 | faire un barbecue | barbecue
+tenne bål | v2 | faire un feu | light a fire | tenne bål,tenner bål,tente bål,tent bål
+plante | v1 | planter | plant
+vanne | v1 | arroser | water
+høste | v1 | récolter | harvest
+strikke | v1 | tricoter | knit
+sy | v3 | coudre | sew
+fotografere | v2 | photographier | photograph
+filme | v1 | filmer | film
+opptre | v | se produire (scène) | perform | opptre,opptrer,opptrådte,opptrådt
+
+# Ajouts
+tale | m | discours | speech
+redde | v1 | sauver | save, rescue
+herregud | int | mon Dieu | good God
+stiv | adj | raide | stiff | stiv,stivt,stive
+løs | adj | desserré, détaché | loose | løs,løst,løse
+binde | v | attacher, nouer | tie | binde,binder,bandt,bundet
+pipe | v | siffler, biper | beep, whistle | pipe,piper,pep,pepet
+sving | m | virage | bend
+mørke | n | obscurité | darkness | mørke,mørket,,
+service | m | service | service | service,servicen,,
+øke | v1 | augmenter | increase
+nederst | adv | tout en bas | at the bottom
+øverst | adv | tout en haut | at the top
+forbudt | adj | interdit | forbidden | forbudt,forbudt,forbudte
+planlegging | f | planification | planning | planlegging,planlegginga/planleggingen,,
+gryte | f | marmite, casserole | pot
+setning | f | phrase | sentence
+ordbok | f | dictionnaire | dictionary | ordbok,ordboka,ordbøker,ordbøkene
+stengetid | f | heure de fermeture | closing time
+slitt | adj | usé | worn | slitt,slitt,slitte
+Sverige | prop | Suède | Sweden
+studium | n | études | studies | studium,studiet,studier,studiene
+vid | adj | vaste, large | wide | vid,vidt,vide
+bratt | adj | abrupt, raide | steep | bratt,bratt,bratte
+låve | m | grange | barn
+feit | adj | gras, gros | fat | feit,feitt,feite
+sti | m | sentier | path
+havn | f | port | harbour
+brygge | f | ponton, quai | jetty
+ende | v2 | finir, se terminer | end
+ende | m | bout, fin | end
+spiller | m | joueur | player | spiller,spilleren,spillere,spillerne
+populær | adj | populaire | popular | populær,populært,populære
+kreve | v | exiger, demander | require, demand | kreve,krever,krevde,krevd
+utsikt | f | vue | view | utsikt,utsikten,utsikter,utsiktene
+produkt | n | produit | product | produkt,produktet,produkter,produktene
+jeger | m | chasseur | hunter | jeger,jegeren,jegere,jegerne
+skolegård | m | cour d'école | school yard
+plante | f | plante | plant
+nordlys | n | aurore boréale | northern lights | nordlys,nordlyset,,
+søsken | npl | frères et sœurs | siblings | søsken,søsknene
+postmann | m | facteur | postman | postmann,postmannen,postmenn,postmennene
+ark | n | feuille (papier) | sheet (of paper) | ark,arket,ark,arka/arkene
+styre | n | conseil d'administration | board | styre,styret,styrer,styrene
+sparke | v1 | donner un coup de pied ; virer | kick ; sack
+skjegg | n | barbe | beard | skjegg,skjegget,skjegg,skjeggene
+hoven | adj | enflé | swollen | hoven,hovent,hovne
+spre | v3 | répandre, propager | spread | spre,sprer,spredte,spredt
+lunge | f | poumon | lung
+hull | n | trou | hole | hull,hullet,hull,hulla
+lyse | v2 | briller, éclairer | shine, light
+gyldig | adj | valable | valid
+ugyldig | adj | non valable | invalid
+kunst | m | art | art | kunst,kunsten,,
+tema | n | sujet, thème | topic | tema,temaet,temaer,temaene
+forurense | v1 | polluer | pollute
+i tide | adv | à temps | in time
+avhenge av | v | dépendre de | depend on | avhenge av,avhenger av,avhang av,avhengt av
+i live | adv | en vie | alive
+skyld | f | faute, culpabilité | blame, guilt | skyld,skylda/skylden,,
+slitsom | adj | fatigant | tiring | slitsom,slitsomt,slitsomme
+scene | m | scène | stage
+drosje | f | taxi | taxi
+til fots | adv | à pied | on foot
+fange | v1 | attraper, capturer | catch, capture
+slott | n | château | castle
+motsatt | adj | opposé | opposite | motsatt,motsatt,motsatte
+normal | adj | normal | normal
+par | n | couple, paire | couple, pair | par,paret,par,parene
+fall | n | chute | fall | fall,fallet,fall,fallene
+løp | n | course | race, run | løp,løpet,løp,løpene
+via | prep | via, par | via
+misunnelse | m | envie, jalousie | envy
+flytting | f | déménagement | move, moving | flytting,flyttinga/flyttingen,,
+saks | f | ciseaux | scissors | saks,saksa,sakser,saksene
+utland | n | étranger (pays) | abroad | utland,utlandet,,
+moden | adj | mûr | ripe | moden,modent,modne
+temperatur | m | température | temperature

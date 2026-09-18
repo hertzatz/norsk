@@ -1,0 +1,358 @@
+# Niveau 2000 : noms
+@list core2
+
+# Personnes, société
+gud | m | dieu | god
+kaptein | m | capitaine | captain
+herr | m | monsieur (titre) | Mr | herr,herren,herrer,herrene
+fru | f | madame (titre) | Mrs | fru,fruen,fruer,fruene
+frøken | f | mademoiselle | Miss | frøken,frøkenen,frøkner,frøknene
+doktor | m | docteur | doctor | doktor,doktoren,doktorer,doktorene
+advokat | m | avocat | lawyer
+politimann | m | policier | policeman | politimann,politimannen,politimenn,politimennene
+sjåfør | m | chauffeur | driver
+partner | m | partenaire | partner | partner,partneren,partnere,partnerne
+kamerat | m | camarade, pote | mate, buddy
+kompis | m | copain | pal, buddy
+idiot | m | idiot | idiot
+prest | m | pasteur, prêtre | priest
+soldat | m | soldat | soldier
+konge | m | roi | king
+dronning | f | reine | queen
+prins | m | prince | prince
+prinsesse | f | princesse | princess
+president | m | président | president
+direktør | m | directeur | director
+eier | m | propriétaire | owner | eier,eieren,eiere,eierne
+medlem | n | membre | member | medlem,medlemmet,medlemmer,medlemmene
+publikum | n | public | audience | publikum,publikumet,,
+fetter | m | cousin | (male) cousin | fetter,fetteren,fettere,fetterne
+kusine | f | cousine | (female) cousin
+brud | f | mariée | bride
+brudgom | m | marié | groom | brudgom,brudgommen,brudgommer,brudgommene
+ektemann | m | mari | husband | ektemann,ektemannen,ektemenn,ektemennene
+enke | f | veuve | widow
+pasient | m | patient | patient
+sykepleier | m | infirmier, infirmière | nurse | sykepleier,sykepleieren,sykepleiere,sykepleierne
+tannlege | m | dentiste | dentist
+frisør | m | coiffeur | hairdresser
+mekaniker | m | mécanicien | mechanic | mekaniker,mekanikeren,mekanikere,mekanikerne
+snekker | m | menuisier, charpentier | carpenter | snekker,snekkeren,snekkere,snekkerne
+elektriker | m | électricien | electrician | elektriker,elektrikeren,elektrikere,elektrikerne
+rørlegger | m | plombier | plumber | rørlegger,rørleggeren,rørleggere,rørleggerne
+bibliotekar | m | bibliothécaire | librarian
+kjendis | m | célébrité | celebrity
+tyv | m | voleur | thief
+fange | m | prisonnier | prisoner
+morder | m | meurtrier | murderer | morder,morderen,mordere,morderne
+vitne | n | témoin | witness
+offer | n | victime | victim | offer,offeret,ofre,ofrene
+fiende | m | ennemi | enemy
+helt | m | héros | hero
+ungdom | m | jeune, jeunesse | youth, young person | ungdom,ungdommen,ungdommer,ungdommene
+tenåring | m | adolescent | teenager
+pensjonist | m | retraité | pensioner
+innvandrer | m | immigré | immigrant | innvandrer,innvandreren,innvandrere,innvandrerne
+flyktning | m | réfugié | refugee
+befolkning | f | population | population
+generasjon | m | génération | generation
+menneskehet | f | humanité | humanity | menneskehet,menneskeheten,,
+
+# Corps, santé
+hjerne | m | cerveau | brain
+hud | f | peau | skin
+bryst | n | poitrine | chest, breast
+nakke | m | nuque | neck (back)
+kinn | n | joue | cheek
+lepp | f | lèvre | lip | lepp,leppa,lepper,leppene
+hake | f | menton | chin
+tå | f | orteil | toe | tå,tåa,tær,tærne
+hæl | m | talon | heel
+albue | m | coude | elbow
+håndledd | n | poignet | wrist | håndledd,håndleddet,håndledd,håndledda
+lår | n | cuisse | thigh
+ankel | m | cheville | ankle | ankel,ankelen,ankler,anklene
+muskel | m | muscle | muscle | muskel,muskelen,muskler,musklene
+sår | n | plaie | wound | sår,såret,sår,såra
+smerte | m | douleur | pain
+sykdom | m | maladie | illness | sykdom,sykdommen,sykdommer,sykdommene
+forkjølelse | m | rhume | cold (illness)
+influensa | m | grippe | flu | influensa,influensaen,,
+kreft | m | cancer | cancer | kreft,kreften,,
+hoste | m | toux | cough | hoste,hosten,,
+søvn | m | sommeil | sleep | søvn,søvnen,,
+pust | m | souffle | breath | pust,pusten,,
+bandasje | m | pansement | bandage
+plaster | n | pansement adhésif | plaster | plaster,plasteret,plaster,plastrene
+pille | f | pilule | pill
+resept | m | ordonnance | prescription
+vekt | f | poids ; balance | weight ; scales
+diett | m | régime | diet
+mosjon | m | exercice physique | exercise | mosjon,mosjonen,,
+stress | n | stress | stress | stress,stresset,,
+
+# Maison, objets
+bygning | m | bâtiment | building
+loft | n | grenier | attic | loft,loftet,loft,lofta
+balkong | m | balcon | balcony
+terrasse | m | terrasse | terrace
+gjerde | n | clôture | fence
+port | m | portail | gate
+inngangsdør | f | porte d'entrée | front door
+nøkkelring | m | porte-clés | keyring
+ringeklokke | f | sonnette | doorbell
+møbel | n | meuble | furniture | møbel,møbelet,møbler,møblene
+benk | m | banc ; plan de travail | bench ; counter
+skrivebord | n | bureau (meuble) | desk | skrivebord,skrivebordet,skrivebord,skrivebordene
+madrass | m | matelas | mattress
+gardin | f | rideau | curtain
+kalender | m | calendrier | calendar | kalender,kalenderen,kalendere,kalenderne
+verktøy | n | outil | tool | verktøy,verktøyet,verktøy,verktøya
+hammer | m | marteau | hammer | hammer,hammeren,hamre,hamrene
+skrue | m | vis | screw
+spiker | m | clou | nail | spiker,spikeren,spiker,spikrene
+tau | n | corde | rope | tau,tauet,tau,taua
+stige | m | échelle | ladder
+boks | m | boîte, canette | box, can
+lomme | f | poche | pocket
+lommebok | f | portefeuille | wallet | lommebok,lommeboka,lommebøker,lommebøkene
+koffert | m | valise | suitcase
+paraply | m | parapluie | umbrella
+briller | npl | lunettes | glasses | briller,brillene
+ring | m | bague | ring
+smykke | n | bijou | jewellery
+leke | f | jouet | toy
+ball | m | balle, ballon | ball
+hjelm | m | casque | helmet
+telt | n | tente | tent | telt,teltet,telt,telta
+sovepose | m | sac de couchage | sleeping bag
+kompass | n | boussole | compass | kompass,kompasset,kompass,kompassene
+lommelykt | f | lampe de poche | torch
+batteri | n | pile, batterie | battery | batteri,batteriet,batterier,batteriene
+kabel | m | câble | cable | kabel,kabelen,kabler,kablene
+stikkontakt | m | prise électrique | socket
+varme | m | chaleur, chauffage | heat, heating | varme,varmen,,
+røyk | m | fumée | smoke | røyk,røyken,,
+røykvarsler | m | détecteur de fumée | smoke alarm | røykvarsler,røykvarsleren,røykvarslere,røykvarslerne
+brannslukker | m | extincteur | fire extinguisher | brannslukker,brannslukkeren,brannslukkere,brannslukkerne
+forsikring | f | assurance | insurance
+husleie | f | loyer | rent
+strømregning | f | facture d'électricité | electricity bill
+nabolag | n | quartier | neighbourhood | nabolag,nabolaget,nabolag,nabolaga
+
+# Ville, transport, administration
+torg | n | place (publique) | square | torg,torget,torg,torga
+fortau | n | trottoir | pavement | fortau,fortauet,fortau,fortaua
+kryss | n | carrefour | crossroads | kryss,krysset,kryss,kryssa
+lyskryss | n | feu de circulation | traffic lights | lyskryss,lyskrysset,lyskryss,lyskryssa
+skilt | n | panneau | sign | skilt,skiltet,skilt,skilta
+tunnel | m | tunnel | tunnel | tunnel,tunnelen,tunneler,tunnelene
+motorvei | m | autoroute | motorway
+bensinstasjon | m | station-service | petrol station
+bensin | m | essence | petrol | bensin,bensinen,,
+diesel | m | gazole | diesel | diesel,dieselen,,
+elbil | m | voiture électrique | electric car
+lastebil | m | camion | lorry
+traktor | m | tracteur | tractor
+motor | m | moteur | engine
+dekk | n | pneu | tyre | dekk,dekket,dekk,dekka/dekkene
+ratt | n | volant | steering wheel | ratt,rattet,ratt,ratta
+førerkort | n | permis de conduire | driving licence | førerkort,førerkortet,førerkort,førerkorta
+bot | f | amende | fine | bot,bota/boten,bøter,bøtene
+fartsgrense | f | limitation de vitesse | speed limit
+holdeplass | m | arrêt (bus) | bus stop
+rute | f | ligne, itinéraire | route
+ferge | f | ferry | ferry
+flyplass | m | aéroport | airport
+bagasje | m | bagages | luggage | bagasje,bagasjen,,
+pass | n | passeport | passport | pass,passet,pass,passa
+visum | n | visa | visa | visum,visumet,visum,visuma
+grense | f | frontière | border
+tollvesen | n | douane | customs | tollvesen,tollvesenet,,
+skjema | n | formulaire | form | skjema,skjemaet,skjemaer,skjemaene
+dokument | n | document | document | dokument,dokumentet,dokumenter,dokumentene
+kopi | m | copie | copy
+underskrift | f | signature | signature
+rett | m | droit ; tribunal | right ; court
+fengsel | n | prison | prison | fengsel,fengselet,fengsler,fengslene
+straff | f | punition, peine | punishment
+tyveri | n | vol | theft | tyveri,tyveriet,tyverier,tyveriene
+innbrudd | n | cambriolage | burglary | innbrudd,innbruddet,innbrudd,innbrudda
+myndighet | f | autorité | authority
+regjering | f | gouvernement | government
+fylke | n | comté, département | county
+stat | m | État | state
+avgift | f | taxe | fee, duty
+støtte | f | aide, subvention | support, benefit
+pensjon | m | retraite | pension
+barnetrygd | f | allocations familiales | child benefit
+konto | m | compte | account | konto,kontoen,kontoer,kontoene
+lån | n | prêt | loan | lån,lånet,lån,låna
+rente | f | intérêt (taux) | interest
+gjeld | f | dette | debt | gjeld,gjelda/gjelden,,
+budsjett | n | budget | budget | budsjett,budsjettet,budsjetter,budsjettene
+utgift | f | dépense | expense
+inntekt | f | revenu | income
+kvittering | f | reçu | receipt
+faktura | m | facture | invoice | faktura,fakturaen,fakturaer,fakturaene
+rabatt | m | remise | discount
+salg | n | vente, soldes | sale | salg,salget,salg,salga
+handel | m | commerce | trade | handel,handelen,,
+marked | n | marché | market | marked,markedet,markeder,markedene
+fabrikk | m | usine | factory
+verksted | n | atelier | workshop | verksted,verkstedet,verksteder,verkstedene
+lager | n | entrepôt, stock | warehouse, stock | lager,lageret,lagre,lagrene
+leverandør | m | fournisseur | supplier
+tjeneste | m | service | service
+kvalitet | m | qualité | quality
+mengde | m | quantité | amount, quantity
+antall | n | nombre | number | antall,antallet,antall,antalla
+
+# Travail, école
+karriere | m | carrière | career
+prosjekt | n | projet | project | prosjekt,prosjektet,prosjekter,prosjektene
+mål | n | but, objectif | goal | mål,målet,mål,måla
+suksess | m | succès | success
+løsning | f | solution | solution
+beslutning | f | décision | decision
+valgmulighet | f | option | option
+fordel | m | avantage | advantage
+ulempe | m | inconvénient | disadvantage
+risiko | m | risque | risk | risiko,risikoen,risikoer,risikoene
+krav | n | exigence | requirement | krav,kravet,krav,krava/kravene
+regelverk | n | réglementation | regulations | regelverk,regelverket,,
+rapport | m | rapport | report
+referat | n | compte rendu | minutes | referat,referatet,referater,referatene
+liste | f | liste | list
+program | n | programme | programme | program,programmet,programmer,programmene
+eksamen | m | examen | exam | eksamen,eksamenen,eksamener,eksamenene
+prøve | f | test, contrôle | test
+karakter | m | note (scolaire) | grade | karakter,karakteren,karakterer,karakterene
+lekse | f | devoir (scolaire) | homework
+fag | n | matière (scolaire) | subject | fag,faget,fag,faga
+universitet | n | université | university | universitet,universitetet,universiteter,universitetene
+student | m | étudiant | student
+lærling | m | apprenti | apprentice
+sertifikat | n | certificat | certificate | sertifikat,sertifikatet,sertifikater,sertifikatene
+CV | m | CV | CV | CV,CV-en,CV-er,CV-ene
+kunnskap | m | connaissance, savoir | knowledge
+ferdighet | f | compétence | skill
+talent | n | talent | talent | talent,talentet,talenter,talentene
+interesse | f | intérêt | interest
+drøm | m | rêve | dream | drøm,drømmen,drømmer,drømmene
+minne | n | souvenir | memory
+hemmelighet | f | secret | secret
+løgn | f | mensonge | lie
+tvil | m | doute | doubt | tvil,tvilen,,
+tillit | f | confiance | trust | tillit,tilliten,,
+respekt | m | respect | respect | respekt,respekten,,
+frihet | f | liberté | freedom
+fred | m | paix | peace | fred,freden,,
+krig | m | guerre | war
+makt | f | pouvoir | power
+kontroll | m | contrôle | control
+orden | m | ordre | order | orden,ordenen,,
+kaos | n | chaos | chaos | kaos,kaoset,,
+situasjon | m | situation | situation
+tilstand | m | état | condition
+forhold | n | relation ; condition | relationship ; condition | forhold,forholdet,forhold,forholda
+samtale | m | conversation | conversation
+diskusjon | m | discussion | discussion
+argument | n | argument | argument | argument,argumentet,argumenter,argumentene
+detalj | m | détail | detail
+eksempel | n | exemple | example | eksempel,eksempelet,eksempler,eksemplene
+type | m | type, sorte | type
+stil | m | style | style
+form | f | forme | shape, form
+størrelse | m | taille (dimension) | size
+høyde | m | hauteur | height
+lengde | m | longueur | length
+bredde | m | largeur | width
+avstand | m | distance | distance
+retning | f | direction | direction
+midten | m | milieu | middle | midten,midten,,
+kant | m | bord | edge
+hjørne | n | coin | corner
+topp | m | sommet | top
+bunn | m | fond | bottom
+overflate | f | surface | surface
+punkt | n | point | point | punkt,punktet,punkter,punktene
+linje | f | ligne | line
+sirkel | m | cercle | circle | sirkel,sirkelen,sirkler,sirklene
+stillhet | f | silence | silence | stillhet,stillheten,,
+bråk | n | bruit, tapage | noise | bråk,bråket,,
+
+# Nature, temps, monde
+univers | n | univers | universe | univers,universet,,
+planet | m | planète | planet
+måne | m | lune | moon
+stjerne | f | étoile | star
+storm | m | tempête | storm
+uvær | n | intempéries | bad weather | uvær,uværet,,
+torden | m | tonnerre | thunder | torden,tordenen,,
+lyn | n | éclair | lightning | lyn,lynet,lyn,lyna
+skygge | m | ombre | shadow
+hete | m | canicule | heat | hete,heten,,
+tørke | f | sécheresse | drought
+flom | m | inondation | flood | flom,flommen,flommer,flommene
+skred | n | avalanche, glissement | landslide, avalanche | skred,skredet,skred,skreda
+jordskjelv | n | tremblement de terre | earthquake | jordskjelv,jordskjelvet,jordskjelv,jordskjelva
+klima | n | climat | climate | klima,klimaet,,
+miljø | n | environnement | environment | miljø,miljøet,miljøer,miljøene
+forurensning | f | pollution | pollution
+energi | m | énergie | energy | energi,energien,,
+gass | m | gaz | gas | gass,gassen,,
+kull | n | charbon | coal | kull,kullet,,
+kilde | f | source | source
+brønn | m | puits | well
+foss | m | cascade | waterfall
+dal | m | vallée | valley
+ås | m | colline | hill
+bakke | m | pente, côte | slope, hill
+vidde | f | plateau (montagne) | mountain plateau
+øy | f | île | island
+kyst | m | côte | coast
+fjord | m | fjord | fjord
+bølge | f | vague | wave
+sand | m | sable | sand | sand,sanden,,
+fjellvegg | m | paroi rocheuse | rock face
+grotte | f | grotte | cave
+mose | m | mousse (plante) | moss
+gran | f | épicéa | spruce
+furu | f | pin | pine
+bjørk | f | bouleau | birch
+blad | n | feuille | leaf | blad,bladet,blad,blada/bladene
+rot | f | racine | root | rot,rota,røtter,røttene
+gren | f | branche | branch
+frø | n | graine | seed | frø,frøet,frø,frøa
+åker | m | champ | field | åker,åkeren,åkrer,åkrene
+eng | f | pré | meadow
+beite | n | pâturage | pasture
+sau | m | mouton | sheep | sau,sauen,sauer,sauene
+geit | f | chèvre | goat
+gris | m | cochon | pig
+høne | f | poule | hen
+hane | m | coq | rooster
+and | f | canard | duck | and,anda,ender,endene
+rein | m | renne | reindeer | rein,reinen,rein,reinene
+rev | m | renard | fox
+ulv | m | loup | wolf
+bjørn | m | ours | bear
+hjort | m | cerf | deer | hjort,hjorten,hjorter,hjortene
+hare | m | lièvre | hare
+ekorn | n | écureuil | squirrel | ekorn,ekornet,ekorn,ekorna
+mus | f | souris | mouse | mus,musa,mus,musene
+rotte | f | rat | rat
+insekt | n | insecte | insect | insekt,insektet,insekter,insektene
+mygg | m | moustique | mosquito | mygg,myggen,mygg,myggene
+flue | f | mouche | fly
+bie | f | abeille | bee
+edderkopp | m | araignée | spider
+orm | m | serpent, ver | snake, worm
+ørret | m | truite | trout | ørret,ørreten,ørret,ørretene
+torsk | m | morue | cod | torsk,torsken,torsk,torskene
+hval | m | baleine | whale
+sel | m | phoque | seal
+måke | f | mouette | seagull
+ørn | f | aigle | eagle
+ugle | f | hibou | owl

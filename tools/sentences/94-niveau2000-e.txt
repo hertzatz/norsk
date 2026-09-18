@@ -1,0 +1,137 @@
+# Niveau 2000, lot 5 : verbes, adverbes, expressions
+@level 2000
+
+@theme hverdag Everyday life
+Ulven drepte tre sauer i natt. | Le loup a tué trois moutons cette nuit. | The wolf killed three sheep last night.
+Jegeren skjøt en elg i oktober. | Le chasseur a tiré un élan en octobre. | The hunter shot a moose in October.
+Hold deg unna isen, den er tynn. | Reste loin de la glace, elle est mince. | Stay away from the ice, it's thin.
+Han sa ikke engang hei. | Il n'a même pas dit bonjour. | He didn't even say hello.
+Hva slags jobb vil du ha? | Quel genre de travail veux-tu ? | What kind of job do you want?
+Ikke lyv for meg. | Ne me mens pas. | Don't lie to me.
+Passet{pass} mitt går ut i mai. | Mon passeport expire en mai. | My passport expires in May.
+Hjelmen beskytter hodet. | Le casque protège la tête. | The helmet protects the head.
+Vi har betalt all gjeld. | Nous avons remboursé toutes nos dettes. | We've paid off all the debt.
+Ikke bryt reglene på jobben. | N'enfreins pas les règles au travail. | Don't break the rules at work.
+Jeg vil takke alle for hjelpen. | Je veux remercier tout le monde pour l'aide. | I want to thank everyone for the help.
+Det var svært hyggelig. | C'était très agréable. | It was very pleasant.
+Det står ille til med bilen. | La voiture est en mauvais état. | The car is in a bad way.
+Rett opp feilen i skjemaet. | Corrige l'erreur dans le formulaire. | Correct the mistake in the form.
+Hotellet tilbyr god tjeneste. | L'hôtel offre un bon service. | The hotel offers good service.
+Barna gjemmer seg bak låven. | Les enfants se cachent derrière la grange. | The children hide behind the barn.
+Det er håp{håp} om bedre vær. | Il y a de l'espoir d'un temps meilleur. | There's hope of better weather.
+Guttene sloss i skolegården. | Les garçons se sont battus dans la cour. | The boys fought in the school yard.
+Han skjulte sannheten for oss. | Il nous a caché la vérité. | He hid the truth from us.
+Nyhetene kommer klokka sju på tv. | Les actualités sont à sept heures à la télé. | The news is on TV at seven.
+Kommunen gir støtte{støtte_noun} til kurset. | La commune subventionne le cours. | The municipality supports the course.
+Minn meg på møtet i morgen. | Rappelle-moi la réunion demain. | Remind me about the meeting tomorrow.
+Vann plantene før du drar. | Arrose les plantes avant de partir. | Water the plants before you leave.
+Har du noensinne sett nordlys? | As-tu jamais vu une aurore boréale ? | Have you ever seen the northern lights?
+Ingen kan tvinge deg. | Personne ne peut te forcer. | Nobody can force you.
+Hele bygda sørger over ulykken. | Tout le village pleure l'accident. | The whole village is grieving over the accident.
+Sikre{sikre} stigen før du klatrer. | Sécurise l'échelle avant de grimper. | Secure the ladder before you climb.
+Myggen plager oss om kvelden. | Les moustiques nous embêtent le soir. | The mosquitoes bother us in the evening.
+Ikke skrem barna med historien. | Ne fais pas peur aux enfants avec l'histoire. | Don't scare the children with the story.
+Hun led mye etter ulykken. | Elle a beaucoup souffert après l'accident. | She suffered a lot after the accident.
+Søsknene krangler om sofaen. | Les frères et sœurs se disputent le canapé. | The siblings argue over the sofa.
+Hunden bet postmannen. | Le chien a mordu le facteur. | The dog bit the postman.
+Det var en fryktelig vinter. | C'était un hiver affreux. | It was a dreadful winter.
+Snøen hindret oss i å kjøre. | La neige nous a empêchés de conduire. | The snow prevented us from driving.
+Sønnen ligner på faren. | Le fils ressemble à son père. | The son resembles his father.
+Jeg hater kulda. | Je déteste le froid. | I hate the cold.
+Jeg angrer på at jeg solgte bilen. | Je regrette d'avoir vendu la voiture. | I regret selling the car.
+Jakten begynner i september. | La chasse commence en septembre. | The hunt begins in September.
+Vi gulver hele hotellet i dag. | Nous lavons les sols de tout l'hôtel aujourd'hui. | We're washing the floors of the whole hotel today.
+Hun kommer ifra *Kongsberg. | Elle vient de Kongsberg. | She comes from Kongsberg.
+Han våget ikke å spørre. | Il n'a pas osé demander. | He didn't dare ask.
+Det er neppe sant. | Ce n'est guère vrai. | That's hardly true.
+Stemmen hans lød trist. | Sa voix semblait triste. | His voice sounded sad.
+Tydeligvis har han glemt det. | Visiblement, il a oublié. | Evidently he's forgotten.
+Han grep tauet og klatret opp. | Il a saisi la corde et a grimpé. | He grabbed the rope and climbed up.
+Åpenbart er det for sent. | Manifestement, c'est trop tard. | Obviously it's too late.
+Naturligvis kan du komme. | Naturellement, tu peux venir. | Naturally you can come.
+Vi gikk omkring i byen hele dagen. | Nous avons flâné en ville toute la journée. | We wandered around town all day.
+Jepp, det stemmer. | Ouais, c'est ça. | Yep, that's right.
+Jeg rakk så vidt bussen. | J'ai eu le bus de justesse. | I just barely caught the bus.
+Javel, da drar vi. | Bon, alors on y va. | All right, let's go then.
+Læreren straffer ikke elevene. | Le professeur ne punit pas les élèves. | The teacher doesn't punish the pupils.
+Vei{veie} melet før du blander. | Pèse la farine avant de mélanger. | Weigh the flour before you mix.
+Avisa avslørte hemmeligheten. | Le journal a révélé le secret. | The paper revealed the secret.
+De begravde bestefar i mai. | Ils ont enterré grand-père en mai. | They buried grandpa in May.
+Jeg spanderer kaffe i dag. | J'offre le café aujourd'hui. | Coffee is on me today.
+Det blir sannsynligvis regn. | Il va probablement pleuvoir. | It will probably rain.
+Unnskyld meg for at jeg er sen. | Excusez-moi d'être en retard. | Excuse me for being late.
+Det hjelper ikke overhodet. | Ça n'aide pas du tout. | It doesn't help at all.
+Dersom det snør, kjører vi ikke. | S'il neige, nous ne conduisons pas. | If it snows, we won't drive.
+Slett{slette} meldingen etterpå. | Supprime le message après. | Delete the message afterwards.
+Hun klemte barnet hardt. | Elle a serré l'enfant fort. | She hugged the child tightly.
+Han kommer antakelig i morgen. | Il vient probablement demain. | He's presumably coming tomorrow.
+Vi kommer muligens senere. | Nous venons peut-être plus tard. | We may possibly come later.
+Vi kom allikevel for sent. | Nous sommes quand même arrivés en retard. | We were late anyway.
+Jo mer du øver, desto bedre snakker du. | Plus tu t'entraînes, mieux tu parles. | The more you practise, the better you speak.
+Vi møttes tilfeldigvis på butikken. | Nous nous sommes rencontrés par hasard au magasin. | We met by chance at the shop.
+Veien går nedover mot elva. | La route descend vers la rivière. | The road goes down towards the river.
+Se framover, ikke bakover. | Regarde en avant, pas en arrière. | Look forward, not back.
+Javisst kan du låne bilen. | Bien sûr que tu peux emprunter la voiture. | Of course you can borrow the car.
+Babyen kryper på gulvet. | Le bébé rampe sur le sol. | The baby crawls on the floor.
+Bilen svingte inn på gården. | La voiture a tourné dans la ferme. | The car turned into the farm.
+Vi gikk utover mot kysten. | Nous sommes allés vers la côte. | We walked out towards the coast.
+Dermed var saken avgjort. | Ainsi, l'affaire était réglée. | Thus the matter was settled.
+Ikke mas, jeg kommer! | N'insiste pas, j'arrive ! | Stop nagging, I'm coming!
+Hun hvisket navnet mitt. | Elle a chuchoté mon nom. | She whispered my name.
+Gå oppover bakken til kirka. | Monte la côte jusqu'à l'église. | Go up the hill to the church.
+Veien går på tvers av dalen. | La route traverse la vallée. | The road runs across the valley.
+Forhåpentligvis blir det sol. | Espérons qu'il y aura du soleil. | Hopefully it'll be sunny.
+Han nølte før han svarte. | Il a hésité avant de répondre. | He hesitated before answering.
+Ettersom det regner, blir vi inne. | Comme il pleut, nous restons à l'intérieur. | Since it's raining, we're staying in.
+Skriv navnet øverst på arket. | Écris ton nom en haut de la feuille. | Write your name at the top of the sheet.
+Døra smalt{smelle} i vinden. | La porte a claqué dans le vent. | The door slammed in the wind.
+Mora trøstet barnet. | La mère a consolé l'enfant. | The mother comforted the child.
+Grillen står på terrassen. | Le barbecue est sur la terrasse. | The barbecue is on the terrace.
+Vi høster{høste} poteter i september. | Nous récoltons les pommes de terre en septembre. | We harvest potatoes in September.
+Nøkkelen er ingensteds å finne. | La clé est introuvable. | The key is nowhere to be found.
+Rygg inn i garasjen. | Recule dans le garage. | Reverse into the garage.
+Jeg vet ikke hvorvidt han kommer. | Je ne sais pas s'il vient. | I don't know whether he's coming.
+Skøytene er for små. | Les patins sont trop petits. | The skates are too small.
+Gjennomsnittlig lønn er høy i Norge. | Le salaire moyen est élevé en Norvège. | Average pay is high in Norway.
+Vi kjørte hjemover ved midnatt. | Nous sommes rentrés vers minuit. | We drove homewards at midnight.
+Gå bortover veien til butikken. | Continue le long de la route jusqu'au magasin. | Go along the road to the shop.
+Hun tilbød seg å hjelpe. | Elle s'est proposée pour aider. | She offered to help.
+Ikke gi deg, du klarer det! | N'abandonne pas, tu vas y arriver ! | Don't give up, you can do it!
+Han kom seg etter sykdommen. | Il s'est remis de sa maladie. | He recovered from his illness.
+Sett deg, maten er klar. | Assieds-toi, le repas est prêt. | Sit down, the food is ready.
+Jeg har lyst på is. | J'ai envie d'une glace. | I feel like an ice cream.
+Du kan stole på naboene her. | Tu peux compter sur les voisins ici. | You can rely on the neighbours here.
+Vi snakker om været hver dag. | Nous parlons du temps tous les jours. | We talk about the weather every day.
+Hør på læreren! | Écoute le professeur ! | Listen to the teacher!
+Han dukket opp uten å ringe. | Il s'est pointé sans appeler. | He showed up without calling.
+Klærne tørker ut i sola. | Les vêtements sèchent au soleil. | The clothes dry out in the sun.
+Ikke gi opp språket! | N'abandonne pas la langue ! | Don't give up on the language!
+Hvil deg litt etter turen. | Repose-toi un peu après la balade. | Rest a bit after the trip.
+Tøm ut bøtta ute. | Vide le seau dehors. | Empty the bucket outside.
+Jeg lovte bort lørdagen til naboen. | J'ai promis mon samedi au voisin. | I promised Saturday to the neighbour.
+Vi stemte for forslaget. | Nous avons voté pour la proposition. | We voted for the proposal.
+Barna teller med når vi bestiller. | Les enfants comptent quand nous commandons. | The children count when we order.
+Kulda varer ved i mars. | Le froid persiste en mars. | The cold persists in March.
+Kan du låne bort sykkelen din? | Tu peux prêter ton vélo ? | Can you lend your bike?
+Meld deg på kurset i norsk. | Inscris-toi au cours de norvégien. | Sign up for the Norwegian course.
+Jeg lurer på om butikken er åpen. | Je me demande si le magasin est ouvert. | I wonder if the shop is open.
+Barna gleder seg til jul. | Les enfants ont hâte d'être à Noël. | The children are looking forward to Christmas.
+Vi har ikke råd til ferie i år. | Nous n'avons pas les moyens de partir en vacances cette année. | We can't afford a holiday this year.
+Jeg er enig med deg. | Je suis d'accord avec toi. | I agree with you.
+Hun er lei seg fordi katten er borte. | Elle est triste parce que le chat a disparu. | She's sad because the cat is gone.
+Han slo seg på isen. | Il s'est fait mal sur la glace. | He hurt himself on the ice.
+Tørk opp vannet på gulvet. | Essuie l'eau par terre. | Wipe up the water on the floor.
+Vi koster på oss en god middag. | Nous nous offrons un bon dîner. | We're treating ourselves to a nice dinner.
+Jeg forstår ikke i det hele tatt. | Je ne comprends pas du tout. | I don't understand at all.
+For øvrig er alt i orden. | Par ailleurs, tout est en ordre. | Otherwise everything is fine.
+Ta bussen i stedet. | Prends le bus à la place. | Take the bus instead.
+I tillegg får du gratis kaffe. | En plus, tu as le café gratuit. | In addition you get free coffee.
+Til og med barna forsto det. | Même les enfants ont compris. | Even the children understood.
+I forhold til i fjor er det varmt. | Par rapport à l'an dernier, il fait chaud. | Compared to last year it's warm.
+Butikken ligger ved siden av banken. | Le magasin est à côté de la banque. | The shop is next to the bank.
+På tross av snøen kom alle. | Malgré la neige, tout le monde est venu. | Despite the snow everyone came.
+Ta te i stedet for kaffe. | Prends du thé au lieu du café. | Have tea instead of coffee.
+Jeg snakker på vegne av alle ansatte. | Je parle au nom de tous les employés. | I speak on behalf of all the staff.
+Takket være hjelpen ble vi ferdige. | Grâce à l'aide, nous avons fini. | Thanks to the help we finished.
+Det er en kafé i nærheten. | Il y a un café à proximité. | There's a café nearby.
+Snakk sakte slik at jeg forstår. | Parle lentement pour que je comprenne. | Speak slowly so that I understand.

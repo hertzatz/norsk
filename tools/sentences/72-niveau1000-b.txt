@@ -15,7 +15,7 @@ Hun kutta seg i fingeren. | Elle s'est coupé le doigt. | She cut her finger.
 Fingeren gjør vondt. | Le doigt fait mal. | The finger hurts.
 Han har vondt i øret. | Il a mal à l'oreille. | He has earache.
 Nesa mi er rød. | J'ai le nez rouge. | My nose is red.
-Pust rolig. | Respire calmement. | Breathe calmly.
+Pust{puste} rolig. | Respire calmement. | Breathe calmly.
 Jeg kan ikke puste! | Je ne peux pas respirer ! | I can't breathe!
 Du må ta medisinen hver morgen. | Tu dois prendre le médicament tous les matins. | You have to take the medicine every morning.
 Medisinen står på badet. | Le médicament est dans la salle de bains. | The medicine is in the bathroom.

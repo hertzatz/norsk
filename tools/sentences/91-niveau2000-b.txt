@@ -1,0 +1,237 @@
+# Niveau 2000, lot 2 : ville, transport, administration, argent, travail, école
+@level 2000
+
+@theme byen In town
+Vi møtes på torget klokka tolv. | On se retrouve sur la place à midi. | We'll meet in the square at twelve.
+Gå på fortauet, ikke i veien. | Marche sur le trottoir, pas sur la route. | Walk on the pavement, not in the road.
+Sving til venstre i krysset. | Tourne à gauche au carrefour. | Turn left at the crossroads.
+Stopp ved lyskrysset når det er rødt. | Arrête-toi au feu quand c'est rouge. | Stop at the traffic lights when it's red.
+Skiltet sier at fartsgrensen er femti. | Le panneau dit que la limitation est à cinquante. | The sign says the speed limit is fifty.
+Tunnelen er stengt på grunn av et skred. | Le tunnel est fermé à cause d'un glissement de terrain. | The tunnel is closed because of a landslide.
+Motorveien går fra *Kongsberg til *Oslo. | L'autoroute va de Kongsberg à Oslo. | The motorway runs from Kongsberg to Oslo.
+Vi stoppet på bensinstasjonen for å fylle bensin. | Nous nous sommes arrêtés à la station-service pour faire le plein. | We stopped at the petrol station to fill up.
+Bensin er dyrere enn diesel i år. | L'essence est plus chère que le gazole cette année. | Petrol is more expensive than diesel this year.
+Mange kjøper elbil nå. | Beaucoup de gens achètent une voiture électrique maintenant. | Many people buy an electric car now.
+Lastebilen sto midt i veien. | Le camion était au milieu de la route. | The lorry was in the middle of the road.
+Bonden kjører traktor på åkeren. | L'agriculteur conduit le tracteur dans le champ. | The farmer drives the tractor in the field.
+Motoren lager en rar lyd. | Le moteur fait un bruit bizarre. | The engine is making a strange noise.
+Dekkene er slitte, skift dekk før vinteren. | Les pneus sont usés, change-les avant l'hiver. | The tyres are worn, change them before winter.
+Hold begge hendene på rattet. | Garde les deux mains sur le volant. | Keep both hands on the wheel.
+Hun tok førerkort [i fjor]. | Elle a eu son permis l'an dernier. | She got her driving licence last year.
+Han fikk en bot for å kjøre for fort. | Il a eu une amende pour excès de vitesse. | He got a fine for speeding.
+Bussen stopper ved holdeplassen ved kirka. | Le bus s'arrête à l'arrêt près de l'église. | The bus stops at the stop by the church.
+Ruta går gjennom hele dalen. | La ligne traverse toute la vallée. | The route goes through the whole valley.
+Ferga går hver time om sommeren. | Le ferry part toutes les heures en été. | The ferry runs every hour in summer.
+Vi må være på flyplassen to timer før. | Nous devons être à l'aéroport deux heures avant. | We must be at the airport two hours before.
+Bagasjen min kom ikke med flyet. | Mes bagages ne sont pas arrivés avec l'avion. | My luggage didn't arrive with the plane.
+Husk passet{pass} når du reiser. | N'oublie pas ton passeport quand tu voyages. | Remember your passport when you travel.
+Trenger jeg visum til Norge? | Ai-je besoin d'un visa pour la Norvège ? | Do I need a visa for Norway?
+Vi krysset grensen til Sverige. | Nous avons passé la frontière suédoise. | We crossed the border into Sweden.
+Tollvesenet sjekket kofferten. | La douane a vérifié la valise. | Customs checked the suitcase.
+Rygg forsiktig, det står en bil bak deg. | Recule prudemment, il y a une voiture derrière toi. | Reverse carefully, there's a car behind you.
+Brems før svingen! | Freine avant le virage ! | Brake before the bend!
+Han kjørte på et skilt i mørket. | Il a percuté un panneau dans le noir. | He drove into a sign in the dark.
+Kjør inn i garasjen og slå av motoren. | Rentre dans le garage et éteins le moteur. | Drive into the garage and turn off the engine.
+Gå av bussen ved neste holdeplass. | Descends du bus au prochain arrêt. | Get off the bus at the next stop.
+Vi gikk på toget i *Kongsberg. | Nous sommes montés dans le train à Kongsberg. | We got on the train in Kongsberg.
+Fabrikken ligger ved elva. | L'usine est au bord de la rivière. | The factory is by the river.
+Bilen står på verkstedet. | La voiture est à l'atelier. | The car is at the workshop.
+Varene ligger på lageret. | Les marchandises sont dans l'entrepôt. | The goods are in the warehouse.
+Leverandøren kommer med varene på mandag. | Le fournisseur livre les marchandises lundi. | The supplier brings the goods on Monday.
+Vi tilbyr god service til kundene. | Nous offrons un bon service aux clients. | We offer good service to customers.
+Kvaliteten på maten er høy. | La qualité de la nourriture est élevée. | The quality of the food is high.
+En stor mengde snø kom i natt. | Une grosse quantité de neige est tombée cette nuit. | A large amount of snow fell last night.
+Antallet turister øker hvert år. | Le nombre de touristes augmente chaque année. | The number of tourists increases every year.
+Markedet er åpent på lørdag. | Le marché est ouvert le samedi. | The market is open on Saturday.
+Handelen går bra om sommeren. | Le commerce marche bien en été. | Trade is good in summer.
+Det er salg på klær i januar. | Il y a des soldes sur les vêtements en janvier. | There's a sale on clothes in January.
+Kan jeg få rabatt? | Je peux avoir une remise ? | Can I get a discount?
+Ta vare på kvitteringen. | Garde le reçu. | Keep the receipt.
+Fakturaen kom i posten i dag. | La facture est arrivée par la poste aujourd'hui. | The invoice came in the post today.
+
+@theme admin Administration and money
+Fyll ut skjemaet og skriv under nederst. | Remplis le formulaire et signe en bas. | Fill in the form and sign at the bottom.
+Ta med alle dokumentene til NAV. | Apporte tous les documents au NAV. | Bring all the documents to NAV.
+Jeg trenger en kopi av passet{pass} ditt. | J'ai besoin d'une copie de ton passeport. | I need a copy of your passport.
+Underskriften din mangler på kontrakten. | Ta signature manque sur le contrat. | Your signature is missing on the contract.
+Det er ulovlig å kjøre uten førerkort. | Il est illégal de conduire sans permis. | It's illegal to drive without a licence.
+Retten avgjorde saken i går. | Le tribunal a tranché l'affaire hier. | The court decided the case yesterday.
+Han sitter i fengsel for tyveri. | Il est en prison pour vol. | He's in prison for theft.
+Straffen var to år. | La peine était de deux ans. | The sentence was two years.
+Det var innbrudd i butikken i natt. | Il y a eu un cambriolage dans le magasin cette nuit. | There was a burglary at the shop last night.
+Myndighetene stengte veien. | Les autorités ont fermé la route. | The authorities closed the road.
+Regjeringen vil ha lavere skatt. | Le gouvernement veut moins d'impôts. | The government wants lower tax.
+Fylket betaler for veiene. | Le comté paie les routes. | The county pays for the roads.
+Staten eier skolen. | L'État possède l'école. | The state owns the school.
+Det er valg i september. | Il y a des élections en septembre. | There's an election in September.
+Avgiften på bilen er høy. | La taxe sur la voiture est élevée. | The tax on the car is high.
+Kommunen gir støtte{støtte_noun} til barnehagen. | La commune subventionne la crèche. | The municipality subsidises the kindergarten.
+Bestefar får pensjon hver måned. | Grand-père touche sa retraite chaque mois. | Grandpa gets his pension every month.
+Vi får barnetrygd for begge barna. | Nous touchons les allocations pour les deux enfants. | We get child benefit for both children.
+Åpne en konto i banken først. | Ouvre d'abord un compte à la banque. | Open a bank account first.
+Vi tok opp et lån for å kjøpe huset. | Nous avons contracté un prêt pour acheter la maison. | We took out a loan to buy the house.
+Renta går opp i år. | Les taux montent cette année. | Interest rates are going up this year.
+Han har mye gjeld etter studiene. | Il a beaucoup de dettes après ses études. | He has a lot of debt after his studies.
+Vi må lage et budsjett for måneden. | Nous devons faire un budget pour le mois. | We have to make a budget for the month.
+Utgiftene er større enn inntektene. | Les dépenses sont plus élevées que les revenus. | Expenses are bigger than income.
+Inntekten min er lav, men husleia er høy. | Mon revenu est faible, mais le loyer est élevé. | My income is low, but the rent is high.
+Skattekortet kommer fra staten. | La carte d'impôt vient de l'État. | The tax card comes from the state.
+Det er forbudt å parkere ved porten. | Il est interdit de se garer devant le portail. | Parking by the gate is forbidden.
+Regelen er enkel: ingen røyk inne. | La règle est simple : pas de fumée à l'intérieur. | The rule is simple: no smoke inside.
+Loven gjelder for alle. | La loi s'applique à tous. | The law applies to everyone.
+Du har rett til pause etter fem timer. | Tu as droit à une pause après cinq heures. | You're entitled to a break after five hours.
+Han har orden på papirene sine. | Il a ses papiers en ordre. | He has his papers in order.
+Kontrollen på flyplassen tok lang tid. | Le contrôle à l'aéroport a pris longtemps. | The check at the airport took a long time.
+Hvem har makten i kommunen? | Qui a le pouvoir dans la commune ? | Who holds power in the municipality?
+Frihet er viktig for nordmenn. | La liberté est importante pour les Norvégiens. | Freedom is important to Norwegians.
+Det er krig i mange land. | Il y a la guerre dans beaucoup de pays. | There is war in many countries.
+Norge har hatt fred i mange år. | La Norvège est en paix depuis de nombreuses années. | Norway has had peace for many years.
+
+@theme jobb Work
+Karrieren hennes startet på et hotell. | Sa carrière a commencé dans un hôtel. | Her career started at a hotel.
+Prosjektet varer i tre måneder. | Le projet dure trois mois. | The project lasts three months.
+Målet er å bli ferdig før jul. | Le but est de finir avant Noël. | The goal is to finish before Christmas.
+Suksessen kom etter mye arbeid. | Le succès est venu après beaucoup de travail. | Success came after a lot of work.
+Vi fant en løsning på problemet. | Nous avons trouvé une solution au problème. | We found a solution to the problem.
+Lederen tok en rask beslutning. | Le responsable a pris une décision rapide. | The manager made a quick decision.
+Du har flere valgmuligheter. | Tu as plusieurs options. | You have several options.
+Fordelen med jobben er kort vei. | L'avantage du travail, c'est le trajet court. | The advantage of the job is the short commute.
+Ulempen er lav lønn. | L'inconvénient, c'est le salaire bas. | The disadvantage is low pay.
+Det er en risiko for brann på kjøkkenet. | Il y a un risque d'incendie en cuisine. | There's a risk of fire in the kitchen.
+Kravet er at du snakker norsk. | L'exigence, c'est que tu parles norvégien. | The requirement is that you speak Norwegian.
+Regelverket for hygiene er strengt. | La réglementation sur l'hygiène est stricte. | The hygiene regulations are strict.
+Skriv en rapport etter møtet. | Écris un rapport après la réunion. | Write a report after the meeting.
+Referatet ligger på kontoret. | Le compte rendu est au bureau. | The minutes are in the office.
+Lag en liste over det vi trenger. | Fais une liste de ce dont nous avons besoin. | Make a list of what we need.
+Programmet for uka henger på veggen. | Le programme de la semaine est affiché au mur. | The week's programme is on the wall.
+Hun besto eksamen med god karakter. | Elle a réussi l'examen avec une bonne note. | She passed the exam with a good grade.
+Prøven var vanskelig, men jeg besto. | Le test était difficile, mais j'ai réussi. | The test was hard, but I passed.
+Barna gjør leksene etter middag. | Les enfants font leurs devoirs après le dîner. | The children do their homework after dinner.
+Norsk er faget jeg liker best. | Le norvégien est ma matière préférée. | Norwegian is my favourite subject.
+Hun studerer ved universitetet i *Oslo. | Elle étudie à l'université d'Oslo. | She studies at the university in Oslo.
+Du trenger et sertifikat for å kjøre lastebil. | Tu as besoin d'un certificat pour conduire un camion. | You need a certificate to drive a lorry.
+Send CV-en din på e-post. | Envoie ton CV par e-mail. | Send your CV by email.
+Kunnskap om språket er viktig. | La connaissance de la langue est importante. | Knowledge of the language is important.
+Han har gode ferdigheter på kjøkkenet. | Il a de bonnes compétences en cuisine. | He has good skills in the kitchen.
+Hun har talent for å lage mat. | Elle a du talent pour cuisiner. | She has a talent for cooking.
+Interessen for friluftsliv er stor her. | L'intérêt pour la vie en plein air est grand ici. | Interest in outdoor life is big here.
+Drømmen min er å eie en kafé. | Mon rêve est de posséder un café. | My dream is to own a café.
+Jeg har gode minner fra første jobb. | J'ai de bons souvenirs de mon premier travail. | I have good memories of my first job.
+Hemmeligheten er god planlegging. | Le secret, c'est une bonne planification. | The secret is good planning.
+Det var en løgn, ikke sannheten. | C'était un mensonge, pas la vérité. | It was a lie, not the truth.
+Jeg har ingen tvil om at du klarer det. | Je n'ai aucun doute que tu y arriveras. | I have no doubt you'll manage it.
+Sjefen har tillit til meg. | Le chef me fait confiance. | The boss trusts me.
+Vis respekt for kollegaene dine. | Montre du respect pour tes collègues. | Show respect for your colleagues.
+Vi har kontroll på situasjonen. | Nous maîtrisons la situation. | We have the situation under control.
+Det er orden på kjøkkenet nå. | La cuisine est en ordre maintenant. | The kitchen is in order now.
+Det var kaos på restauranten i går. | C'était le chaos au restaurant hier. | It was chaos at the restaurant yesterday.
+Tilstanden på kjøleskapet er dårlig. | L'état du réfrigérateur est mauvais. | The condition of the fridge is bad.
+Forholdet til sjefen er godt. | La relation avec le chef est bonne. | The relationship with the boss is good.
+Vi hadde en lang samtale om lønn. | Nous avons eu une longue conversation sur le salaire. | We had a long conversation about pay.
+Diskusjonen varte i en time. | La discussion a duré une heure. | The discussion lasted an hour.
+Argumentet hans var godt. | Son argument était bon. | His argument was good.
+Gi beskjed om alle detaljer. | Signale tous les détails. | Report all the details.
+Dette er et eksempel på godt arbeid. | C'est un exemple de bon travail. | This is an example of good work.
+Hvilken type jobb søker du? | Quel type de travail cherches-tu ? | What type of job are you looking for?
+Hva slags erfaring har du? | Quel genre d'expérience as-tu ? | What kind of experience do you have?
+Hun har sin egen stil. | Elle a son propre style. | She has her own style.
+Formen på bordet er rund. | La table est de forme ronde. | The shape of the table is round.
+Størrelsen på rommet er liten. | La taille de la pièce est petite. | The size of the room is small.
+Høyden på døra er to meter. | La hauteur de la porte est de deux mètres. | The height of the door is two metres.
+Lengden på bordet er tre meter. | La longueur de la table est de trois mètres. | The length of the table is three metres.
+Bredden på veien er smal her. | La largeur de la route est faible ici. | The width of the road is narrow here.
+Avstanden til byen er ti kilometer. | La distance jusqu'à la ville est de dix kilomètres. | The distance to town is ten kilometres.
+Gå i retning av kirka. | Va en direction de l'église. | Go in the direction of the church.
+Sett bordet i midten av rommet. | Mets la table au milieu de la pièce. | Put the table in the middle of the room.
+Kanten på bordet er skarp. | Le bord de la table est tranchant. | The edge of the table is sharp.
+Kafeen ligger på hjørnet. | Le café est au coin. | The café is on the corner.
+Legg toppen av kaka i kjøleskapet. | Mets le dessus du gâteau au réfrigérateur. | Put the top of the cake in the fridge.
+Bunnen av gryta er brent. | Le fond de la casserole est brûlé. | The bottom of the pot is burnt.
+Overflaten må være ren før du maler. | La surface doit être propre avant de peindre. | The surface must be clean before you paint.
+Sett et punkt etter hver setning. | Mets un point après chaque phrase. | Put a full stop after each sentence.
+Skriv på linjen under. | Écris sur la ligne du dessous. | Write on the line below.
+Barna tegnet en sirkel. | Les enfants ont dessiné un cercle. | The children drew a circle.
+Stillheten i skogen er fin. | Le silence dans la forêt est beau. | The silence in the forest is nice.
+Det er mye bråk fra naboen. | Il y a beaucoup de bruit chez le voisin. | There's a lot of noise from the neighbour.
+Arbeidet på gården begynner tidlig. | Le travail à la ferme commence tôt. | Work on the farm starts early.
+Vi arbeider sammen som et lag. | Nous travaillons ensemble comme une équipe. | We work together as a team.
+Kan du ordne bordene før gjestene kommer? | Tu peux arranger les tables avant l'arrivée des clients ? | Can you arrange the tables before the guests arrive?
+Vi må skaffe flere stoler. | Il nous faut trouver plus de chaises. | We need to get more chairs.
+Hun leder kjøkkenet på hotellet. | Elle dirige la cuisine de l'hôtel. | She runs the kitchen at the hotel.
+Hvem styrer firmaet nå? | Qui dirige l'entreprise maintenant ? | Who runs the company now?
+Han driver en kafé i sentrum. | Il tient un café au centre-ville. | He runs a café in the town centre.
+Vi tester den nye oppvaskmaskinen. | Nous testons le nouveau lave-vaisselle. | We're testing the new dishwasher.
+Rett{rette} feilene før du sender rapporten. | Corrige les erreurs avant d'envoyer le rapport. | Correct the mistakes before you send the report.
+Vi samarbeider godt på kjøkkenet. | Nous collaborons bien en cuisine. | We work well together in the kitchen.
+Kan du bekrefte bestillingen? | Tu peux confirmer la commande ? | Can you confirm the order?
+Undersøk om rommet er ledig. | Vérifie si la chambre est libre. | Check whether the room is free.
+Sikre{sikre} døra før du går. | Sécurise la porte avant de partir. | Secure the door before you leave.
+Vi må utvikle menyen. | Nous devons développer la carte. | We need to develop the menu.
+Sjefen vurderer å ansette flere. | Le chef envisage d'embaucher plus de monde. | The boss is considering hiring more people.
+Kontakt lederen hvis du er syk. | Contacte le responsable si tu es malade. | Contact the manager if you're ill.
+Vi behandler kundene godt. | Nous traitons bien les clients. | We treat the customers well.
+Utfør oppgaven før lunsj. | Effectue la tâche avant le déjeuner. | Carry out the task before lunch.
+Jeg ordner regningen. | Je m'occupe de l'addition. | I'll sort out the bill.
+Han innrømte feilen. | Il a admis l'erreur. | He admitted the mistake.
+Jeg foreslår at vi tar pause nå. | Je propose qu'on fasse une pause maintenant. | I suggest we take a break now.
+Vi må avgjøre det i dag. | Nous devons trancher aujourd'hui. | We must decide today.
+Alle bidrar på dugnaden. | Tout le monde contribue à la journée bénévole. | Everyone contributes to the work day.
+Hun overtok kafeen etter faren. | Elle a repris le café après son père. | She took over the café after her father.
+Kan du representere firmaet på møtet? | Tu peux représenter l'entreprise à la réunion ? | Can you represent the company at the meeting?
+Fokuser på kunden, ikke på mobilen. | Concentre-toi sur le client, pas sur ton portable. | Focus on the customer, not on your phone.
+Hva forårsaket brannen? | Qu'est-ce qui a causé l'incendie ? | What caused the fire?
+Jeg opplever jobben som spennende. | Je trouve le travail passionnant. | I find the job exciting.
+Vi aksepterer kort og kontanter. | Nous acceptons les cartes et les espèces. | We accept cards and cash.
+Forsikre deg om at ovnen er av. | Assure-toi que le four est éteint. | Make sure the oven is off.
+Advar gjestene om at gulvet er vått. | Préviens les clients que le sol est mouillé. | Warn the guests that the floor is wet.
+Hun leverte inn søknaden i går. | Elle a remis sa candidature hier. | She handed in the application yesterday.
+Skriv under her, takk. | Signe ici, s'il te plaît. | Sign here, please.
+Sett i gang, vi har dårlig tid! | Vas-y, on est pressés ! | Get going, we're short of time!
+Gå gjennom lista en gang til. | Repasse la liste encore une fois. | Go through the list once more.
+Slå opp ordet i ordboka. | Cherche le mot dans le dictionnaire. | Look up the word in the dictionary.
+Skriv ned nummeret. | Note le numéro. | Write down the number.
+Les gjennom kontrakten før du skriver under. | Relis le contrat avant de signer. | Read through the contract before you sign.
+Send inn skjemaet innen fredag. | Envoie le formulaire avant vendredi. | Submit the form by Friday.
+Kryss av for ja eller nei. | Coche oui ou non. | Tick yes or no.
+Jeg holder på å rydde kjøkkenet. | Je suis en train de ranger la cuisine. | I'm busy tidying the kitchen.
+Det går an å bytte vakt. | C'est possible d'échanger le service. | It is possible to swap shifts.
+Vi finner ut av det i morgen. | On verra ça demain. | We'll figure it out tomorrow.
+Ta med deg nøklene når du går. | Emporte les clés en partant. | Take the keys with you when you leave.
+Vi tar imot gjester fra klokka tre. | Nous accueillons les clients à partir de trois heures. | We receive guests from three o'clock.
+Det ser ut som det blir travelt. | On dirait que ça va être chargé. | It looks like it'll be busy.
+Vi må få tak i en vikar. | Il nous faut trouver un remplaçant. | We need to get hold of a temp.
+Vil du være med på møtet? | Tu veux participer à la réunion ? | Do you want to join the meeting?
+Jeg regner med at du kommer. | Je compte sur ta venue. | I expect you to come.
+Vi kom til å bli sene. | On allait être en retard. | We were going to be late.
+Sørg for at alt er klart. | Veille à ce que tout soit prêt. | Make sure everything is ready.
+Han pleier å komme klokka åtte. | Il a l'habitude d'arriver à huit heures. | He usually comes at eight.
+Det hender at bussen er sen. | Il arrive que le bus soit en retard. | It happens that the bus is late.
+Meld deg på kurset før fredag. | Inscris-toi au cours avant vendredi. | Sign up for the course before Friday.
+Møt opp klokka sju i morgen. | Présente-toi à sept heures demain. | Turn up at seven tomorrow.
+Ring meg tilbake når du kan. | Rappelle-moi quand tu peux. | Call me back when you can.
+Gjestene sjekker inn klokka tre. | Les clients s'enregistrent à trois heures. | The guests check in at three.
+De sjekker ut før klokka elleve. | Ils règlent leur note avant onze heures. | They check out before eleven.
+Vi gjør rent etter frokost. | Nous nettoyons après le petit-déjeuner. | We clean after breakfast.
+Ta en pause, du har det travelt. | Fais une pause, tu es débordé. | Take a break, you're busy.
+Still inn ovnen på to hundre grader. | Règle le four sur deux cents degrés. | Set the oven to two hundred degrees.
+Still spørsmål hvis noe er uklart. | Pose des questions si quelque chose n'est pas clair. | Ask questions if anything is unclear.
+Hun har ikke råd til ny bil. | Elle n'a pas les moyens d'acheter une nouvelle voiture. | She can't afford a new car.
+Du har rett, jeg tok feil. | Tu as raison, je me suis trompé. | You're right, I was wrong.
+Vi er enige om prisen. | Nous sommes d'accord sur le prix. | We agree on the price.
+Hold ut, vakta er snart over. | Tiens bon, le service est bientôt fini. | Hang in there, the shift is almost over.
+Del ut menyene til gjestene. | Distribue les cartes aux clients. | Hand out the menus to the guests.
+Tell opp kassen etter stengetid. | Compte la caisse après la fermeture. | Count the till after closing.
+Tøm ut vannet i vasken. | Vide l'eau dans l'évier. | Pour the water out in the sink.
+Kjøl ned suppa før du setter den i kjøleskapet. | Refroidis la soupe avant de la mettre au réfrigérateur. | Cool the soup before putting it in the fridge.
+Bytt om på bordene i dag. | Échange les tables aujourd'hui. | Swap the tables around today.
+Handle inn til helga. | Fais les courses pour le week-end. | Shop for the weekend.
+Ikke kast bort mat. | Ne gaspille pas la nourriture. | Don't waste food.
+Pakk inn brødet i papir. | Emballe le pain dans du papier. | Wrap the bread in paper.
+Rydd opp før du går hjem. | Range avant de rentrer. | Clean up before you go home.
+Hopp over den delen, den er ikke viktig. | Saute cette partie, elle n'est pas importante. | Skip that part, it's not important.
+Vis fram den nye menyen. | Montre la nouvelle carte. | Show off the new menu.
+Vi leter etter en ny kokk. | Nous cherchons un nouveau cuisinier. | We're looking for a new cook.
+Ta vare på gjestene. | Prends soin des clients. | Take care of the guests.
+Sjefen setter pris på godt arbeid. | Le chef apprécie le bon travail. | The boss appreciates good work.
+Ikke gå glipp av møtet. | Ne rate pas la réunion. | Don't miss the meeting.
+Vi må bli kvitt det gamle kjøleskapet. | Il faut se débarrasser du vieux réfrigérateur. | We must get rid of the old fridge.

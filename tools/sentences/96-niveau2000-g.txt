@@ -1,0 +1,216 @@
+# Niveau 2000, lot 7 : phrases denses (administration, travail, nature, nourriture, vêtements)
+@level 2000
+
+@theme admin Administration and money
+Skjemaet og dokumentene sendes til fylket. | Le formulaire et les documents sont envoyés au comté. | The form and documents are sent to the county.
+Kopien av underskriften er ugyldig. | La copie de la signature n'est pas valable. | The copy of the signature is invalid.
+Retten sa at tyveriet var ulovlig. | Le tribunal a dit que le vol était illégal. | The court said the theft was illegal.
+Fengselet ligger utenfor byen. | La prison est en dehors de la ville. | The prison is outside the town.
+Straffen for innbrudd er streng. | La peine pour cambriolage est sévère. | The punishment for burglary is severe.
+Myndighetene og regjeringen ble enige. | Les autorités et le gouvernement se sont mis d'accord. | The authorities and the government agreed.
+Staten og kommunen deler utgiftene. | L'État et la commune partagent les dépenses. | The state and the municipality share the expenses.
+Valget i september avgjør skatten. | Les élections de septembre décident de l'impôt. | The election in September decides the tax.
+Avgiften på diesel gikk opp. | La taxe sur le gazole a augmenté. | The tax on diesel went up.
+Støtten fra NAV kommer på kontoen. | L'aide du NAV arrive sur le compte. | The support from NAV goes into the account.
+Pensjonen og barnetrygden kommer hver måned. | La retraite et les allocations arrivent chaque mois. | The pension and child benefit come every month.
+Lånet i banken har lav rente. | Le prêt à la banque a un taux bas. | The bank loan has low interest.
+Gjelden vår er mindre enn budsjettet viser. | Notre dette est inférieure à ce que montre le budget. | Our debt is smaller than the budget shows.
+Inntekten øker, men utgiftene også. | Le revenu augmente, mais les dépenses aussi. | Income is rising, but so are expenses.
+Kvitteringen viser rabatten. | Le reçu montre la remise. | The receipt shows the discount.
+Fakturaen har frist den første. | La facture est à payer avant le premier. | The invoice is due on the first.
+Salget av hytter øker i fylket. | La vente de chalets augmente dans le comté. | Sales of cabins are rising in the county.
+Markedet og handelen er gode i år. | Le marché et le commerce sont bons cette année. | The market and trade are good this year.
+Loven om skatt er komplisert. | La loi sur l'impôt est compliquée. | The tax law is complicated.
+Regelen gjelder for hele staten. | La règle vaut pour tout l'État. | The rule applies to the whole state.
+Du har rett til støtte{støtte_noun} fra kommunen. | Tu as droit à une aide de la commune. | You're entitled to support from the municipality.
+Kontrollen ved grensen tok et kvarter. | Le contrôle à la frontière a pris un quart d'heure. | The border check took a quarter of an hour.
+Politiet har makt til å stanse bilen. | La police a le pouvoir d'arrêter la voiture. | The police have the power to stop the car.
+Krigen tok slutt, og freden kom. | La guerre a pris fin, et la paix est venue. | The war ended, and peace came.
+Ordenen i dokumentene er viktig. | L'ordre dans les documents est important. | Order in the documents is important.
+Situasjonen på veiene er kaos etter stormen. | La situation sur les routes est chaotique après la tempête. | The situation on the roads is chaos after the storm.
+Tilstanden i fengselet er dårlig. | Les conditions en prison sont mauvaises. | Conditions in the prison are bad.
+Forholdet mellom staten og kommunene er godt. | La relation entre l'État et les communes est bonne. | The relationship between the state and municipalities is good.
+Passet{pass} mitt trenger en ny kopi. | Mon passeport a besoin d'une nouvelle copie. | My passport needs a new copy.
+Visumet gjelder i ett år. | Le visa est valable un an. | The visa is valid for one year.
+
+@theme jobb Work
+Karrieren og prosjektet gikk bra. | La carrière et le projet se sont bien passés. | The career and the project went well.
+Målet med kurset er suksess på jobben. | Le but du cours est la réussite au travail. | The aim of the course is success at work.
+Løsningen kom etter en lang diskusjon. | La solution est venue après une longue discussion. | The solution came after a long discussion.
+Beslutningen ble tatt av direktøren. | La décision a été prise par le directeur. | The decision was made by the director.
+Valgmulighetene er få i bygda. | Les options sont peu nombreuses au village. | The options are few in the village.
+Fordelen og ulempen med jobben er den samme: turnus. | L'avantage et l'inconvénient du travail sont les mêmes : la rotation. | The advantage and disadvantage of the job are the same: shifts.
+Risikoen for ulykke er høy på verkstedet. | Le risque d'accident est élevé à l'atelier. | The risk of accident is high in the workshop.
+Kravene i regelverket er strenge. | Les exigences de la réglementation sont strictes. | The requirements in the regulations are strict.
+Rapporten og referatet er klare. | Le rapport et le compte rendu sont prêts. | The report and the minutes are ready.
+Lista og programmet henger i gangen. | La liste et le programme sont affichés dans le couloir. | The list and programme hang in the hallway.
+Eksamen og prøven var vanskelige. | L'examen et le test étaient difficiles. | The exam and the test were difficult.
+Karakteren avhenger av leksene. | La note dépend des devoirs. | The grade depends on the homework.
+Faget mitt på universitetet er kunst. | Ma matière à l'université est l'art. | My subject at university is art.
+Sertifikatet og CV-en sendes til firmaet. | Le certificat et le CV sont envoyés à l'entreprise. | The certificate and CV are sent to the company.
+Kunnskap og ferdigheter gir talent. | La connaissance et les compétences donnent du talent. | Knowledge and skills give talent.
+Interessen for faget var stor. | L'intérêt pour la matière était grand. | Interest in the subject was great.
+Drømmen og minnene fra reisen er sterke. | Le rêve et les souvenirs du voyage sont forts. | The dream and memories from the trip are strong.
+Hemmeligheten bak suksessen er tillit. | Le secret du succès, c'est la confiance. | The secret behind the success is trust.
+Løgnen ble avslørt, og tvilen var borte. | Le mensonge a été révélé, et le doute a disparu. | The lie was exposed, and the doubt was gone.
+Respekt og frihet er viktig på arbeidsplassen. | Le respect et la liberté sont importants au travail. | Respect and freedom matter in the workplace.
+Samtalen med lederen var kort. | La conversation avec le responsable a été courte. | The conversation with the manager was short.
+Argumentet i diskusjonen var tydelig. | L'argument dans la discussion était clair. | The argument in the discussion was clear.
+Detaljene i eksempelet var nøyaktige. | Les détails de l'exemple étaient précis. | The details in the example were exact.
+Hvilken type stil har firmaet? | Quel type de style a l'entreprise ? | What type of style does the company have?
+Formen og størrelsen på skiltet er feil. | La forme et la taille du panneau sont fausses. | The shape and size of the sign are wrong.
+Høyden, lengden og bredden står på boksen. | La hauteur, la longueur et la largeur sont sur la boîte. | The height, length and width are on the box.
+Avstanden og retningen står på kartet. | La distance et la direction sont sur la carte. | The distance and direction are on the map.
+Midten, kanten og hjørnet må vaskes. | Le milieu, le bord et le coin doivent être lavés. | The middle, edge and corner must be cleaned.
+Toppen og bunnen av esken er våte. | Le haut et le fond de la boîte sont mouillés. | The top and bottom of the box are wet.
+Overflaten har et punkt og en linje. | La surface a un point et une ligne. | The surface has a dot and a line.
+Sirkelen på skjermen er rød. | Le cercle sur l'écran est rouge. | The circle on the screen is red.
+Stillheten etter bråket var god. | Le silence après le vacarme faisait du bien. | The silence after the noise was good.
+Arbeidet i fabrikken er tungt. | Le travail à l'usine est dur. | The work in the factory is heavy.
+Vi ordner, skaffer og leder alt selv. | Nous arrangeons, procurons et dirigeons tout nous-mêmes. | We arrange, obtain and lead everything ourselves.
+Hun styrer og driver kafeen alene. | Elle dirige et tient le café seule. | She runs the café alone.
+Vi tester og retter programmet. | Nous testons et corrigeons le programme. | We test and correct the programme.
+Samarbeid og tillit gir resultat. | Collaboration et confiance donnent des résultats. | Cooperation and trust give results.
+Bekreft, undersøk og sikre{sikre} bestillingen. | Confirme, vérifie et sécurise la commande. | Confirm, check and secure the order.
+Firmaet utvikler og vurderer nye varer. | L'entreprise développe et évalue de nouveaux produits. | The company develops and evaluates new goods.
+Kontakt og behandle kunden med respekt. | Contacte et traite le client avec respect. | Contact and treat the customer with respect.
+Utfør oppgaven og innrøm feilene. | Effectue la tâche et admets les erreurs. | Carry out the task and admit the mistakes.
+Jeg foreslår at vi avgjør det på møtet. | Je propose que nous tranchions à la réunion. | I suggest we decide at the meeting.
+Alle bidrar, og hun overtar til slutt. | Tout le monde contribue, et elle reprend à la fin. | Everyone contributes, and she takes over in the end.
+Han representerer firmaet og fokuserer på salg. | Il représente l'entreprise et se concentre sur les ventes. | He represents the company and focuses on sales.
+Hva forårsaket kaoset i lageret? | Qu'est-ce qui a causé le chaos dans l'entrepôt ? | What caused the chaos in the warehouse?
+Jeg opplever at kundene aksepterer prisen. | Je constate que les clients acceptent le prix. | I find that customers accept the price.
+Forsikre deg, og advar kollegaene. | Assure-toi, et préviens les collègues. | Make sure, and warn your colleagues.
+Lever inn rapporten og skriv under. | Remets le rapport et signe. | Hand in the report and sign.
+Sett i gang, gå gjennom lista og slå opp ordene. | Lance-toi, parcours la liste et cherche les mots. | Get started, go through the list and look up the words.
+Skriv ned og les gjennom referatet. | Note et relis le compte rendu. | Write down and read through the minutes.
+Send inn skjemaet og kryss av for ja. | Envoie le formulaire et coche oui. | Submit the form and tick yes.
+Hun holder på med lekser; det går an å vente. | Elle fait ses devoirs ; on peut attendre. | She's doing homework; it's possible to wait.
+Finn ut hva kunden vil, og ta med menyen. | Trouve ce que le client veut, et apporte la carte. | Find out what the customer wants, and bring the menu.
+Vi tar imot gjester; det ser ut som fullt hus. | Nous accueillons des clients ; on dirait que c'est complet. | We're receiving guests; it looks like a full house.
+Få tak i en vikar og vær med på møtet. | Trouve un remplaçant et participe à la réunion. | Get hold of a temp and join the meeting.
+Jeg regner med at det kommer til å gå bra. | Je compte sur le fait que ça va bien se passer. | I expect it's going to go well.
+Sørg for at han pleier å komme i tide. | Veille à ce qu'il ait l'habitude d'arriver à l'heure. | Make sure he usually comes on time.
+Det hender at vikaren melder seg syk. | Il arrive que le remplaçant se déclare malade. | It happens that the temp calls in sick.
+Møt opp, ring tilbake og sjekk inn gjestene. | Présente-toi, rappelle et enregistre les clients. | Turn up, call back and check in the guests.
+Gjestene sjekker ut; vi gjør rent og tar en pause. | Les clients partent ; nous nettoyons et faisons une pause. | The guests check out; we clean and take a break.
+Vi har det travelt; gå av bussen og skynd deg. | Nous sommes pressés ; descends du bus et dépêche-toi. | We're busy; get off the bus and hurry.
+Still inn klokka og still spørsmål etterpå. | Règle l'horloge et pose des questions après. | Set the clock and ask questions afterwards.
+Jeg lurer på om vi har råd til det. | Je me demande si nous en avons les moyens. | I wonder if we can afford it.
+Du har rett, og jeg tok feil; vi er enige nå. | Tu as raison, et j'avais tort ; nous sommes d'accord maintenant. | You're right, and I was wrong; we agree now.
+Hold ut, ikke slå deg på stigen. | Tiens bon, ne te fais pas mal sur l'échelle. | Hang in there, don't hurt yourself on the ladder.
+Del ut, tell opp og tøm ut kassen. | Distribue, compte et vide la caisse. | Hand out, count up and empty the till.
+Varm opp suppa og kjøl ned desserten. | Réchauffe la soupe et refroidis le dessert. | Heat up the soup and cool the dessert.
+Bytt om på vaktene og handle inn til helga. | Échange les services et fais les courses pour le week-end. | Swap the shifts and shop for the weekend.
+Ikke kast bort tid, pakk inn varene og rydd opp. | Ne perds pas de temps, emballe les marchandises et range. | Don't waste time, wrap the goods and tidy up.
+Hopp over pausen og vis fram resultatet. | Saute la pause et montre le résultat. | Skip the break and show the result.
+Vi leter etter en kokk som tar vare på kjøkkenet. | Nous cherchons un cuisinier qui prend soin de la cuisine. | We're looking for a cook who takes care of the kitchen.
+Sjefen setter pris på at ingen går glipp av møtet. | Le chef apprécie que personne ne rate la réunion. | The boss appreciates that nobody misses the meeting.
+Bli kvitt det gamle lageret og bygg om verkstedet. | Débarrasse-toi du vieil entrepôt et rénove l'atelier. | Get rid of the old warehouse and rebuild the workshop.
+Lås opp, tørk ut kluten og lever inn nøklene. | Déverrouille, sèche le chiffon et remets les clés. | Unlock, dry the cloth and hand in the keys.
+Vi bor sammen og passer på hverandre. | Nous vivons ensemble et prenons soin l'un de l'autre. | We live together and look after each other.
+Hun dukket opp, hørte på oss og snakket om jobben. | Elle est apparue, nous a écoutés et a parlé du travail. | She showed up, listened to us and talked about the job.
+Gi deg, ikke gi opp; kom deg etter ferien. | Cède, n'abandonne pas ; remets-toi après les vacances. | Give in, don't give up; recover after the holiday.
+Hun tilbød seg å låne bort bilen. | Elle a proposé de prêter la voiture. | She offered to lend the car.
+Stem for forslaget, det teller med. | Vote pour la proposition, ça compte. | Vote for the proposal, it counts.
+Ha lyst på jobben, og stol på laget. | Aie envie du travail, et fais confiance à l'équipe. | Want the job, and trust the team.
+Kle av deg, hvil deg og legg deg tidlig. | Déshabille-toi, repose-toi et couche-toi tôt. | Undress, rest and go to bed early.
+Han lovte bort helga og meldte seg på kurset. | Il a promis son week-end et s'est inscrit au cours. | He gave away his weekend and signed up for the course.
+Kulda varer ved, så vi koster på oss varme. | Le froid persiste, alors nous nous payons du chauffage. | The cold persists, so we treat ourselves to heating.
+Hun kjenner på magen at hun er lei seg. | Elle sent dans son ventre qu'elle est triste. | She feels in her stomach that she's sad.
+Han kastet opp; tørk opp og pusse opp badet senere. | Il a vomi ; essuie et rénove la salle de bains plus tard. | He threw up; wipe up and renovate the bathroom later.
+Kjør på, kjør inn og fyll bensin. | Fonce, rentre et fais le plein. | Drive on, drive in and fill up.
+Gled deg til bursdagsfesten på lørdag. | Réjouis-toi de la fête d'anniversaire samedi. | Look forward to the birthday party on Saturday.
+
+@theme natur Nature and weather
+Jorda på åkeren er full av sand. | La terre du champ est pleine de sable. | The soil in the field is full of sand.
+Verden og universet er større enn planeten. | Le monde et l'univers sont plus grands que la planète. | The world and the universe are bigger than the planet.
+Månen og stjernene lyser over vidda. | La lune et les étoiles brillent sur le plateau. | The moon and stars shine over the plateau.
+Stormen og uværet kom med lyn og torden. | La tempête et les intempéries sont venues avec éclairs et tonnerre. | The storm and bad weather came with lightning and thunder.
+Skyggen fra fjellveggen er kald. | L'ombre de la paroi rocheuse est froide. | The shadow from the rock face is cold.
+Heten og tørken ødela enga. | La canicule et la sécheresse ont détruit le pré. | The heat and drought ruined the meadow.
+Flommen og skredet stengte dalen. | L'inondation et le glissement ont fermé la vallée. | The flood and the landslide closed the valley.
+Jordskjelvet var lite, men klimaet endrer seg. | Le tremblement de terre était faible, mais le climat change. | The earthquake was small, but the climate is changing.
+Miljøet og forurensningen er tema på skolen. | L'environnement et la pollution sont des sujets à l'école. | The environment and pollution are topics at school.
+Energi fra olje, gass og kull forurenser. | L'énergie du pétrole, du gaz et du charbon pollue. | Energy from oil, gas and coal pollutes.
+Kilden, brønnen og fossen gir vann til bygda. | La source, le puits et la cascade donnent de l'eau au village. | The spring, the well and the waterfall give water to the village.
+Fra åsen ser du dalen og bakken. | Depuis la colline, tu vois la vallée et la pente. | From the hill you can see the valley and the slope.
+Toppen av fjellet ligger over vidda. | Le sommet de la montagne est au-dessus du plateau. | The top of the mountain is above the plateau.
+Øya og kysten er vakre om sommeren. | L'île et la côte sont belles en été. | The island and the coast are beautiful in summer.
+Fjorden var full av bølger og sand. | Le fjord était plein de vagues et de sable. | The fjord was full of waves and sand.
+Steinen ved grotten er rund. | La pierre près de la grotte est ronde. | The stone by the cave is round.
+Mose vokser på gran og furu. | La mousse pousse sur les épicéas et les pins. | Moss grows on spruce and pine.
+Bjørka mistet bladene, men røttene er sterke. | Le bouleau a perdu ses feuilles, mais ses racines sont solides. | The birch lost its leaves, but the roots are strong.
+Grenen med frø falt på åkeren. | La branche avec les graines est tombée dans le champ. | The branch with seeds fell on the field.
+Enga og beitet er grønne i juni. | Le pré et le pâturage sont verts en juin. | The meadow and pasture are green in June.
+Sauer, geiter og griser på gården. | Des moutons, des chèvres et des cochons à la ferme. | Sheep, goats and pigs on the farm.
+Høna og hanen bor ved låven. | La poule et le coq vivent près de la grange. | The hen and the rooster live by the barn.
+Anda svømmer, og reinen går på vidda. | Le canard nage, et le renne marche sur le plateau. | The duck swims, and the reindeer walks on the plateau.
+Reven, ulven og bjørnen bor i skogen. | Le renard, le loup et l'ours vivent dans la forêt. | The fox, the wolf and the bear live in the forest.
+Hjorten og haren løp forbi ekornet. | Le cerf et le lièvre ont couru devant l'écureuil. | The deer and the hare ran past the squirrel.
+Mus og rotter spiser frø på loftet. | Les souris et les rats mangent des graines au grenier. | Mice and rats eat seeds in the attic.
+Insekter som mygg, fluer og bier. | Des insectes comme les moustiques, les mouches et les abeilles. | Insects like mosquitoes, flies and bees.
+Edderkoppen og ormen skremte barna. | L'araignée et le serpent ont effrayé les enfants. | The spider and the snake scared the children.
+Ørret og torsk er god fisk. | La truite et la morue sont de bons poissons. | Trout and cod are good fish.
+Hvalen og selen svømte i fjorden. | La baleine et le phoque nageaient dans le fjord. | The whale and the seal swam in the fjord.
+Måker og ørner flyr over øya. | Des mouettes et des aigles volent au-dessus de l'île. | Seagulls and eagles fly over the island.
+Ugla bor i grotten ved fossen. | Le hibou vit dans la grotte près de la cascade. | The owl lives in the cave by the waterfall.
+Jegerne jakter i skogen om høsten. | Les chasseurs chassent dans la forêt en automne. | The hunters hunt in the forest in autumn.
+Vannet stiger og båten synker. | L'eau monte et le bateau coule. | The water rises and the boat sinks.
+Isen sprakk, og haren krøp unna. | La glace s'est fendue, et le lièvre s'est éloigné en rampant. | The ice cracked, and the hare crept away.
+Vi tente bål og grillet ørret. | Nous avons fait un feu et grillé de la truite. | We lit a fire and grilled trout.
+Bålet lyste i mørket ved brygga. | Le feu brillait dans l'obscurité près du ponton. | The fire shone in the dark by the jetty.
+Stien går langs fjellveggen til toppen. | Le sentier longe la paroi rocheuse jusqu'au sommet. | The path runs along the rock face to the top.
+Havna er full av båter om sommeren. | Le port est plein de bateaux en été. | The harbour is full of boats in summer.
+Det var bratt og vidt på fjellet. | C'était raide et vaste sur la montagne. | It was steep and wide on the mountain.
+Grisen er feit etter en sommer på beite. | Le cochon est gras après un été au pâturage. | The pig is fat after a summer grazing.
+Nordlyset lyste over dalen i natt. | L'aurore boréale brillait sur la vallée cette nuit. | The northern lights shone over the valley last night.
+Skumringen kom tidlig i november. | Le crépuscule est arrivé tôt en novembre. | Dusk came early in November.
+Vi vannet plantene ved daggry. | Nous avons arrosé les plantes à l'aube. | We watered the plants at dawn.
+
+@theme mat Food
+Frokostblanding, havregryn og yoghurt til frokost. | Céréales, flocons d'avoine et yaourt au petit-déjeuner. | Cereal, oats and yoghurt for breakfast.
+Syltetøy, sennep og ketsjup står i kjøleskapet. | La confiture, la moutarde et le ketchup sont au réfrigérateur. | Jam, mustard and ketchup are in the fridge.
+Eddik, hvitløk og gulrot i suppa. | Du vinaigre, de l'ail et de la carotte dans la soupe. | Vinegar, garlic and carrot in the soup.
+Agurk, paprika og kål i salaten. | Du concombre, du poivron et du chou dans la salade. | Cucumber, pepper and cabbage in the salad.
+Erter, bønner og sopp til middag. | Des petits pois, des haricots et des champignons pour le dîner. | Peas, beans and mushrooms for dinner.
+Appelsin, sitron og pære i skåla. | Une orange, un citron et une poire dans le bol. | Orange, lemon and pear in the bowl.
+Jordbær, blåbær og tyttebær med fløte. | Des fraises, des myrtilles et des airelles avec de la crème. | Strawberries, blueberries and lingonberries with cream.
+Nøtter og godteri til festen. | Des noix et des bonbons pour la fête. | Nuts and sweets for the party.
+Svinekjøtt, storfekjøtt og lam på menyen. | Du porc, du bœuf et de l'agneau à la carte. | Pork, beef and lamb on the menu.
+Kjøttdeig og bacon i sausen. | De la viande hachée et du bacon dans la sauce. | Minced meat and bacon in the sauce.
+Makrell og sild fra havna. | Du maquereau et du hareng du port. | Mackerel and herring from the harbour.
+Pasta og nudler er billig mat. | Les pâtes et les nouilles sont des plats bon marché. | Pasta and noodles are cheap food.
+Pannekaker med syltetøy og kjeks til barna. | Des crêpes à la confiture et des biscuits pour les enfants. | Pancakes with jam and biscuits for the children.
+Frokostbordet står ved oppvaskkummen. | La table du petit-déjeuner est près de l'évier. | The breakfast table is by the sink.
+Komfyren, stekeovnen og kjøkkenbenken er rene. | La cuisinière, le four et le plan de travail sont propres. | The cooker, oven and counter are clean.
+Skåla, mugga og teskjeen står på bordet. | Le bol, la carafe et la cuillère à café sont sur la table. | The bowl, jug and teaspoon are on the table.
+Lokket, korktrekkeren og boksåpneren er i skuffen. | Le couvercle, le tire-bouchon et l'ouvre-boîte sont dans le tiroir. | The lid, corkscrew and can opener are in the drawer.
+Kjøkkenrull og matvarer i posen. | De l'essuie-tout et des courses dans le sac. | Kitchen roll and groceries in the bag.
+Holdbarheten på yoghurten er gått ut. | La date de péremption du yaourt est passée. | The yoghurt is past its use-by date.
+Appetitten kommer med sunn mat. | L'appétit vient avec une alimentation saine. | Appetite comes with healthy food.
+Vegetar middag med sopp og bønner. | Dîner végétarien avec champignons et haricots. | Vegetarian dinner with mushrooms and beans.
+Vi nøt desserten og nøt stillheten. | Nous avons savouré le dessert et le silence. | We enjoyed the dessert and the silence.
+Tygg og svelg langsomt. | Mâche et avale lentement. | Chew and swallow slowly.
+Gni gryta med hvitløk og olje. | Frotte la marmite avec de l'ail et de l'huile. | Rub the pot with garlic and oil.
+Kjøl ned yoghurten og varm opp pannekakene. | Refroidis le yaourt et réchauffe les crêpes. | Cool the yoghurt and heat up the pancakes.
+Vei gulrøttene og mål vannet. | Pèse les carottes et mesure l'eau. | Weigh the carrots and measure the water.
+Erter fra egen åker. | Des petits pois de notre propre champ. | Peas from our own field.
+Kjøttdeigen må tine i kjøleskapet. | La viande hachée doit décongeler au réfrigérateur. | The minced meat must thaw in the fridge.
+
+@theme klær Clothes
+T-skjorte og shorts i heten. | T-shirt et short dans la chaleur. | T-shirt and shorts in the heat.
+Jeans og skjørt i prøverommet. | Un jean et une jupe dans la cabine d'essayage. | Jeans and a skirt in the fitting room.
+Dress, slips og frakk til begravelsen. | Costume, cravate et manteau pour l'enterrement. | Suit, tie and coat for the funeral.
+Regnjakke og dunjakke i skapet. | Un imperméable et une doudoune dans l'armoire. | Raincoat and down jacket in the cupboard.
+Ullgenser av ull og bomull. | Un pull en laine et en coton. | A sweater of wool and cotton.
+Undertøy og strømpebukse er varme. | Les sous-vêtements et les collants sont chauds. | Underwear and tights are warm.
+Joggesko, sandaler og tøfler i gangen. | Des baskets, des sandales et des pantoufles dans l'entrée. | Trainers, sandals and slippers in the hall.
+Beltet, knappen og glidelåsen er ødelagt. | La ceinture, le bouton et la fermeture éclair sont cassés. | The belt, button and zip are broken.
+Caps og solbriller i lomma. | Une casquette et des lunettes de soleil dans la poche. | Cap and sunglasses in the pocket.
+Klesplaggene er strikket av bestemor. | Les vêtements sont tricotés par grand-mère. | The garments are knitted by grandma.
+Hun syr og stryker klærne selv. | Elle coud et repasse ses vêtements elle-même. | She sews and irons the clothes herself.
+Kle av deg ullgenseren, det er varmt. | Enlève ton pull en laine, il fait chaud. | Take off your wool sweater, it's warm.
+Frakken hans er gammeldags, men fin. | Son manteau est démodé, mais beau. | His coat is old-fashioned but nice.
+Skjørtet og t-skjorta er av bomull. | La jupe et le T-shirt sont en coton. | The skirt and T-shirt are cotton.
+Solbrillene ligger i bagasjen. | Les lunettes de soleil sont dans les bagages. | The sunglasses are in the luggage.

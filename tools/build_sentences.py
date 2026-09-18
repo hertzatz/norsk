@@ -61,7 +61,8 @@ def finite(w, tok_lower):
 
 def score(w, tok_lower, prev, nxt):
     """Lower is better."""
-    s = w.get("rank", 0) if w["list"] == "core" else 5000
+    # lower level first: a form shared by a level-300 word and a level-2000 word goes to the level-300 one
+    s = (w.get("rank", 0) if w["list"] in ("core", "core2") else 5000) + w["level"] * 100  # 300→30k … 2000→200k: a level-2000 lemma loses to a lower-level form, but a level-600 lemma still beats a level-300 form
     if w["lemma"].lower() == tok_lower:
         # function words (når, så, for...) win over a verb/noun form with the same spelling
         s -= 300000 if w["pos"] in FUNCTION_POS else 100000
@@ -88,11 +89,11 @@ def resolve(tok, forced, index, by_id, prev, nxt):
 
 
 def sentence_level(levels):
-    for lv in (300, 600, 1000):
+    for lv in (300, 600, 1000, 2000):
         above = sum(1 for x in levels if x > lv)
         if above <= EXTRA_RATIO * len(levels):
             return lv
-    return 1000
+    return 2000
 
 
 def parse_line(line, index, by_id):
@@ -109,6 +110,8 @@ def parse_line(line, index, by_id):
             eid = m.group("eid")
             w = by_id.get(eid) if eid else next(
                 (x for x in index.get(text.lower(), []) if x["lemma"].lower() == text.lower()), None)
+            if w and text.lower() not in w["variants"] and not eid:
+                w = None
             if not w:
                 errors.append(f"unknown expression [{text}]")
                 tokens.append({"t": text})
@@ -134,9 +137,29 @@ def parse_line(line, index, by_id):
     return tokens, errors, ambig
 
 
+def multiword_patterns(by_id):
+    """[(regex, id)] for every multi-word variant, longest first, so 'gå glipp av' is found as one token."""
+    pats = []
+    for w in by_id.values():
+        for v in w["variants"]:
+            if " " in v:
+                pats.append((re.compile(r"(?<![\w\[])" + r"\s+".join(map(re.escape, v.split())) + r"(?![\w\]{])",
+                                        re.IGNORECASE), v, w["id"]))
+    pats.sort(key=lambda x: -len(x[1]))
+    return pats
+
+
+def bracket_multiwords(line, pats):
+    """Wrap plain multi-word expressions as [expr]{id}; text already in [...] is left alone."""
+    for rx, _, wid in pats:
+        line = rx.sub(lambda m: f"[{m.group(0)}]{{{wid}}}", line)
+    return line
+
+
 def main():
     verbose = "-v" in sys.argv
     by_id, index = load_words()
+    pats = multiword_patterns(by_id)
     out, n_err, seen = [], 0, set()
     for path in sorted(SRC.glob("*.txt")):
         theme, label, target = None, None, None
@@ -157,6 +180,8 @@ def main():
                 n_err += 1
                 continue
             no_src, fr, en = fields
+            if path.name.startswith("9"):  # level-2000 files: phrasal verbs are matched automatically
+                no_src = bracket_multiwords(no_src, pats)
             tokens, errors, ambig = parse_line(no_src, index, by_id)
             no = "".join(t["t"] for t in tokens)
             if errors:
@@ -187,9 +212,9 @@ def main():
         for wid in {tok["w"] for tok in s["tokens"] if tok.get("w")}:
             if s["level"] <= by_id[wid]["level"]:
                 used[wid] = used.get(wid, 0) + 1
-    words = sorted(by_id.values(), key=lambda w: (w["list"] != "core", w.get("rank", 0)))
-    groups = [(f"niveau {lv}", [w for w in words if w["list"] == "core" and w["level"] == lv])
-              for lv in (300, 600, 1000)]
+    words = sorted(by_id.values(), key=lambda w: (w["list"] not in ("core", "core2"), w.get("rank", 0)))
+    groups = [(f"niveau {lv}", [w for w in words if w["list"] in ("core", "core2") and w["level"] == lv])
+              for lv in (300, 600, 1000, 2000)]
     groups.append(("essentiels", [w for w in words if w["list"] == "essentials"]))
     groups.append(("métier/vie locale", [w for w in words if w["list"] == "theme"]))
     print(f"\nCouverture (objectif : {TARGET_PER_WORD} phrases par mot) :")
@@ -201,8 +226,8 @@ def main():
             short = [f"{w['id']}({used.get(w['id'], 0)})" for w in ws if used.get(w["id"], 0) < TARGET_PER_WORD]
             if short:
                 print("    à compléter: " + ", ".join(short))
-    counts = {lv: sum(1 for s in out if s["level"] == lv) for lv in (300, 600, 1000)}
-    print(f"{len(out)} sentences written  (300: {counts[300]}, 600: {counts[600]}, 1000: {counts[1000]})"
+    counts = {lv: sum(1 for s in out if s["level"] == lv) for lv in (300, 600, 1000, 2000)}
+    print(f"{len(out)} sentences written  (300: {counts[300]}, 600: {counts[600]}, 1000: {counts[1000]}, 2000: {counts[2000]})"
           f"  errors: {n_err}")
     sys.exit(1 if n_err else 0)
 
