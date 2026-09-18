@@ -139,7 +139,7 @@ Formen på bordet er rund. | La table est de forme ronde. | The shape of the tab
 Størrelsen på rommet er liten. | La taille de la pièce est petite. | The size of the room is small.
 Høyden på døra er to meter. | La hauteur de la porte est de deux mètres. | The height of the door is two metres.
 Lengden på bordet er tre meter. | La longueur de la table est de trois mètres. | The length of the table is three metres.
-Bredden på veien er smal her. | La largeur de la route est faible ici. | The width of the road is narrow here.
+Bredden på veien er liten her. | La largeur de la route est petite ici. | The width of the road is small here.
 Avstanden til byen er ti kilometer. | La distance jusqu'à la ville est de dix kilomètres. | The distance to town is ten kilometres.
 Gå i retning av kirka. | Va en direction de l'église. | Go in the direction of the church.
 Sett bordet i midten av rommet. | Mets la table au milieu de la pièce. | Put the table in the middle of the room.

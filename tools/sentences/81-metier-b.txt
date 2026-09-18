@@ -14,7 +14,7 @@ Vi har mye pålegg: ost, skinke og egg. | Nous avons beaucoup de garnitures : fr
 Matpakka mi har brød med brunost. | Mon casse-croûte, c'est du pain avec du fromage brun. | My packed lunch is bread with brown cheese.
 Skinka er salt. | Le jambon est salé. | The ham is salty.
 Dessert koster ekstra. | Le dessert est en supplément. | Dessert costs extra.
-Honning og fløte på grøten. | Du miel et de la crème sur le porridge. | Honey and cream on the porridge.
+Vi har honning og fløte på grøten. | Nous mettons du miel et de la crème sur le porridge. | We have honey and cream on the porridge.
 Ta en skarp kniv til kjøttet. | Prends un couteau tranchant pour la viande. | Take a sharp knife for the meat.
 Sunn mat gir god helse. | Une alimentation saine donne une bonne santé. | Healthy food gives good health.
 Har dere mat for vegetarianere? | Vous avez des plats pour végétariens ? | Do you have food for vegetarians?
@@ -41,14 +41,14 @@ Mer pepper, takk. | Plus de poivre, s'il vous plaît. | More pepper, please.
 Pepperen står ved saltet. | Le poivre est à côté du sel. | The pepper is next to the salt.
 Kjøp salt og olje. | Achète du sel et de l'huile. | Buy salt and oil.
 Olje er dyrt. | L'huile, c'est cher. | Oil is expensive.
-Mel, egg og melk til vaflene. | De la farine, des œufs et du lait pour les gaufres. | Flour, eggs and milk for the waffles.
+Vi trenger mel, egg og melk til vaflene. | Il nous faut de la farine, des œufs et du lait pour les gaufres. | We need flour, eggs and milk for the waffles.
 Fløten er i kjøleskapet. | La crème est au réfrigérateur. | The cream is in the fridge.
 Rømmen er sur. | La crème aigre a tourné. | The sour cream has gone off.
 Biffen er rå inni. | Le steak est cru à l'intérieur. | The steak is raw inside.
 Stek biffen i panna. | Fais cuire le steak à la poêle. | Fry the steak in the pan.
 Kjøttkakene er i ovnen. | Les boulettes sont au four. | The meatballs are in the oven.
 Vi lager kjøttkaker til middag. | Nous faisons des boulettes pour le dîner. | We're making meatballs for dinner.
-Reker med brød og smør. | Des crevettes avec du pain et du beurre. | Prawns with bread and butter.
+Vi spiser reker med brød og smør. | Nous mangeons des crevettes avec du pain et du beurre. | We eat prawns with bread and butter.
 Rekene ligger i fryseren. | Les crevettes sont au congélateur. | The prawns are in the freezer.
 Mikrobølgeovnen står på kjøkkenet. | Le micro-ondes est dans la cuisine. | The microwave is in the kitchen.
 Ikke bruk mikrobølgeovnen til fisk. | N'utilise pas le micro-ondes pour le poisson. | Don't use the microwave for fish.

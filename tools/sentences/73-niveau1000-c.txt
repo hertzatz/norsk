@@ -179,7 +179,7 @@ Jeg har verken tid eller penger. | Je n'ai ni le temps ni l'argent. | I have nei
 Ikke klag! | Ne te plains pas ! | Don't complain!
 Han klager alltid. | Il se plaint toujours. | He always complains.
 Jeg sliter med å sove. | J'ai du mal à dormir. | I'm struggling to sleep.
-Skoene er slitt. | Les chaussures sont usées. | The shoes are worn out.
+Skoene mine er slitte etter turen. | Mes chaussures sont usées après la randonnée. | My shoes are worn out after the hike.
 Det var brann i kjøkkenet. | Il y a eu un incendie dans la cuisine. | There was a fire in the kitchen.
 Hva foretrekker du? | Qu'est-ce que tu préfères ? | What do you prefer?
 Trykk på den røde. | Appuie sur le rouge. | Press the red one.
@@ -203,7 +203,7 @@ Det snør sjelden i *Paris. | Il neige rarement à Paris. | It rarely snows in P
 Ikke løp i trappa! | Ne cours pas dans l'escalier ! | Don't run on the stairs!
 Hun smiler hele tida. | Elle sourit tout le temps. | She smiles all the time.
 Det var billig. | C'était bon marché. | It was cheap.
-Jeg tørr ikke. | Je n'ose pas. | I don't dare.
+Jeg tør ikke. | Je n'ose pas. | I don't dare.
 Tør du hoppe? | Tu oses sauter ? | Do you dare to jump?
 Barna koser seg med katten. | Les enfants câlinent le chat. | The children are cuddling the cat.
 Vi kjøper lokal mat. | Nous achetons de la nourriture locale. | We buy local food.
@@ -284,7 +284,7 @@ Jeg må klippe håret. | Je dois me faire couper les cheveux. | I need a haircut
 Hun klipper gresset. | Elle tond la pelouse. | She's mowing the grass.
 Klipp papiret i to. | Coupe le papier en deux. | Cut the paper in two.
 Det er koselig her. | C'est chaleureux ici. | It's cosy here.
-Kosen er viktig i Norge. | La convivialité est importante en Norvège. | Cosiness is important in Norway.
+Kos er viktig i Norge. | Le « kos » (la convivialité) est important en Norvège. | Cosiness is important in Norway.
 Det var lang kø. | Il y avait une longue queue. | There was a long queue.
 Vi spiste pølser ute. | Nous avons mangé des saucisses dehors. | We ate sausages outside.
 Jeg har en brun genser. | J'ai un pull marron. | I have a brown sweater.

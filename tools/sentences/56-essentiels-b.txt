@@ -2,7 +2,7 @@
 @level 300
 
 @theme tall Numbers and time
-Jeg har null timer igjen. | Il me reste zéro heure. | I have zero hours left.
+Null grader er ikke så kaldt. | Zéro degré, ce n'est pas si froid. | Zero degrees isn't that cold.
 Han er tretten. | Il a treize ans. | He's thirteen.
 Det er seksten dager igjen. | Il reste seize jours. | There are sixteen days left.
 Hun ble seksten [i går]. | Elle a eu seize ans hier. | She turned sixteen yesterday.
@@ -40,7 +40,7 @@ Det er ti kilometer til byen. | Il y a dix kilomètres jusqu'à la ville. | It's
 Jeg går fem kilometer. | Je marche cinq kilomètres. | I walk five kilometres.
 Det er to kilo. Takk! | Ça fait deux kilos. Merci ! | That's two kilos. Thanks!
 Hvor mange kilo er det? | Ça fait combien de kilos ? | How many kilos is it?
-Ta ti gram. | Prends dix grammes. | Take ten grams.
+Ta ti gram salt. | Prends dix grammes de sel. | Take ten grams of salt.
 Det er hundre gram. | Ça fait cent grammes. | That's a hundred grams.
 Gi meg en liter. | Donne-moi un litre. | Give me a litre.
 Jeg er født i Frankrike. | Je suis né en France. | I was born in France.
@@ -56,11 +56,11 @@ Jeg så ham [i morges]. | Je l'ai vu ce matin. | I saw him this morning.
 Vi ses [i overmorgen]. | On se voit après-demain. | See you the day after tomorrow.
 Han drar [i overmorgen]. | Il part après-demain. | He's leaving the day after tomorrow.
 Vi kom hit i januar. | Nous sommes arrivés ici en janvier. | We came here in January.
-Januar er lang. | Janvier est long. | January is long.
+Januar er en lang måned. | Janvier est un long mois. | January is a long month.
 Jeg er født i februar. | Je suis né en février. | I was born in February.
 Hun kommer i februar. | Elle vient en février. | She's coming in February.
 Vi ses i mai. | On se voit en mai. | See you in May.
-Mai er fin. | Mai est beau. | May is nice.
+Mai er en fin måned. | Mai est un beau mois. | May is a nice month.
 Jeg er født i juni. | Je suis né en juin. | I was born in June.
 Vi drar i juni. | On part en juin. | We're leaving in June.
 Hun er født i juli. | Elle est née en juillet. | She was born in July.
@@ -74,7 +74,7 @@ Om våren er det fint her. | Au printemps, c'est beau ici. | In spring it's nice
 Våren kommer snart. | Le printemps arrive bientôt. | Spring is coming soon.
 
 @theme vinter Winter
-Det er is ute. | Il y a de la glace dehors. | There's ice outside.
+Det er mye is ute i dag. | Il y a beaucoup de verglas dehors aujourd'hui. | There's a lot of ice outside today.
 Barna vil ha is nå. | Les enfants veulent une glace maintenant. | The children want ice cream now.
 Kulda er her. | Le froid est là. | The cold is here.
 Kulda kom [i natt]. | Le froid est arrivé cette nuit. | The cold came last night.
@@ -115,6 +115,7 @@ En liter vann, takk. | Un litre d'eau, s'il vous plaît. | A litre of water, ple
 [God morgen], alle! | Bonjour, tout le monde ! | Good morning, everyone!
 Unnskyld, [kan du si det igjen] nå? | Pardon, tu peux répéter maintenant ? | Sorry, can you say that again now?
 Hei! [Hva heter du] igjen? | Salut ! Comment tu t'appelles déjà ? | Hi! What's your name again?
-Kulda er lang her. | Le froid dure ici. | The cold is long here.
+Kulda er hard her om vinteren. | Le froid est rude ici en hiver. | The cold is harsh here in winter.
 Hun kjøpte to liter. | Elle a acheté deux litres. | She bought two litres.
 [Noen ganger] er han sen. | Parfois, il est en retard. | Sometimes he's late.
+Det var null biler på veien i dag. | Il y avait zéro voiture sur la route aujourd'hui. | There were zero cars on the road today.

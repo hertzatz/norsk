@@ -110,7 +110,7 @@ Kan du forklare det? | Tu peux l'expliquer ? | Can you explain it?
 Det er enkelt. | C'est simple. | It's simple.
 De har tre{tre_num} hester. | Ils ont trois chevaux. | They have three horses.
 Jeg har jobba her tidligere. | J'ai déjà travaillé ici avant. | I've worked here before.
-Du må trekke den. | Tu dois la tirer. | You have to pull it.
+Du må trekke i døra, ikke dytte. | Tu dois tirer la porte, pas pousser. | You have to pull the door, not push.
 Det gjelder deg også. | Ça te concerne aussi. | That applies to you too.
 Han har forandra seg. | Il a changé. | He has changed.
 Det er bare et spill. | C'est juste un jeu. | It's just a game.
@@ -218,7 +218,7 @@ To øl, takk. | Deux bières, s'il vous plaît. | Two beers, please.
 Vi besøker familien min. | Nous rendons visite à ma famille. | We're visiting my family.
 Kan jeg tilby deg noe? | Je peux t'offrir quelque chose ? | Can I offer you something?
 Jeg har søkt på en jobb. | J'ai postulé à un emploi. | I've applied for a job.
-Kan du bringe meg vann? | Tu peux m'apporter de l'eau ? | Can you bring me some water?
+Butikken bringer varene hjem til oss. | Le magasin nous livre les courses à la maison. | The shop brings the groceries to our home.
 Iblant er det vanskelig. | Parfois c'est difficile. | Sometimes it's difficult.
 Du kan beholde den. | Tu peux la garder. | You can keep it.
 Himmelen er mørk. | Le ciel est sombre. | The sky is dark.

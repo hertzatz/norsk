@@ -91,7 +91,7 @@ Skruen er løs og stigen er skjev. | La vis est desserrée et l'échelle est de 
 Torget og fortauet er glatte i dag. | La place et le trottoir sont glissants aujourd'hui. | The square and pavement are slippery today.
 Krysset og lyskrysset er stengt. | Le carrefour et le feu sont fermés. | The crossroads and traffic lights are closed.
 Skiltet ved tunnelen viser fartsgrensen på åtti. | Le panneau au tunnel indique la limitation à quatre-vingts. | The sign at the tunnel shows the speed limit of eighty.
-Motorveien, bensinstasjonen og verkstedet. | L'autoroute, la station-service et l'atelier. | The motorway, petrol station and workshop.
+Motorveien går forbi bensinstasjonen og verkstedet. | L'autoroute passe devant la station-service et l'atelier. | The motorway passes the petrol station and the workshop.
 Bensin og diesel er dyrere enn strøm til elbil. | L'essence et le gazole sont plus chers que l'électricité pour une voiture électrique. | Petrol and diesel are more expensive than power for an electric car.
 Lastebilen og traktoren er på verkstedet i dag. | Le camion et le tracteur sont à l'atelier aujourd'hui. | The lorry and tractor are at the workshop today.
 Motoren, dekkene og rattet er sjekket. | Le moteur, les pneus et le volant sont vérifiés. | The engine, tyres and wheel are checked.
@@ -104,7 +104,7 @@ Fabrikken og lageret er ved havna. | L'usine et l'entrepôt sont près du port. 
 Leverandøren gir god service og kvalitet. | Le fournisseur offre un bon service et de la qualité. | The supplier gives good service and quality.
 Mengden og antallet varer er riktige. | La quantité et le nombre de marchandises sont corrects. | The amount and number of goods are correct.
 Markedet og handelen på torget er bra. | Le marché et le commerce sur la place sont bons. | The market and trade in the square are good.
-Salg og rabatt på kvitteringen. | Soldes et remise sur le reçu. | Sale and discount on the receipt.
+Rabatten står på kvitteringen. | La remise figure sur le reçu. | The discount is on the receipt.
 Fakturaen kom fra leverandøren. | La facture est venue du fournisseur. | The invoice came from the supplier.
 Rygg, sving og brems forsiktig. | Recule, tourne et freine prudemment. | Reverse, turn and brake carefully.
 Fyll bensin og skift dekk før vinteren. | Fais le plein et change les pneus avant l'hiver. | Fill up and change tyres before winter.
@@ -115,16 +115,16 @@ Han kjørte på et skilt og kjørte inn i gjerdet. | Il a percuté un panneau et
 Skjemaet, dokumentet og kopien er sendt. | Le formulaire, le document et la copie sont envoyés. | The form, document and copy have been sent.
 Underskriften mangler på kontrakten. | La signature manque sur le contrat. | The signature is missing on the contract.
 Retten, loven og regelen gjelder alle. | Le tribunal, la loi et la règle valent pour tous. | The court, the law and the rule apply to everyone.
-Fengsel og straff for tyveri og innbrudd. | Prison et peine pour vol et cambriolage. | Prison and punishment for theft and burglary.
-Myndighetene, regjeringen og staten. | Les autorités, le gouvernement et l'État. | The authorities, the government and the state.
+Straffen for tyveri og innbrudd er fengsel. | La peine pour vol et cambriolage est la prison. | The punishment for theft and burglary is prison.
+Myndighetene og regjeringen styrer staten. | Les autorités et le gouvernement dirigent l'État. | The authorities and the government run the state.
 Fylket og kommunen deler avgiften. | Le comté et la commune partagent la taxe. | The county and municipality share the fee.
 Valget avgjør skatten og støtten. | Les élections décident de l'impôt et des aides. | The election decides the tax and the support.
-Pensjon og barnetrygd fra staten. | Retraite et allocations familiales de l'État. | Pension and child benefit from the state.
-Konto, lån og rente i banken. | Compte, prêt et taux à la banque. | Account, loan and interest at the bank.
-Gjeld, budsjett og utgifter i januar. | Dettes, budget et dépenses en janvier. | Debt, budget and expenses in January.
+Pensjon og barnetrygd kommer fra staten. | La retraite et les allocations familiales viennent de l'État. | Pension and child benefit come from the state.
+Jeg har konto og lån i banken, med lav rente. | J'ai un compte et un prêt à la banque, avec un taux bas. | I have an account and a loan at the bank, with low interest.
+Gjelden og utgiftene er større enn budsjettet i januar. | La dette et les dépenses dépassent le budget en janvier. | The debt and expenses exceed the budget in January.
 Inntekten er lav, men kvitteringene er mange. | Le revenu est faible, mais les reçus sont nombreux. | The income is low, but the receipts are many.
 Makt og kontroll gir orden. | Pouvoir et contrôle donnent de l'ordre. | Power and control give order.
-Kaos og krig, så fred og frihet. | Chaos et guerre, puis paix et liberté. | Chaos and war, then peace and freedom.
+Etter kaos og krig kom fred og frihet. | Après le chaos et la guerre sont venues la paix et la liberté. | After chaos and war came peace and freedom.
 Situasjonen og tilstanden er under kontroll. | La situation et l'état sont sous contrôle. | The situation and condition are under control.
 Forholdet mellom staten og folket er godt. | La relation entre l'État et le peuple est bonne. | The relationship between the state and the people is good.
 
@@ -134,30 +134,30 @@ Målet er suksess, ikke feil. | Le but est le succès, pas l'erreur. | The goal 
 Løsningen og beslutningen kom fort. | La solution et la décision sont venues vite. | The solution and decision came quickly.
 Valgmuligheten har fordeler og ulemper. | L'option a des avantages et des inconvénients. | The option has advantages and disadvantages.
 Risikoen og kravene er høye. | Le risque et les exigences sont élevés. | The risk and the requirements are high.
-Regelverket, rapporten og referatet. | La réglementation, le rapport et le compte rendu. | The regulations, the report and the minutes.
+Regelverket, rapporten og referatet ligger på kontoret. | La réglementation, le rapport et le compte rendu sont au bureau. | The regulations, report and minutes are in the office.
 Lista og programmet er klare. | La liste et le programme sont prêts. | The list and programme are ready.
-Eksamen, prøven og karakteren. | L'examen, le test et la note. | The exam, the test and the grade.
+Eksamen og prøven var lette, og karakteren ble god. | L'examen et le test étaient faciles, et la note a été bonne. | The exam and test were easy, and the grade was good.
 Leksene i faget tar en time. | Les devoirs dans cette matière prennent une heure. | The homework in the subject takes an hour.
 Universitetet gir sertifikat og CV. | L'université délivre un certificat et un CV. | The university provides a certificate and CV.
-Kunnskap, ferdigheter og talent. | Connaissance, compétences et talent. | Knowledge, skills and talent.
-Interesse, drøm og minne fra studiet. | Intérêt, rêve et souvenir des études. | Interest, dream and memory from the studies.
+Jobben krever kunnskap, ferdigheter og talent. | Le travail exige des connaissances, des compétences et du talent. | The job requires knowledge, skills and talent.
+Jeg har gode minner og en drøm fra studiet. | J'ai de bons souvenirs et un rêve de mes études. | I have good memories and a dream from my studies.
 Hemmeligheten og løgnen kom fram. | Le secret et le mensonge sont sortis. | The secret and the lie came out.
-Tvil, tillit og respekt på arbeidsplassen. | Doute, confiance et respect sur le lieu de travail. | Doubt, trust and respect in the workplace.
+Tillit og respekt er viktig på arbeidsplassen. | La confiance et le respect sont importants sur le lieu de travail. | Trust and respect are important in the workplace.
 Samtalen, diskusjonen og argumentet var gode. | La conversation, la discussion et l'argument étaient bons. | The conversation, discussion and argument were good.
-Detaljer, eksempler og typer i rapporten. | Détails, exemples et types dans le rapport. | Details, examples and types in the report.
+Rapporten har mange detaljer og eksempler. | Le rapport a beaucoup de détails et d'exemples. | The report has many details and examples.
 Stilen, formen og størrelsen er riktige. | Le style, la forme et la taille sont corrects. | The style, shape and size are right.
-Høyde, lengde, bredde og avstand på kartet. | Hauteur, longueur, largeur et distance sur la carte. | Height, length, width and distance on the map.
-Retningen mot midten, kanten og hjørnet. | La direction vers le milieu, le bord et le coin. | The direction towards the middle, edge and corner.
-Toppen, bunnen og overflaten på esken. | Le haut, le fond et la surface de la boîte. | The top, bottom and surface of the box.
-Et punkt, en linje og en sirkel. | Un point, une ligne et un cercle. | A dot, a line and a circle.
+Høyde, lengde og avstand står på kartet. | La hauteur, la longueur et la distance figurent sur la carte. | Height, length and distance are on the map.
+Gå mot midten av rommet, ikke mot hjørnet. | Va vers le milieu de la pièce, pas vers le coin. | Go towards the middle of the room, not the corner.
+Toppen av esken er tørr, men bunnen er våt. | Le haut de la boîte est sec, mais le fond est mouillé. | The top of the box is dry, but the bottom is wet.
+Tegn et punkt, en linje og en sirkel. | Dessine un point, une ligne et un cercle. | Draw a dot, a line and a circle.
 Stillhet er bedre enn bråk på jobb. | Le silence vaut mieux que le bruit au travail. | Silence is better than noise at work.
 Vi arbeider, ordner og skaffer det vi trenger. | Nous travaillons, arrangeons et procurons ce qu'il faut. | We work, arrange and get what's needed.
 Hun leder, styrer og driver firmaet. | Elle dirige, pilote et gère l'entreprise. | She leads, steers and runs the company.
 Vi tester, retter og samarbeider. | Nous testons, corrigeons et collaborons. | We test, correct and cooperate.
 Undersøk og bekreft bestillingen før du sikrer{sikre} den. | Vérifie et confirme la commande avant de la sécuriser. | Check and confirm the order before securing it.
-Utvikle, vurdere og kontakte kunden. | Développer, évaluer et contacter le client. | Develop, assess and contact the customer.
-Behandle, utføre og innrømme. | Traiter, exécuter et admettre. | Treat, carry out and admit.
-Foreslå, avgjøre og bidra. | Proposer, décider et contribuer. | Suggest, decide and contribute.
-Overta, representere og fokusere. | Reprendre, représenter et se concentrer. | Take over, represent and focus.
-Hva forårsaket at ingen opplevde noe? | Qu'est-ce qui a fait que personne n'a rien vécu ? | What caused nobody to experience anything?
-Aksepter, forsikre og advar. | Accepter, assurer et prévenir. | Accept, assure and warn.
+Vi utvikler produktet og kontakter kunden. | Nous développons le produit et contactons le client. | We develop the product and contact the customer.
+Vi utfører jobben og innrømmer feilene. | Nous faisons le travail et admettons les erreurs. | We do the job and admit the mistakes.
+Alle foreslår, alle bidrar, og sjefen avgjør. | Tout le monde propose, tout le monde contribue, et le chef décide. | Everyone suggests, everyone contributes, and the boss decides.
+Hun overtar firmaet og fokuserer på salg. | Elle reprend l'entreprise et se concentre sur les ventes. | She takes over the company and focuses on sales.
+Hva forårsaket bråket i natt? | Qu'est-ce qui a causé le bruit cette nuit ? | What caused the noise last night?
+Aksepter tilbudet, og advar de andre. | Accepte l'offre, et préviens les autres. | Accept the offer, and warn the others.

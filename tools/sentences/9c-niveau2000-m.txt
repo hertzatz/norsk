@@ -3,52 +3,52 @@
 
 @theme hverdag Everyday life
 Et par turister spurte hva slags kart vi hadde. | Deux touristes ont demandé quel genre de carte nous avions. | A couple of tourists asked what kind of map we had.
-Elva er vid her, så vis passet{pass} ved grensen. | La rivière est large ici, alors montre le passeport à la frontière. | The river is wide here, so show the passport at the border.
+Vis passet{pass} ved grensen. | Montre le passeport à la frontière. | Show the passport at the border.
 Politiet fanget tyven; fangen sitter i fengsel. | La police a attrapé le voleur ; le prisonnier est en prison. | The police caught the thief; the prisoner is in jail.
 Gjelden ble betalt ved enden av året. | La dette a été payée à la fin de l'année. | The debt was paid at the end of the year.
-Rett{rette} feilen og hold håpet{håp} oppe. | Corrige l'erreur et garde espoir. | Correct the mistake and keep hope up.
+Rett{rette} feilen før du sender skjemaet. | Corrige l'erreur avant d'envoyer le formulaire. | Correct the mistake before you send the form.
 Nyhetene minnet meg om at alt er annerledes nå. | Les nouvelles m'ont rappelé que tout est différent maintenant. | The news reminded me that everything is different now.
 Er turen verdt det? Det er en personlig sak. | Le voyage en vaut-il la peine ? C'est une affaire personnelle. | Is the trip worth it? That's a personal matter.
 Det er normalt å ha en hemmelig drøm. | Il est normal d'avoir un rêve secret. | It's normal to have a secret dream.
-Sikre{sikre} teltet før du kysser god natt. | Fixe la tente avant le bisou de bonne nuit. | Secure the tent before the goodnight kiss.
-Talen handlet om dekk og glatte veier. | Le discours portait sur les pneus et les routes glissantes. | The speech was about tyres and slippery roads.
+Sikre{sikre} teltet før det blir mørkt. | Fixe la tente avant la nuit. | Secure the tent before dark.
+Talen handlet om biler og glatte veier. | Le discours portait sur les voitures et les routes glissantes. | The speech was about cars and slippery roads.
 Hun led av forkjølelse mens vi filmet. | Elle souffrait d'un rhume pendant que nous filmions. | She was suffering from a cold while we filmed.
 Det var fryktelig kaldt da vi begravde hunden. | Il faisait terriblement froid quand nous avons enterré le chien. | It was terribly cold when we buried the dog.
-De jakter om høsten og gulver låven om våren. | Ils chassent en automne et lavent le sol de la grange au printemps. | They hunt in autumn and wash the barn floor in spring.
-Ulike stemmer lød fra det offentlige møtet. | Différentes voix résonnaient de la réunion publique. | Different voices sounded from the public meeting.
-Ingen skal straffes for å veie for mye. | Personne ne doit être puni pour peser trop. | Nobody should be punished for weighing too much.
+De jakter om høsten og fisker om sommeren. | Ils chassent en automne et pêchent en été. | They hunt in autumn and fish in summer.
+Det var mange ulike meninger på det offentlige møtet. | Il y avait beaucoup d'avis différents à la réunion publique. | There were many different opinions at the public meeting.
+Ingen skal straffes for å si sannheten. | Personne ne doit être puni pour avoir dit la vérité. | Nobody should be punished for telling the truth.
 Det er naturlig å unnskylde seg for bråket. | Il est naturel de s'excuser pour le bruit. | It's natural to apologise for the noise.
 En kraftig storm kom tilfeldig samme natt. | Une forte tempête est arrivée par hasard la même nuit. | A strong storm came by chance the same night.
 Slottet ligger ti minutter med drosje fra sentrum. | Le château est à dix minutes en taxi du centre. | The castle is ten minutes by taxi from the centre.
 Det er typisk at bensinen er dyr på fjellet. | Il est typique que l'essence soit chère en montagne. | It's typical that petrol is expensive in the mountains.
 Han gikk i motsatt retning og slettet{slette} meldingen. | Il est parti dans la direction opposée et a effacé le message. | He went in the opposite direction and deleted the message.
-Hun klemte den verdifulle esken. | Elle a serré la précieuse boîte. | She hugged the valuable box.
+Hun holdt den verdifulle esken hardt. | Elle tenait fermement la précieuse boîte. | She held the valuable box tightly.
 Lånet var usikkert, men lovlig. | Le prêt était incertain, mais légal. | The loan was uncertain but legal.
 Veien svinger{svinge} inn mot den internasjonale flyplassen. | La route tourne vers l'aéroport international. | The road bends towards the international airport.
-Lungene og tærne fryser på fjellet. | Les poumons et les orteils gèlent en montagne. | The lungs and toes freeze in the mountains.
+Tærne fryser i de tynne skoene. | Les orteils gèlent dans les chaussures fines. | The toes freeze in the thin shoes.
 Misforståelsen gjaldt et produkt fra *Sverige. | Le malentendu concernait un produit de Suède. | The misunderstanding concerned a product from Sweden.
-Framover skal reklamen for teateret på nett. | Désormais, la publicité du théâtre passera en ligne. | From now on the theatre's adverts go online.
-Sangeren har en flat stemme, sa kusina mi. | Le chanteur a une voix plate, a dit ma cousine. | The singer has a flat voice, my cousin said.
+Framover skal reklamen for teateret ligge på nett. | Désormais, la publicité du théâtre sera en ligne. | From now on the theatre's adverts will be online.
+Sangeren har en fin stemme, sa kusina mi. | Le chanteur a une belle voix, a dit ma cousine. | The singer has a nice voice, my cousin said.
 Det er sannsynlig at insektet kryper inn. | Il est probable que l'insecte rampe à l'intérieur. | The insect will probably crawl in.
-Paraplyen var ubrukelig for enken i vinden. | Le parapluie était inutile pour la veuve dans le vent. | The umbrella was useless for the widow in the wind.
-Vær tålmodig; holdningen din er temaet i dag. | Sois patient ; ton attitude est le thème du jour. | Be patient; your attitude is today's topic.
+Paraplyen var ubrukelig i vinden. | Le parapluie était inutile dans le vent. | The umbrella was useless in the wind.
+Vær tålmodig; det tar tid å lære norsk. | Sois patient ; apprendre le norvégien prend du temps. | Be patient; learning Norwegian takes time.
 Slipset er slitsomt å ha på hele dagen. | La cravate est fatigante à porter toute la journée. | The tie is tiring to wear all day.
-Vi gikk utover mot brygga og svelget vinden. | Nous sommes allés vers le ponton et avons avalé le vent. | We walked out towards the jetty and swallowed the wind.
+Vi gikk utover mot brygga i vinden. | Nous sommes allés vers le ponton dans le vent. | We walked out towards the jetty in the wind.
 Isen sprakk da vi gikk bakover. | La glace s'est fendue quand nous avons reculé. | The ice cracked as we walked backwards.
 Humoren hans er god selv om han er døv. | Son humour est bon même s'il est sourd. | His humour is good even though he's deaf.
-Mål{måle} avstanden og be om tilgivelse. | Mesure la distance et demande pardon. | Measure the distance and ask for forgiveness.
-Det er unødvendig med en nasjonal fest i denne perioden. | Une fête nationale est inutile en cette période. | A national celebration is unnecessary in this period.
-Medaljen ble stjålet; tyveriet ble hvisket om. | La médaille a été volée ; on a chuchoté à propos du vol. | The medal was stolen; the theft was whispered about.
-Forhåpentligvis blir det ingen konflikt om personligheten hans. | Espérons qu'il n'y aura pas de conflit à propos de sa personnalité. | Hopefully there'll be no conflict over his personality.
-Stemningen i studiet var god. | L'ambiance dans les études était bonne. | The mood in the studies was good.
-Ikke nøl; ta en nøtt og logg inn på nettverket. | N'hésite pas ; prends une noix et connecte-toi au réseau. | Don't hesitate; take a nut and log on to the network.
+Mål{måle} avstanden mellom veggene. | Mesure la distance entre les murs. | Measure the distance between the walls.
+Det er unødvendig med mer mat; vi har nok. | Il est inutile d'avoir plus de nourriture ; nous en avons assez. | There's no need for more food; we have enough.
+Medaljen ble stjålet fra museet. | La médaille a été volée au musée. | The medal was stolen from the museum.
+Forhåpentligvis blir det ingen konflikt om ferien. | Espérons qu'il n'y aura pas de conflit à propos des vacances. | Hopefully there'll be no conflict about the holiday.
+Stemningen i klassen var god. | L'ambiance dans la classe était bonne. | The mood in the class was good.
+Ikke nøl; logg inn på nettverket og send meldingen. | N'hésite pas ; connecte-toi au réseau et envoie le message. | Don't hesitate; log on to the network and send the message.
 Lagre filen og klikk på lenken. | Enregistre le fichier et clique sur le lien. | Save the file and click the link.
-Ettersom det var is, aket vi og snublet. | Comme il y avait de la glace, nous avons fait de la luge et trébuché. | Since there was ice, we sledged and stumbled.
-Den slitte, gammeldags jakka passer. | La veste usée et démodée va bien. | The worn, old-fashioned jacket fits.
+Ettersom det var is, snublet vi flere ganger. | Comme il y avait de la glace, nous avons trébuché plusieurs fois. | Since there was ice, we stumbled several times.
+Den gamle jakka er slitt, men den passer. | La vieille veste est usée, mais elle va bien. | The old jacket is worn, but it fits.
 Befolkningen kjenner kjendisen fra TV. | La population connaît la célébrité de la télé. | The population knows the celebrity from TV.
-Ørnen fløy over pensjonisten på tur. | L'aigle a survolé le retraité en promenade. | The eagle flew over the pensioner on a walk.
+Ørnen fløy over oss på tur. | L'aigle a volé au-dessus de nous en randonnée. | The eagle flew over us on the hike.
 Døra smalt{smelle}, og han gned seg i øynene. | La porte a claqué, et il s'est frotté les yeux. | The door slammed, and he rubbed his eyes.
-Den generelle regelen er å trøste barn. | La règle générale est de consoler les enfants. | The general rule is to comfort children.
+Den generelle regelen er: ingen sko inne. | La règle générale : pas de chaussures à l'intérieur. | The general rule is: no shoes inside.
 
 @theme gard On the farm
 Høna la et egg ved siden av edderkoppen i låven. | La poule a pondu un œuf à côté de l'araignée dans la grange. | The hen laid an egg next to the spider in the barn.
@@ -60,7 +60,7 @@ Hanen vekker oss ved daggry hver dag. | Le coq nous réveille à l'aube chaque j
 Ugla bor i det gamle treet bak låven. | La chouette vit dans le vieil arbre derrière la grange. | The owl lives in the old tree behind the barn.
 Ormen i jorda er bra for grønnsakene. | Le ver dans la terre est bon pour les légumes. | The worm in the soil is good for the vegetables.
 Reinen på vidda lever av mose. | Le renne sur le plateau vit de mousse. | The reindeer on the plateau lives on moss.
-Traktoren står i grotta bak fjellveggen. | Le tracteur est dans la grotte derrière la paroi rocheuse. | The tractor is in the cave behind the rock face.
+Traktoren står i låven bak huset. | Le tracteur est dans la grange derrière la maison. | The tractor is in the barn behind the house.
 Vi strikker ullgensere av ull fra sauene. | Nous tricotons des pulls avec la laine des moutons. | We knit wool jumpers from the sheep's wool.
 Bomull er tynt; ull er varmt på fjellet. | Le coton est fin ; la laine est chaude en montagne. | Cotton is thin; wool is warm in the mountains.
 Snekkeren bygde et nytt gjerde av furu. | Le menuisier a construit une nouvelle clôture en pin. | The carpenter built a new fence from pine.
@@ -145,13 +145,13 @@ Skuffelsen var stor da premien gikk til en annen. | La déception était grande 
 Misunnelse og hat{hat} ødelegger en arbeidsplass. | L'envie et la haine détruisent un lieu de travail. | Envy and hatred destroy a workplace.
 Han var misfornøyd, men ærligheten hans hjalp. | Il était mécontent, mais son honnêteté a aidé. | He was dissatisfied, but his honesty helped.
 Utstillingen viser tradisjonell kunst fra dalen. | L'exposition montre de l'art traditionnel de la vallée. | The exhibition shows traditional art from the valley.
-Kunstig lys er ikke ideelt for maleri. | La lumière artificielle n'est pas idéale pour la peinture. | Artificial light is not ideal for painting.
-Sangeren og gitaren fikk medaljen. | Le chanteur et la guitare ont reçu la médaille. | The singer and the guitar got the medal.
+Kunstig lys er ikke ideelt for plantene. | La lumière artificielle n'est pas idéale pour les plantes. | Artificial light is not ideal for the plants.
+Sangeren fikk medalje for sangen. | Le chanteur a reçu une médaille pour la chanson. | The singer got a medal for the song.
 Studiet er slitsomt, men drømmejobben venter. | Les études sont fatigantes, mais le travail de rêve attend. | The studies are tiring, but the dream job awaits.
 Nåtiden er vanskelig; framover blir det bedre. | Le présent est difficile ; à l'avenir ce sera mieux. | The present is hard; going forward it gets better.
 Det er uviktig hvem som var høylytt. | Peu importe qui était bruyant. | It's unimportant who was loud.
-Jordskjelvet nådde ingensteds hit. | Le tremblement de terre n'est arrivé nulle part ici. | The earthquake reached nowhere here.
-Strømregningen og appelsinene kom samme dag. | La facture d'électricité et les oranges sont arrivées le même jour. | The electricity bill and the oranges came the same day.
+Jordskjelvet var lite, og ingen ble skadet. | Le tremblement de terre était petit, et personne n'a été blessé. | The earthquake was small, and nobody was hurt.
+Strømregningen kom samme dag som lønna. | La facture d'électricité est arrivée le même jour que le salaire. | The electricity bill came the same day as the pay.
 Kull og gass forurenser mer enn vann. | Le charbon et le gaz polluent plus que l'eau. | Coal and gas pollute more than water.
 Grillen, pastaen og jordbærene er klare. | Le barbecue, les pâtes et les fraises sont prêts. | The barbecue, pasta and strawberries are ready.
 Hvorvidt han kommer, avhenger av været. | S'il vient, cela dépend du temps. | Whether he comes depends on the weather.
@@ -159,10 +159,10 @@ Det er gjennomsnittlig ti kunder om dagen. | Il y a en moyenne dix clients par j
 Hun var skamfull og utålmodig samtidig. | Elle était honteuse et impatiente en même temps. | She was ashamed and impatient at the same time.
 Rommet er rotete og fuktig; det er en ulempe. | La pièce est en désordre et humide ; c'est un inconvénient. | The room is messy and damp; that's a disadvantage.
 Kniven er sløv, og lokket er ru. | Le couteau est émoussé, et le couvercle est rugueux. | The knife is blunt, and the lid is rough.
-Nettverket er nede, så nettsiden er ugyldig. | Le réseau est en panne, alors le site est invalide. | The network is down, so the website is invalid.
-Billetten er gyldig for hele befolkningen i dag. | Le billet est valable pour toute la population aujourd'hui. | The ticket is valid for the whole population today.
+Nettverket er nede, så nettsiden virker ikke. | Le réseau est en panne, alors le site ne marche pas. | The network is down, so the website doesn't work.
+Billetten er gyldig hele dagen. | Le billet est valable toute la journée. | The ticket is valid all day.
 Vi lagret filen og klikket på send. | Nous avons enregistré le fichier et cliqué sur envoyer. | We saved the file and clicked send.
-Frokostbordet står nederst i trappa? Nei, øverst. | La table du petit-déjeuner est en bas de l'escalier ? Non, en haut. | The breakfast table is at the bottom of the stairs? No, at the top.
+Navnet ditt står nederst på lista. | Ton nom est en bas de la liste. | Your name is at the bottom of the list.
 Setningen øverst på arket er uklar. | La phrase en haut de la feuille est floue. | The sentence at the top of the sheet is unclear.
 Måken tok kjeksen fra frokostbordet. | La mouette a pris le biscuit sur la table du petit-déjeuner. | The seagull took the biscuit from the breakfast table.
 Selen lå på brygga ved fiskestanga. | Le phoque était sur le ponton près de la canne à pêche. | The seal lay on the jetty by the fishing rod.

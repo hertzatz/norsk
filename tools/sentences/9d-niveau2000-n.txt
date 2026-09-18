@@ -134,7 +134,7 @@ Styret i laget møtes i kveld. | Le conseil de l'équipe se réunit ce soir. | T
 Det er normalt å være sliten på fredag. | C'est normal d'être fatigué le vendredi. | It's normal to be tired on Friday.
 Sikre{sikre} bagasjen før du kjører. | Attache les bagages avant de rouler. | Secure the luggage before you drive.
 Jenta ligner på bestemoren. | La fille ressemble à sa grand-mère. | The girl looks like her grandmother.
-Hat{hat} gir aldri noe godt. | La haine ne donne jamais rien de bon. | Hatred never gives anything good.
+Hat{hat} gjør aldri noe godt. | La haine ne fait jamais rien de bon. | Hatred never does any good.
 Sjåføren ble straffet med bot. | Le chauffeur a été puni d'une amende. | The driver was punished with a fine.
 Vei{veie} posen før du betaler. | Pèse le sac avant de payer. | Weigh the bag before you pay.
 Toget går via *Kongsberg. | Le train passe par Kongsberg. | The train goes via Kongsberg.
@@ -175,12 +175,12 @@ Pæra er moden. | La poire est mûre. | The pear is ripe.
 Vi gikk hjemover i mørket. | Nous sommes rentrés dans le noir. | We walked homewards in the dark.
 Bakken opp til hytta er bratt. | La côte jusqu'au chalet est raide. | The hill up to the cabin is steep.
 Misunnelse er en dårlig følelse. | L'envie est un mauvais sentiment. | Envy is a bad feeling.
-Paprika og agurk i salaten. | Poivron et concombre dans la salade. | Pepper and cucumber in the salad.
+Jeg har paprika og agurk i salaten. | J'ai mis du poivron et du concombre dans la salade. | I put pepper and cucumber in the salad.
 Vi gikk bortover stranda. | Nous avons marché le long de la plage. | We walked along the beach.
 Det er en uvane å komme for sent. | C'est une mauvaise habitude d'arriver en retard. | It's a bad habit to arrive late.
 Hagearbeid er godt for hodet. | Le jardinage est bon pour la tête. | Gardening is good for the mind.
 Ketsjup til pølsa, takk. | Du ketchup avec la saucisse, merci. | Ketchup with the sausage, please.
-To teskjeer salt i suppa. | Deux cuillères à café de sel dans la soupe. | Two teaspoons of salt in the soup.
+Ha to teskjeer salt i suppa. | Mets deux cuillères à café de sel dans la soupe. | Put two teaspoons of salt in the soup.
 Makrell er billig om sommeren. | Le maquereau est bon marché en été. | Mackerel is cheap in summer.
 Har dere vegetar på menyen? | Avez-vous du végétarien au menu ? | Do you have vegetarian on the menu?
 Kaffen var lunken. | Le café était tiède. | The coffee was lukewarm.

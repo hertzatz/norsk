@@ -14,7 +14,7 @@ Etterpå tok vi en kopp kaffe. | Ensuite, nous avons pris une tasse de café. | 
 Sola går ned tidlig om vinteren. | Le soleil se couche tôt en hiver. | The sun sets early in winter.
 Både bestemor og bestefar er her. | Grand-mère et grand-père sont tous les deux là. | Both grandma and grandpa are here.
 Vi så en levende elg i skogen. | Nous avons vu un élan vivant dans la forêt. | We saw a live moose in the forest.
-Pusse tennene to ganger om dagen. | Se brosser les dents deux fois par jour. | Brushing your teeth twice a day.
+Puss tennene to ganger om dagen. | Brosse-toi les dents deux fois par jour. | Brush your teeth twice a day.
 Vi skiller papir og plast. | Nous séparons le papier et le plastique. | We separate paper and plastic.
 De skilte seg [i fjor]. | Ils ont divorcé l'an dernier. | They divorced last year.
 Barnet trenger medisin mot feber. | L'enfant a besoin d'un médicament contre la fièvre. | The child needs medicine for the fever.
@@ -45,7 +45,7 @@ Fremtiden er her i Norge. | L'avenir est ici en Norvège. | The future is here i
 Vi feirer at du har fått jobb. | Nous fêtons ton nouveau travail. | We're celebrating your new job.
 Hun var slem mot broren sin. | Elle a été méchante avec son frère. | She was mean to her brother.
 Fuglen flyr over vannet. | L'oiseau vole au-dessus de l'eau. | The bird flies over the water.
-Bukse og genser i vaskemaskinen. | Pantalon et pull dans le lave-linge. | Trousers and sweater in the washing machine.
+Buksa og genseren ligger i vaskemaskinen. | Le pantalon et le pull sont dans la machine à laver. | The trousers and jumper are in the washing machine.
 Dette er en privat fest. | C'est une fête privée. | This is a private party.
 Mobilen må lades. | Le portable doit être chargé. | The phone needs charging.
 Det er ingen forskjell. | Il n'y a aucune différence. | There's no difference.
@@ -79,7 +79,7 @@ Vi leier ei hytte i sommer. | Nous louons un chalet cet été. | We're renting a
 Maskinen lager kaffe. | La machine fait du café. | The machine makes coffee.
 Tanta mi har fire barn. | Ma tante a quatre enfants. | My aunt has four children.
 Det er billig, og dessuten er det godt. | C'est bon marché, et en plus c'est bon. | It's cheap, and it's good too.
-Hvilken alder har han? | Quel âge a-t-il ? | What age is he?
+Hun er i samme alder som meg. | Elle a le même âge que moi. | She's the same age as me.
 Bussen stopper ved stasjonen. | Le bus s'arrête à la gare. | The bus stops at the station.
 Nesa er kald. | Le nez est froid. | The nose is cold.
 Vi møtes i ettermiddag. | On se voit cet après-midi. | We'll meet this afternoon.
@@ -202,7 +202,7 @@ Er du tørst? | Tu as soif ? | Are you thirsty?
 Det blir regn [i kveld]. | Il va pleuvoir ce soir. | It'll rain tonight.
 Han er svensk, men bor i Norge. | Il est suédois, mais habite en Norvège. | He's Swedish but lives in Norway.
 Hun jobber hjemmefra i dag. | Elle travaille de chez elle aujourd'hui. | She's working from home today.
-Frukt til dessert. | Des fruits en dessert. | Fruit for dessert.
+Vi spiser frukt til dessert. | Nous mangeons des fruits en dessert. | We eat fruit for dessert.
 Det var en kort tur. | C'était une courte balade. | It was a short trip.
 Vi fyrer i ovnen. | Nous faisons du feu dans le poêle. | We light the stove.
 Han har feber og hodepine. | Il a de la fièvre et mal à la tête. | He has a fever and a headache.

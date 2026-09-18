@@ -9,27 +9,27 @@ Hun driver butikken og er forsiktig med pengene. | Elle tient le magasin et fait
 Det hender at løpet blir stoppet av snø. | Il arrive que la course soit arrêtée par la neige. | It happens that the race is stopped by snow.
 Vi fanget{fange_verb} en stor ørret i fjorden. | Nous avons attrapé une grosse truite dans le fjord. | We caught a big trout in the fjord.
 Gjelden er borte; resten av pengene er våre. | La dette est partie ; le reste de l'argent est à nous. | The debt is gone; the rest of the money is ours.
-Jeg pleier å overleve vinteren med ullgenser. | J'ai l'habitude de survivre à l'hiver avec un pull en laine. | I usually survive winter with a wool jumper.
+Man overlever vinteren med en god ullgenser. | On survit à l'hiver avec un bon pull en laine. | You survive winter with a good wool jumper.
 Skaff et nytt dekk; det gamle er ille. | Trouve un nouveau pneu ; l'ancien est fichu. | Get a new tyre; the old one is bad.
 Hvilken type tjeneste tilbyr hotellet? | Quel type de service propose l'hôtel ? | What type of service does the hotel offer?
 Barnet mistet leken i fallet. | L'enfant a perdu le jouet dans la chute. | The child lost the toy in the fall.
-Ved enden av gata finnes støtte{støtte_noun} for eldre. | Au bout de la rue, il y a une aide pour les personnes âgées. | At the end of the street there's support for the elderly.
+Ved enden av gata er det et hus for eldre. | Au bout de la rue, il y a une maison pour personnes âgées. | At the end of the street there's a home for the elderly.
 Minn{minne_verb} meg på at livet er annerledes her. | Rappelle-moi que la vie est différente ici. | Remind me that life is different here.
 Er det verdt å ringe eieren personlig? | Vaut-il la peine d'appeler le propriétaire personnellement ? | Is it worth calling the owner personally?
-Vann blomstene og si skål for sommeren. | Arrose les fleurs et trinque à l'été. | Water the flowers and toast the summer.
+Vann blomstene før du drar på ferie. | Arrose les fleurs avant de partir en vacances. | Water the flowers before you go on holiday.
 Har du noensinne sett en and på taket? | As-tu jamais vu un canard sur le toit ? | Have you ever seen a duck on the roof?
-Hold pusten; han styrer båten selv. | Retiens ton souffle ; il pilote le bateau lui-même. | Hold your breath; he steers the boat himself.
-Hun sørger for at alt er normalt og hemmelig. | Elle veille à ce que tout soit normal et secret. | She makes sure everything is normal and secret.
-Uten tvil kysset han henne ved døra. | Sans aucun doute, il l'a embrassée à la porte. | Without doubt he kissed her at the door.
+Han styrer båten selv. | Il pilote le bateau lui-même. | He steers the boat himself.
+Hun sørger for at alt er normalt igjen. | Elle veille à ce que tout redevienne normal. | She makes sure everything is normal again.
+Han kysset henne ved døra. | Il l'a embrassée à la porte. | He kissed her at the door.
 Kontakt frøken *Berg om overraskelsen. | Contacte mademoiselle Berg à propos de la surprise. | Contact Miss Berg about the surprise.
 Det var fryktelig å oppleve stormen. | C'était affreux de vivre la tempête. | It was dreadful to experience the storm.
-Snøen hindret oss; nyheten spredte seg. | La neige nous a empêchés ; la nouvelle s'est répandue. | The snow prevented us; the news spread.
-Evnen til å utføre jobben er spennende. | La capacité d'exécuter le travail est passionnante. | The ability to carry out the job is exciting.
-For eksempel stiger prisen når det er grusomt vær. | Par exemple, le prix monte quand il fait un temps atroce. | For example the price rises when the weather is horrible.
+Snøen hindret oss i å komme fram. | La neige nous a empêchés d'arriver. | The snow prevented us from getting there.
+Jobben er spennende, men vanskelig å utføre. | Le travail est passionnant, mais difficile à exécuter. | The job is exciting but hard to carry out.
+Prisen på strøm stiger for eksempel når det er kaldt. | Le prix de l'électricité monte par exemple quand il fait froid. | The price of electricity rises, for example, when it's cold.
 Kilden er kald; jeg våger ikke å drikke. | La source est froide ; je n'ose pas boire. | The spring is cold; I don't dare drink.
-Interessen utviklet seg for en ukjent forfatter. | L'intérêt s'est développé pour un écrivain inconnu. | Interest developed for an unknown writer.
-Ingen straffes; det er naturlig å forårsake bråk som barn. | Personne n'est puni ; il est naturel de faire du bruit enfant. | Nobody's punished; it's natural to cause noise as a child.
-Vi reiste via *Oslo; unnskyld bråket. | Nous sommes passés par Oslo ; excuse le bruit. | We travelled via Oslo; sorry for the noise.
+Hun fikk interesse for en ukjent forfatter. | Elle s'est intéressée à un écrivain inconnu. | She took an interest in an unknown writer.
+Det er naturlig at barn lager bråk. | Il est naturel que les enfants fassent du bruit. | It's natural for children to make noise.
+Vi reiste via *Oslo. | Nous sommes passés par Oslo. | We travelled via Oslo.
 Han arbeider på verkstedet, og skruen er løs igjen. | Il travaille à l'atelier, et la vis est de nouveau desserrée. | He works at the workshop, and the screw is loose again.
 Forholdet til naboen er godt; hun kom til middag. | La relation avec la voisine est bonne ; elle est venue dîner. | The relationship with the neighbour is good; she came to dinner.
 Bålet brenner dårlig når veden er våt. | Le feu brûle mal quand le bois est mouillé. | The fire burns badly when the wood is wet.
@@ -215,7 +215,7 @@ Lærlingen er utålmodig, men dyktig. | L'apprenti est impatient, mais doué. | 
 Vi vasket sanden av albuene. | Nous avons lavé le sable des coudes. | We washed the sand off our elbows.
 Gulvet er flatt og lett å vaske. | Le sol est plat et facile à laver. | The floor is flat and easy to wash.
 Nyttår feires med bål her i bygda. | Le nouvel an se fête avec un feu ici au village. | New Year is celebrated with a bonfire here in the village.
-Hun er lykkelig, og gaven er hemmelig. | Elle est heureuse, et le cadeau est secret. | She's happy, and the gift is a secret.
+Hun er lykkelig for den hemmelige gaven. | Elle est heureuse du cadeau secret. | She's happy about the secret gift.
 
 @theme aller_siste Final
 Et par dager til, så er vi ferdige. | Encore deux jours, et nous aurons fini. | A couple more days and we're done.
@@ -237,7 +237,7 @@ Hun unnskyldte seg for bråket i går. | Elle s'est excusée pour le bruit d'hie
 Veien svinger{svinge} til høyre etter skolen. | La route tourne à droite après l'école. | The road turns right after the school.
 Vi handler i Sverige{sverige} en gang i måneden. | Nous faisons des courses en Suède une fois par mois. | We shop in Sweden once a month.
 Sverige{sverige} ligger ved siden av Norge. | La Suède est à côté de la Norvège. | Sweden is next to Norway.
-Den nasjonale dagen er sytten mai. | La fête nationale est le dix-sept mai. | The national day is the seventeenth of May.
+Den nasjonale dagen i Norge er i mai. | La fête nationale en Norvège est en mai. | The national day in Norway is in May.
 Eplene er modne i september. | Les pommes sont mûres en septembre. | The apples are ripe in September.
 Er bananene modne? | Les bananes sont-elles mûres ? | Are the bananas ripe?
 Frukten er ikke moden ennå. | Le fruit n'est pas encore mûr. | The fruit isn't ripe yet.

@@ -207,7 +207,7 @@ uvane | m | mauvaise habitude | bad habit
 oppførsel | m | comportement | behaviour | oppførsel,oppførselen,,
 holdning | f | attitude | attitude
 evne | f | capacité | ability
-skam | f | honte | shame | skam,skamma,,
+skam | f | honte | shame | skam,skamma/skammen,,
 stolthet | f | fierté | pride | stolthet,stoltheten,,
 ærlighet | f | honnêteté | honesty | ærlighet,ærligheten,,
 
