@@ -1,0 +1,157 @@
+# Niveau 2000, lot 3 : nature, animaux, météo, nourriture, vêtements
+@level 2000
+
+@theme natur Nature and weather
+Jorda rundt huset er full av stein. | La terre autour de la maison est pleine de pierres. | The ground around the house is full of stones.
+Universet er enormt. | L'univers est immense. | The universe is enormous.
+Månen er rund og lys i natt. | La lune est ronde et brillante cette nuit. | The moon is round and bright tonight.
+Vi så tusen stjerner fra hytta. | Nous avons vu mille étoiles depuis le chalet. | We saw a thousand stars from the cabin.
+Planeten vår trenger et bedre klima. | Notre planète a besoin d'un meilleur climat. | Our planet needs a better climate.
+Det kom en storm fra kysten i natt. | Une tempête est arrivée de la côte cette nuit. | A storm came in from the coast last night.
+Uværet stengte veien over fjellet. | Les intempéries ont fermé la route de montagne. | The bad weather closed the mountain road.
+Vi hørte torden, og så kom lynet. | Nous avons entendu le tonnerre, puis l'éclair est venu. | We heard thunder, and then came the lightning.
+Sett deg i skyggen, sola er sterk. | Mets-toi à l'ombre, le soleil est fort. | Sit in the shade, the sun is strong.
+Heten i juli var forferdelig. | La canicule de juillet était terrible. | The heat in July was terrible.
+Tørken ødela åkeren i sommer. | La sécheresse a détruit le champ cet été. | The drought ruined the field this summer.
+Flommen tok broen over elva. | L'inondation a emporté le pont sur la rivière. | The flood took the bridge over the river.
+Skredet stengte tunnelen i to dager. | L'avalanche a fermé le tunnel pendant deux jours. | The avalanche closed the tunnel for two days.
+Det var et lite jordskjelv i fjor. | Il y a eu un petit tremblement de terre l'an dernier. | There was a small earthquake last year.
+Klimaet i *Numedal er kaldt og tørt. | Le climat du Numedal est froid et sec. | The climate in Numedal is cold and dry.
+Vi må ta vare på miljøet. | Nous devons protéger l'environnement. | We must take care of the environment.
+Forurensning er et problem i store byer. | La pollution est un problème dans les grandes villes. | Pollution is a problem in big cities.
+Energien kommer fra vann i Norge. | L'énergie vient de l'eau en Norvège. | Energy comes from water in Norway.
+Norge selger olje og gass. | La Norvège vend du pétrole et du gaz. | Norway sells oil and gas.
+Før brukte folk kull til varme. | Avant, les gens utilisaient du charbon pour se chauffer. | People used to use coal for heating.
+Kilden til elva ligger i fjellet. | La source de la rivière est dans la montagne. | The source of the river is in the mountains.
+Vannet kommer fra en brønn på gården. | L'eau vient d'un puits à la ferme. | The water comes from a well on the farm.
+Fossen er høy og bråker mye. | La cascade est haute et fait beaucoup de bruit. | The waterfall is high and very noisy.
+Dalen er smal og lang. | La vallée est étroite et longue. | The valley is narrow and long.
+Hytta ligger på en ås over bygda. | Le chalet est sur une colline au-dessus du village. | The cabin is on a hill above the village.
+Bakken er glatt om vinteren. | La pente est glissante en hiver. | The slope is slippery in winter.
+Vi gikk helt til toppen. | Nous sommes allés jusqu'au sommet. | We walked all the way to the top.
+Vidda er flat og vid. | Le plateau est plat et vaste. | The plateau is flat and wide.
+Det bor få folk på øya. | Peu de gens habitent sur l'île. | Few people live on the island.
+Kysten er lang med mange fjorder. | La côte est longue, avec beaucoup de fjords. | The coast is long with many fjords.
+Bølgene var høye på fjorden. | Les vagues étaient hautes sur le fjord. | The waves were high on the fjord.
+Barna leker i sanden på stranda. | Les enfants jouent dans le sable sur la plage. | The children play in the sand on the beach.
+Fjellveggen er høy og bratt. | La paroi rocheuse est haute et abrupte. | The rock face is high and steep.
+Vi fant en grotte i fjellet. | Nous avons trouvé une grotte dans la montagne. | We found a cave in the mountain.
+Mosen er myk under føttene. | La mousse est douce sous les pieds. | The moss is soft underfoot.
+Skogen har gran, furu og bjørk. | La forêt a des épicéas, des pins et des bouleaux. | The forest has spruce, pine and birch.
+Bladene blir gule i oktober. | Les feuilles jaunissent en octobre. | The leaves turn yellow in October.
+Røttene til treet er dype. | Les racines de l'arbre sont profondes. | The tree's roots are deep.
+Grenen brakk under snøen. | La branche a cassé sous la neige. | The branch broke under the snow.
+Vi sår frø i mai. | Nous semons des graines en mai. | We sow seeds in May.
+Bonden høster på åkeren i august. | L'agriculteur récolte dans le champ en août. | The farmer harvests the field in August.
+Sauene går på enga om sommeren. | Les moutons sont dans le pré en été. | The sheep are in the meadow in summer.
+Kua står på beite bak låven. | La vache pâture derrière la grange. | The cow is grazing behind the barn.
+Geita spiste blomstene i hagen. | La chèvre a mangé les fleurs du jardin. | The goat ate the flowers in the garden.
+Grisen er stor og feit. | Le cochon est gros et gras. | The pig is big and fat.
+Høna la et egg i morges. | La poule a pondu un œuf ce matin. | The hen laid an egg this morning.
+Hanen vekker oss klokka fem. | Le coq nous réveille à cinq heures. | The rooster wakes us at five.
+Endene svømmer på innsjøen. | Les canards nagent sur le lac. | The ducks swim on the lake.
+Rein går på vidda om vinteren. | Les rennes vont sur le plateau en hiver. | Reindeer roam the plateau in winter.
+Reven tok ei høne i natt. | Le renard a pris une poule cette nuit. | The fox took a hen last night.
+Det er ulv i skogen, sier bonden. | Il y a des loups dans la forêt, dit l'agriculteur. | There are wolves in the forest, says the farmer.
+Bjørnen sover hele vinteren. | L'ours dort tout l'hiver. | The bear sleeps all winter.
+En hjort sto ved veien i skumringen. | Un cerf était au bord de la route au crépuscule. | A deer stood by the road at dusk.
+Haren løp over åkeren. | Le lièvre a traversé le champ en courant. | The hare ran across the field.
+Ekornet klatrer i furua. | L'écureuil grimpe dans le pin. | The squirrel climbs the pine.
+Vi har mus på loftet. | Nous avons des souris au grenier. | We have mice in the attic.
+Rotter er et problem i kjelleren. | Les rats sont un problème à la cave. | Rats are a problem in the basement.
+Det er mange insekter om sommeren. | Il y a beaucoup d'insectes en été. | There are lots of insects in summer.
+Myggen biter mest om kvelden. | Les moustiques piquent surtout le soir. | The mosquitoes bite most in the evening.
+En flue satt på kaka. | Une mouche s'est posée sur le gâteau. | A fly sat on the cake.
+Biene lager honning i hagen. | Les abeilles font du miel dans le jardin. | The bees make honey in the garden.
+Det er en edderkopp i badet. | Il y a une araignée dans la salle de bains. | There's a spider in the bathroom.
+Vi så en orm på stien. | Nous avons vu un serpent sur le sentier. | We saw a snake on the path.
+Ørreten i elva er stor. | La truite dans la rivière est grosse. | The trout in the river is big.
+Torsk er billig fisk i Norge. | La morue est un poisson bon marché en Norvège. | Cod is cheap fish in Norway.
+Vi så en hval fra båten. | Nous avons vu une baleine depuis le bateau. | We saw a whale from the boat.
+Selen lå på en stein ved kysten. | Le phoque était sur un rocher près de la côte. | The seal lay on a rock by the coast.
+Måkene skriker over havna. | Les mouettes crient au-dessus du port. | The seagulls scream over the harbour.
+Ørnen flyr høyt over dalen. | L'aigle vole haut au-dessus de la vallée. | The eagle flies high above the valley.
+Ugla er våken om natta. | Le hibou est éveillé la nuit. | The owl is awake at night.
+Vi jakter elg i oktober. | Nous chassons l'élan en octobre. | We hunt moose in October.
+Jakta starter i september. | La chasse commence en septembre. | The hunt starts in September.
+Vi går på ski over vidda. | Nous traversons le plateau à ski. | We ski across the plateau.
+Vannet i innsjøen steg etter regnet. | L'eau du lac est montée après la pluie. | The water in the lake rose after the rain.
+Båten sank i fjor. | Le bateau a coulé l'an dernier. | The boat sank last year.
+Isen sprakk under føttene mine. | La glace s'est fendue sous mes pieds. | The ice cracked under my feet.
+Ta med lommelykt, det blir mørkt tidlig. | Prends une lampe de poche, il fait nuit tôt. | Bring a torch, it gets dark early.
+Vi tente bål ved innsjøen. | Nous avons fait un feu au bord du lac. | We lit a fire by the lake.
+Vi grillet pølser på bålet. | Nous avons fait griller des saucisses sur le feu. | We grilled sausages on the fire.
+Jeg fisker med fiskestang fra brygga. | Je pêche à la canne depuis le ponton. | I fish with a rod from the jetty.
+
+@theme mat Food
+Jeg spiser frokostblanding med melk. | Je mange des céréales avec du lait. | I eat cereal with milk.
+Havregryn og yoghurt til frokost. | Des flocons d'avoine et un yaourt au petit-déjeuner. | Oats and yoghurt for breakfast.
+Syltetøy av jordbær er best. | La confiture de fraises est la meilleure. | Strawberry jam is the best.
+Pølse med sennep og ketsjup, takk. | Une saucisse avec de la moutarde et du ketchup, merci. | A sausage with mustard and ketchup, please.
+Litt eddik og olje i salaten. | Un peu de vinaigre et d'huile dans la salade. | A little vinegar and oil in the salad.
+Hakk hvitløk og løk til sausen. | Hache de l'ail et de l'oignon pour la sauce. | Chop garlic and onion for the sauce.
+Gulrøtter og kål vokser godt her. | Les carottes et le chou poussent bien ici. | Carrots and cabbage grow well here.
+Skjær agurken og paprikaen i biter. | Coupe le concombre et le poivron en morceaux. | Cut the cucumber and pepper into pieces.
+Erter og bønner er sunn mat. | Les petits pois et les haricots sont sains. | Peas and beans are healthy food.
+Vi plukker sopp i skogen om høsten. | Nous cueillons des champignons dans la forêt en automne. | We pick mushrooms in the forest in autumn.
+En appelsin og en sitron, takk. | Une orange et un citron, merci. | An orange and a lemon, please.
+Pærene er søte i år. | Les poires sont sucrées cette année. | The pears are sweet this year.
+Blåbær og tyttebær vokser i skogen. | Les myrtilles et les airelles poussent dans la forêt. | Blueberries and lingonberries grow in the forest.
+Han har allergi mot nøtter. | Il est allergique aux noix. | He's allergic to nuts.
+Svinekjøtt er billigere enn storfekjøtt. | Le porc est moins cher que le bœuf. | Pork is cheaper than beef.
+Vi spiser lam til påske. | Nous mangeons de l'agneau à Pâques. | We eat lamb at Easter.
+Kjøttdeig til kjøttkaker. | De la viande hachée pour les boulettes. | Minced meat for meatballs.
+Egg og bacon på søndag. | Des œufs et du bacon le dimanche. | Eggs and bacon on Sunday.
+Makrell og sild er billig fisk. | Le maquereau et le hareng sont des poissons bon marché. | Mackerel and herring are cheap fish.
+Pasta med saus er rask middag. | Des pâtes en sauce, c'est un dîner rapide. | Pasta with sauce is a quick dinner.
+Nudler tar tre minutter. | Les nouilles prennent trois minutes. | Noodles take three minutes.
+Vi lager pannekaker på lørdag. | Nous faisons des crêpes le samedi. | We make pancakes on Saturday.
+Kjeks og godteri til barna. | Des biscuits et des bonbons pour les enfants. | Biscuits and sweets for the children.
+Sett tallerkenene på frokostbordet. | Mets les assiettes sur la table du petit-déjeuner. | Put the plates on the breakfast table.
+Oppvaskkummen er full. | L'évier est plein. | The sink is full.
+Slå av komfyren og stekeovnen. | Éteins la cuisinière et le four. | Turn off the cooker and the oven.
+Tørk av kjøkkenbenken. | Essuie le plan de travail. | Wipe the kitchen counter.
+Ha suppa i en skål. | Mets la soupe dans un bol. | Put the soup in a bowl.
+Fyll mugga med vann. | Remplis la carafe d'eau. | Fill the jug with water.
+En teskje sukker i teen. | Une cuillère à café de sucre dans le thé. | A teaspoon of sugar in the tea.
+Sett lokket på gryta. | Mets le couvercle sur la casserole. | Put the lid on the pot.
+Hvor er korktrekkeren? | Où est le tire-bouchon ? | Where's the corkscrew?
+Boksåpneren ligger i skuffen. | L'ouvre-boîte est dans le tiroir. | The can opener is in the drawer.
+Vi trenger mer kjøkkenrull. | Il nous faut plus d'essuie-tout. | We need more kitchen roll.
+Matvarene ligger i posen. | Les denrées sont dans le sac. | The groceries are in the bag.
+Sjekk holdbarheten på melka. | Vérifie la date de péremption du lait. | Check the use-by date on the milk.
+Jeg har ingen appetitt i dag. | Je n'ai pas d'appétit aujourd'hui. | I have no appetite today.
+Har dere vegetar mat? | Vous avez de la nourriture végétarienne ? | Do you have vegetarian food?
+Vi nyter en god middag. | Nous savourons un bon dîner. | We're enjoying a good dinner.
+Han svelget maten uten å tygge. | Il a avalé sans mâcher. | He swallowed the food without chewing.
+Barna sulter etter skolen. | Les enfants meurent de faim après l'école. | The children are starving after school.
+Gni brødet med hvitløk. | Frotte le pain avec de l'ail. | Rub the bread with garlic.
+Kjøl ned kaka før du skjærer den. | Laisse refroidir le gâteau avant de le couper. | Cool the cake before you cut it.
+Varm opp suppa fra i går. | Réchauffe la soupe d'hier. | Heat up yesterday's soup.
+Tøm ut det gamle vannet. | Vide la vieille eau. | Pour out the old water.
+
+@theme klær Clothes
+Legg klesplaggene i kofferten. | Mets les vêtements dans la valise. | Put the garments in the suitcase.
+Han har på seg t-skjorte og jeans. | Il porte un T-shirt et un jean. | He's wearing a T-shirt and jeans.
+Shorts er for kaldt i dag. | Un short, c'est trop froid aujourd'hui. | Shorts are too cold today.
+Skjørtet er for kort til jobb. | La jupe est trop courte pour le travail. | The skirt is too short for work.
+Han hadde dress og slips i bryllupet. | Il portait un costume et une cravate au mariage. | He wore a suit and tie at the wedding.
+Ta på frakken, det er kaldt. | Mets ton manteau, il fait froid. | Put on your coat, it's cold.
+Regnjakke er nødvendig i høst. | Un imperméable est nécessaire cet automne. | A raincoat is necessary this autumn.
+Dunjakke og ullgenser om vinteren. | Doudoune et pull en laine en hiver. | Down jacket and wool sweater in winter.
+Ull er varmere enn bomull. | La laine est plus chaude que le coton. | Wool is warmer than cotton.
+Undertøy av ull er varmt. | Les sous-vêtements en laine sont chauds. | Wool underwear is warm.
+Hun har strømpebukse under skjørtet. | Elle porte des collants sous sa jupe. | She's wearing tights under her skirt.
+Joggesko er gode til turen. | Les baskets sont bien pour la balade. | Trainers are good for the walk.
+Sandaler om sommeren, støvler om vinteren. | Des sandales en été, des bottes en hiver. | Sandals in summer, boots in winter.
+Jeg går i tøfler inne. | Je porte des pantoufles à l'intérieur. | I wear slippers indoors.
+Beltet er for stort. | La ceinture est trop grande. | The belt is too big.
+En knapp er borte fra skjorta. | Un bouton manque à la chemise. | A button is missing from the shirt.
+Glidelåsen på jakka er ødelagt. | La fermeture éclair de la veste est cassée. | The zip on the jacket is broken.
+Ta caps og solbriller til stranda. | Prends une casquette et des lunettes de soleil pour la plage. | Take a cap and sunglasses to the beach.
+Prøverommet er opptatt. | La cabine d'essayage est occupée. | The fitting room is occupied.
+Hun syr sine egne klær. | Elle coud ses propres vêtements. | She sews her own clothes.
+Bestemor strikker votter til vinteren. | Grand-mère tricote des moufles pour l'hiver. | Grandma knits mittens for the winter.
+Stryk skjorta før møtet. | Repasse la chemise avant la réunion. | Iron the shirt before the meeting.
+Dressen hans er moderne. | Son costume est moderne. | His suit is modern.
+Klærne hennes er gammeldags. | Ses vêtements sont démodés. | Her clothes are old-fashioned.

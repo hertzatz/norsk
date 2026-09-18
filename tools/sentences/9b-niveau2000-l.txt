@@ -1,0 +1,149 @@
+# Niveau 2000, lot 12 : récits courts, deux mots cibles par phrase
+@level 2000
+
+@theme fortelling Short stories
+Jegeren drepte en rund, feit gris på gården. | Le chasseur a tué un cochon rond et gras à la ferme. | The hunter killed a round, fat pig on the farm.
+Herregud, sa hun, gud vet hvor nøkkelen er. | Mon Dieu, dit-elle, Dieu sait où est la clé. | Good God, she said, God knows where the key is.
+Naboen reddet katten unna brannen. | Le voisin a sauvé le chat de l'incendie. | The neighbour saved the cat from the fire.
+Det var ikke engang min skyld at det gikk galt. | Ce n'était même pas ma faute si ça a mal tourné. | It wasn't even my fault that it went wrong.
+Jeg nyter å drive kafeen om sommeren. | J'aime bien tenir le café en été. | I enjoy running the café in summer.
+Hva slags fugl har så vid rygg? | Quel genre d'oiseau a un dos si large ? | What kind of bird has such a wide back?
+Tyven stjal lommeboka til en spiller på laget. | Le voleur a volé le portefeuille d'un joueur de l'équipe. | The thief stole the wallet of a player on the team.
+Utrolig nok fant vi passet{pass} på bussen. | Incroyable mais vrai, nous avons trouvé le passeport dans le bus. | Incredibly, we found the passport on the bus.
+Hjelmen beskytter, men det hender at man slår seg likevel. | Le casque protège, mais il arrive qu'on se blesse quand même. | The helmet protects, but it happens that you get hurt anyway.
+Presidenten snakket om gjeld og skatt. | Le président a parlé de dette et d'impôts. | The president talked about debt and taxes.
+Vi arbeider resten av uka på hotellet. | Nous travaillons le reste de la semaine à l'hôtel. | We work the rest of the week at the hotel.
+Han brøt regelen og ledet møtet likevel. | Il a enfreint la règle et a quand même dirigé la réunion. | He broke the rule and led the meeting anyway.
+Skruen er løs; jeg pleier å skru den fast. | La vis est desserrée ; d'habitude je la resserre. | The screw is loose; I usually tighten it.
+Sauene overlevde den svært kalde natta. | Les moutons ont survécu à la nuit très froide. | The sheep survived the very cold night.
+Skaff en ny lyspære; den gamle er ille. | Trouve une nouvelle ampoule ; l'ancienne est fichue. | Get a new bulb; the old one is bad.
+Hvilken type saus retter{rette} opp smaken? | Quel type de sauce corrige le goût ? | What type of sauce corrects the taste?
+Tjenesten var god, og forholdet til gjestene var fint. | Le service était bon, et la relation avec les clients était bonne. | The service was good, and the relationship with the guests was nice.
+Politiet fanget mannen som brant låven. | La police a attrapé l'homme qui a brûlé la grange. | The police caught the man who burned the barn.
+Barna gjemte seg skikkelig godt i skogen. | Les enfants se sont vraiment bien cachés dans la forêt. | The children hid really well in the forest.
+Ved enden av veien bor et lykkelig par. | Au bout de la route vit un couple heureux. | At the end of the road lives a happy couple.
+Ulven skremte sauene og leken til barna. | Le loup a effrayé les moutons et le jeu des enfants. | The wolf scared the sheep and the children's game.
+Det er håp{håp}; guttene slåss ikke lenger. | Il y a de l'espoir ; les garçons ne se battent plus. | There's hope; the boys don't fight anymore.
+Nyhetene sa at offeret var en turist. | Les nouvelles ont dit que la victime était un touriste. | The news said the victim was a tourist.
+Støtten fra naboene minner meg om familien. | Le soutien des voisins me rappelle ma famille. | The support from the neighbours reminds me of my family.
+Hytta er annerledes, men verdt turen. | Le chalet est différent, mais il vaut le voyage. | The cabin is different but worth the trip.
+Eieren er en personlig venn av kokken. | Le propriétaire est un ami personnel du cuisinier. | The owner is a personal friend of the cook.
+Morderen i boka er merkelig snill. | Le meurtrier dans le livre est étrangement gentil. | The murderer in the book is strangely kind.
+Situasjonen ble bedre da vi vannet blomstene. | La situation s'est améliorée quand nous avons arrosé les fleurs. | The situation improved when we watered the flowers.
+Skål! Har du noensinne smakt så god øl? | Santé ! As-tu jamais goûté une si bonne bière ? | Cheers! Have you ever tasted such good beer?
+Anda svømte forbi under samtalen vår. | Le canard a nagé devant nous pendant notre conversation. | The duck swam past during our conversation.
+Skriveren har ikke makt til å tenke. | L'imprimante n'a pas le pouvoir de penser. | The printer has no power to think.
+Trekk pusten og la styret bestemme. | Respire et laisse le conseil décider. | Take a breath and let the board decide.
+Kameraet tvinger ingen til å smile. | L'appareil photo ne force personne à sourire. | The camera forces nobody to smile.
+Hun sørget lenge, men var interessert i livet igjen. | Elle a longtemps porté le deuil, mais s'est de nouveau intéressée à la vie. | She grieved for a long time but was interested in life again.
+Smerten forsvant med et kyss fra partneren. | La douleur a disparu avec un baiser du partenaire. | The pain vanished with a kiss from her partner.
+Han rev opp det hemmelige brevet. | Il a déchiré la lettre secrète. | He tore up the secret letter.
+Uten tvil må vi sikre{sikre} døra. | Sans doute, nous devons sécuriser la porte. | Without doubt we must secure the door.
+Ikke plag søsteren din; kyss henne på kinnet. | N'embête pas ta sœur ; embrasse-la sur la joue. | Don't tease your sister; kiss her on the cheek.
+Talen var fæl, sa fru *Berg. | Le discours était affreux, a dit madame Berg. | The speech was awful, said Mrs Berg.
+Den uskyldige gutten krevde ingenting. | Le garçon innocent n'a rien exigé. | The innocent boy demanded nothing.
+Det var forferdelig å bytte dekk i regnet. | C'était affreux de changer les pneus sous la pluie. | It was terrible changing tyres in the rain.
+Kreft og hull i tennene er ikke det samme. | Le cancer et les caries, ce n'est pas la même chose. | Cancer and holes in the teeth are not the same.
+Overraskelsen var at dronningen kom. | La surprise était que la reine soit venue. | The surprise was that the queen came.
+Toget stanset, og folk led i kulda. | Le train s'est arrêté, et les gens ont souffert dans le froid. | The train stopped, and people suffered in the cold.
+De kranglet om den falske klokka. | Ils se sont disputés à propos de la fausse montre. | They argued about the fake watch.
+Frøken *Dahl så en stjerne falle. | Mademoiselle Dahl a vu une étoile filer. | Miss Dahl saw a star fall.
+Hunden bet i kameraet mens vi filmet. | Le chien a mordu l'appareil pendant que nous filmions. | The dog bit the camera while we were filming.
+Avisen avslørte og bekreftet nyheten. | Le journal a révélé et confirmé la nouvelle. | The newspaper revealed and confirmed the news.
+Jeg foreslår at den skyldige betaler. | Je propose que le coupable paie. | I suggest the guilty one pays.
+Linjen på kartet viser formen på øya. | La ligne sur la carte montre la forme de l'île. | The line on the map shows the shape of the island.
+Hun skrek da den fryktelige lyden kom. | Elle a crié quand le bruit affreux est venu. | She screamed when the dreadful sound came.
+Vi opplevde at snøen hindret alt. | Nous avons vu la neige tout empêcher. | We experienced the snow preventing everything.
+Latteren spredte seg fra scenen til publikum. | Le rire s'est répandu de la scène au public. | The laughter spread from the stage to the audience.
+Viljen hans var sterk; han ble ikke begravd av snøen. | Sa volonté était forte ; il n'a pas été enseveli par la neige. | His will was strong; he wasn't buried by the snow.
+Månen ligner en planet på himmelen. | La lune ressemble à une planète dans le ciel. | The moon looks like a planet in the sky.
+Evnen til å le er viktig; hat{hat} er ekkelt. | La capacité de rire est importante ; la haine est dégoûtante. | The ability to laugh matters; hatred is disgusting.
+Utfør jobben nå, så angrer du ikke. | Fais le travail maintenant, comme ça tu ne regretteras pas. | Do the job now, so you won't regret it.
+Vent inntil presten har samarbeidet med bandet. | Attends que le pasteur ait collaboré avec le groupe. | Wait until the priest has cooperated with the band.
+Framtiden er spennende for de unge. | L'avenir est passionnant pour les jeunes. | The future is exciting for the young.
+Vi tester eksempelet før prisen stiger. | Nous testons l'exemple avant que le prix monte. | We test the example before the price rises.
+Det grusomme uværet jaktet oss ned fra fjellet. | La terrible tempête nous a chassés de la montagne. | The terrible storm chased us down from the mountain.
+En enorm elg sto ensom på veien. | Un énorme élan était seul sur la route. | An enormous moose stood alone on the road.
+Vi gulver gangen etter regler fra myndighetene. | Nous lavons le couloir selon les règles des autorités. | We wash the hallway following rules from the authorities.
+Ulike blinde hunder får ulik trening. | Différents chiens aveugles reçoivent un entraînement différent. | Different blind dogs get different training.
+Vi kjørte ifra byen fordi det var ulovlig å parkere. | Nous avons quitté la ville parce qu'il était illégal de se garer. | We drove away from town because parking was illegal.
+På hjørnet ved kilden står en benk. | Au coin, près de la source, il y a un banc. | On the corner by the spring stands a bench.
+Løsningen kom da sinnet forsvant. | La solution est venue quand la colère est partie. | The solution came when the anger disappeared.
+Jeg våger neppe å spørre om lønn. | J'ose à peine demander une augmentation. | I hardly dare ask about pay.
+Smilet hennes gjorde det latterlige normalt. | Son sourire a rendu le ridicule normal. | Her smile made the ridiculous normal.
+Tidspunktet for seieren var perfekt. | Le moment de la victoire était parfait. | The timing of the victory was perfect.
+Prinsen er ansvarlig for slottet. | Le prince est responsable du château. | The prince is responsible for the castle.
+Det lyder rart, men videoen er offentlig. | Ça semble bizarre, mais la vidéo est publique. | It sounds odd, but the video is public.
+Skiltet var tydelig, og bilen var mektig stor. | Le panneau était clair, et la voiture était très grande. | The sign was clear, and the car was mighty big.
+Tydeligvis var kaffen elendig igjen. | Visiblement, le café était encore nul. | Evidently the coffee was lousy again.
+Dobbel lønn ga henne en ny karriere. | Un double salaire lui a donné une nouvelle carrière. | Double pay gave her a new career.
+Hun overtok butikken og grep sjansen. | Elle a repris le magasin et saisi sa chance. | She took over the shop and seized the chance.
+Åpenbart er huden tørr om vinteren. | Manifestement, la peau est sèche en hiver. | Obviously the skin is dry in winter.
+Det er menneskelig å akseptere hjelp. | Il est humain d'accepter de l'aide. | It's human to accept help.
+Naturligvis løp rotta i motsatt retning. | Naturellement, le rat a couru dans la direction opposée. | Naturally the rat ran in the opposite direction.
+Vi gikk omkring i den kompliserte byen. | Nous avons marché dans la ville compliquée. | We walked around the complicated town.
+Energien kom tilbake da vi vurderte planen. | L'énergie est revenue quand nous avons évalué le plan. | The energy came back when we assessed the plan.
+Takknemlig utviklet han firmaet videre. | Reconnaissant, il a continué à développer l'entreprise. | Gratefully he developed the company further.
+Ektemannen satt i skyggen under treet. | Le mari était assis à l'ombre sous l'arbre. | The husband sat in the shade under the tree.
+Månen lyste etter marerittet. | La lune brillait après le cauchemar. | The moon shone after the nightmare.
+En strålende, ukjent sanger vant. | Un chanteur brillant et inconnu a gagné. | A brilliant, unknown singer won.
+Beslutningen skremte tyven. | La décision a effrayé le voleur. | The decision scared the thief.
+Datamaskinen viser en gris på skjermen. | L'ordinateur montre un cochon à l'écran. | The computer shows a pig on the screen.
+Den berømte kokken lager uvanlig mat. | Le célèbre cuisinier fait une cuisine inhabituelle. | The famous chef makes unusual food.
+Så vidt jeg vet, er hun dyktig. | Pour autant que je sache, elle est compétente. | As far as I know, she's skilled.
+Fokuser, ellers blir det teit. | Concentre-toi, sinon ça va être bête. | Focus, otherwise it'll be silly.
+Skuespilleren forsikret oss om avstanden. | L'acteur nous a rassurés sur la distance. | The actor assured us about the distance.
+Vi har felles ansvar for brystet til pasienten. | Nous avons une responsabilité commune pour la poitrine du patient. | We share responsibility for the patient's chest.
+Straffen var en klem fra bestemor. | La punition était un câlin de grand-mère. | The punishment was a hug from Grandma.
+Kunst skal ikke veies på vekt. | L'art ne se pèse pas sur une balance. | Art shouldn't be weighed on scales.
+Det er naturlig at katten er feit om vinteren. | Il est naturel que le chat soit gros en hiver. | It's natural for the cat to be fat in winter.
+Fordelen er at fetteren min hjelper. | L'avantage est que mon cousin aide. | The advantage is that my cousin helps.
+Isen forårsaket ulykken; jeg advarte deg. | La glace a causé l'accident ; je t'avais prévenu. | The ice caused the accident; I warned you.
+Vi har behov for penger; jeg spanderer ikke. | Nous avons besoin d'argent ; je n'offre pas. | We need money; I'm not treating.
+Prosjektet endte i skam. | Le projet a fini dans la honte. | The project ended in shame.
+Sannsynligvis er tilstanden hans bedre. | Probablement, son état est meilleur. | Probably his condition is better.
+Kravet gjorde alle urolige. | L'exigence a inquiété tout le monde. | The demand made everyone uneasy.
+Sorgen var like stor som størrelsen på tapet. | Le chagrin était aussi grand que la taille de la perte. | The grief was as big as the size of the loss.
+Han var sjalu på knappen på dressen min. | Il était jaloux du bouton de mon costume. | He was jealous of the button on my suit.
+Jeg strøk skjorta og plantet blomster. | J'ai repassé la chemise et planté des fleurs. | I ironed the shirt and planted flowers.
+Risikoen er liten; jeg unnskylder meg. | Le risque est faible ; je m'excuse. | The risk is small; I apologise.
+Nakken er stiv, men utsikten er imponerende. | La nuque est raide, mais la vue est impressionnante. | The neck is stiff, but the view is impressive.
+Det er overhodet ikke rot her. | Il n'y a aucun désordre ici. | There's no mess here at all.
+Forbudt for forfattere uten billett. | Interdit aux écrivains sans billet. | Forbidden for writers without a ticket.
+Vinden var kraftig ved punktet på kartet. | Le vent était fort au point sur la carte. | The wind was strong at the point on the map.
+Maleriet sank i elva. | Le tableau a coulé dans la rivière. | The painting sank in the river.
+Vi valgte tilfeldig en drosje. | Nous avons choisi un taxi au hasard. | We chose a taxi at random.
+Dersom du lukter gass, ring politiet. | Si tu sens le gaz, appelle la police. | If you smell gas, call the police.
+Det er typisk at planten dør i november. | Il est typique que la plante meure en novembre. | It's typical for the plant to die in November.
+Universitetet har en konkurranse i mai. | L'université a une compétition en mai. | The university has a competition in May.
+Hun representerer en kanal på TV. | Elle représente une chaîne à la télé. | She represents a TV channel.
+Den populære bensinstasjonen er stengt. | La station-service populaire est fermée. | The popular petrol station is closed.
+Ruta går forbi en mild bakke. | L'itinéraire passe par une pente douce. | The route passes a gentle slope.
+Bunnen av universet finnes ikke. | Le fond de l'univers n'existe pas. | The bottom of the universe doesn't exist.
+Karakteren ble slettet ved en feil. | La note a été effacée par erreur. | The grade was deleted by mistake.
+Antallet klemmer var stort. | Le nombre de câlins était grand. | The number of hugs was large.
+Hun ble flau over en verdifull gave. | Elle a été gênée par un cadeau de valeur. | She was embarrassed by a valuable gift.
+Oppførselen hans besto prøven. | Son comportement a réussi le test. | His behaviour passed the test.
+Den langsomme bussen kostet en konto. | Le bus lent a coûté un compte. | The slow bus cost an account.
+Antakelig bor musa i kjelleren. | Probablement, la souris vit dans la cave. | Presumably the mouse lives in the cellar.
+Muligens ringer de umiddelbart. | Peut-être appelleront-ils immédiatement. | Possibly they'll call immediately.
+Midten av rommet har god høyde. | Le milieu de la pièce a une bonne hauteur. | The middle of the room has good height.
+Lynet traff bølgen. | La foudre a frappé la vague. | The lightning hit the wave.
+Serien var allikevel morsom. | La série était quand même drôle. | The series was funny anyway.
+Hun syr, og han tar opp lån. | Elle coud, et il prend un prêt. | She sews, and he takes out a loan.
+Beltet ble borte i tørken. | La ceinture a disparu dans la sécheresse. | The belt got lost in the drought.
+Mengden snø på kanten er stor. | La quantité de neige au bord est grande. | The amount of snow on the edge is large.
+Det er nyttig å bite seg i leppa. | Il est utile de se mordre la lèvre. | It's useful to bite your lip.
+Jeg er usikker på om det er lovlig. | Je ne suis pas sûr que ce soit légal. | I'm not sure it's legal.
+Moderne kunst gir ham tårer. | L'art moderne lui donne des larmes. | Modern art brings him tears.
+En generasjon bier bor i hagen. | Une génération d'abeilles vit dans le jardin. | A generation of bees lives in the garden.
+Veien svinger{svinge} ned til sanden. | La route tourne vers le sable. | The road bends down to the sand.
+Diktet handler om svette og arbeid. | Le poème parle de sueur et de travail. | The poem is about sweat and work.
+Reven spiste bønnene. | Le renard a mangé les haricots. | The fox ate the beans.
+Bidra med en internasjonal rett. | Contribue avec un plat international. | Contribute an international dish.
+Sirkelen er desto større. | Le cercle est d'autant plus grand. | The circle is all the bigger.
+Fuglene sulter; bruden gir dem brød. | Les oiseaux ont faim ; la mariée leur donne du pain. | The birds are starving; the bride gives them bread.
+Service med kunnskap om overflaten. | Service avec connaissance de la surface. | Service with knowledge of the surface.
+Romanen har en vane: den er feig. | Le roman a une habitude : il est lâche. | The novel has a habit: it's cowardly.
+Hun opptrer med stolthet og latter. | Elle se produit avec fierté et rire. | She performs with pride and laughter.
+Bladet er tilgjengelig tilfeldigvis. | La feuille est disponible par hasard. | The leaf is available by chance.

@@ -43,7 +43,8 @@ button, input, select { font: inherit; color: inherit; }
 @media (prefers-color-scheme: dark) { .top { background: #13243b; } }
 .brand { font-weight: 700; font-size: 1.15rem; letter-spacing: .01em; }
 .brand span { font-weight: 400; opacity: .75; }
-.controls { display: flex; gap: 8px; flex-wrap: wrap; }
+.controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.top-check { color: #fff; font-size: .85rem; }
 .audio-controls { width: 100%; justify-content: flex-end; }
 @media (max-width: 600px) { .audio-controls { justify-content: flex-start; } }
 .seg { display: inline-flex; background: rgba(255,255,255,.14); border-radius: 8px; padding: 2px; }
@@ -111,7 +112,7 @@ input[type=search], select {
 
 /* Popover */
 .pop {
-  position: fixed; z-index: 30; max-width: min(320px, calc(100vw - 32px));
+  position: fixed; z-index: 60; max-width: min(320px, calc(100vw - 32px));
   background: var(--card); border: 1px solid var(--line); border-radius: 10px;
   box-shadow: 0 8px 24px rgba(0,0,0,.18); padding: 10px 12px; font-size: .92rem;
 }
@@ -169,6 +170,7 @@ body.noscroll { overflow: hidden; }
 .vt .more, .word .more { border: 1px solid var(--line); background: var(--chip); border-radius: 99px; padding: 2px 8px; font-size: .78rem; cursor: pointer; white-space: nowrap; }
 .muted { color: var(--muted); }
 .vf { cursor: pointer; border-radius: 4px; padding: 0 1px; }
+.note-box i .vf, .sheet-head .vf { text-decoration: underline dotted; text-underline-offset: 3px; }
 .vf:hover { background: var(--chip); }
 .vf.playing { background: var(--hl); }
 @media (max-width: 500px) { .word .more span { display: none; } }

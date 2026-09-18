@@ -1,0 +1,194 @@
+# Niveau 2000 : verbes
+@list core2
+
+# Irréguliers et forts
+drepe | v2 | tuer | kill
+skyte | v | tirer (arme) | shoot | skyte,skyter,skjøt,skutt
+slåss | v | se battre | fight | slåss,slåss,sloss,slåss
+bryte | v | casser, rompre, enfreindre | break, violate | bryte,bryter,brøt,brutt
+brenne | v | brûler | burn | brenne,brenner,brant,brent
+lyve | v | mentir | lie (tell a lie) | lyve,lyver,løy,løyet
+stjele | v | voler (dérober) | steal | stjele,stjeler,stjal,stjålet
+be om | v | demander | ask for | be om,ber om,ba om,bedt om
+skrike | v | crier | scream | skrike,skriker,skrek,skreket
+lide | v | souffrir | suffer | lide,lider,led,lidd
+tvinge | v | forcer, obliger | force | tvinge,tvinger,tvang,tvunget
+overta | v | reprendre, prendre le relais | take over | overta,overtar,overtok,overtatt
+gjelde for | v | s'appliquer à | apply to | gjelde for,gjelder for,gjaldt for,gjeldt for
+avgjøre | v | décider, trancher | decide, settle | avgjøre,avgjør,avgjorde,avgjort
+bidra | v | contribuer | contribute | bidra,bidrar,bidro,bidratt
+gripe | v | saisir | grab, seize | gripe,griper,grep,grepet
+krype | v | ramper | crawl | krype,kryper,krøp,krøpet
+smelle | v | claquer | slam, bang | smelle,smeller,smalt,smelt
+sprekke | v | se fendre, éclater | crack, burst | sprekke,sprekker,sprakk,sprukket
+stige | v | monter, augmenter | rise, climb | stige,stiger,steg,steget
+synke | v | couler, baisser | sink | synke,synker,sank,sunket
+tilby seg | v | se proposer | offer oneself | tilby seg,tilbyr seg,tilbød seg,tilbudt seg
+finne ut | v | découvrir, trouver | find out | finne ut,finner ut,fant ut,funnet ut
+gi seg | v | abandonner, céder | give up | gi seg,gir seg,ga seg,gitt seg
+ta med | v | emporter, emmener | bring along | ta med,tar med,tok med,tatt med
+ta imot | v | recevoir, accueillir | receive | ta imot,tar imot,tok imot,tatt imot
+se ut | v | avoir l'air | look (seem) | se ut,ser ut,så ut,sett ut
+skrive under | v | signer | sign | skrive under,skriver under,skrev under,skrevet under
+holde på | v | être en train de | be busy doing | holde på,holder på,holdt på,holdt på
+gå an | v | être possible | be possible | gå an,går an,gikk an,gått an
+komme seg | v | s'en remettre | recover | komme seg,kommer seg,kom seg,kommet seg
+sette seg | v | s'asseoir | sit down | sette seg,setter seg,satte seg,satt seg
+legge seg | v | se coucher | go to bed | legge seg,legger seg,la seg,lagt seg
+stå opp | v | se lever | get up | stå opp,står opp,sto opp,stått opp
+slå av | v | éteindre | turn off | slå av,slår av,slo av,slått av
+slå på | v | allumer | turn on | slå på,slår på,slo på,slått på
+få tak i | v | obtenir, mettre la main sur | get hold of | få tak i,får tak i,fikk tak i,fått tak i
+ha lyst på | v | avoir envie de | feel like | ha lyst på,har lyst på,hadde lyst på,hatt lyst på
+være med | v | participer, venir avec | join, come along | være med,er med,var med,vært med
+
+# Groupe 1 (-a/-et)
+beskytte | v1 | protéger | protect
+skaffe | v1 | procurer, se procurer | get, obtain
+ordne | v1 | arranger, régler | arrange, sort out
+angre | v1 | regretter | regret
+samle | v1 | rassembler, collectionner | gather, collect
+hindre | v1 | empêcher | prevent
+takke | v1 | remercier | thank
+kysse | v1 | embrasser | kiss
+stanse | v1 | arrêter | stop, halt
+skremme | v2 | effrayer | scare
+jakte | v1 | chasser | hunt
+straffe | v1 | punir | punish
+advare | v2 | avertir | warn
+stole på | v1 | compter sur | rely on | stole på,stoler på,stolte på,stolt på
+bekrefte | v1 | confirmer | confirm
+unnskylde | v2 | excuser | excuse
+avsløre | v2 | révéler | reveal
+utvikle | v1 | développer | develop
+vurdere | v2 | évaluer, envisager | consider, assess
+forsikre | v1 | assurer | assure, insure
+representere | v2 | représenter | represent
+kontakte | v1 | contacter | contact
+behandle | v1 | traiter | treat
+akseptere | v2 | accepter | accept
+fokusere | v2 | se concentrer | focus
+forårsake | v1 | causer | cause
+utføre | v2 | effectuer | carry out
+oppleve | v3 | vivre (une expérience) | experience
+våge | v1 | oser | dare
+skjule | v2 | cacher | hide
+gjemme | v2 | cacher | hide
+lede | v1 | diriger, mener | lead
+styre | v2 | diriger, piloter | steer, govern
+teste | v1 | tester | test
+rive | v | déchirer, démolir | tear, tear down | rive,river,rev,revet
+vinke | v1 | faire signe de la main | wave
+kaste bort | v1 | gaspiller | waste | kaste bort,kaster bort,kasta bort/kastet bort,kasta bort/kastet bort
+pakke inn | v1 | emballer | wrap | pakke inn,pakker inn,pakka inn/pakket inn,pakka inn/pakket inn
+rydde opp | v1 | ranger, nettoyer | clean up | rydde opp,rydder opp,rydda opp/ryddet opp,rydda opp/ryddet opp
+hoppe over | v1 | sauter (omettre) | skip | hoppe over,hopper over,hoppa over/hoppet over,hoppa over/hoppet over
+passe på | v1 | faire attention, surveiller | look after, take care | passe på,passer på,passa på/passet på,passa på/passet på
+snakke om | v1 | parler de | talk about | snakke om,snakker om,snakka om/snakket om,snakka om/snakket om
+høre på | v2 | écouter | listen to | høre på,hører på,hørte på,hørt på
+bo sammen | v3 | vivre ensemble | live together | bo sammen,bor sammen,bodde sammen,bodd sammen
+levere inn | v2 | rendre, remettre | hand in | levere inn,leverer inn,leverte inn,levert inn
+samarbeide | v1 | collaborer | cooperate
+bråke | v1 | faire du bruit | make noise
+dukke opp | v1 | apparaître, se pointer | show up | dukke opp,dukker opp,dukka opp/dukket opp,dukka opp/dukket opp
+minne | v2 | rappeler | remind
+ligne | v1 | ressembler | resemble
+undersøke | v2 | examiner | examine
+arbeide | v1 | travailler | work
+sikre | v1 | sécuriser, garantir | secure
+vise fram | v2 | montrer, exposer | show off, display | vise fram,viser fram,viste fram,vist fram
+tørre ut | v1 | sécher | dry out | tørre ut,tørrer ut,tørra ut/tørret ut,tørra ut/tørret ut
+låse opp | v2 | déverrouiller | unlock | låse opp,låser opp,låste opp,låst opp
+bygge om | v | rénover | rebuild | bygge om,bygger om,bygde om,bygd om
+rette | v1 | corriger | correct
+regne med | v1 | compter sur, supposer | count on, expect | regne med,regner med,regna med/regnet med,regna med/regnet med
+lete etter | v2 | chercher | look for | lete etter,leter etter,lette etter,lett etter
+ta vare på | v | prendre soin de | take care of | ta vare på,tar vare på,tok vare på,tatt vare på
+sette pris på | v | apprécier | appreciate | sette pris på,setter pris på,satte pris på,satt pris på
+gå glipp av | v | rater, manquer | miss out on | gå glipp av,går glipp av,gikk glipp av,gått glipp av
+bli kvitt | v | se débarrasser de | get rid of | bli kvitt,blir kvitt,ble kvitt,blitt kvitt
+komme til å | v | aller (futur) | be going to | komme til å,kommer til å,kom til å,kommet til å
+pleie | v3 | avoir l'habitude de | usually do
+sørge for | v1 | veiller à | make sure | sørge for,sørger for,sørga for/sørget for,sørga for/sørget for
+sørge | v1 | pleurer (un deuil) | grieve
+hende | v2 | arriver, se produire | happen
+innrømme | v2 | admettre | admit
+foreslå | v | proposer | suggest | foreslå,foreslår,foreslo,foreslått
+overleve | v3 | survivre | survive
+begrave | v1 | enterrer | bury | begrave,begraver,begravde/begravet,begravd/begravet
+gi opp | v | abandonner | give up | gi opp,gir opp,ga opp,gitt opp
+bestå | v | réussir (examen) ; consister | pass ; consist | bestå,består,besto,bestått
+stryke | v | repasser ; échouer | iron ; fail | stryke,stryker,strøk,strøket
+lyde | v | sonner, retentir | sound | lyde,lyder,lød,lydt
+nyte | v | savourer, profiter | enjoy | nyte,nyter,nøt,nytt
+skjelve | v | trembler | shake, tremble | skjelve,skjelver,skalv,skjelvet
+bite | v | mordre | bite | bite,biter,bet,bitt
+drive | v | gérer, exploiter ; dériver | run (a business) ; drift | drive,driver,drev,drevet
+gni | v | frotter | rub | gni,gnir,gned/gnidde,gnidd
+hvile seg | v2 | se reposer | rest | hvile seg,hviler seg,hvilte seg,hvilt seg
+kle av | v3 | déshabiller | undress | kle av,kler av,kledde av,kledd av
+løfte | v1 | soulever | lift
+dytte | v1 | pousser | push, shove
+dra i | v | tirer sur | pull on | dra i,drar i,dro i,dratt i
+dele ut | v2 | distribuer | hand out | dele ut,deler ut,delte ut,delt ut
+telle opp | v | compter, faire les comptes | count up | telle opp,teller opp,talte opp,talt opp
+tømme ut | v2 | vider | pour out | tømme ut,tømmer ut,tømte ut,tømt ut
+varme opp | v1 | réchauffer | heat up | varme opp,varmer opp,varma opp/varmet opp,varma opp/varmet opp
+kjøle ned | v2 | refroidir | cool down | kjøle ned,kjøler ned,kjølte ned,kjølt ned
+krangle | v1 | se disputer | argue, quarrel
+hviske | v1 | chuchoter | whisper
+plage | v1 | embêter, tourmenter | bother, torment
+mase | v1 | harceler, insister | nag
+nøle | v2 | hésiter | hesitate
+love bort | v1 | promettre (à qqn d'autre) | promise away | love bort,lover bort,lova bort/lovet bort,lova bort/lovet bort
+stemme for | v2 | voter pour | vote for | stemme for,stemmer for,stemte for,stemt for
+telle med | v | compter (inclure) | count, include | telle med,teller med,talte med,talt med
+vare ved | v2 | persister | last, persist | vare ved,varer ved,varte ved,vart ved
+spandere | v2 | offrir, payer (pour qqn) | treat (pay for) | spandere,spanderer,spanderte,spandert
+låne bort | v2 | prêter | lend | låne bort,låner bort,lånte bort,lånt bort
+melde seg | v2 | s'inscrire, se présenter | sign up, report | melde seg,melder seg,meldte seg,meldt seg
+møte opp | v2 | se présenter | turn up | møte opp,møter opp,møtte opp,møtt opp
+ringe tilbake | v2 | rappeler (téléphone) | call back | ringe tilbake,ringer tilbake,ringte tilbake,ringt tilbake
+sjekke inn | v1 | s'enregistrer (hôtel) | check in | sjekke inn,sjekker inn,sjekka inn/sjekket inn,sjekka inn/sjekket inn
+sjekke ut | v1 | régler la note (hôtel) | check out | sjekke ut,sjekker ut,sjekka ut/sjekket ut,sjekka ut/sjekket ut
+gjøre rent | v | nettoyer | clean | gjøre rent,gjør rent,gjorde rent,gjort rent
+ta en pause | v | faire une pause | take a break | ta en pause,tar en pause,tok en pause,tatt en pause
+ha det travelt | v | être pressé, débordé | be busy | ha det travelt,har det travelt,hadde det travelt,hatt det travelt
+gå av | v | descendre (bus) ; démissionner | get off ; resign | gå av,går av,gikk av,gått av
+gå på | v | monter (bus) ; suivre (cours) | get on ; attend | gå på,går på,gikk på,gått på
+stille inn | v2 | régler (appareil) | set, adjust | stille inn,stiller inn,stilte inn,stilt inn
+stille spørsmål | v2 | poser une question | ask a question | stille spørsmål,stiller spørsmål,stilte spørsmål,stilt spørsmål
+lure på | v2 | se demander | wonder | lure på,lurer på,lurte på,lurt på
+glede seg til | v1 | avoir hâte de | look forward to | glede seg til,gleder seg til,gleda seg til/gledet seg til,gleda seg til/gledet seg til
+ha råd til | v | avoir les moyens de | afford | ha råd til,har råd til,hadde råd til,hatt råd til
+ha rett | v | avoir raison | be right | ha rett,har rett,hadde rett,hatt rett
+ta feil | v | se tromper | be wrong | ta feil,tar feil,tok feil,tatt feil
+være enig | v | être d'accord | agree | være enig,er enig,var enig,vært enig
+være lei seg | v | être triste | be sad | være lei seg,er lei seg,var lei seg,vært lei seg
+holde ut | v | tenir bon | endure | holde ut,holder ut,holdt ut,holdt ut
+slå seg | v | se faire mal | hurt oneself | slå seg,slår seg,slo seg,slått seg
+brekke | v | casser (un os) | break (a bone) | brekke,brekker,brakk,brukket
+svelge | v1 | avaler | swallow
+tygge | v1 | mâcher | chew
+sulte | v1 | avoir faim, affamer | starve
+kjenne på | v2 | ressentir, toucher | feel (touch) | kjenne på,kjenner på,kjente på,kjent på
+kaste opp | v1 | vomir | throw up | kaste opp,kaster opp,kasta opp/kastet opp,kasta opp/kastet opp
+hoste | v1 | tousser | cough
+nyse | v | éternuer | sneeze | nyse,nyser,nøs,nyst
+svette | v1 | transpirer | sweat
+blø | v3 | saigner | bleed
+tørke opp | v1 | essuyer (un liquide) | wipe up | tørke opp,tørker opp,tørka opp/tørket opp,tørka opp/tørket opp
+gulve | v1 | laver le sol | wash the floor
+pusse opp | v1 | rénover | renovate | pusse opp,pusser opp,pussa opp/pusset opp,pussa opp/pusset opp
+måle | v2 | mesurer | measure
+veie | v3 | peser | weigh
+koste på | v1 | dépenser pour | spend on | koste på,koster på,kosta på/kostet på,kosta på/kostet på
+handle inn | v1 | faire les courses | shop | handle inn,handler inn,handla inn/handlet inn,handla inn/handlet inn
+bytte om | v1 | échanger | swap around | bytte om,bytter om,bytta om/byttet om,bytta om/byttet om
+kjøre på | v2 | rouler sur, foncer | run into | kjøre på,kjører på,kjørte på,kjørt på
+kjøre inn | v2 | entrer en voiture | drive in | kjøre inn,kjører inn,kjørte inn,kjørt inn
+rygge | v1 | reculer (voiture) | reverse
+svinge | v1 | tourner (virage) | turn, swing | svinge,svinger,svingte/svinga,svingt/svinga
+bremse | v1 | freiner | brake
+fylle bensin | v2 | faire le plein | fill up petrol | fylle bensin,fyller bensin,fylte bensin,fylt bensin
+skifte dekk | v1 | changer les pneus | change tyres | skifte dekk,skifter dekk,skifta dekk/skiftet dekk,skifta dekk/skiftet dekk

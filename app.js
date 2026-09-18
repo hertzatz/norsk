@@ -1,6 +1,6 @@
 "use strict";
 
-const state = { level: 300, lang: "both", voice: "alt", speed: 1, view: "phrases", theme: "", list: "", pos: "", hideTr: false, q: "", sq: "", vq: "" };
+const state = { level: 300, lang: "both", voice: "alt", speed: 1, view: "phrases", theme: "", list: "", pos: "", hideTr: false, only: false, q: "", sq: "", vq: "" };
 let WORDS = [], SENTENCES = [], BY_ID = {}, SENT_BY_ID = {};
 const PAGE = 50;
 let shown = PAGE;
@@ -14,8 +14,8 @@ function load() {
 }
 function save() {
   try {
-    const { level, lang, voice, speed, view, theme, list, pos, hideTr } = state;
-    localStorage.setItem("norsk.settings", JSON.stringify({ level, lang, voice, speed, view, theme, list, pos, hideTr }));
+    const { level, lang, voice, speed, view, theme, list, pos, hideTr, only } = state;
+    localStorage.setItem("norsk.settings", JSON.stringify({ level, lang, voice, speed, view, theme, list, pos, hideTr, only }));
   } catch (e) {}
 }
 
@@ -172,6 +172,10 @@ function lemmaHTML(w) {
   return art + verb + esc(w.lemma);
 }
 
+// Level filter: up to the selected level, or exactly that level when "Only this level" is ticked
+const inLevel = (w) => state.only ? w.level === state.level : w.level <= state.level;
+const sentInLevel = (s) => state.only ? s.level === state.level : s.level <= state.level;
+
 // Number of sentences per word id, computed once
 let COUNT = null;
 function countFor(id) {
@@ -180,6 +184,35 @@ function countFor(id) {
     SENTENCES.forEach((s) => new Set(s.tokens.map((t) => t.w).filter(Boolean)).forEach((w) => (COUNT[w] = (COUNT[w] || 0) + 1)));
   }
   return COUNT[id] || 0;
+}
+
+// form -> word (lowest level wins), so any Norwegian word on the page can open a popover
+let FORM_INDEX = null;
+function wordForForm(text) {
+  if (!FORM_INDEX) {
+    FORM_INDEX = {};
+    [...WORDS].sort((a, b) => b.level - a.level || (b.rank || 9999) - (a.rank || 9999))
+      .forEach((w) => w.variants.forEach((v) => (FORM_INDEX[v] = w)));
+  }
+  const key = text.toLowerCase().trim();
+  return FORM_INDEX[key] || FORM_INDEX[key.replace(/^(å|en|ei|et|har|skal|vil) /, "")] || null;
+}
+
+// Every Norwegian word anywhere (tables, note boxes, titles): play it and show its popover
+function tapWord(el, text) {
+  playWord(text, el);
+  const w = wordForForm(text);
+  if (w) showPop(el, { t: text, w: w.id });
+  else pop.hidden = true;
+}
+
+// Wrap the Norwegian examples (<i>…</i>) of a note box into clickable words
+function makeClickable(root) {
+  root.querySelectorAll("i").forEach((i) => {
+    if (i.querySelector(".vf")) return;
+    i.innerHTML = i.textContent.split(/(\s+|[,.;:!?…()«»"]+)/).map((part) =>
+      /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="vf" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
+  });
 }
 
 const sentencesWith = (id) => SENTENCES.filter((s) => s.tokens.some((t) => t.w === id))
@@ -210,7 +243,7 @@ function sentenceHTML(s, hitId = null) {
 function renderWords() {
   const q = fold(state.q.trim());
   const list = WORDS.filter((w) => {
-    if (w.level > state.level) return false;
+    if (!inLevel(w)) return false;
     if (state.list === "core" && w.list !== "core") return false;
     if (state.list.startsWith("g:") && w.group !== state.list.slice(2)) return false;
     if (state.pos && (CAT_OF[w.pos] || {}).key !== state.pos) return false;
@@ -234,7 +267,7 @@ function renderWords() {
 // ---------- sentences view ----------
 function filteredSentences() {
   const q = fold(state.sq.trim());
-  return SENTENCES.filter((s) => s.level <= state.level && (!state.theme || s.theme === state.theme) &&
+  return SENTENCES.filter((s) => sentInLevel(s) && (!state.theme || s.theme === state.theme) &&
     (!q || fold(s.no).includes(q) || fold(s.fr).includes(q) || fold(s.en).includes(q)));
 }
 
@@ -265,6 +298,12 @@ function vf(text) {
     .map((x) => `<span class="vf" data-t="${esc(x)}">${esc(x)}</span>`).join(" / ");
 }
 
+// "har vært / vart" -> each Norwegian word clickable, keeping separators
+function vfRow(text) {
+  return String(text).split(/(\s+|\/|·|!)/).map((part) =>
+    /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="vf" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
+}
+
 function glossCell(w) {
   return state.lang === "en" ? esc(w.en) : state.lang === "fr" ? esc(w.fr)
     : `${esc(w.fr)}<br><span class="muted">${esc(w.en)}</span>`;
@@ -272,7 +311,7 @@ function glossCell(w) {
 
 function renderVerbs() {
   const q = fold(state.vq.trim());
-  const verbs = WORDS.filter((w) => w.pos === "verb" && w.level <= state.level &&
+  const verbs = WORDS.filter((w) => w.pos === "verb" && inLevel(w) &&
     (!q || w.variants.some((v) => fold(v).includes(q)) || fold(w.fr).includes(q) || fold(w.en).includes(q)))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
   document.getElementById("verbs").innerHTML = VERB_GROUPS.map(([cls, title, help]) => {
@@ -282,11 +321,11 @@ function renderVerbs() {
       const f = w.forms, modal = MODALS.has(w.lemma);
       return `<tr>
         <td class="gl">${glossCell(w)}</td>
-        <td class="inf">å ${vf(f.inf)}</td>
+        <td class="inf">${vfRow("å " + f.inf)}</td>
         <td>${vf(f.pres)}</td>
         <td>${vf(f.past)}</td>
-        <td>har ${vf(f.perf)}</td>
-        <td>${modal ? "—" : "skal " + vf(f.inf)}</td>
+        <td>${vfRow("har " + f.perf)}</td>
+        <td>${modal ? "—" : vfRow("skal " + f.inf)}</td>
         <td>${modal ? "—" : vf(imperative(f.inf))}</td>
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>
       </tr>`;
@@ -325,7 +364,7 @@ function renderPronouns() {
   const personal = PERSONAL.map(([p, subj, obj, poss, fr, en]) => `<tr>
       <td class="gl">${state.lang === "en" ? en : state.lang === "fr" ? fr : `${fr}<br><span class="muted">${en}</span>`}<br><span class="muted">${p}</span></td>
       <td class="inf">${subj === "—" ? "—" : vf(subj)}</td><td>${vf(obj)}</td>${possCells(poss)}</tr>`).join("");
-  const others = WORDS.filter((w) => (w.pos === "pron" || w.pos === "det") && w.level <= state.level)
+  const others = WORDS.filter((w) => (w.pos === "pron" || w.pos === "det") && inLevel(w))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
   document.getElementById("pronouns").innerHTML = `
     <h2 class="vh">Personal and possessive pronouns</h2>
@@ -384,7 +423,7 @@ function showPop(anchor, tok) {
   pop.innerHTML = `
     <div class="lemma">${lemmaHTML(w)} <span class="badge cat">${esc(catLabel(w))}</span></div>
     <div class="gloss">${glossHTML(w)}</div>
-    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${esc(v)}</td></tr>`).join("")}</table>` : ""}
+    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v)}</td></tr>`).join("")}</table>` : ""}
     ${tok.x ? `<div class="note">Bonus word: level ${w.level}</div>` : ""}
     <button class="pop-more" data-id="${esc(w.id)}">📚 See sentences (${n})</button>`;
   pop.hidden = false;
@@ -407,10 +446,10 @@ function openSheet(id) {
   const here = all.filter((s) => s.level <= state.level);
   const above = all.filter((s) => s.level > state.level);
   const rows = formRows(w);
-  document.getElementById("sheetTitle").innerHTML = lemmaHTML(w);
+  document.getElementById("sheetTitle").innerHTML = `<span class="vf" data-t="${esc(w.lemma)}">${lemmaHTML(w)}</span>`;
   document.getElementById("sheetBody").innerHTML = `
     <div class="gloss">${glossHTML(w)}</div>
-    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${esc(v)}</td></tr>`).join("")}</table>` : ""}
+    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v)}</td></tr>`).join("")}</table>` : ""}
     <p class="count">${here.length} sentence${here.length > 1 ? "s" : ""} at level ${state.level}</p>
     <div class="sheet-list ${state.hideTr ? "hide-tr" : ""}">
       ${here.map((s) => sentenceHTML(s, id)).join("") || `<p class="empty">No sentences at this level.</p>`}
@@ -434,6 +473,7 @@ function syncControls() {
   document.querySelectorAll(".tabs button").forEach((b) => b.classList.toggle("on", b.dataset.view === state.view));
   document.querySelectorAll(".view").forEach((v) => (v.hidden = v.id !== "view-" + state.view));
   document.getElementById("hideTr").checked = state.hideTr;
+  document.getElementById("onlyLevel").checked = state.only;
   document.getElementById("themeSel").value = state.theme;
   document.getElementById("listSel").value = state.list;
   document.getElementById("posSel").value = state.pos;
@@ -446,6 +486,7 @@ function render() {
   if (state.view === "phrases") renderSentences();
   if (state.view === "verbes") renderVerbs();
   if (state.view === "pronoms") renderPronouns();
+  document.querySelectorAll(".note-box").forEach(makeClickable);
   save();
 }
 
@@ -504,19 +545,19 @@ function bind() {
   };
   document.getElementById("search").oninput = (e) => { state.q = e.target.value; renderWords(); };
   document.getElementById("verbSearch").oninput = (e) => { state.vq = e.target.value; renderVerbs(); };
-  for (const id of ["verbs", "pronouns"]) {
-    document.getElementById(id).onclick = (e) => {
-      const more = e.target.closest(".more");
-      if (more) return openSheet(more.dataset.id);
-      const form = e.target.closest(".vf");
-      if (form) playWord(form.dataset.t, form);
-    };
-  }
+  document.addEventListener("click", (e) => {
+    const more = e.target.closest(".more");
+    if (more && !e.target.closest(".word")) return openSheet(more.dataset.id);
+    const form = e.target.closest(".vf");
+    if (form) { tapWord(form, form.dataset.t); e.stopPropagation(); }
+  });
+  document.querySelectorAll(".note-box").forEach(makeClickable);
   document.getElementById("sentSearch").oninput = (e) => { state.sq = e.target.value; shown = PAGE; renderSentences(); };
   document.getElementById("listSel").onchange = (e) => { state.list = e.target.value; render(); };
   document.getElementById("posSel").onchange = (e) => { state.pos = e.target.value; render(); };
   document.getElementById("themeSel").onchange = (e) => { state.theme = e.target.value; shown = PAGE; render(); };
   document.getElementById("hideTr").onchange = (e) => { state.hideTr = e.target.checked; render(); };
+  document.getElementById("onlyLevel").onchange = (e) => { state.only = e.target.checked; shown = PAGE; render(); };
 
   const words = document.getElementById("words");
   words.onclick = (e) => {
@@ -541,12 +582,14 @@ function bind() {
 
   pop.onclick = (e) => {
     const b = e.target.closest(".pop-more"); if (b) openSheet(b.dataset.id);
+    const form = e.target.closest(".vf");
+    if (form) { playWord(form.dataset.t, form); e.stopPropagation(); }
   };
   document.getElementById("sheetClose").onclick = closeSheet;
   sheet.onclick = (e) => { if (e.target === sheet) closeSheet(); };
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") { closeSheet(); pop.hidden = true; } });
   document.addEventListener("click", (e) => {
-    if (!e.target.closest(".tok") && !e.target.closest(".pop")) pop.hidden = true;
+    if (!e.target.closest(".tok") && !e.target.closest(".vf") && !e.target.closest(".pop")) pop.hidden = true;
   });
   window.addEventListener("scroll", () => { pop.hidden = true; }, { passive: true });
   sheetBody.addEventListener("scroll", () => { pop.hidden = true; }, { passive: true });

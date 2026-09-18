@@ -1,0 +1,190 @@
+# Niveau 2000, lot 8 : phrases denses (sentiments, loisirs, tech, temps, adverbes)
+@level 2000
+
+@theme folelser Feelings
+Frykten for å lyve er stor hos barn. | La peur de mentir est grande chez les enfants. | The fear of lying is great in children.
+Hat{hat} og frykt ødelegger vennskap. | La haine et la peur détruisent l'amitié. | Hatred and fear destroy friendships.
+Håpet{håp} og viljen holdt ham i live. | L'espoir et la volonté l'ont maintenu en vie. | Hope and will kept him alive.
+Kysset og klemmen var en overraskelse. | Le baiser et le câlin étaient une surprise. | The kiss and the hug were a surprise.
+Skuffelsen etter tapet var tung. | La déception après la défaite était lourde. | The disappointment after the loss was heavy.
+Sorgen og tårene kom etter begravelsen. | Le chagrin et les larmes sont venus après l'enterrement. | The grief and tears came after the funeral.
+Stoltheten over seieren var stor. | La fierté de la victoire était grande. | The pride in the victory was great.
+Ærlighet, tålmodighet og tilgivelse er viktige. | L'honnêteté, la patience et le pardon sont importants. | Honesty, patience and forgiveness are important.
+Misforståelsen ble en konflikt. | Le malentendu est devenu un conflit. | The misunderstanding became a conflict.
+Humøret og stemningen var gode på konserten. | L'humeur et l'ambiance étaient bonnes au concert. | The mood and atmosphere were good at the concert.
+Personligheten hans er ensom, men snill. | Sa personnalité est solitaire, mais gentille. | His personality is lonely but kind.
+Han har en vane: han hvisker når han er urolig. | Il a une habitude : il chuchote quand il est inquiet. | He has a habit: he whispers when he's anxious.
+Oppførselen og holdningen hennes er imponerende. | Son comportement et son attitude sont impressionnants. | Her behaviour and attitude are impressive.
+Evnen til å le av seg selv er nyttig. | La capacité de rire de soi-même est utile. | The ability to laugh at yourself is useful.
+Skam og skyld etter løgnen. | Honte et culpabilité après le mensonge. | Shame and guilt after the lie.
+Behovet for søvn øker med stress. | Le besoin de sommeil augmente avec le stress. | The need for sleep increases with stress.
+Marerittet endte med et smil. | Le cauchemar s'est terminé par un sourire. | The nightmare ended with a smile.
+Han er lykkelig, takknemlig og stolt. | Il est heureux, reconnaissant et fier. | He's happy, grateful and proud.
+Hun ble flau og skamfull etter krangelen. | Elle a été gênée et honteuse après la dispute. | She was embarrassed and ashamed after the quarrel.
+Ikke vær sjalu eller misunnelig. | Ne sois pas jaloux ni envieux. | Don't be jealous or envious.
+Kunden var misfornøyd og utålmodig. | Le client était mécontent et impatient. | The customer was dissatisfied and impatient.
+Læreren var streng, men tålmodig. | Le professeur était strict, mais patient. | The teacher was strict but patient.
+Vi var interessert i utstillingen. | Nous étions intéressés par l'exposition. | We were interested in the exhibition.
+Det var en grusom og fæl ulykke. | C'était un accident terrible et horrible. | It was a terrible, awful accident.
+Lukta var ekkel og forferdelig. | L'odeur était dégoûtante et horrible. | The smell was disgusting and terrible.
+Den feige mannen løp fra fienden. | L'homme lâche a fui l'ennemi. | The cowardly man ran from the enemy.
+Hun trøstet det urolige barnet. | Elle a consolé l'enfant inquiet. | She comforted the anxious child.
+Han angret på den falske beskjeden. | Il a regretté le faux message. | He regretted the false message.
+Det er merkelig at han ikke ringer. | C'est étrange qu'il n'appelle pas. | It's strange that he doesn't call.
+Hun var uskyldig, ikke skyldig. | Elle était innocente, pas coupable. | She was innocent, not guilty.
+Det var utrolig, men sant. | C'était incroyable, mais vrai. | It was incredible but true.
+Han er skikkelig glad i dag. | Il est vraiment content aujourd'hui. | He's really happy today.
+Det er neppe latterlig å gråte. | Ce n'est guère ridicule de pleurer. | It's hardly ridiculous to cry.
+Det var teit å krangle om ballen. | C'était bête de se disputer pour la balle. | It was silly to argue over the ball.
+Hun er ansvarlig og menneskelig. | Elle est responsable et humaine. | She's responsible and humane.
+Han er mektig, men ikke lykkelig. | Il est puissant, mais pas heureux. | He's powerful but not happy.
+Det er uvanlig å se ham sint. | Il est inhabituel de le voir en colère. | It's unusual to see him angry.
+Hun ler av alle vitsene. | Elle rit de toutes les blagues. | She laughs at all the jokes.
+Han skrek av frykt i mørket. | Il a crié de peur dans le noir. | He screamed with fear in the dark.
+Hun kysset ham og hvisket takk. | Elle l'a embrassé et a chuchoté merci. | She kissed him and whispered thanks.
+Han plager søsteren, og hun skriker. | Il embête sa sœur, et elle crie. | He teases his sister, and she screams.
+Barna krangler og bråker hele dagen. | Les enfants se disputent et font du bruit toute la journée. | The children argue and make noise all day.
+Ikke mas, og ikke nøl. | N'insiste pas, et n'hésite pas. | Don't nag, and don't hesitate.
+Hun sørger over katten som ble drept. | Elle pleure le chat qui a été tué. | She's grieving over the cat that was killed.
+Vi lider når vennene våre lider. | Nous souffrons quand nos amis souffrent. | We suffer when our friends suffer.
+
+@theme fritid Leisure
+Idretten og konkurransen samler bygda. | Le sport et la compétition rassemblent le village. | Sport and competition bring the village together.
+Kampen endte med tap etter en god seier i fjor. | Le match s'est terminé par une défaite après une belle victoire l'an dernier. | The match ended in a loss after a good victory last year.
+Premien og medaljen står på hylla. | Le prix et la médaille sont sur l'étagère. | The prize and medal are on the shelf.
+Langrenn og slalåm i vinterferien. | Ski de fond et ski alpin pendant les vacances d'hiver. | Cross-country and alpine skiing in the winter holidays.
+Skøyter og kjelke ligger i garasjen. | Les patins et la luge sont dans le garage. | The skates and sledge are in the garage.
+Aking i løypa bak skiheisen. | Luge sur la piste derrière la remontée mécanique. | Sledging on the trail behind the ski lift.
+Fjellturen og teltturen var slitsomme. | La randonnée et le camping étaient fatigants. | The hike and camping trip were tiring.
+Bålet og grillen ved brygga. | Le feu et le barbecue près du ponton. | The fire and barbecue by the jetty.
+Fiskestanga og jakta venter i høst. | La canne à pêche et la chasse attendent cet automne. | The fishing rod and the hunt await this autumn.
+Svømmehallen og treningssenteret er i sentrum. | La piscine et la salle de sport sont au centre-ville. | The pool and the gym are in the town centre.
+Fotballbanen er full av ungdom om kvelden. | Le terrain de foot est plein de jeunes le soir. | The football pitch is full of young people in the evening.
+Teateret og museet har utstilling i mai. | Le théâtre et le musée ont une exposition en mai. | The theatre and museum have an exhibition in May.
+Konserten og festivalen samlet publikum. | Le concert et le festival ont rassemblé le public. | The concert and festival gathered the audience.
+Maleriet er laget av en kjent kunstner. | Le tableau est fait par un artiste connu. | The painting was made by a known artist.
+Forfatteren skrev en roman og et dikt. | L'écrivain a écrit un roman et un poème. | The writer wrote a novel and a poem.
+Eventyret og serien er for barn. | Le conte et la série sont pour les enfants. | The fairy tale and the series are for children.
+Skuespilleren og sangeren opptrer i bandet. | L'acteur et le chanteur se produisent dans le groupe. | The actor and singer perform in the band.
+Instrumentene, gitaren og pianoet står på scenen. | Les instruments, la guitare et le piano sont sur scène. | The instruments, guitar and piano are on stage.
+Terningen og puslespillet ligger på bordet. | Le dé et le puzzle sont sur la table. | The dice and jigsaw are on the table.
+Strikking og hagearbeid om vinteren. | Tricot et jardinage en hiver. | Knitting and gardening in winter.
+Vi planter, vanner og høster i hagen. | Nous plantons, arrosons et récoltons dans le jardin. | We plant, water and harvest in the garden.
+Han fotograferer og filmer nordlyset. | Il photographie et filme l'aurore boréale. | He photographs and films the northern lights.
+Vi aker og går på skøyter i vinterferien. | Nous faisons de la luge et du patin pendant les vacances d'hiver. | We sledge and skate in the winter holidays.
+Vi går på ski i løypa hver helg. | Nous skions sur la piste chaque week-end. | We ski on the trail every weekend.
+Hun vinket og smilte fra skiheisen. | Elle a fait signe et souri depuis la remontée. | She waved and smiled from the ski lift.
+Kunsten på museet er moderne. | L'art au musée est moderne. | The art at the museum is modern.
+Idretten krever trening og vilje. | Le sport demande de l'entraînement et de la volonté. | Sport requires training and will.
+Slalåm i bakken, langrenn på vidda. | Ski alpin sur la pente, ski de fond sur le plateau. | Alpine skiing on the slope, cross-country on the plateau.
+Kjelken og skøytene er slitte. | La luge et les patins sont usés. | The sledge and skates are worn.
+Vi grillet lam på bålet. | Nous avons grillé de l'agneau sur le feu. | We grilled lamb on the fire.
+
+@theme tek Technology
+Datamaskinen, skjermen og tastaturet er nye. | L'ordinateur, l'écran et le clavier sont neufs. | The computer, screen and keyboard are new.
+Skriveren og kameraet er gamle. | L'imprimante et l'appareil photo sont vieux. | The printer and camera are old.
+Appen og nettsiden har samme lenke. | L'application et le site ont le même lien. | The app and the website have the same link.
+Filen ligger i mappa på skrivebordet. | Le fichier est dans le dossier sur le bureau. | The file is in the folder on the desktop.
+Videoen er lagret i mappa. | La vidéo est enregistrée dans le dossier. | The video is saved in the folder.
+Høyttaleren og hodetelefonene er i sekken. | L'enceinte et le casque sont dans le sac. | The speaker and headphones are in the bag.
+Ladekabelen og batteriet er ødelagt. | Le câble de charge et la batterie sont cassés. | The charging cable and battery are broken.
+Wifien og nettverket er nede. | Le wifi et le réseau sont en panne. | The wifi and network are down.
+Brukernavn og passord ved innloggingen. | Nom d'utilisateur et mot de passe à la connexion. | Username and password at login.
+Oppdateringen ga en feilmelding. | La mise à jour a donné un message d'erreur. | The update gave an error message.
+Sosiale medier og nyheter på mobilen. | Réseaux sociaux et actualités sur le portable. | Social media and news on the phone.
+Radioen og kanalen har reklame. | La radio et la chaîne ont de la publicité. | The radio and channel have advertising.
+Logg inn, last ned og logg ut. | Connecte-toi, télécharge et déconnecte-toi. | Log in, download and log out.
+Trykk på lenken og last opp filen. | Appuie sur le lien et téléverse le fichier. | Press the link and upload the file.
+Klikk, lagre og slett{slette} det gamle. | Clique, enregistre et supprime l'ancien. | Click, save and delete the old one.
+Søk på nettet og fyll ut skjemaet. | Cherche en ligne et remplis le formulaire. | Search online and fill in the form.
+Send inn, kryss av og logg ut. | Envoie, coche et déconnecte-toi. | Submit, tick and log out.
+Serien på kanalen er kjedelig. | La série sur la chaîne est ennuyeuse. | The series on the channel is boring.
+Kameraet på mobilen tar video. | L'appareil photo du portable fait de la vidéo. | The camera on the phone takes video.
+Skjermen på datamaskinen er skjev. | L'écran de l'ordinateur est de travers. | The computer screen is crooked.
+Appen krever ny innlogging. | L'application demande une nouvelle connexion. | The app requires a new login.
+Høyttaleren bråker i hele nabolaget. | L'enceinte fait du bruit dans tout le quartier. | The speaker makes noise across the whole neighbourhood.
+Nettverket er tilgjengelig i hele bygningen. | Le réseau est accessible dans tout le bâtiment. | The network is available in the whole building.
+Reklamen på radio er høylytt. | La publicité à la radio est bruyante. | The adverts on the radio are loud.
+
+@theme tid Time
+Kvarteret og øyeblikket gikk fort. | Le quart d'heure et l'instant sont passés vite. | The quarter of an hour and the moment went fast.
+Døgnet har mange timer, ukedagen åtte på jobb. | La journée a beaucoup d'heures, le jour de semaine huit au travail. | The day has many hours, the weekday eight at work.
+Helligdager og årstider i kalenderen. | Jours fériés et saisons dans le calendrier. | Public holidays and seasons in the calendar.
+Midnatt, daggry og skumring på vidda. | Minuit, aube et crépuscule sur le plateau. | Midnight, dawn and dusk on the plateau.
+Formiddagen er rolig, ettermiddagen travel. | La matinée est calme, l'après-midi chargé. | The late morning is calm, the afternoon busy.
+Fortiden, nåtiden og framtiden i ett dikt. | Le passé, le présent et l'avenir dans un poème. | The past, present and future in one poem.
+Perioden før jul er en travel periode. | La période avant Noël est chargée. | The period before Christmas is a busy period.
+Tidspunktet for møtet er umiddelbart etter lunsj. | L'heure de la réunion est juste après le déjeuner. | The time of the meeting is immediately after lunch.
+Juleferie, vinterferie og sommerferie. | Vacances de Noël, d'hiver et d'été. | Christmas, winter and summer holidays.
+Høstferien er i uke førti, nyttår i januar. | Les vacances d'automne sont la semaine quarante, le nouvel an en janvier. | The autumn holidays are in week forty, New Year in January.
+Nyttårsaften og julaften er kvelder for familien. | La Saint-Sylvestre et la veille de Noël sont des soirées en famille. | New Year's Eve and Christmas Eve are evenings for the family.
+Nasjonaldagen og bursdagsfesten er i mai. | La fête nationale et la fête d'anniversaire sont en mai. | The national day and the birthday party are in May.
+Fristen gikk ut ved midnatt. | Le délai a expiré à minuit. | The deadline passed at midnight.
+Etter hvert kom vi i tide. | Petit à petit, nous sommes arrivés à temps. | Gradually we arrived in time.
+Med det samme lyste stjernene. | Aussitôt, les étoiles ont brillé. | At once the stars shone.
+Til slutt sluttet uværet. | Enfin, les intempéries ont cessé. | Finally the bad weather stopped.
+I løpet av døgnet kom flommen. | Au cours de la journée, l'inondation est arrivée. | During the day the flood came.
+Inntil videre er svømmehallen stengt. | Pour l'instant, la piscine est fermée. | For now the swimming pool is closed.
+Vi kom i tide til konserten. | Nous sommes arrivés à temps au concert. | We arrived in time for the concert.
+
+@theme hverdag Everyday life
+Lenger unna er det svært stille. | Plus loin, c'est très calme. | Further away it's very quiet.
+Han sa ikke engang hva slags feil det var. | Il n'a même pas dit quel genre d'erreur c'était. | He didn't even say what kind of mistake it was.
+Resten av veien går videre nedover. | Le reste de la route continue en descendant. | The rest of the road goes on downhill.
+Det er ille, og neppe bedre i morgen. | C'est grave, et guère mieux demain. | It's bad, and hardly better tomorrow.
+Har du noensinne sett noe slikt? | As-tu jamais vu une chose pareille ? | Have you ever seen anything like it?
+Vi drar ifra bygda til slutt. | Nous quittons le village à la fin. | We leave the village in the end.
+Slett ikke, javel, jepp og javisst. | Pas du tout, bon, ouais et bien sûr. | Not at all, all right, yep and certainly.
+Det er så vidt vi rekker det. | C'est tout juste si nous y arrivons. | We'll barely make it.
+Tydeligvis, åpenbart og naturligvis er det sant. | Visiblement, manifestement et naturellement, c'est vrai. | Evidently, obviously and naturally it's true.
+Han gikk omkring og så seg rundt. | Il a marché autour et a regardé alentour. | He walked around and looked around.
+Allikevel kom han muligens for sent. | Quand même, il est peut-être arrivé en retard. | Anyway, he possibly came too late.
+Umiddelbart og sannsynligvis riktig. | Immédiatement et probablement juste. | Immediately and probably right.
+Tilfeldigvis og antakelig samme dag. | Par hasard et probablement le même jour. | By chance and presumably the same day.
+Det hjelper overhodet ikke; forhåpentligvis i morgen. | Ça n'aide pas du tout ; espérons demain. | It doesn't help at all; hopefully tomorrow.
+Dessverre, særlig om vinteren. | Malheureusement, surtout en hiver. | Unfortunately, especially in winter.
+Etter hvert, med det samme, til slutt. | Petit à petit, tout de suite, à la fin. | Gradually, right away, finally.
+I det hele tatt, for øvrig, i stedet. | Du tout, par ailleurs, à la place. | At all, otherwise, instead.
+I tillegg, til og med, på grunn av snøen. | En plus, même, à cause de la neige. | In addition, even, because of the snow.
+I forhold til i fjor, i løpet av uka. | Par rapport à l'an dernier, au cours de la semaine. | Compared to last year, during the week.
+Ved siden av kirka, på tross av regnet. | À côté de l'église, malgré la pluie. | Next to the church, despite the rain.
+I stedet for te, på vegne av alle. | Au lieu de thé, au nom de tous. | Instead of tea, on behalf of everyone.
+Takket være naboen, i nærheten av havna. | Grâce au voisin, près du port. | Thanks to the neighbour, near the harbour.
+Overalt, ingensteds, hjemover og utover. | Partout, nulle part, vers la maison et vers l'extérieur. | Everywhere, nowhere, homewards and outwards.
+Innover, oppover, nedover og bortover. | Vers l'intérieur, vers le haut, vers le bas et le long. | Inwards, upwards, downwards and along.
+Framover og bakover på tvers av dalen. | En avant et en arrière à travers la vallée. | Forwards and backwards across the valley.
+Gjennomsnittlig og omtrent ti grader. | En moyenne et environ dix degrés. | On average and about ten degrees.
+Dersom og ettersom det snør, blir vi. | Si et puisqu'il neige, nous restons. | If and since it's snowing, we're staying.
+Selv om det regner, slik at vi blir våte. | Bien qu'il pleuve, de sorte que nous soyons mouillés. | Although it's raining, so that we get wet.
+Derfor, dermed og likevel uansett. | Donc, ainsi et pourtant de toute façon. | Therefore, thus and nevertheless anyway.
+Jo mer, desto bedre, hvorvidt du vil eller ikke. | Plus il y en a, mieux c'est, que tu le veuilles ou non. | The more the better, whether you want it or not.
+Han arbeider på verkstedet og leder laget. | Il travaille à l'atelier et dirige l'équipe. | He works in the workshop and leads the team.
+Vi overlevde stormen og beskyttet dyrene. | Nous avons survécu à la tempête et protégé les animaux. | We survived the storm and protected the animals.
+Skjul, gjem og samle tingene før uværet. | Cache, dissimule et rassemble les affaires avant les intempéries. | Hide, conceal and gather the things before the bad weather.
+Rette, sikre og minne om reglene. | Corriger, sécuriser et rappeler les règles. | Correct, secure and remind of the rules.
+Han brøt loven og brant dokumentene. | Il a enfreint la loi et brûlé les documents. | He broke the law and burned the documents.
+Skyte, drepe og slåss er forbudt her. | Tirer, tuer et se battre sont interdits ici. | Shooting, killing and fighting are forbidden here.
+Tvinge, hindre og straffe hjelper ikke. | Forcer, empêcher et punir n'aident pas. | Forcing, preventing and punishing doesn't help.
+Lyv ikke, våg å si sannheten. | Ne mens pas, ose dire la vérité. | Don't lie, dare to tell the truth.
+Hun grep tauet og krøp opp bakken. | Elle a saisi la corde et a rampé sur la pente. | She grabbed the rope and crawled up the slope.
+Døra smalt{smelle}, og vinduet sprakk. | La porte a claqué, et la fenêtre s'est fendue. | The door slammed and the window cracked.
+Han gled, snublet og slo seg. | Il a glissé, trébuché et s'est fait mal. | He slipped, stumbled and hurt himself.
+Vei{veie}, mål{måle} og tell opp varene. | Pèse, mesure et compte les marchandises. | Weigh, measure and count the goods.
+Bind, bøy og strekk tauet. | Attache, plie et étire la corde. | Tie, bend and stretch the rope.
+Dytt, dra og løft esken. | Pousse, tire et soulève la boîte. | Push, pull and lift the box.
+Spander, låne bort og spar penger. | Offre, prête et économise de l'argent. | Treat, lend and save money.
+Stryk, sy og strikk klærne. | Repasse, couds et tricote les vêtements. | Iron, sew and knit the clothes.
+Vann, plant og høst{høste} i hagen. | Arrose, plante et récolte dans le jardin. | Water, plant and harvest in the garden.
+Han svingte, rygget og bremset. | Il a tourné, reculé et freiné. | He turned, reversed and braked.
+Pipe, smelle og bråke hele natta. | Biper, claquer et faire du bruit toute la nuit. | Beeping, banging and making noise all night.
+Vi sparket ballen over gjerdet. | Nous avons envoyé la balle par-dessus la clôture. | We kicked the ball over the fence.
+Hun sprer nyheten i hele bygda. | Elle répand la nouvelle dans tout le village. | She spreads the news around the whole village.
+Vi vannet blomstene og gulvet kjøkkenet. | Nous avons arrosé les fleurs et lavé le sol de la cuisine. | We watered the flowers and washed the kitchen floor.
+Hun avslørte at han sparket hunden. | Elle a révélé qu'il donnait des coups de pied au chien. | She revealed that he kicked the dog.
+Overraskelsen var en gitar til bursdagen. | La surprise était une guitare pour l'anniversaire. | The surprise was a guitar for the birthday.
+Tema for kurset er planlegging og styre. | Le thème du cours est la planification et la direction. | The topic of the course is planning and management.
+Tjenesten og produktet er av god kvalitet. | Le service et le produit sont de bonne qualité. | The service and product are of good quality.
+Setningen står øverst på arket, ikke nederst. | La phrase est en haut de la feuille, pas en bas. | The sentence is at the top of the sheet, not at the bottom.
+Ordboka viser at ordet er gyldig. | Le dictionnaire montre que le mot est valable. | The dictionary shows the word is valid.
+Passet{pass} er ugyldig etter stengetid. | Le passeport n'est pas valable après l'heure de fermeture. | The passport is invalid after closing time.
+Studiet i kunst avhenger av talent. | Les études d'art dépendent du talent. | Art studies depend on talent.

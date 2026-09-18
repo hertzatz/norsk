@@ -17,10 +17,10 @@ Iallfall kom han derfra helt overrasket. | En tout cas, il est revenu de là-bas
 Hun er stadig modig. | Elle est toujours courageuse. | She's always brave.
 Årsaken er at jeg ikke orker mer. | La raison, c'est que je n'en peux plus. | The reason is that I can't take any more.
 Forslaget er bra, men verken jeg eller han er enig. | La proposition est bonne, mais ni lui ni moi ne sommes d'accord. | The suggestion is good, but neither he nor I agree.
-Varm{varme} opp suppa, jeg fryser. | Réchauffe la soupe, j'ai froid. | Heat up the soup, I'm freezing.
-Vi varmer{varme} opp maten i ovnen. | Nous réchauffons le repas au four. | We heat the food in the oven.
-Hun varma{varme} hendene ved peisen. | Elle s'est réchauffé les mains près de la cheminée. | She warmed her hands by the fire.
-Jeg varmer{varme} melk til barna. | Je fais chauffer du lait pour les enfants. | I'm warming milk for the children.
+Varm{varme_verb} opp suppa, jeg fryser. | Réchauffe la soupe, j'ai froid. | Heat up the soup, I'm freezing.
+Vi varmer{varme_verb} opp maten i ovnen. | Nous réchauffons le repas au four. | We heat the food in the oven.
+Hun varma{varme_verb} hendene ved peisen. | Elle s'est réchauffé les mains près de la cheminée. | She warmed her hands by the fire.
+Jeg varmer{varme_verb} melk til barna. | Je fais chauffer du lait pour les enfants. | I'm warming milk for the children.
 Trykk her og gjett samtidig. | Appuie ici et devine en même temps. | Press here and guess at the same time.
 Vanligvis tør jeg ikke kose med katten. | D'habitude, je n'ose pas câliner le chat. | Usually I don't dare cuddle the cat.
 Lokale folk sier at do er nylig vasket. | Les gens du coin disent que les WC ont été lavés récemment. | Locals say the loo was recently cleaned.

@@ -1,0 +1,163 @@
+# Niveau 2000, lot 9 : phrases naturelles, tour complet
+@level 2000
+
+@theme folk Meeting people
+Helten i eventyret redder prinsessen fra bjørnen. | Le héros du conte sauve la princesse de l'ours. | The hero in the fairy tale saves the princess from the bear.
+Jegeren skjøt, og skylden var hans. | Le chasseur a tiré, et la faute était la sienne. | The hunter shot, and the blame was his.
+Presidenten arbeider og leder landet. | Le président travaille et dirige le pays. | The president works and leads the country.
+Guttene slåss, og hun skjulte nyhetene for mor. | Les garçons se sont battus, et elle a caché la nouvelle à maman. | The boys fought, and she hid the news from Mum.
+Han innrømte at han var ensom. | Il a admis qu'il était seul. | He admitted he was lonely.
+Gud hjelpe oss, herregud, for et vær! | Que Dieu nous aide, mon Dieu, quel temps ! | God help us, good God, what weather!
+Kongen, dronningen og prinsen kom med toget. | Le roi, la reine et le prince sont arrivés en train. | The king, queen and prince came by train.
+Prinsessen vinket til publikum fra balkongen. | La princesse a fait signe au public depuis le balcon. | The princess waved to the audience from the balcony.
+Presten trøstet enken etter begravelsen. | Le pasteur a consolé la veuve après l'enterrement. | The priest comforted the widow after the funeral.
+Frøken *Lie er en berømt forfatter. | Mademoiselle Lie est une écrivaine célèbre. | Miss Lie is a famous writer.
+Ektemannen og partneren hennes er kompiser. | Son mari et son partenaire sont copains. | Her husband and her partner are buddies.
+Morderen ble tatt av en dyktig politimann. | Le meurtrier a été arrêté par un policier compétent. | The murderer was caught by a skilled policeman.
+Eieren av verkstedet er mekaniker. | Le propriétaire de l'atelier est mécanicien. | The owner of the workshop is a mechanic.
+Fetteren min er elektriker, kusina er frisør. | Mon cousin est électricien, ma cousine est coiffeuse. | My cousin is an electrician, his sister a hairdresser.
+Bruden var strålende, brudgommen var nervøs. | La mariée était radieuse, le marié était nerveux. | The bride was radiant, the groom was nervous.
+Tenåringen og studenten deler skjerm og tastatur. | L'adolescent et l'étudiant partagent écran et clavier. | The teenager and the student share the screen and keyboard.
+Innvandreren og flyktningen lærer norsk sammen. | L'immigré et le réfugié apprennent le norvégien ensemble. | The immigrant and the refugee learn Norwegian together.
+Lærlingen og rørleggeren jobbet hele døgnet. | L'apprenti et le plombier ont travaillé toute la journée. | The apprentice and the plumber worked around the clock.
+Kjendisen ga publikum et smil og en klem. | La célébrité a offert au public un sourire et un câlin. | The celebrity gave the audience a smile and a hug.
+Bibliotekaren fant ordboka til studenten. | La bibliothécaire a trouvé le dictionnaire pour l'étudiant. | The librarian found the dictionary for the student.
+Postmannen kjente hele befolkningen i bygda. | Le facteur connaissait toute la population du village. | The postman knew the whole population of the village.
+Søsknene mine er tålmodige og ærlige. | Mes frères et sœurs sont patients et honnêtes. | My siblings are patient and honest.
+Soldaten skjelvet, men var modig. | Le soldat tremblait, mais il était courageux. | The soldier was shaking but brave.
+Advokaten sa at vitnet lyver. | L'avocat a dit que le témoin ment. | The lawyer said the witness is lying.
+Fangen ble tatt da han stjal en elbil. | Le prisonnier a été attrapé quand il a volé une voiture électrique. | The prisoner was caught when he stole an electric car.
+Menneskeheten har alltid hatt fiender og helter. | L'humanité a toujours eu des ennemis et des héros. | Humanity has always had enemies and heroes.
+Pensjonisten og tenåringen spiller kort sammen. | Le retraité et l'adolescent jouent aux cartes ensemble. | The pensioner and the teenager play cards together.
+Sjåføren vinket til pasienten ved holdeplassen. | Le chauffeur a fait signe au patient à l'arrêt. | The driver waved to the patient at the stop.
+Sykepleieren og doktoren behandlet såret. | L'infirmière et le docteur ont traité la plaie. | The nurse and the doctor treated the wound.
+Kapteinen på ferga heter herr *Vik. | Le capitaine du ferry s'appelle monsieur Vik. | The captain of the ferry is called Mr Vik.
+Direktøren takket medlemmene for støtten. | Le directeur a remercié les membres pour leur soutien. | The director thanked the members for their support.
+Idioten sparket ballen inn i vinduet. | L'idiot a envoyé la balle dans la fenêtre. | The idiot kicked the ball into the window.
+Kameraten min er generell lege i fylket. | Mon camarade est médecin généraliste dans le comté. | My mate is a general doctor in the county.
+
+@theme helse Health
+Hun har vondt i brystet og lungene. | Elle a mal à la poitrine et aux poumons. | She has pain in her chest and lungs.
+Nakken og skuldrene er stive etter langrenn. | La nuque et les épaules sont raides après le ski de fond. | The neck and shoulders are stiff after cross-country skiing.
+Han har skjegg på haka og kinnene. | Il a de la barbe sur le menton et les joues. | He has a beard on his chin and cheeks.
+Leppene og huden er tørre av kulda. | Les lèvres et la peau sont sèches à cause du froid. | The lips and skin are dry from the cold.
+Tåa og hælen er hovne etter turen. | L'orteil et le talon sont enflés après la balade. | The toe and heel are swollen after the walk.
+Albuen og ankelen er slitne etter kampen. | Le coude et la cheville sont fatigués après le match. | The elbow and ankle are tired after the match.
+Musklene i lårene skjelver etter trening. | Les muscles des cuisses tremblent après l'entraînement. | The muscles in the thighs shake after training.
+Smerten i kroppen kom med influensaen. | La douleur dans le corps est venue avec la grippe. | The pain in the body came with the flu.
+Forkjølelse gir hoste og lite søvn. | Le rhume donne de la toux et peu de sommeil. | A cold gives a cough and little sleep.
+Hjernen trenger pust og frisk luft. | Le cerveau a besoin de souffle et d'air frais. | The brain needs breath and fresh air.
+Bandasjen og plasteret ligger ved pillene. | Le pansement et le sparadrap sont à côté des pilules. | The bandage and plaster are next to the pills.
+Resepten sier én pille om morgenen. | L'ordonnance dit une pilule le matin. | The prescription says one pill in the morning.
+Vekten går ned med diett og mosjon. | Le poids baisse avec un régime et de l'exercice. | Weight goes down with diet and exercise.
+Stress gir hodepine og lite søvn. | Le stress donne des maux de tête et peu de sommeil. | Stress gives headaches and little sleep.
+Han nyser, hoster og svetter; det er feber. | Il éternue, tousse et transpire ; c'est de la fièvre. | He's sneezing, coughing and sweating; it's a fever.
+Såret på hånda blør litt. | La plaie sur la main saigne un peu. | The wound on the hand is bleeding a little.
+Hun kastet opp etter den ekle maten. | Elle a vomi après la nourriture dégoûtante. | She threw up after the disgusting food.
+Kreft er en alvorlig sykdom; kontakt legen. | Le cancer est une maladie grave ; contacte le médecin. | Cancer is a serious illness; contact the doctor.
+Tannlegen så at tanna hadde et hull. | Le dentiste a vu que la dent avait un trou. | The dentist saw that the tooth had a hole.
+Bøy knærne og strekk ryggen. | Plie les genoux et étire le dos. | Bend the knees and stretch the back.
+Hun gled på isen og brakk ankelen. | Elle a glissé sur la glace et s'est cassé la cheville. | She slipped on the ice and broke her ankle.
+Sikkerheten kommer først på verkstedet. | La sécurité passe d'abord à l'atelier. | Safety comes first in the workshop.
+
+@theme hjem At home
+Bygningen har loft, balkong og terrasse. | Le bâtiment a un grenier, un balcon et une terrasse. | The building has an attic, a balcony and a terrace.
+Gjerdet, porten og inngangsdøra er nye. | La clôture, le portail et la porte d'entrée sont neufs. | The fence, gate and front door are new.
+Nøkkelringen henger ved ringeklokka. | Le porte-clés est accroché près de la sonnette. | The keyring hangs by the doorbell.
+Møblene, skrivebordet og madrassen er levert. | Les meubles, le bureau et le matelas ont été livrés. | The furniture, desk and mattress have been delivered.
+Gardinene og kalenderen er fra i fjor. | Les rideaux et le calendrier datent de l'an dernier. | The curtains and calendar are from last year.
+Verktøyet: hammer, skruer og spiker. | Les outils : marteau, vis et clous. | The tools: hammer, screws and nails.
+Tauet og stigen ligger i garasjen. | La corde et l'échelle sont dans le garage. | The rope and ladder are in the garage.
+Boksen med lommebok og briller er i lomma. | La boîte avec le portefeuille et les lunettes est dans la poche. | The box with the wallet and glasses is in the pocket.
+Kofferten og paraplyen står ved døra. | La valise et le parapluie sont près de la porte. | The suitcase and umbrella are by the door.
+Ringen og smykkene var en gave. | La bague et les bijoux étaient un cadeau. | The ring and jewellery were a gift.
+Leken og ballen er i teltet. | Le jouet et la balle sont dans la tente. | The toy and ball are in the tent.
+Hjelmen og soveposen er i kofferten. | Le casque et le sac de couchage sont dans la valise. | The helmet and sleeping bag are in the suitcase.
+Kompasset, lommelykta og batteriene er klare. | La boussole, la lampe de poche et les piles sont prêtes. | The compass, torch and batteries are ready.
+Kabelen og stikkontakten er nye. | Le câble et la prise sont neufs. | The cable and socket are new.
+Varmen er dyr; strømregningen er høy. | Le chauffage coûte cher ; la facture d'électricité est élevée. | Heating is expensive; the electricity bill is high.
+Røykvarsleren pep, og vi hentet brannslukkeren. | Le détecteur de fumée a bipé, et nous avons pris l'extincteur. | The smoke alarm beeped, and we got the fire extinguisher.
+Forsikringen dekker husleia ved brann. | L'assurance couvre le loyer en cas d'incendie. | The insurance covers the rent in case of fire.
+Nabolaget er rolig og trygt. | Le quartier est calme et sûr. | The neighbourhood is calm and safe.
+Hun kledde av seg, hvilte seg og la seg. | Elle s'est déshabillée, reposée et couchée. | She undressed, rested and went to bed.
+Sett deg og løft ikke den tunge esken. | Assieds-toi et ne soulève pas la boîte lourde. | Sit down and don't lift the heavy box.
+Slå på lyset og slå av varmen. | Allume la lumière et éteins le chauffage. | Turn on the light and turn off the heating.
+Dytt døra og dra i håndtaket. | Pousse la porte et tire sur la poignée. | Push the door and pull the handle.
+Vi bygde om loftet og låste opp kjelleren. | Nous avons rénové le grenier et déverrouillé la cave. | We converted the attic and unlocked the basement.
+Han rev ned gjerdet og bandt tauet. | Il a démoli la clôture et attaché la corde. | He tore down the fence and tied the rope.
+Skruen er løs og stigen er skjev. | La vis est desserrée et l'échelle est de travers. | The screw is loose and the ladder is crooked.
+
+@theme byen In town
+Torget og fortauet er glatte i dag. | La place et le trottoir sont glissants aujourd'hui. | The square and pavement are slippery today.
+Krysset og lyskrysset er stengt. | Le carrefour et le feu sont fermés. | The crossroads and traffic lights are closed.
+Skiltet ved tunnelen viser fartsgrensen på åtti. | Le panneau au tunnel indique la limitation à quatre-vingts. | The sign at the tunnel shows the speed limit of eighty.
+Motorveien, bensinstasjonen og verkstedet. | L'autoroute, la station-service et l'atelier. | The motorway, petrol station and workshop.
+Bensin og diesel er dyrere enn strøm til elbil. | L'essence et le gazole sont plus chers que l'électricité pour une voiture électrique. | Petrol and diesel are more expensive than power for an electric car.
+Lastebilen og traktoren er på verkstedet i dag. | Le camion et le tracteur sont à l'atelier aujourd'hui. | The lorry and tractor are at the workshop today.
+Motoren, dekkene og rattet er sjekket. | Le moteur, les pneus et le volant sont vérifiés. | The engine, tyres and wheel are checked.
+Førerkort, pass{pass} og visum i lomma. | Permis, passeport et visa dans la poche. | Licence, passport and visa in the pocket.
+Boten kom fordi fartsgrensen var femti. | L'amende est arrivée parce que la limitation était à cinquante. | The fine came because the speed limit was fifty.
+Holdeplassen for ruta er ved ferga. | L'arrêt de la ligne est près du ferry. | The stop for the route is by the ferry.
+Flyplassen og tollvesenet tar tid. | L'aéroport et la douane prennent du temps. | The airport and customs take time.
+Bagasjen kom til grensen uten oss. | Les bagages sont arrivés à la frontière sans nous. | The luggage arrived at the border without us.
+Fabrikken og lageret er ved havna. | L'usine et l'entrepôt sont près du port. | The factory and warehouse are by the harbour.
+Leverandøren gir god service og kvalitet. | Le fournisseur offre un bon service et de la qualité. | The supplier gives good service and quality.
+Mengden og antallet varer er riktige. | La quantité et le nombre de marchandises sont corrects. | The amount and number of goods are correct.
+Markedet og handelen på torget er bra. | Le marché et le commerce sur la place sont bons. | The market and trade in the square are good.
+Salg og rabatt på kvitteringen. | Soldes et remise sur le reçu. | Sale and discount on the receipt.
+Fakturaen kom fra leverandøren. | La facture est venue du fournisseur. | The invoice came from the supplier.
+Rygg, sving og brems forsiktig. | Recule, tourne et freine prudemment. | Reverse, turn and brake carefully.
+Fyll bensin og skift dekk før vinteren. | Fais le plein et change les pneus avant l'hiver. | Fill up and change tyres before winter.
+Gå av toget og gå på bussen. | Descends du train et monte dans le bus. | Get off the train and get on the bus.
+Han kjørte på et skilt og kjørte inn i gjerdet. | Il a percuté un panneau et est rentré dans la clôture. | He hit a sign and drove into the fence.
+
+@theme admin Administration and money
+Skjemaet, dokumentet og kopien er sendt. | Le formulaire, le document et la copie sont envoyés. | The form, document and copy have been sent.
+Underskriften mangler på kontrakten. | La signature manque sur le contrat. | The signature is missing on the contract.
+Retten, loven og regelen gjelder alle. | Le tribunal, la loi et la règle valent pour tous. | The court, the law and the rule apply to everyone.
+Fengsel og straff for tyveri og innbrudd. | Prison et peine pour vol et cambriolage. | Prison and punishment for theft and burglary.
+Myndighetene, regjeringen og staten. | Les autorités, le gouvernement et l'État. | The authorities, the government and the state.
+Fylket og kommunen deler avgiften. | Le comté et la commune partagent la taxe. | The county and municipality share the fee.
+Valget avgjør skatten og støtten. | Les élections décident de l'impôt et des aides. | The election decides the tax and the support.
+Pensjon og barnetrygd fra staten. | Retraite et allocations familiales de l'État. | Pension and child benefit from the state.
+Konto, lån og rente i banken. | Compte, prêt et taux à la banque. | Account, loan and interest at the bank.
+Gjeld, budsjett og utgifter i januar. | Dettes, budget et dépenses en janvier. | Debt, budget and expenses in January.
+Inntekten er lav, men kvitteringene er mange. | Le revenu est faible, mais les reçus sont nombreux. | The income is low, but the receipts are many.
+Makt og kontroll gir orden. | Pouvoir et contrôle donnent de l'ordre. | Power and control give order.
+Kaos og krig, så fred og frihet. | Chaos et guerre, puis paix et liberté. | Chaos and war, then peace and freedom.
+Situasjonen og tilstanden er under kontroll. | La situation et l'état sont sous contrôle. | The situation and condition are under control.
+Forholdet mellom staten og folket er godt. | La relation entre l'État et le peuple est bonne. | The relationship between the state and the people is good.
+
+@theme jobb Work
+Karrieren startet med et lite prosjekt. | La carrière a commencé par un petit projet. | The career started with a small project.
+Målet er suksess, ikke feil. | Le but est le succès, pas l'erreur. | The goal is success, not mistakes.
+Løsningen og beslutningen kom fort. | La solution et la décision sont venues vite. | The solution and decision came quickly.
+Valgmuligheten har fordeler og ulemper. | L'option a des avantages et des inconvénients. | The option has advantages and disadvantages.
+Risikoen og kravene er høye. | Le risque et les exigences sont élevés. | The risk and the requirements are high.
+Regelverket, rapporten og referatet. | La réglementation, le rapport et le compte rendu. | The regulations, the report and the minutes.
+Lista og programmet er klare. | La liste et le programme sont prêts. | The list and programme are ready.
+Eksamen, prøven og karakteren. | L'examen, le test et la note. | The exam, the test and the grade.
+Leksene i faget tar en time. | Les devoirs dans cette matière prennent une heure. | The homework in the subject takes an hour.
+Universitetet gir sertifikat og CV. | L'université délivre un certificat et un CV. | The university provides a certificate and CV.
+Kunnskap, ferdigheter og talent. | Connaissance, compétences et talent. | Knowledge, skills and talent.
+Interesse, drøm og minne fra studiet. | Intérêt, rêve et souvenir des études. | Interest, dream and memory from the studies.
+Hemmeligheten og løgnen kom fram. | Le secret et le mensonge sont sortis. | The secret and the lie came out.
+Tvil, tillit og respekt på arbeidsplassen. | Doute, confiance et respect sur le lieu de travail. | Doubt, trust and respect in the workplace.
+Samtalen, diskusjonen og argumentet var gode. | La conversation, la discussion et l'argument étaient bons. | The conversation, discussion and argument were good.
+Detaljer, eksempler og typer i rapporten. | Détails, exemples et types dans le rapport. | Details, examples and types in the report.
+Stilen, formen og størrelsen er riktige. | Le style, la forme et la taille sont corrects. | The style, shape and size are right.
+Høyde, lengde, bredde og avstand på kartet. | Hauteur, longueur, largeur et distance sur la carte. | Height, length, width and distance on the map.
+Retningen mot midten, kanten og hjørnet. | La direction vers le milieu, le bord et le coin. | The direction towards the middle, edge and corner.
+Toppen, bunnen og overflaten på esken. | Le haut, le fond et la surface de la boîte. | The top, bottom and surface of the box.
+Et punkt, en linje og en sirkel. | Un point, une ligne et un cercle. | A dot, a line and a circle.
+Stillhet er bedre enn bråk på jobb. | Le silence vaut mieux que le bruit au travail. | Silence is better than noise at work.
+Vi arbeider, ordner og skaffer det vi trenger. | Nous travaillons, arrangeons et procurons ce qu'il faut. | We work, arrange and get what's needed.
+Hun leder, styrer og driver firmaet. | Elle dirige, pilote et gère l'entreprise. | She leads, steers and runs the company.
+Vi tester, retter og samarbeider. | Nous testons, corrigeons et collaborons. | We test, correct and cooperate.
+Undersøk og bekreft bestillingen før du sikrer{sikre} den. | Vérifie et confirme la commande avant de la sécuriser. | Check and confirm the order before securing it.
+Utvikle, vurdere og kontakte kunden. | Développer, évaluer et contacter le client. | Develop, assess and contact the customer.
+Behandle, utføre og innrømme. | Traiter, exécuter et admettre. | Treat, carry out and admit.
+Foreslå, avgjøre og bidra. | Proposer, décider et contribuer. | Suggest, decide and contribute.
+Overta, representere og fokusere. | Reprendre, représenter et se concentrer. | Take over, represent and focus.
+Hva forårsaket at ingen opplevde noe? | Qu'est-ce qui a fait que personne n'a rien vécu ? | What caused nobody to experience anything?
+Aksepter, forsikre og advar. | Accepter, assurer et prévenir. | Accept, assure and warn.
