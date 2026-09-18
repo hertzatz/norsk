@@ -1,0 +1,120 @@
+# Essentiels, lot 2 : phrases courtes
+@level 300
+
+@theme tall Numbers and time
+Jeg har null timer igjen. | Il me reste zéro heure. | I have zero hours left.
+Han er tretten. | Il a treize ans. | He's thirteen.
+Det er seksten dager igjen. | Il reste seize jours. | There are sixteen days left.
+Hun ble seksten [i går]. | Elle a eu seize ans hier. | She turned sixteen yesterday.
+Vi er sytten her. | Nous sommes dix-sept ici. | There are seventeen of us here.
+Det tar nitten minutter å gå. | Il faut dix-neuf minutes à pied. | It takes nineteen minutes on foot.
+Vi har tjue dager igjen. | Il nous reste vingt jours. | We have twenty days left.
+Hun ble førti [i år]. | Elle a eu quarante ans cette année. | She turned forty this year.
+Det tar førti minutter. | Ça prend quarante minutes. | It takes forty minutes.
+Det tar sytti minutter. | Ça prend soixante-dix minutes. | It takes seventy minutes.
+Mora hans er sytti. | Sa mère a soixante-dix ans. | His mother is seventy.
+Hun er åtti år. | Elle a quatre-vingts ans. | She's eighty.
+Det er nitti minutter igjen. | Il reste quatre-vingt-dix minutes. | There are ninety minutes left.
+Han er nitti. | Il a quatre-vingt-dix ans. | He's ninety.
+Det er to millioner mennesker her. | Il y a deux millions de personnes ici. | There are two million people here.
+Klokka er [kvart over] tre{tre_num}. | Il est trois heures et quart. | It's quarter past three.
+Vi kommer [kvart over] seks. | Nous arrivons à six heures et quart. | We're coming at quarter past six.
+Klokka er [kvart over] ti. | Il est dix heures et quart. | It's quarter past ten.
+Han kom [kvart over] åtte. | Il est arrivé à huit heures et quart. | He came at quarter past eight.
+Vi spiser [kvart over] fem. | On mange à cinq heures et quart. | We eat at quarter past five.
+Klokka er [kvart på] fire. | Il est quatre heures moins le quart. | It's quarter to four.
+Hun ringer [kvart på] ni. | Elle appelle à neuf heures moins le quart. | She'll call at quarter to nine.
+Jeg går [kvart på] sju. | Je pars à sept heures moins le quart. | I leave at quarter to seven.
+Klokka er [kvart på] tolv. | Il est midi moins le quart. | It's quarter to twelve.
+Et kvarter er femten minutter. | Un quart d'heure, c'est quinze minutes. | A quarter of an hour is fifteen minutes.
+Vent et kvarter. | Attends un quart d'heure. | Wait a quarter of an hour.
+Det tar et kvarter å gå dit. | Il faut un quart d'heure pour y aller à pied. | It takes a quarter of an hour to walk there.
+Han kom et kvarter for sent. | Il est arrivé un quart d'heure en retard. | He came a quarter of an hour late.
+Det er en mil til *Rollag. | Il y a dix kilomètres jusqu'à Rollag. | It's ten kilometres to Rollag.
+Vi kjører fem mil hver dag. | On fait cinquante kilomètres en voiture chaque jour. | We drive fifty kilometres every day.
+Hvor mange mil er det til *Oslo? | Combien de kilomètres jusqu'à Oslo ? | How far is it to Oslo?
+En mil er ti kilometer. | Un mil norvégien, c'est dix kilomètres. | A Norwegian mile is ten kilometres.
+Han går en mil hver dag. | Il marche dix kilomètres par jour. | He walks ten kilometres a day.
+Det er to kilometer hjem. | Il y a deux kilomètres jusqu'à la maison. | It's two kilometres home.
+Det er ti kilometer til byen. | Il y a dix kilomètres jusqu'à la ville. | It's ten kilometres to the town.
+Jeg går fem kilometer. | Je marche cinq kilomètres. | I walk five kilometres.
+Det er to kilo. Takk! | Ça fait deux kilos. Merci ! | That's two kilos. Thanks!
+Hvor mange kilo er det? | Ça fait combien de kilos ? | How many kilos is it?
+Ta ti gram. | Prends dix grammes. | Take ten grams.
+Det er hundre gram. | Ça fait cent grammes. | That's a hundred grams.
+Gi meg en liter. | Donne-moi un litre. | Give me a litre.
+Jeg er født i Frankrike. | Je suis né en France. | I was born in France.
+Hvor er du født? | Où es-tu né ? | Where were you born?
+Hun er født i *Rollag. | Elle est née à Rollag. | She was born in Rollag.
+Barnet ble født [i går]. | L'enfant est né hier. | The child was born yesterday.
+
+@theme dager Days and months
+Vi ses på torsdag. | On se voit jeudi. | See you on Thursday.
+Jeg har fri på torsdag. | Je suis en congé jeudi. | I'm off on Thursday.
+Han kom [i morges]. | Il est arrivé ce matin. | He came this morning.
+Jeg så ham [i morges]. | Je l'ai vu ce matin. | I saw him this morning.
+Vi ses [i overmorgen]. | On se voit après-demain. | See you the day after tomorrow.
+Han drar [i overmorgen]. | Il part après-demain. | He's leaving the day after tomorrow.
+Vi kom hit i januar. | Nous sommes arrivés ici en janvier. | We came here in January.
+Januar er lang. | Janvier est long. | January is long.
+Jeg er født i februar. | Je suis né en février. | I was born in February.
+Hun kommer i februar. | Elle vient en février. | She's coming in February.
+Vi ses i mai. | On se voit en mai. | See you in May.
+Mai er fin. | Mai est beau. | May is nice.
+Jeg er født i juni. | Je suis né en juin. | I was born in June.
+Vi drar i juni. | On part en juin. | We're leaving in June.
+Hun er født i juli. | Elle est née en juillet. | She was born in July.
+Han kommer i juli. | Il vient en juillet. | He's coming in July.
+Vi ses i august. | On se voit en août. | See you in August.
+Vi ses i oktober. | On se voit en octobre. | See you in October.
+Jeg er født i oktober. | Je suis né en octobre. | I was born in October.
+Hun er født i desember. | Elle est née en décembre. | She was born in December.
+Vi ses i desember. | On se voit en décembre. | See you in December.
+Om våren er det fint her. | Au printemps, c'est beau ici. | In spring it's nice here.
+Våren kommer snart. | Le printemps arrive bientôt. | Spring is coming soon.
+
+@theme vinter Winter
+Det er is ute. | Il y a de la glace dehors. | There's ice outside.
+Barna vil ha is nå. | Les enfants veulent une glace maintenant. | The children want ice cream now.
+Kulda er her. | Le froid est là. | The cold is here.
+Kulda kom [i natt]. | Le froid est arrivé cette nuit. | The cold came last night.
+Kulda varer lenge her. | Le froid dure longtemps ici. | The cold lasts a long time here.
+Hun er redd for kulda. | Elle a peur du froid. | She's afraid of the cold.
+
+@theme veien Directions
+Gå til høyre! | Va à droite ! | Go right!
+Døra til høyre er min. | La porte de droite est la mienne. | The door on the right is mine.
+Gå [rett fram] og [til høyre]. | Va tout droit puis à droite. | Go straight ahead then right.
+Kjør [rett fram]. | Roule tout droit. | Drive straight ahead.
+
+@theme folk Meeting people
+[Ha det], mamma! | Salut, maman ! | Bye, Mum!
+[Ha det bra], alle sammen! | Au revoir tout le monde ! | Goodbye, everyone!
+[Vi ses] [i morgen], [ha det]! | À demain, salut ! | See you tomorrow, bye!
+[God morgen]! Er du oppe? | Bonjour ! Tu es levé ? | Good morning! Are you up?
+[God morgen], mamma! | Bonjour, maman ! | Good morning, Mum!
+[God kveld], alle! | Bonsoir, tout le monde ! | Good evening, everyone!
+[God natt], mamma! | Bonne nuit, maman ! | Good night, Mum!
+[Værsågod], her er det. | Voilà, c'est ici. | Here you are.
+[Værsågod], ta en! | Vas-y, prends-en un ! | Go ahead, take one!
+[Tusen takk], du er snill. | Mille mercis, tu es gentil. | Thanks so much, you're kind.
+[Tusen takk] for [i går]! | Merci beaucoup pour hier ! | Thanks a lot for yesterday!
+[Hvordan går det]? – [Bare bra]! | Comment ça va ? – Bien ! | How's it going? – Fine!
+[Jeg forstår ikke] det. | Je ne comprends pas ça. | I don't understand that.
+[Snakk sakte], takk! | Parle lentement, merci ! | Speak slowly, thanks!
+[Jeg heter] *Nils. | Je m'appelle Nils. | My name is Nils.
+[Unnskyld meg], er det ledig her? | Excusez-moi, c'est libre ici ? | Excuse me, is this free?
+[Unnskyld meg], hvor er det? | Excusez-moi, où est-ce ? | Excuse me, where is it?
+Vi kan [for eksempel] gå ut. | On peut par exemple sortir. | We could go out, for example.
+Ta [for eksempel] denne. | Prends celui-ci par exemple. | Take this one, for example.
+[Hva slags] ting er det? | Quel genre de chose est-ce ? | What kind of thing is it?
+[Hva slags] folk bor her? | Quel genre de gens habitent ici ? | What kind of people live here?
+Kulda gjør meg trøtt. | Le froid me fatigue. | The cold makes me tired.
+Hun ringte [kvart på] ti. | Elle a appelé à dix heures moins le quart. | She called at quarter to ten.
+En liter vann, takk. | Un litre d'eau, s'il vous plaît. | A litre of water, please.
+[God morgen], alle! | Bonjour, tout le monde ! | Good morning, everyone!
+Unnskyld, [kan du si det igjen] nå? | Pardon, tu peux répéter maintenant ? | Sorry, can you say that again now?
+Hei! [Hva heter du] igjen? | Salut ! Comment tu t'appelles déjà ? | Hi! What's your name again?
+Kulda er lang her. | Le froid dure ici. | The cold is long here.
+Hun kjøpte to liter. | Elle a acheté deux litres. | She bought two litres.
+[Noen ganger] er han sen. | Parfois, il est en retard. | Sometimes he's late.

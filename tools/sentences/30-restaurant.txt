@@ -1,0 +1,30 @@
+# Restauration
+@theme restaurant Restaurant
+
+@level 600
+Vil dere ha kaffe? | Vous voulez du café ? | Would you like some coffee? (to several people)
+Bordet er klart. | La table est prête. | The table is ready.
+Vil du ha vann? | Vous voulez de l'eau ? | Would you like some water?
+Middagen er klar klokka seks. | Le dîner est prêt à six heures. | Dinner is ready at six.
+Kan du sette mat på bordet? | Tu peux mettre le repas sur la table ? | Can you put the food on the table?
+
+@level 1000
+Vi har ikke mer fisk [i dag]. | Nous n'avons plus de poisson aujourd'hui. | We're out of fish today.
+Jeg jobber på en restaurant. | Je travaille dans un restaurant. | I work in a restaurant.
+Vi har mange gjester [i kveld]. | Nous avons beaucoup de clients ce soir. | We have a lot of guests tonight.
+Hva vil du bestille? | Qu'est-ce que vous voulez commander ? | What would you like to order?
+Kunden vil betale. | Le client veut payer. | The customer wants to pay.
+Kan jeg få regningen? | Je peux avoir l'addition ? | Can I have the bill?
+Glassene er skitne. | Les verres sont sales. | The glasses are dirty.
+Kan du ta tallerkenene? | Tu peux prendre les assiettes ? | Can you take the plates?
+Legg kniven og gaffelen ved tallerkenen. | Pose le couteau et la fourchette à côté de l'assiette. | Put the knife and fork next to the plate.
+Suppa er for varm. | La soupe est trop chaude. | The soup is too hot.
+Kjøttet må steke i ti minutter. | La viande doit cuire dix minutes. | The meat must fry for ten minutes.
+Kokte poteter og fisk, takk. | Des pommes de terre bouillies et du poisson, merci. | Boiled potatoes and fish, please.
+Har dere kaffe og kake? | Vous avez du café et du gâteau ? | Do you have coffee and cake?
+Kjøleskapet er fullt. | Le réfrigérateur est plein. | The fridge is full.
+Sett{sette} melka i kjøleskapet. | Mets le lait au réfrigérateur. | Put the milk in the fridge.
+Kjøkkenet stenger klokka ti. | La cuisine ferme à dix heures. | The kitchen closes at ten.
+Smaker det godt? | C'est bon ? | Does it taste good?
+Takk for maten! | Merci pour le repas ! | Thanks for the meal!
+Bordet ved vinduet er ledig. | La table près de la fenêtre est libre. | The table by the window is free.

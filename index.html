@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Norsk · Rollag</title>
+<meta name="theme-color" content="#1d3557">
+<link rel="stylesheet" href="style.css?v=7">
+</head>
+<body>
+<header class="top">
+  <div class="brand">Norsk <span>· Rollag</span></div>
+  <div class="controls">
+    <div class="seg" id="levelSeg" role="group" aria-label="Level">
+      <button data-level="300">300</button>
+      <button data-level="600">600</button>
+      <button data-level="1000">1000</button>
+    </div>
+    <div class="seg" id="langSeg" role="group" aria-label="Translation">
+      <button data-lang="fr">FR</button>
+      <button data-lang="en">EN</button>
+      <button data-lang="both">FR+EN</button>
+    </div>
+  </div>
+  <div class="controls audio-controls">
+    <div class="seg" id="voiceSeg" role="group" aria-label="Voice">
+      <button data-voice="pernille">♀ Pernille</button>
+      <button data-voice="finn">♂ Finn</button>
+      <button data-voice="alt">Both</button>
+    </div>
+    <div class="seg" id="speedSeg" role="group" aria-label="Speed">
+      <button data-speed="1">×1</button>
+      <button data-speed="0.85">×0.85</button>
+      <button data-speed="0.7">×0.7</button>
+      <button data-speed="0.55">×0.55</button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <section id="view-phrases" class="view">
+    <div class="toolbar">
+      <input type="search" id="sentSearch" placeholder="Search sentences (norsk, français, English)…" autocomplete="off">
+      <select id="themeSel" aria-label="Theme"></select>
+      <label class="check"><input type="checkbox" id="hideTr"> Hide translation</label>
+    </div>
+    <p class="hint">Tap a word to hear it and see its forms · double-click: all its sentences · ▶ plays the sentence.</p>
+    <p class="count" id="sentCount"></p>
+    <div id="sentences"></div>
+  </section>
+
+  <section id="view-mots" class="view" hidden>
+    <div class="toolbar">
+      <input type="search" id="search" placeholder="Search words (norsk, français, English)…" autocomplete="off">
+      <select id="posSel" aria-label="Category"></select>
+      <select id="listSel" aria-label="List"></select>
+    </div>
+    <p class="count" id="wordCount"></p>
+    <ul id="words" class="words"></ul>
+  </section>
+
+  <section id="view-verbes" class="view" hidden>
+    <div class="toolbar">
+      <input type="search" id="verbSearch" placeholder="Search verbs (norsk, français, English)…" autocomplete="off">
+    </div>
+    <div class="note-box">
+      <p><b>Bonne nouvelle :</b> un verbe norvégien ne change pas selon la personne : <i>jeg snakker, du snakker, vi snakker</i>…</p>
+      <p><b>Futur</b> = <i>skal</i> (prévu, intention) ou <i>vil</i> (volonté, prévision) + infinitif : <i>jeg skal jobbe</i>.
+         <b>Passé composé</b> = <i>har</i> + participe : <i>jeg har jobba</i>.</p>
+      <p>Tap a form to hear it · 📚 shows the sentences.</p>
+    </div>
+    <div id="verbs"></div>
+  </section>
+
+  <section id="view-pronoms" class="view" hidden>
+    <div id="pronouns"></div>
+  </section>
+</main>
+
+<div id="pop" class="pop" hidden></div>
+
+<div id="sheet" class="sheet" hidden>
+  <div class="sheet-box" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet-head">
+      <h2 id="sheetTitle"></h2>
+      <button id="sheetClose" aria-label="Close">✕</button>
+    </div>
+    <div id="sheetBody" class="sheet-body"></div>
+  </div>
+</div>
+
+<nav class="tabs">
+  <button data-view="phrases" class="on">💬<span>Sentences</span></button>
+  <button data-view="mots">📖<span>Words</span></button>
+  <button data-view="verbes">🔤<span>Verbs</span></button>
+  <button data-view="pronoms">👤<span>Pronouns</span></button>
+</nav>
+
+<script src="app.js?v=11"></script>
+</body>
+</html>

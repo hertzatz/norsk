@@ -1,0 +1,242 @@
+# Compléments : quotidien, santé, magasins, météo, vie locale
+@list core
+
+# Verbes
+å | inf | (marque de l'infinitif) | to (infinitive marker)
+bringe | v | apporter | bring | bringe,bringer,brakte,brakt
+bygge | v | construire | build | bygge,bygger,bygde,bygd
+dele | v2 | partager | share, divide
+dekke | v1 | couvrir ; dekke bordet = mettre la table | cover ; set (the table)
+forlate | v | quitter | leave | forlate,forlater,forlot,forlatt
+forsøke | v2 | essayer | try, attempt
+glede | v1 | réjouir ; glede seg = se réjouir | please ; look forward to
+gjette | v1 | deviner | guess
+hate | v1 | détester | hate
+klage | v1 | se plaindre | complain
+kalle | v2 | appeler, nommer | call, name
+klippe | v2 | couper (ciseaux, cheveux) | cut (scissors, hair)
+lytte | v1 | écouter | listen
+male | v2 | peindre | paint
+nekte | v1 | refuser | refuse
+oppdage | v1 | découvrir | discover
+plukke | v1 | cueillir, ramasser | pick
+puste | v1 | respirer | breathe
+rope | v2 | crier, appeler | shout, call
+skade | v1 | blesser, abîmer | hurt, damage
+skynde | v2 | skynde seg = se dépêcher | hurry (skynde seg)
+smile | v2 | sourire | smile
+stikke | v | piquer ; filer, passer | sting ; pop (over), leave | stikke,stikker,stakk,stukket
+støtte | v1 | soutenir | support
+telle | v | compter | count | telle,teller,talte,talt
+tegne | v1 | dessiner | draw
+tilby | v | offrir, proposer | offer | tilby,tilbyr,tilbød,tilbudt
+tilgi | v | pardonner | forgive | tilgi,tilgir,tilga,tilgitt
+trene | v2 | s'entraîner, faire du sport | train, exercise
+unngå | v | éviter | avoid | unngå,unngår,unngikk,unngått
+vokse | v2 | grandir, pousser | grow
+øve | v3 | s'exercer | practise
+ødelegge | v | casser, abîmer | break, ruin | ødelegge,ødelegger,ødela,ødelagt
+bekymre | v1 | inquiéter ; bekymre seg = s'inquiéter | worry
+planlegge | v | planifier | plan | planlegge,planlegger,planla,planlagt
+godta | v | accepter | accept | godta,godtar,godtok,godtatt
+forvente | v1 | s'attendre à | expect
+foretrekke | v | préférer | prefer | foretrekke,foretrekker,foretrakk,foretrukket
+forberede | v2 | préparer | prepare
+bake | v2 | faire (pâtisserie), cuire au four | bake
+lade | v1 | charger (batterie) | charge
+parkere | v2 | se garer | park
+hoppe | v1 | sauter | jump
+fiske | v1 | pêcher | fish
+fyre | v2 | chauffer, faire du feu | heat (with fire), light the stove
+overraske | v1 | surprendre | surprise
+slite | v | peiner ; user | struggle ; wear out | slite,sliter,slet,slitt
+vare | v2 | durer | last
+skille | v2 | séparer ; skilles = divorcer | separate
+pakke | v1 | emballer, faire (valise) | pack
+låse | v2 | fermer à clé | lock
+lure | v2 | se demander ; tromper | wonder ; trick
+tulle | v1 | plaisanter, faire l'idiot | joke, fool around
+gidde | v | avoir envie de, se donner la peine | bother | gidde,gidder,gadd,giddet
+banke | v1 | frapper (à la porte) | knock
+nevne | v2 | mentionner | mention
+beholde | v | garder | keep | beholde,beholder,beholdt,beholdt
+lykkes | v | réussir | succeed | lykkes,lykkes,lyktes,lyktes
+klatre | v1 | grimper | climb
+anbefale | v2 | recommander | recommend
+gjenta | v | répéter | repeat | gjenta,gjentar,gjentok,gjentatt
+oversette | v | traduire | translate | oversette,oversetter,oversatte,oversatt
+stave | v1 | épeler | spell
+uttale | v2 | prononcer | pronounce
+søke | v2 | chercher ; postuler | search ; apply
+ansette | v | embaucher | hire, employ | ansette,ansetter,ansatte,ansatt
+
+# Noms
+apotek | n | pharmacie | pharmacy | apotek,apoteket,apotek,apotekene
+feber | m | fièvre | fever | feber,feberen,febrer,febrene
+hodepine | m | mal de tête | headache | hodepine,hodepinen,hodepiner,hodepinene
+barnehage | m | crèche, maternelle | kindergarten
+utlending | m | étranger (personne) | foreigner
+bonde | m | agriculteur | farmer | bonde,bonden,bønder,bøndene
+turist | m | touriste | tourist
+teppe | n | tapis ; couverture | carpet ; blanket
+speil | n | miroir | mirror
+ovn | m | four ; poêle | oven ; stove
+peis | m | cheminée | fireplace
+hylle | f | étagère | shelf
+skuff | m | tiroir | drawer
+eske | m | boîte, carton | box
+sekk | m | sac à dos, sac | backpack, sack
+heis | m | ascenseur | lift, elevator
+inngang | m | entrée | entrance
+utgang | m | sortie | exit
+skjorte | f | chemise | shirt
+kjole | m | robe | dress
+skjerf | n | écharpe | scarf | skjerf,skjerfet,skjerf,skjerfene
+støvel | m | botte | boot | støvel,støvelen,støvler,støvlene
+sokk | m | chaussette | sock
+kne | n | genou | knee | kne,kneet,knær,knærne
+skulder | m | épaule | shoulder | skulder,skulderen,skuldre,skuldrene
+blod | n | sang | blood
+dato | m | date | date
+frist | m | délai, date limite | deadline
+lykke | f | bonheur | happiness
+flaks | m | chance | luck | flaks,flaksen,flaks,flaksen
+valg | n | choix ; élection | choice ; election
+resultat | n | résultat | result | resultat,resultatet,resultater,resultatene
+årsak | m | cause, raison | cause, reason
+informasjon | m | information | information | informasjon,informasjonen,informasjoner,informasjonene
+forslag | n | proposition | suggestion
+råd | n | conseil ; ha råd = avoir les moyens | advice ; afford (ha råd)
+ro | m | calme, tranquillité | peace, calm | ro,roen,ro,roen | freq=roen
+ulykke | m | accident | accident
+brann | m | incendie | fire
+sikkerhet | m | sécurité | safety, security
+verden | m | monde | world | verden,verden,verdener,verdenene
+sentrum | n | centre-ville | town centre | sentrum,sentrumet,sentrum,sentrumene
+kafé | m | café | café | kafé,kafeen,kafeer,kafeene
+kino | m | cinéma | cinema
+bibliotek | n | bibliothèque | library | bibliotek,biblioteket,bibliotek,bibliotekene
+post | m | poste, courrier | post, mail
+fotball | m | football | football
+trening | f | entraînement, sport | training, exercise
+ski | f | ski | ski | ski,skia/skien,ski,skiene
+hobby | m | loisir | hobby | hobby,hobbyen,hobbyer,hobbyene
+nett | n | internet ; filet | internet ; net | nett,nettet,nett,nettene | freq=nettet
+passord | n | mot de passe | password
+e-post | m | e-mail | email | e-post,e-posten,e-poster,e-postene
+strøm | m | électricité ; courant | electricity ; current | strøm,strømmen,strømmer,strømmene
+lader | m | chargeur | charger | lader,laderen,ladere,laderne
+erfaring | f | expérience | experience
+utdanning | f | études, formation | education
+yrke | n | métier | profession
+firma | n | entreprise | company | firma,firmaet,firmaer,firmaene
+bedrift | m | entreprise | company, business
+maskin | m | machine | machine
+innsjø | m | lac | lake
+bekk | m | ruisseau | stream
+stein | m | pierre | stone
+gress | n | herbe | grass | gress,gresset,gress,gressene
+jord | f | terre, sol | earth, soil
+sky | f | nuage | cloud | sky,skya/skyen,skyer,skyene
+tåke | f | brouillard | fog
+grad | m | degré | degree
+kontanter | npl | espèces, liquide | cash | kontanter,kontantene
+tilbud | n | offre, promotion | offer, special offer | tilbud,tilbudet,tilbud,tilbudene
+vare | m | article, marchandise | item, product | | freq=varen,varer,varene
+pakke | m | paquet, colis | parcel, package | | freq=pakken,pakkene
+kø | m | file d'attente | queue | kø,køen,køer,køene
+kasse | m | caisse ; boîte | checkout ; box
+bro | m | pont | bridge | bro,broen,broer,broene
+fridag | m | jour de congé | day off
+bryllup | n | mariage | wedding | bryllup,bryllupet,bryllup,bryllupene
+begravelse | m | enterrement | funeral
+gjeng | m | bande (d'amis) | group of friends, gang
+gruppe | m | groupe | group
+pølse | f | saucisse | sausage
+saus | m | sauce | sauce
+salat | m | salade | salad
+løk | m | oignon | onion
+tomat | m | tomate | tomato
+banan | m | banane | banana
+bær | n | baie | berry | bær,bæret,bær,bærene
+juice | m | jus | juice
+brus | m | soda, boisson gazeuse | soft drink
+vaffel | m | gaufre | waffle | vaffel,vaffelen,vafler,vaflene
+bolle | m | petit pain brioché | bun
+måltid | n | repas | meal | måltid,måltidet,måltider,måltidene
+smak | m | goût | taste
+oppskrift | m | recette | recipe
+
+# Adverbes, prépositions, interjections
+helst | adv | de préférence | preferably
+særlig | adv | surtout | especially
+spesielt | adv | spécialement, surtout | especially
+nemlig | adv | en effet, c'est que | you see, namely
+ifølge | prep | selon | according to
+istedenfor | prep | au lieu de | instead of
+innom | adv | en passant (passer chez) | by, in (drop in)
+ovenpå | adv | en haut, à l'étage | upstairs
+nedenunder | adv | en bas | downstairs
+overalt | adv | partout | everywhere
+samtidig | adv | en même temps | at the same time
+tidligere | adv | avant, plus tôt | earlier, before
+nylig | adv | récemment | recently
+endelig | adv | enfin | finally
+uansett | adv | de toute façon | anyway, whatever
+iblant | adv | parfois | sometimes
+stadig | adv | sans cesse | constantly
+altfor | adv | beaucoup trop | far too
+godt | adv | bien | well
+herfra | adv | d'ici | from here
+derfra | adv | de là | from there
+hjemmefra | adv | de chez soi | from home
+forresten | adv | au fait | by the way
+liksom | adv | genre, comme | like, sort of
+absolutt | adv | absolument | absolutely
+ordentlig | adv | correctement ; vraiment | properly ; really
+cirka | adv | environ | about, approximately | ca
+midt | adv | au milieu | in the middle
+innen | prep | d'ici (à), avant | within, by
+inni | prep | à l'intérieur de | inside
+oppå | prep | sur, par-dessus | on top of
+unntatt | prep | sauf | except
+au | int | aïe | ouch
+oi | int | oh ! oups | oh, oops
+
+# Adjectifs
+rett | adj | droit ; correct | straight ; right | rett,rett,rette
+gal | adj | fou ; faux | crazy ; wrong | gal,galt,gale
+sprø | adj | croustillant ; fou | crispy ; crazy | sprø,sprøtt,sprø
+tøff | adj | dur ; cool | tough ; cool | tøff,tøft,tøffe
+kul | adj | cool | cool
+spent | adj | impatient, curieux | excited | spent,spent,spente
+skuffet | adj | déçu | disappointed | skuffet,skuffet,skuffede
+overrasket | adj | surpris | surprised | overrasket,overrasket,overraskede
+forelsket | adj | amoureux | in love | forelsket,forelsket,forelskede
+gift | adj | marié | married | gift,gift,gifte
+skilt | adj | divorcé | divorced | skilt,skilt,skilte
+gravid | adj | enceinte | pregnant | gravid,gravid,gravide
+død | adj | mort | dead | død,dødt,døde
+levende | adj | vivant | alive | levende,levende,levende
+våken | adj | réveillé | awake | våken,våkent,våkne
+ekstra | adj | supplémentaire | extra | ekstra,ekstra,ekstra
+nødvendig | adj | nécessaire | necessary
+praktisk | adj | pratique | practical
+vennlig | adj | aimable | friendly
+høflig | adj | poli | polite
+frekk | adj | impoli, insolent | rude, cheeky | frekk,frekt,frekke
+sjenert | adj | timide | shy | sjenert,sjenert,sjenerte
+modig | adj | courageux | brave
+utenlandsk | adj | étranger | foreign
+svensk | adj | suédois | Swedish
+tysk | adj | allemand | German
+sjelden | adj | rare | rare | sjelden,sjeldent,sjeldne
+bred | adj | large | wide, broad | bred,bredt,brede
+smal | adj | étroit | narrow
+dyp | adj | profond | deep
+rå | adj | cru | raw | rå,rått,rå
+kjær | adj | cher (affection) | dear
+stakkars | adj | pauvre (pitié) | poor (pity) | stakkars,stakkars,stakkars
+slem | adj | méchant | mean, naughty | slem,slemt,slemme
+rimelig | adj | raisonnable, abordable | reasonable, affordable
+rosa | adj | rose | pink | rosa,rosa,rosa

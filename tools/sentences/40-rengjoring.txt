@@ -1,0 +1,23 @@
+# Nettoyage
+@theme rengjoring Cleaning
+
+@level 600
+Rommet er rent. | La chambre est propre. | The room is clean.
+Kan du åpne vinduet? | Tu peux ouvrir la fenêtre ? | Can you open the window?
+Senga må være klar klokka tre{tre_num}. | Le lit doit être prêt à trois heures. | The bed must be ready at three.
+Jeg er ferdig med rommet. | J'ai fini la chambre. | I'm done with the room.
+
+@level 1000
+Du må vaske gulvet. | Tu dois laver le sol. | You have to wash the floor.
+Kan du rydde kjøkkenet? | Tu peux ranger la cuisine ? | Can you tidy the kitchen?
+Kjøkkenet må være rent. | La cuisine doit être propre. | The kitchen must be clean.
+Jeg vaska badet [i går]. | J'ai nettoyé la salle de bains hier. | I cleaned the bathroom yesterday.
+Tøm søpla før du går. | Vide la poubelle avant de partir. | Empty the bin before you leave.
+Husk å tørke bordene. | N'oublie pas d'essuyer les tables. | Remember to wipe the tables.
+Gulvet er vått, pass på! | Le sol est mouillé, attention ! | The floor is wet, watch out!
+Toalettet er skittent. | Les toilettes sont sales. | The toilet is dirty.
+Vi trenger nye håndklær. | Nous avons besoin de nouvelles serviettes. | We need new towels.
+Legg håndklærne i skapet. | Mets les serviettes dans le placard. | Put the towels in the cupboard.
+Hvor er nøkkelen til rommet? | Où est la clé de la chambre ? | Where is the key to the room?
+Jeg begynner med kjøkkenet og tar badet etterpå. | Je commence par la cuisine et je fais la salle de bains après. | I'll start with the kitchen and do the bathroom afterwards.
+Dusjen må vaskes hver dag. | La douche doit être lavée tous les jours. | The shower must be cleaned every day.

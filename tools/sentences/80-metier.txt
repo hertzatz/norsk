@@ -1,0 +1,258 @@
+# Métier et vie locale (listes thématiques)
+@level 1000
+
+@theme restaurant Restaurant
+Kokken lager middag til førti gjester. | Le cuisinier prépare le dîner pour quarante clients. | The cook is making dinner for forty guests.
+Jeg jobber som kokk på et hotell. | Je travaille comme cuisinier dans un hôtel. | I work as a cook in a hotel.
+Kokken sier at maten er klar. | Le cuisinier dit que le plat est prêt. | The cook says the food is ready.
+Servitøren tar bestillingen. | Le serveur prend la commande. | The waiter takes the order.
+Jeg jobber som servitør i helga. | Je travaille comme serveur le week-end. | I work as a waiter at the weekend.
+Servitøren kommer med menyen. | Le serveur apporte la carte. | The waiter brings the menu.
+Kan jeg få se menyen? | Je peux voir la carte ? | Can I see the menu?
+Menyen er på norsk og engelsk. | La carte est en norvégien et en anglais. | The menu is in Norwegian and English.
+Vi har en ny meny [i dag]. | Nous avons une nouvelle carte aujourd'hui. | We have a new menu today.
+Bestillingen er klar. | La commande est prête. | The order is ready.
+Jeg tar bestillingen til bord fem. | Je prends la commande de la table cinq. | I'm taking the order for table five.
+Bestillingen er feil. | La commande est fausse. | The order is wrong.
+En stor porsjon, takk. | Une grande portion, s'il vous plaît. | A large portion, please.
+Porsjonen er for liten. | La portion est trop petite. | The portion is too small.
+Vil du ha en halv porsjon? | Tu veux une demi-portion ? | Would you like half a portion?
+Hva vil du ha til forrett? | Qu'est-ce que tu veux en entrée ? | What would you like as a starter?
+Forretten er suppe. | L'entrée, c'est une soupe. | The starter is soup.
+Vi serverer forretten nå. | Nous servons l'entrée maintenant. | We're serving the starter now.
+Hovedretten er laks med poteter. | Le plat principal est du saumon avec des pommes de terre. | The main course is salmon with potatoes.
+Hovedretten kommer om ti minutter. | Le plat principal arrive dans dix minutes. | The main course is coming in ten minutes.
+Vil dere ha dessert? | Vous voulez un dessert ? | Would you like dessert?
+Til dessert har vi is og kake. | En dessert, nous avons de la glace et du gâteau. | For dessert we have ice cream and cake.
+Laksen er fra Norge. | Le saumon vient de Norvège. | The salmon is from Norway.
+Stek laksen i panna. | Fais cuire le saumon à la poêle. | Fry the salmon in the pan.
+Kok risen i en kjele. | Fais cuire le riz dans une casserole. | Cook the rice in a pot.
+Kjelen er varm, pass på! | La casserole est chaude, attention ! | The pot is hot, careful!
+Sett kjelen på komfyren. | Mets la casserole sur la cuisinière. | Put the pot on the stove.
+Panna er skitten. | La poêle est sale. | The pan is dirty.
+Varm panna før du steker. | Fais chauffer la poêle avant de faire cuire. | Heat the pan before you fry.
+Legg olje i panna. | Mets de l'huile dans la poêle. | Put oil in the pan.
+Vi har ikke mer olje. | Nous n'avons plus d'huile. | We're out of oil.
+Grøten er klar. | Le porridge est prêt. | The porridge is ready.
+Vi serverer grøt med sukker og smør. | Nous servons le porridge avec du sucre et du beurre. | We serve porridge with sugar and butter.
+Pålegget ligger på et brett. | Les garnitures sont sur un plateau. | The toppings are on a tray.
+Bær brettet til bordet. | Porte le plateau jusqu'à la table. | Carry the tray to the table.
+Sett glassene på brettet. | Mets les verres sur le plateau. | Put the glasses on the tray.
+Hun har med matpakke hver dag. | Elle apporte son casse-croûte tous les jours. | She brings a packed lunch every day.
+Matpakka ligger i sekken. | Le casse-croûte est dans le sac à dos. | The packed lunch is in the backpack.
+Skinka ligger i kjøleskapet. | Le jambon est dans le réfrigérateur. | The ham is in the fridge.
+Brød med skinke og ost, takk. | Du pain avec du jambon et du fromage, merci. | Bread with ham and cheese, please.
+Te med honning er godt for halsen. | Le thé au miel est bon pour la gorge. | Tea with honey is good for the throat.
+Honningen er fra en gård i *Numedal. | Le miel vient d'une ferme du Numedal. | The honey is from a farm in Numedal.
+Kniven må være skarp. | Le couteau doit être tranchant. | The knife must be sharp.
+Pass på, kniven er skarp! | Attention, le couteau est tranchant ! | Careful, the knife is sharp!
+Fisk er sunn mat. | Le poisson est un aliment sain. | Fish is healthy food.
+Vi lager sunn mat til barna. | Nous préparons des repas sains pour les enfants. | We make healthy food for the children.
+Hun er vegetarianer. Har vi noe uten kjøtt? | Elle est végétarienne. On a quelque chose sans viande ? | She's vegetarian. Do we have anything without meat?
+Det er mange vegetarianere blant gjestene. | Il y a beaucoup de végétariens parmi les clients. | There are many vegetarians among the guests.
+Hva er favoritten din? | Quel est ton préféré ? | What's your favourite?
+Vafler er favoritten min. | Les gaufres, c'est mon préféré. | Waffles are my favourite.
+Legg en serviett ved hver tallerken. | Mets une serviette près de chaque assiette. | Put a napkin by each plate.
+Vi mangler servietter. | Il nous manque des serviettes. | We're out of napkins.
+Bestikket er i skuffen. | Les couverts sont dans le tiroir. | The cutlery is in the drawer.
+Legg bestikk på alle bordene. | Mets des couverts sur toutes les tables. | Put cutlery on all the tables.
+Har gjesten allergi? | Le client a-t-il une allergie ? | Does the guest have an allergy?
+Spør alltid om allergi. | Demande toujours s'il y a une allergie. | Always ask about allergies.
+Hun har allergi mot melk. | Elle est allergique au lait. | She's allergic to milk.
+Har dere noe glutenfritt? | Vous avez quelque chose sans gluten ? | Do you have anything gluten-free?
+Brødet er glutenfritt. | Le pain est sans gluten. | The bread is gluten-free.
+Hygiene er viktig på kjøkkenet. | L'hygiène est importante en cuisine. | Hygiene is important in the kitchen.
+Vask hendene for hygienen. | Lave-toi les mains pour l'hygiène. | Wash your hands for hygiene.
+Ta på deg forkle. | Mets un tablier. | Put on an apron.
+Forkleet henger på døra. | Le tablier est accroché à la porte. | The apron hangs on the door.
+Maten trenger mer krydder. | Le plat a besoin de plus d'épices. | The food needs more spice.
+Kryddera står i skapet. | Les épices sont dans le placard. | The spices are in the cupboard.
+Salt og pepper, takk. | Du sel et du poivre, merci. | Salt and pepper, please.
+Litt pepper på fisken. | Un peu de poivre sur le poisson. | A little pepper on the fish.
+Saltet står på bordet. | Le sel est sur la table. | The salt is on the table.
+Vi trenger mel til boller. | Nous avons besoin de farine pour les brioches. | We need flour for buns.
+Melet er i skapet. | La farine est dans le placard. | The flour is in the cupboard.
+Bland mel og sukker. | Mélange la farine et le sucre. | Mix the flour and sugar.
+Bland alt sammen. | Mélange le tout. | Mix everything together.
+Fløte i kaffen? | De la crème dans ton café ? | Cream in your coffee?
+Sausen er laget med fløte. | La sauce est faite avec de la crème. | The sauce is made with cream.
+Rømme er godt til vafler. | La crème aigre, c'est bon avec les gaufres. | Sour cream is good with waffles.
+Vil du ha rømme på? | Tu veux de la crème aigre dessus ? | Do you want sour cream on it?
+En biff med poteter, takk. | Un steak avec des pommes de terre, merci. | A steak with potatoes, please.
+Hvordan vil du ha biffen? | Comment voulez-vous votre steak ? | How would you like your steak?
+Kjøttkaker er vanlig norsk mat. | Les boulettes de viande sont un plat norvégien courant. | Meatballs are common Norwegian food.
+Vi lager kjøttkaker med brun saus. | Nous faisons des boulettes avec une sauce brune. | We make meatballs with brown sauce.
+Reker er godt om sommeren. | Les crevettes, c'est bon en été. | Prawns are nice in summer.
+Rekene er ferske. | Les crevettes sont fraîches. | The prawns are fresh.
+Legg fisken i fryseren. | Mets le poisson au congélateur. | Put the fish in the freezer.
+Fryseren er full. | Le congélateur est plein. | The freezer is full.
+Ta kjøttet ut av fryseren. | Sors la viande du congélateur. | Take the meat out of the freezer.
+Kjøttet må tine. | La viande doit décongeler. | The meat needs to thaw.
+La fisken tine i kjøleskapet. | Laisse le poisson décongeler au réfrigérateur. | Let the fish thaw in the fridge.
+Varm maten i mikrobølgeovnen. | Réchauffe le plat au micro-ondes. | Heat the food in the microwave.
+Mikrobølgeovnen virker ikke. | Le micro-ondes ne marche pas. | The microwave doesn't work.
+Hakk løken. | Hache l'oignon. | Chop the onion.
+Hun hakker grønnsaker. | Elle hache des légumes. | She's chopping vegetables.
+Skrell potetene. | Épluche les pommes de terre. | Peel the potatoes.
+Jeg har skrella ti kilo poteter. | J'ai épluché dix kilos de pommes de terre. | I've peeled ten kilos of potatoes.
+Kan du skrelle eplene? | Tu peux éplucher les pommes ? | Can you peel the apples?
+Oppvasken må tas før vi går. | La vaisselle doit être faite avant de partir. | The washing-up must be done before we leave.
+Jeg tar oppvasken [i kveld]. | Je fais la vaisselle ce soir. | I'll do the washing-up tonight.
+Oppvaskmaskinen er full. | Le lave-vaisselle est plein. | The dishwasher is full.
+
+@theme rengjoring Cleaning
+Vaskemiddelet står under vasken. | Le produit de nettoyage est sous l'évier. | The detergent is under the sink.
+Bruk litt vaskemiddel i bøtta. | Mets un peu de produit dans le seau. | Use a little detergent in the bucket.
+Moppen står i bøtta. | La serpillière est dans le seau. | The mop is in the bucket.
+Mopp gulvet i gangen. | Passe la serpillière dans le couloir. | Mop the hallway floor.
+Vask kluten etter bruk. | Lave le chiffon après usage. | Wash the cloth after use.
+Ta en ren klut. | Prends un chiffon propre. | Take a clean cloth.
+Svampen er gammel. | L'éponge est vieille. | The sponge is old.
+Vi trenger nye svamper. | Nous avons besoin de nouvelles éponges. | We need new sponges.
+Kosten er borte. | Le balai a disparu. | The broom is gone.
+Hent kosten og feie gulvet. | Va chercher le balai et balaie le sol. | Get the broom and sweep the floor.
+Feie trappa før du vasker. | Balaie l'escalier avant de laver. | Sweep the stairs before washing.
+Jeg feide hele gangen. | J'ai balayé tout le couloir. | I swept the whole hallway.
+Støvsugeren er full. | L'aspirateur est plein. | The vacuum cleaner is full.
+Støvsugeren lager mye lyd. | L'aspirateur fait beaucoup de bruit. | The vacuum cleaner is very noisy.
+Det er mye støv på hylla. | Il y a beaucoup de poussière sur l'étagère. | There's a lot of dust on the shelf.
+Støvet ligger overalt. | La poussière est partout. | The dust is everywhere.
+Skrubb gulvet på badet. | Frotte le sol de la salle de bains. | Scrub the bathroom floor.
+Jeg skrubber dusjen. | Je frotte la douche. | I'm scrubbing the shower.
+Ta på hanskene. | Mets les gants. | Put on the gloves.
+Hanskene er for store. | Les gants sont trop grands. | The gloves are too big.
+Søppelsekken er full. | Le sac poubelle est plein. | The bin bag is full.
+Lukk søppelsekken. | Ferme le sac poubelle. | Close the bin bag.
+Avfallet går i dunken ute. | Les déchets vont dans la poubelle dehors. | The waste goes in the bin outside.
+Vi sorterer alt avfall. | Nous trions tous les déchets. | We sort all waste.
+Mat går i en egen dunk. | La nourriture va dans une poubelle à part. | Food goes in a separate bin.
+Dunken står bak huset. | La poubelle est derrière la maison. | The bin is behind the house.
+Sorter papp og plast. | Trie le carton et le plastique. | Sort the cardboard and plastic.
+Hvor skal plasten? | Où va le plastique ? | Where does the plastic go?
+Kranen på kjøkkenet virker ikke. | Le robinet de la cuisine ne marche pas. | The kitchen tap doesn't work.
+Skru på kranen. | Ouvre le robinet. | Turn on the tap.
+Det er en flekk på speilet. | Il y a une tache sur le miroir. | There's a stain on the mirror.
+Lukta er borte nå. | L'odeur a disparu maintenant. | The smell is gone now.
+Det er en god lukt av kaffe. | Il y a une bonne odeur de café. | There's a nice smell of coffee.
+Skift laken og dyne. | Change les draps et la couette. | Change the sheets and duvet.
+Lakenet er hvitt. | Le drap est blanc. | The sheet is white.
+Dyna er varm. | La couette est chaude. | The duvet is warm.
+Rist dyna og puta. | Secoue la couette et l'oreiller. | Shake the duvet and pillow.
+Sengetøyet må skiftes hver uke. | Le linge de lit doit être changé chaque semaine. | The bedding must be changed every week.
+Nytt sengetøy ligger i skapet. | Le linge de lit propre est dans le placard. | Fresh bedding is in the cupboard.
+Tørketrommelen er full. | Le sèche-linge est plein. | The tumble dryer is full.
+Klesvasken er ferdig. | La lessive est finie. | The laundry is done.
+Heng opp klesvasken. | Étends le linge. | Hang up the laundry.
+Legg toalettpapir på badet. | Mets du papier toilette dans la salle de bains. | Put toilet paper in the bathroom.
+Vi har ikke mer toalettpapir. | Nous n'avons plus de papier toilette. | We're out of toilet paper.
+Rengjøringen er ferdig klokka ti. | Le nettoyage est fini à dix heures. | The cleaning is done by ten.
+Jeg har jobbet med rengjøring i to år. | Je travaille dans le nettoyage depuis deux ans. | I've worked in cleaning for two years.
+Renhold er et viktig yrke. | L'entretien est un métier important. | Cleaning is an important job.
+Hun jobber i renhold. | Elle travaille dans le ménage. | She works in cleaning.
+Desinfiser bordene etter lunsj. | Désinfecte les tables après le déjeuner. | Disinfect the tables after lunch.
+Puss speilet godt. | Astique bien le miroir. | Polish the mirror well.
+Puss vinduene. | Nettoie les vitres. | Clean the windows.
+Rist teppet ute. | Secoue le tapis dehors. | Shake the carpet outside.
+Tørk av håndtaket på døra. | Essuie la poignée de la porte. | Wipe the door handle.
+Håndtaket er gammelt. | La poignée est vieille. | The handle is old.
+Rommet er ryddig nå. | La chambre est rangée maintenant. | The room is tidy now.
+Hun er veldig ryddig. | Elle est très ordonnée. | She's very tidy.
+Lyspæra er gått. | L'ampoule a grillé. | The bulb has blown.
+Vi trenger nye lyspærer. | Il nous faut de nouvelles ampoules. | We need new light bulbs.
+Heng jakka i garderoben. | Accroche ta veste au vestiaire. | Hang your jacket in the cloakroom.
+Garderoben er full. | Le vestiaire est plein. | The cloakroom is full.
+
+@theme jobb Work
+Arbeidsplassen min er et hotell. | Mon lieu de travail est un hôtel. | My workplace is a hotel.
+Arbeidsplassen må være ren. | Le lieu de travail doit être propre. | The workplace must be clean.
+Jeg jobber turnus. | Je travaille en rotation. | I work shifts.
+Turnusen kommer hver måned. | Le planning arrive chaque mois. | The rota comes out every month.
+Har du sett turnusen? | Tu as vu le planning ? | Have you seen the rota?
+Jeg jobba overtid [i går]. | J'ai fait des heures sup hier. | I worked overtime yesterday.
+Får jeg betalt for overtid? | Est-ce que je suis payé pour les heures sup ? | Do I get paid for overtime?
+Timelønna er to hundre kroner. | Le salaire horaire est de deux cents couronnes. | The hourly wage is two hundred kroner.
+Hva er timelønna? | Quel est le salaire horaire ? | What's the hourly wage?
+Jeg har fått lønnsslippen. | J'ai reçu ma fiche de paie. | I've got my payslip.
+Lønnsslippen er feil. | La fiche de paie est fausse. | The payslip is wrong.
+Jeg er syk og trenger sykemelding. | Je suis malade et j'ai besoin d'un arrêt maladie. | I'm ill and need a sick note.
+Legen ga meg sykemelding. | Le médecin m'a donné un arrêt maladie. | The doctor gave me a sick note.
+Send sykemeldingen til sjefen. | Envoie l'arrêt maladie au chef. | Send the sick note to the boss.
+Hun har permisjon. | Elle est en congé. | She's on leave.
+Kan jeg få permisjon på fredag? | Je peux avoir un congé vendredi ? | Can I have leave on Friday?
+Alle ansatte må komme på møtet. | Tous les employés doivent venir à la réunion. | All employees must come to the meeting.
+Han er ny ansatt. | C'est un nouvel employé. | He's a new employee.
+Arbeidsgiveren betaler lønn hver måned. | L'employeur paie le salaire chaque mois. | The employer pays wages every month.
+Arbeidsgiveren min er grei. | Mon employeur est sympa. | My employer is nice.
+Lederen heter *Kari. | La responsable s'appelle Kari. | The manager is called Kari.
+Snakk med lederen din. | Parle à ton responsable. | Talk to your manager.
+Lederen er på kontoret. | Le responsable est au bureau. | The manager is in the office.
+Jeg har et møte på NAV. | J'ai un rendez-vous au NAV. | I have a meeting at NAV.
+NAV kan hjelpe deg med jobb. | Le NAV peut t'aider à trouver du travail. | NAV can help you find work.
+Ring NAV [i morgen]. | Appelle le NAV demain. | Call NAV tomorrow.
+Du trenger skattekort for å jobbe. | Tu as besoin d'une carte d'impôt pour travailler. | You need a tax card to work.
+Har du fått skattekortet? | Tu as reçu ta carte d'impôt ? | Have you got your tax card?
+Hva er kontonummeret ditt? | Quel est ton numéro de compte ? | What's your account number?
+Skriv kontonummeret her. | Écris le numéro de compte ici. | Write the account number here.
+Jeg trenger personnummeret ditt. | J'ai besoin de ton numéro d'identité. | I need your ID number.
+Har du personnummer? | Tu as un numéro d'identité ? | Do you have an ID number?
+Opplæringen tar en uke. | La formation dure une semaine. | The training takes a week.
+Du får opplæring første dag. | Tu seras formé le premier jour. | You'll get training on the first day.
+Prøvetiden er seks måneder. | La période d'essai est de six mois. | The probation period is six months.
+Jeg er i prøvetid. | Je suis en période d'essai. | I'm on probation.
+Ta på deg uniformen. | Mets ton uniforme. | Put on your uniform.
+Uniformen henger i garderoben. | L'uniforme est accroché au vestiaire. | The uniform hangs in the cloakroom.
+Alle må kunne førstehjelp. Vi har kurs på fredag. | Tout le monde doit connaître les premiers secours. On a un cours vendredi. | Everyone must know first aid. We have a course on Friday.
+Nødutgangen er ved kjøkkenet. | La sortie de secours est près de la cuisine. | The emergency exit is by the kitchen.
+Hvis alarmen går, gå ut. | Si l'alarme sonne, sors. | If the alarm goes off, go out.
+Alarmen gikk [i natt]. | L'alarme a sonné cette nuit. | The alarm went off last night.
+Jeg har intervju [i morgen]. | J'ai un entretien demain. | I have an interview tomorrow.
+Intervjuet gikk bra. | L'entretien s'est bien passé. | The interview went well.
+Jeg søker en stilling som kokk. | Je postule à un poste de cuisinier. | I'm applying for a cook's position.
+Stillingen er ledig. | Le poste est libre. | The position is vacant.
+Jeg jobber deltid. | Je travaille à temps partiel. | I work part-time.
+Hun vil jobbe heltid. | Elle veut travailler à temps plein. | She wants to work full-time.
+Er stillingen deltid eller heltid? | Le poste est à temps partiel ou à temps plein ? | Is the position part-time or full-time?
+Jeg er vikar på hotellet. | Je suis remplaçant à l'hôtel. | I'm a temp at the hotel.
+Vi trenger en vikar i helga. | Nous avons besoin d'un remplaçant ce week-end. | We need a temp at the weekend.
+
+@theme norge Life in Norway
+Han er nordmann, men han bor i Frankrike. | Il est norvégien, mais il habite en France. | He's Norwegian, but he lives in France.
+Nordmenn liker å gå på tur. | Les Norvégiens aiment se promener. | Norwegians like going for walks.
+I hverdagen jobber jeg mye. | En semaine, je travaille beaucoup. | On weekdays I work a lot.
+Hverdagen er travel. | Le quotidien est chargé. | Everyday life is busy.
+I påsken går vi på ski. | À Pâques, on fait du ski. | At Easter we go skiing.
+Påsken er en stor ferie i Norge. | Pâques, ce sont de grandes vacances en Norvège. | Easter is a big holiday in Norway.
+Han er samboeren min. | C'est mon compagnon. | He's my partner.
+Vi kjøper ved om høsten. | Nous achetons du bois en automne. | We buy firewood in the autumn.
+Veden ligger i garasjen. | Le bois est dans le garage. | The firewood is in the garage.
+Vi har dugnad på lørdag. | Nous avons une journée de travail bénévole samedi. | We have a community work day on Saturday.
+Alle naboene kommer på dugnad. | Tous les voisins viennent à la journée bénévole. | All the neighbours come to the work day.
+Ta på deg vottene, det er kaldt. | Mets tes moufles, il fait froid. | Put on your mittens, it's cold.
+Parkeringen er full. | Le parking est plein. | The car park is full.
+Laget vårt vant. | Notre équipe a gagné. | Our team won.
+Han spiller på et lag. | Il joue dans une équipe. | He plays on a team.
+Det er et tykt lag med snø. | Il y a une épaisse couche de neige. | There's a thick layer of snow.
+Jeg måkte snø i en time. | J'ai déneigé pendant une heure. | I shovelled snow for an hour.
+Snøskuffa står ved døra. | La pelle à neige est à la porte. | The snow shovel is by the door.
+Ta snøskuffa og hjelp meg. | Prends la pelle à neige et aide-moi. | Take the snow shovel and help me.
+Veien er ikke brøyta ennå. | La route n'est pas encore déneigée. | The road hasn't been ploughed yet.
+Kommunen brøyter veien tidlig. | La commune déneige la route tôt. | The municipality ploughs the road early.
+Du må ha piggdekk på vinteren. | Tu dois avoir des pneus cloutés en hiver. | You need studded tyres in winter.
+Vi skifter til vinterdekk i oktober. | On passe aux pneus hiver en octobre. | We change to winter tyres in October.
+Det er et gammelt stabbur på gården. | Il y a un vieux grenier sur pilotis à la ferme. | There's an old storehouse on the farm.
+Stabburet er over tre hundre år gammelt. | Le grenier a plus de trois cents ans. | The storehouse is over three hundred years old.
+*Rollag stavkirke er veldig gammel. | L'église en bois debout de Rollag est très ancienne. | Rollag stave church is very old.
+Vi besøker stavkirka i sommer. | Nous visitons l'église en bois debout cet été. | We're visiting the stave church this summer.
+Det er mange stavkirker i *Numedal. | Il y a beaucoup d'églises en bois debout dans le Numedal. | There are many stave churches in Numedal.
+Friluftsliv er viktig for nordmenn. | La vie en plein air est importante pour les Norvégiens. | Outdoor life is important to Norwegians.
+Jeg liker friluftsliv. | J'aime la vie en plein air. | I like outdoor life.
+Brunost er god på vafler. | Le fromage brun est bon sur les gaufres. | Brown cheese is good on waffles.
+Har du smakt brunost? | Tu as goûté le fromage brun ? | Have you tasted brown cheese?
+Brunost er søt. | Le fromage brun est sucré. | Brown cheese is sweet.
+Bestemor lager lefse til jul. | Grand-mère fait des lefse pour Noël. | Grandma makes lefse for Christmas.
+Lefse med smør og sukker er godt. | La lefse au beurre et au sucre, c'est bon. | Lefse with butter and sugar is nice.
+Dialekten her er vanskelig. | Le dialecte d'ici est difficile. | The dialect here is difficult.
+Hver bygd har sin egen dialekt. | Chaque village a son propre dialecte. | Every village has its own dialect.
+Jeg forstår ikke dialekten. | Je ne comprends pas le dialecte. | I don't understand the dialect.
+Ring legevakten om natta. | Appelle les urgences la nuit. | Call the emergency clinic at night.
+Fastlegen er på ferie. | Le médecin traitant est en vacances. | The GP is on holiday.

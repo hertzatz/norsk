@@ -1,0 +1,191 @@
+# Verbes
+# v  = irrégulier (inf, présent, passé, participe)
+# v1 = kaste -> kaster, kasta/kastet ; v2 = spise -> spiste, spist ; v3 = prøve -> prøvde / bo -> bodde
+@list core
+
+være | v | être | be | være,er,var,vært
+ha | v | avoir | have | ha,har,hadde,hatt
+gjøre | v | faire | do, make | gjøre,gjør,gjorde,gjort
+si | v | dire | say | si,sier,sa,sagt
+se | v | voir, regarder | see, look | se,ser,så,sett
+ta | v | prendre | take | ta,tar,tok,tatt
+få | v | recevoir, obtenir ; avoir le droit de | get, receive ; may | få,får,fikk,fått
+gå | v | aller (à pied), marcher ; partir | go, walk ; leave | gå,går,gikk,gått
+komme | v | venir, arriver | come | komme,kommer,kom,kommet
+bli | v | devenir ; rester | become ; stay | bli,blir,ble/vart,blitt
+gi | v | donner | give | gi,gir,ga/gav,gitt
+vite | v | savoir | know (a fact) | vite,vet,visste,visst
+kunne | v | pouvoir, savoir (faire) | can, be able to | kunne,kan,kunne,kunnet
+ville | v | vouloir | want, will | ville,vil,ville,villet
+skulle | v | devoir (prévu), aller (futur) | shall, be going to | skulle,skal,skulle,skullet
+måtte | v | devoir, falloir | must, have to | måtte,må,måtte,måttet
+burde | v | devoir (conseil) | should, ought to | burde,bør,burde,burdet
+dra | v | partir, aller ; tirer | go, leave ; pull | dra,drar,dro,dratt
+stå | v | être debout, se tenir | stand | stå,står,sto/stod,stått
+sitte | v | être assis | sit | sitte,sitter,satt,sittet
+ligge | v | être couché, se trouver | lie, be (located) | ligge,ligger,lå,ligget
+legge | v | poser (à plat), mettre | lay, put | legge,legger,la,lagt
+sette | v | poser, mettre, placer | put, set, place | sette,setter,satte,satt
+finne | v | trouver | find | finne,finner,fant,funnet
+drikke | v | boire | drink | drikke,drikker,drakk,drukket
+spørre | v | demander (question) | ask | spørre,spør,spurte,spurt
+selge | v | vendre | sell | selge,selger,solgte,solgt
+fortelle | v | raconter | tell | fortelle,forteller,fortalte,fortalt
+velge | v | choisir | choose | velge,velger,valgte,valgt
+sove | v | dormir | sleep | sove,sover,sov,sovet
+hjelpe | v | aider | help | hjelpe,hjelper,hjalp,hjulpet
+treffe | v | rencontrer ; toucher | meet ; hit | treffe,treffer,traff,truffet
+slå | v | frapper ; battre | hit, beat | slå,slår,slo,slått
+bære | v | porter | carry | bære,bærer,bar,båret
+be | v | demander, prier | ask, pray | be,ber,ba,bedt
+le | v | rire | laugh | le,ler,lo,ledd
+dø | v | mourir | die | dø,dør,døde,dødd
+skrive | v | écrire | write | skrive,skriver,skrev,skrevet
+forstå | v | comprendre | understand | forstå,forstår,forsto/forstod,forstått
+gråte | v | pleurer | cry | gråte,gråter,gråt,grått
+falle | v | tomber | fall | falle,faller,falt,falt
+holde | v | tenir | hold, keep | holde,holder,holdt,holdt
+la | v | laisser | let | la,lar,lot,latt
+løpe | v | courir | run | løpe,løper,løp,løpt
+vinne | v | gagner | win | vinne,vinner,vant,vunnet
+synge | v | chanter | sing | synge,synger,sang,sunget
+fly | v | voler, prendre l'avion | fly | fly,flyr,fløy,fløyet
+henge | v | être suspendu, pendre | hang | henge,henger,hang,hengt
+skjære | v | couper (au couteau) | cut | skjære,skjærer,skar,skåret
+trekke | v | tirer | pull, draw | trekke,trekker,trakk,trukket
+slippe | v | lâcher ; échapper à | let go, drop ; avoid | slippe,slipper,slapp,sluppet
+tørre | v | oser | dare | tørre,tør,turte,turt
+fryse | v | avoir froid, geler, congeler | freeze, be cold | fryse,fryser,frøs,frosset
+fortsette | v | continuer | continue | fortsette,fortsetter,fortsatte,fortsatt
+forsvinne | v | disparaître | disappear | forsvinne,forsvinner,forsvant,forsvunnet
+følge | v | suivre | follow | følge,følger,fulgte,fulgt
+rekke | v | avoir le temps de, atteindre | make it (in time), reach | rekke,rekker,rakk,rukket
+hete | v | s'appeler | be called | hete,heter,het,hett
+gjelde | v | concerner, valoir pour | apply to, concern | gjelde,gjelder,gjaldt,gjeldt
+synes | v | trouver, penser (avis) | think (opinion) | synes,synes/syns,syntes,syntes
+finnes | v | exister, il y a | exist, there is | finnes,finnes/fins,fantes,fantes
+trives | v | se plaire, être bien | thrive, like it | trives,trives,trivdes,trivdes
+møtes | v | se rencontrer, se voir | meet (each other) | møtes,møtes,møttes,møttes
+
+begynne | v2 | commencer | begin, start
+glemme | v2 | oublier | forget
+kjenne | v2 | connaître ; sentir | know (someone) ; feel
+kjøre | v2 | conduire, rouler | drive
+høre | v2 | entendre, écouter | hear, listen
+spise | v2 | manger | eat
+lese | v2 | lire | read
+kjøpe | v2 | acheter | buy
+betale | v2 | payer | pay
+bruke | v2 | utiliser ; dépenser | use ; spend
+tenke | v2 | penser | think
+lære | v2 | apprendre ; enseigner | learn ; teach
+møte | v2 | rencontrer | meet
+ringe | v2 | appeler, téléphoner | call, phone
+sende | v2 | envoyer | send
+mene | v2 | penser, vouloir dire | think, mean
+trenge | v2 | avoir besoin de | need
+like | v2 | aimer (bien) | like
+svare | v2 | répondre | answer
+spille | v2 | jouer | play
+føle | v2 | sentir, ressentir | feel
+vise | v2 | montrer | show
+reise | v2 | voyager, partir | travel
+bestemme | v2 | décider | decide
+skjønne | v2 | comprendre | understand
+klare | v2 | réussir, y arriver | manage, cope
+forklare | v2 | expliquer | explain
+tjene | v2 | gagner (argent) | earn
+leke | v2 | jouer (enfants) | play (children)
+smake | v2 | goûter, avoir le goût de | taste
+koke | v2 | cuire, bouillir, faire cuire | boil, cook
+steke | v2 | faire frire, rôtir | fry, roast
+hilse | v2 | saluer | greet
+bestille | v2 | commander, réserver | order, book
+stenge | v2 | fermer | close, shut
+tenne | v2 | allumer | light, turn on
+fylle | v2 | remplir | fill
+tømme | v2 | vider | empty
+låne | v2 | emprunter, prêter | borrow, lend
+spare | v2 | économiser | save
+lete | v2 | chercher | search, look for | | freq=lete,leter,let
+tåle | v2 | supporter | tolerate, stand
+stemme | v2 | être exact ; voter | be right ; vote
+kose | v2 | câliner ; kose seg = passer un bon moment | cuddle ; enjoy oneself
+hvile | v2 | se reposer | rest
+tape | v2 | perdre (match) | lose
+miste | v1 | perdre | lose
+røyke | v2 | fumer | smoke
+stole | v2 | faire confiance | trust
+besøke | v2 | rendre visite | visit
+svømme | v2 | nager | swim
+avtale | v2 | convenir, fixer (rdv) | agree, arrange
+melde | v2 | signaler, annoncer | report, notify
+vekke | v1 | réveiller | wake (someone)
+levere | v2 | livrer, remettre | deliver, hand in
+fungere | v2 | fonctionner | work, function
+reparere | v2 | réparer | repair
+invitere | v2 | inviter | invite
+servere | v2 | servir | serve
+studere | v2 | étudier | study
+diskutere | v2 | discuter | discuss
+passere | v2 | passer | pass
+
+snakke | v1 | parler | speak, talk
+jobbe | v1 | travailler | work
+lage | v1 | faire, préparer (cuisine) | make, cook | lage,lager,laga/laget/lagde,laga/laget/lagd
+vente | v1 | attendre | wait
+hente | v1 | aller chercher | fetch, pick up
+huske | v1 | se souvenir | remember
+prate | v1 | bavarder | chat, talk
+kaste | v1 | jeter | throw
+vaske | v1 | laver, nettoyer | wash, clean
+rydde | v1 | ranger | tidy up
+tørke | v1 | sécher, essuyer | dry, wipe
+elske | v1 | aimer (amour) | love
+savne | v1 | manquer (qqn) | miss
+håpe | v1 | espérer | hope
+ønske | v1 | souhaiter | wish
+virke | v1 | fonctionner ; sembler | work ; seem
+passe | v1 | convenir, aller ; surveiller | fit, suit ; look after
+starte | v1 | démarrer, commencer | start
+slutte | v1 | arrêter, finir ; démissionner | stop, finish ; quit
+stoppe | v1 | arrêter | stop
+flytte | v1 | déménager, déplacer | move
+handle | v1 | faire les courses ; agir | shop ; act
+sjekke | v1 | vérifier | check
+koste | v1 | coûter | cost
+lukke | v1 | fermer | close
+åpne | v1 | ouvrir | open
+våkne | v1 | se réveiller | wake up
+bytte | v1 | échanger, changer | change, swap
+merke | v1 | remarquer | notice
+mangle | v1 | manquer (faire défaut) | lack, be missing
+lukte | v1 | sentir (odeur) | smell
+kutte | v1 | couper | cut
+danse | v1 | danser | dance
+sykle | v1 | faire du vélo | cycle
+feire | v1 | fêter | celebrate
+regne | v1 | pleuvoir ; calculer | rain ; calculate
+varme | v1 | chauffer | heat, warm
+trykke | v1 | appuyer | press, push
+orke | v1 | avoir la force de | have the energy to
+love | v1 | promettre | promise | love,lover,lova/lovet/lovte,lova/lovet/lovt
+gifte | v1 | marier | marry
+forandre | v1 | changer | change
+endre | v1 | modifier | change, alter
+skifte | v1 | changer (de) | change, switch
+slappe | v1 | slappe av = se détendre | relax (slappe av)
+kjede | v1 | kjede seg = s'ennuyer | be bored (kjede seg)
+snu | v3 | tourner, faire demi-tour | turn (around)
+bo | v3 | habiter | live, stay
+tro | v3 | croire | believe, think
+bety | v3 | signifier | mean
+skje | v3 | se passer, arriver | happen | | freq=skjer,skjedde,skjedd
+prøve | v3 | essayer | try
+leve | v3 | vivre | live (be alive)
+leie | v3 | louer | rent
+eie | v3 | posséder | own
+kle | v3 | habiller | dress
+nå | v3 | atteindre, avoir le temps | reach, make it | | freq=nådde,nådd
+greie | v3 | réussir, y arriver | manage
+skru | v3 | visser, tourner (skru på = allumer) | screw, turn

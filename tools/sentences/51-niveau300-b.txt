@@ -1,0 +1,132 @@
+# Niveau 300, lot 2 : objectif 5 phrases par mot
+@level 300
+
+@theme folk Meeting people
+Hei, jeg heter *Marie, og jeg er ny her. | Salut, je m'appelle Marie, et je suis nouvelle ici. | Hi, my name is Marie, and I'm new here.
+Hei! Hvordan har du det? | Salut ! Comment vas-tu ? | Hi! How are you?
+Hei, lenge siden! | Salut, ça fait longtemps ! | Hi, long time no see!
+Hallo! Er det noen hjemme? | Allô ! Il y a quelqu'un à la maison ? | Hello! Is anyone home?
+Hallo, kan du høre meg nå? | Allô, tu m'entends maintenant ? | Hello, can you hear me now?
+Unnskyld, hva heter du igjen? | Pardon, comment tu t'appelles déjà ? | Sorry, what's your name again?
+Unnskyld, jeg husker ikke navnet ditt. | Pardon, je ne me souviens pas de ton prénom. | Sorry, I don't remember your name.
+Unnskyld, kan jeg spørre om noe? | Pardon, je peux demander quelque chose ? | Excuse me, can I ask something?
+Beklager, jeg forstår ikke så mye ennå. | Désolé, je ne comprends pas encore grand-chose. | Sorry, I don't understand much yet.
+Beklager, jeg kommer ikke [i kveld]. | Désolé, je ne viens pas ce soir. | Sorry, I'm not coming tonight.
+Beklager, det var min feil. | Désolé, c'était ma faute. | Sorry, that was my fault.
+Hvor kommer dere fra? | D'où venez-vous ? | Where are you from?
+Dere er [velkommen] hjem til oss. | Vous êtes les bienvenus chez nous. | You're welcome at our place.
+Kjenner dere hverandre? | Vous vous connaissez ? | Do you know each other?
+Hvor lenge har dere bodd her? | Depuis combien de temps habitez-vous ici ? | How long have you lived here?
+Vi har bodd her i to år. | Nous habitons ici depuis deux ans. | We've lived here for two years.
+Jeg har en venn som bor i *Kongsberg. | J'ai un ami qui habite à Kongsberg. | I have a friend who lives in Kongsberg.
+Vennen min heter *Ola, og han er veldig snill. | Mon ami s'appelle Ola, et il est très gentil. | My friend is called Ola, and he is very kind.
+Hun er et snilt menneske, og alle liker henne. | C'est une personne gentille, et tout le monde l'aime bien. | She is a kind person, and everyone likes her.
+Folk her er snille og hyggelige. | Les gens ici sont gentils et sympas. | People here are kind and nice.
+Folk snakker fort, men jeg prøver å forstå. | Les gens parlent vite, mais j'essaie de comprendre. | People talk fast, but I try to understand.
+Mange folk kommer hit om sommeren. | Beaucoup de gens viennent ici l'été. | Lots of people come here in summer.
+Jeg kjenner ikke mange folk her ennå. | Je ne connais pas encore beaucoup de gens ici. | I don't know many people here yet.
+Kjenner du noen som snakker fransk? | Tu connais quelqu'un qui parle français ? | Do you know anyone who speaks French?
+Jeg kjente ham ikke før. | Je ne le connaissais pas avant. | I didn't know him before.
+Jeg tror at han er fra *Oslo. | Je crois qu'il est d'Oslo. | I think he's from Oslo.
+Jeg vet at det er vanskelig, men du klarer det. | Je sais que c'est difficile, mais tu vas y arriver. | I know it's difficult, but you'll manage.
+Hun sa at hun skulle komme. | Elle a dit qu'elle viendrait. | She said she would come.
+Han sier at han er syk. | Il dit qu'il est malade. | He says he is ill.
+Jeg håper at du har det bra. | J'espère que tu vas bien. | I hope you're doing well.
+Jeg er glad for at du kom. | Je suis content que tu sois venu. | I'm glad you came.
+Er du glad i å bo her? | Tu aimes vivre ici ? | Do you like living here?
+Ja, jeg liker meg veldig godt her. | Oui, je me plais beaucoup ici. | Yes, I like it very much here.
+Ja, det tror jeg. | Oui, je crois. | Yes, I think so.
+Ja, det er sant. | Oui, c'est vrai. | Yes, that's true.
+Nei, det vet jeg ikke. | Non, je ne sais pas. | No, I don't know.
+Nei, jeg har ikke tid nå. | Non, je n'ai pas le temps maintenant. | No, I don't have time now.
+Nei, takk, jeg er ferdig. | Non merci, j'ai fini. | No thanks, I'm done.
+Nei, det er ikke sant! | Non, ce n'est pas vrai ! | No, that's not true!
+Men hvorfor sa du ikke noe? | Mais pourquoi tu n'as rien dit ? | But why didn't you say anything?
+Jeg vil gjerne, men jeg kan ikke. | Je voudrais bien, mais je ne peux pas. | I'd like to, but I can't.
+Det er fint, men det tar tid. | C'est bien, mais ça prend du temps. | It's nice, but it takes time.
+Hun er liten, men hun er sterk. | Elle est petite, mais elle est forte. | She's small but strong.
+Hvorfor er du her så tidlig? | Pourquoi tu es là si tôt ? | Why are you here so early?
+Hvorfor ringte du ikke? | Pourquoi tu n'as pas appelé ? | Why didn't you call?
+Hvorfor vil du ikke komme? | Pourquoi tu ne veux pas venir ? | Why don't you want to come?
+Hvordan sier man det på norsk? | Comment on dit ça en norvégien ? | How do you say that in Norwegian?
+Hvordan kom du hit? | Comment es-tu venu ici ? | How did you get here?
+Hvordan var dagen din? | Comment s'est passée ta journée ? | How was your day?
+Hvordan skal vi gjøre det? | Comment on va faire ? | How shall we do it?
+
+@theme hverdag Everyday life
+Jeg står opp klokka seks hver dag. | Je me lève à six heures tous les jours. | I get up at six every day.
+Jeg står opp tidlig og legger meg sent. | Je me lève tôt et je me couche tard. | I get up early and go to bed late.
+Jeg legger meg klokka ti. | Je me couche à dix heures. | I go to bed at ten.
+Legg den der, takk. | Pose-le là, merci. | Put it there, thanks.
+Hvor la du nøklene? | Où as-tu mis les clés ? | Where did you put the keys?
+Hun la barnet i senga. | Elle a mis l'enfant au lit. | She put the child to bed.
+Kan du sette den på plass? | Tu peux le remettre à sa place ? | Can you put it back?
+Sett den ned, takk. | Pose-le, merci. | Put it down, please.
+Hun satte seg ved siden av meg. | Elle s'est assise à côté de moi. | She sat down next to me.
+Jeg sitter her og venter på deg. | Je suis assis ici et je t'attends. | I'm sitting here waiting for you.
+Vi satt ute hele kvelden. | Nous sommes restés assis dehors toute la soirée. | We sat outside all evening.
+Han sitter alltid på samme sted. | Il est toujours assis au même endroit. | He always sits in the same place.
+Barna ligger og sover. | Les enfants sont couchés et dorment. | The children are lying asleep.
+Huset ligger ved veien. | La maison est au bord de la route. | The house is by the road.
+Jeg ligger i senga og tenker. | Je suis au lit et je réfléchis. | I'm lying in bed thinking.
+Hvor ligger det? | Où est-ce que ça se trouve ? | Where is it?
+Jeg sov godt [i natt]. | J'ai bien dormi cette nuit. | I slept well last night.
+Barna sover fortsatt. | Les enfants dorment encore. | The children are still asleep.
+Jeg har ikke sovet i hele natt. | Je n'ai pas dormi de toute la nuit. | I haven't slept all night.
+Sov godt! | Dors bien ! | Sleep well!
+Hva skal vi spise [i kveld]? | Qu'est-ce qu'on mange ce soir ? | What are we eating tonight?
+Vi spiser klokka fem. | On mange à cinq heures. | We eat at five.
+Jeg har ikke spist noe [i dag]. | Je n'ai rien mangé aujourd'hui. | I haven't eaten anything today.
+Vil du spise med oss? | Tu veux manger avec nous ? | Do you want to eat with us?
+Jeg kjøpte en ny telefon. | J'ai acheté un nouveau téléphone. | I bought a new phone.
+Hva skal du kjøpe? | Qu'est-ce que tu vas acheter ? | What are you going to buy?
+Jeg har ikke penger til å kjøpe det. | Je n'ai pas l'argent pour l'acheter. | I don't have the money to buy it.
+Hvor mye må jeg betale? | Combien je dois payer ? | How much do I have to pay?
+Jeg betaler for deg. | Je paie pour toi. | I'll pay for you.
+Har du betalt? | Tu as payé ? | Have you paid?
+Penger er ikke alt. | L'argent n'est pas tout. | Money isn't everything.
+Han bruker mye penger. | Il dépense beaucoup d'argent. | He spends a lot of money.
+Jeg bruker bilen hver dag. | J'utilise la voiture tous les jours. | I use the car every day.
+Kan jeg bruke telefonen din? | Je peux utiliser ton téléphone ? | Can I use your phone?
+Det tar ti minutter å gå dit. | Ça prend dix minutes pour y aller à pied. | It takes ten minutes to walk there.
+Vent fem minutter, så kommer jeg. | Attends cinq minutes, j'arrive. | Wait five minutes and I'll be there.
+Jeg kommer om et minutt. | J'arrive dans une minute. | I'll be there in a minute.
+Bussen går om en time. | Le bus part dans une heure. | The bus leaves in an hour.
+Jeg har en time [i morgen] klokka ni. | J'ai un rendez-vous demain à neuf heures. | I have an appointment tomorrow at nine.
+Det tok to timer. | Ça a pris deux heures. | It took two hours.
+Jeg jobber åtte timer hver dag. | Je travaille huit heures par jour. | I work eight hours a day.
+Neste uke skal vi til *Oslo. | La semaine prochaine, nous allons à Oslo. | Next week we're going to Oslo.
+Hun kommer om en uke. | Elle arrive dans une semaine. | She's coming in a week.
+Jeg har ikke sett ham på en uke. | Je ne l'ai pas vu depuis une semaine. | I haven't seen him for a week.
+Det er to år siden. | C'était il y a deux ans. | That was two years ago.
+Om et år snakker du godt norsk. | Dans un an, tu parleras bien norvégien. | In a year you'll speak good Norwegian.
+Hvor gammel er du? | Quel âge as-tu ? | How old are you?
+Huset er gammelt, men fint. | La maison est vieille mais belle. | The house is old but nice.
+Jeg har en gammel bil. | J'ai une vieille voiture. | I have an old car.
+Veien er lang. | La route est longue. | The road is long.
+Det tar lang tid. | Ça prend longtemps. | It takes a long time.
+Jeg har venta på deg lenge. | Je t'ai attendu longtemps. | I've been waiting for you a long time.
+Hvor lenge blir du her? | Combien de temps restes-tu ici ? | How long are you staying here?
+Han ble her i to uker. | Il est resté ici deux semaines. | He stayed here for two weeks.
+Det blir kaldt [i natt]. | Il va faire froid cette nuit. | It's going to be cold tonight.
+Hva blir det? | Qu'est-ce que ça donne ? / Ça fait combien ? | What will it be?
+Jeg blir hjemme [i dag]. | Je reste à la maison aujourd'hui. | I'm staying home today.
+Jeg går hjem nå. | Je rentre maintenant. | I'm going home now.
+Når kommer du hjem? | Quand est-ce que tu rentres ? | When are you coming home?
+Vi kjører hjem [i morgen]. | Nous rentrons en voiture demain. | We're driving home tomorrow.
+Han kjører for fort. | Il conduit trop vite. | He drives too fast.
+Kan du kjøre meg til jobben? | Tu peux m'emmener au travail en voiture ? | Can you drive me to work?
+Døra er lukket. | La porte est fermée. | The door is closed.
+Hvem står ved døra? | Qui est à la porte ? | Who is at the door?
+Kan du åpne døra? | Tu peux ouvrir la porte ? | Can you open the door?
+Hun står og venter ved døra. | Elle attend debout à la porte. | She's standing waiting at the door.
+Hva står det her? | Qu'est-ce qui est écrit ici ? | What does it say here?
+Står du opp nå? | Tu te lèves maintenant ? | Are you getting up now?
+Jeg husker ikke hvor jeg la den. | Je ne me souviens pas où je l'ai mis. | I don't remember where I put it.
+Husker du meg? | Tu te souviens de moi ? | Do you remember me?
+Jeg husker det godt. | Je m'en souviens bien. | I remember it well.
+Glem det! | Laisse tomber ! | Forget it!
+Jeg glemte navnet hans. | J'ai oublié son nom. | I forgot his name.
+Har du glemt noe? | Tu as oublié quelque chose ? | Have you forgotten something?
+Jeg finner ikke telefonen min. | Je ne trouve pas mon téléphone. | I can't find my phone.
+Fant du det du lette etter? | Tu as trouvé ce que tu cherchais ? | Did you find what you were looking for?

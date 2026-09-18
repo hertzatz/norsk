@@ -1,0 +1,253 @@
+# Niveau 1000, lot 4
+@level 1000
+
+@theme hverdag Everyday life
+Vi unngår bussen og sykler til sentrum. | Nous évitons le bus et allons en ville à vélo. | We avoid the bus and cycle to town.
+Hun var trist etter begravelsen. | Elle était triste après l'enterrement. | She was sad after the funeral.
+Blant turistene var det mange barn. | Parmi les touristes, il y avait beaucoup d'enfants. | Among the tourists there were many children.
+Vi overrasket henne med blomster. | Nous lui avons fait la surprise avec des fleurs. | We surprised her with flowers.
+Det er ikke stygt, det er bare rart. | Ce n'est pas laid, c'est juste bizarre. | It's not ugly, it's just strange.
+Sikkerheten er viktigst. | La sécurité passe avant tout. | Safety comes first.
+Hunden løper i parken. | Le chien court dans le parc. | The dog runs in the park.
+Forrige måned var det mye regn. | Le mois dernier, il a beaucoup plu. | Last month there was a lot of rain.
+Etterpå tok vi en kopp kaffe. | Ensuite, nous avons pris une tasse de café. | Afterwards we had a cup of coffee.
+Sola går ned tidlig om vinteren. | Le soleil se couche tôt en hiver. | The sun sets early in winter.
+Både bestemor og bestefar er her. | Grand-mère et grand-père sont tous les deux là. | Both grandma and grandpa are here.
+Vi så en levende elg i skogen. | Nous avons vu un élan vivant dans la forêt. | We saw a live moose in the forest.
+Pusse tennene to ganger om dagen. | Se brosser les dents deux fois par jour. | Brushing your teeth twice a day.
+Vi skiller papir og plast. | Nous séparons le papier et le plastique. | We separate paper and plastic.
+De skilte seg [i fjor]. | Ils ont divorcé l'an dernier. | They divorced last year.
+Barnet trenger medisin mot feber. | L'enfant a besoin d'un médicament contre la fièvre. | The child needs medicine for the fever.
+Voksne og barn kan komme. | Adultes et enfants peuvent venir. | Adults and children can come.
+Gruppen går på tur i fjellet. | Le groupe fait une randonnée en montagne. | The group goes hiking in the mountains.
+Hun har ringer på fingeren. | Elle a une bague au doigt. | She has a ring on her finger.
+Hun er gravid og trenger hvile. | Elle est enceinte et a besoin de repos. | She's pregnant and needs rest.
+Stakkars kollega, han er syk igjen. | Pauvre collègue, il est encore malade. | Poor colleague, he's ill again.
+Vi hadde en herlig tur til stranda. | Nous avons fait une super sortie à la plage. | We had a lovely trip to the beach.
+Du kan enten ta toget eller bussen. | Tu peux prendre soit le train, soit le bus. | You can take either the train or the bus.
+Han har vondt i det venstre øret. | Il a mal à l'oreille gauche. | His left ear hurts.
+Vask hendene ordentlig. | Lave-toi bien les mains. | Wash your hands properly.
+Hun er liksom ferdig med skolen. | Elle a genre fini l'école. | She's sort of finished school.
+Det er nødvendig med pause. | Une pause est nécessaire. | A break is necessary.
+Han er nervøs for kurset. | Il est nerveux pour le cours. | He's nervous about the course.
+Bryllupet var på en gård. | Le mariage a eu lieu dans une ferme. | The wedding was on a farm.
+Kaffen er for svak. | Le café est trop léger. | The coffee is too weak.
+Firmaet har kontor i *Oslo. | L'entreprise a un bureau à Oslo. | The company has an office in Oslo.
+Vi diskuterer ofte jobben. | Nous discutons souvent du travail. | We often discuss work.
+Gjengen min spiller fotball. | Ma bande joue au foot. | My gang plays football.
+Hun puster tungt. | Elle respire fort. | She's breathing heavily.
+Han hilser alltid. | Il dit toujours bonjour. | He always says hello.
+Vi forbereder festen. | Nous préparons la fête. | We're preparing the party.
+Kjolen er for kort. | La robe est trop courte. | The dress is too short.
+En bit brød, takk. | Un morceau de pain, merci. | A bit of bread, please.
+Stikk innom når du er i byen. | Passe quand tu es en ville. | Drop by when you're in town.
+Fremtiden er her i Norge. | L'avenir est ici en Norvège. | The future is here in Norway.
+Vi feirer at du har fått jobb. | Nous fêtons ton nouveau travail. | We're celebrating your new job.
+Hun var slem mot broren sin. | Elle a été méchante avec son frère. | She was mean to her brother.
+Fuglen flyr over vannet. | L'oiseau vole au-dessus de l'eau. | The bird flies over the water.
+Bukse og genser i vaskemaskinen. | Pantalon et pull dans le lave-linge. | Trousers and sweater in the washing machine.
+Dette er en privat fest. | C'est une fête privée. | This is a private party.
+Mobilen må lades. | Le portable doit être chargé. | The phone needs charging.
+Det er ingen forskjell. | Il n'y a aucune différence. | There's no difference.
+Tenn lyset, det er mørkt. | Allume la lumière, il fait sombre. | Turn on the light, it's dark.
+Begynnelsen av filmen var kjedelig. | Le début du film était ennuyeux. | The beginning of the film was boring.
+Jeg har ny adresse. | J'ai une nouvelle adresse. | I have a new address.
+Meld fra hvis du blir sen. | Préviens si tu es en retard. | Let us know if you'll be late.
+Vi sparer til ferie. | Nous économisons pour les vacances. | We're saving for a holiday.
+Har du fått meldingen min? | Tu as reçu mon message ? | Did you get my message?
+Blomstene er fra hagen. | Les fleurs viennent du jardin. | The flowers are from the garden.
+Vi er like{lik}. | Nous nous ressemblons. | We're alike.
+Barna er ganske like{lik}. | Les enfants se ressemblent assez. | The children are quite alike.
+De er like{lik} gamle. | Ils ont le même âge. | They're the same age.
+Alt er likt{lik} for meg. | Tout m'est égal. | It's all the same to me.
+Svarene er like{lik}. | Les réponses sont pareilles. | The answers are the same.
+Jeg har vondt i magen etter maten. | J'ai mal au ventre après le repas. | I have a stomach ache after the meal.
+Han studerer i *Bergen. | Il étudie à Bergen. | He studies in Bergen.
+Bestefar sitter i stua. | Grand-père est assis au salon. | Grandpa is sitting in the living room.
+Det er altfor dyrt. | C'est beaucoup trop cher. | It's far too expensive.
+Hun er fremmed her. | Elle est étrangère ici. | She's a stranger here.
+Kunden vil snakke med sjefen. | Le client veut parler au chef. | The customer wants to talk to the boss.
+Forresten, hva heter hun? | Au fait, comment elle s'appelle ? | By the way, what's her name?
+Han sluttet å røyke [i fjor]. | Il a arrêté de fumer l'an dernier. | He stopped smoking last year.
+Han forteller alltid vitser. | Il raconte toujours des blagues. | He always tells jokes.
+Det tar omtrent en time. | Ça prend environ une heure. | It takes about an hour.
+Det er varmt inni bilen. | Il fait chaud dans la voiture. | It's warm inside the car.
+Hun ropte navnet mitt. | Elle a crié mon nom. | She shouted my name.
+Ifølge sjefen er vi ferdige. | Selon le chef, nous avons fini. | According to the boss we're done.
+Gjenta ordet tre{tre_num} ganger. | Répète le mot trois fois. | Repeat the word three times.
+Vi leier ei hytte i sommer. | Nous louons un chalet cet été. | We're renting a cabin this summer.
+Maskinen lager kaffe. | La machine fait du café. | The machine makes coffee.
+Tanta mi har fire barn. | Ma tante a quatre enfants. | My aunt has four children.
+Det er billig, og dessuten er det godt. | C'est bon marché, et en plus c'est bon. | It's cheap, and it's good too.
+Hvilken alder har han? | Quel âge a-t-il ? | What age is he?
+Bussen stopper ved stasjonen. | Le bus s'arrête à la gare. | The bus stops at the station.
+Nesa er kald. | Le nez est froid. | The nose is cold.
+Vi møtes i ettermiddag. | On se voit cet après-midi. | We'll meet this afternoon.
+Iallfall er det sant. | En tout cas, c'est vrai. | Anyway, it's true.
+Hun snakker tysk med kunden. | Elle parle allemand avec le client. | She speaks German with the customer.
+Det var flaks at du kom. | C'était une chance que tu viennes. | It was lucky you came.
+Møtet var kjedelig. | La réunion était ennuyeuse. | The meeting was boring.
+Vi svømmer ved stranda. | Nous nageons près de la plage. | We swim by the beach.
+Strømmen er dyr om vinteren. | L'électricité est chère en hiver. | Electricity is expensive in winter.
+Han kom derfra med bussen. | Il est venu de là-bas en bus. | He came from there by bus.
+Tilbudet gjelder [i dag]. | L'offre est valable aujourd'hui. | The offer is valid today.
+Hun ble overrasket over prisen. | Elle a été surprise par le prix. | She was surprised by the price.
+Barna spør stadig om mat. | Les enfants demandent sans cesse à manger. | The children keep asking for food.
+Billetten er gratis for barn. | Le billet est gratuit pour les enfants. | The ticket is free for children.
+Det var modig av deg. | C'était courageux de ta part. | That was brave of you.
+Klassen går på tur. | La classe part en sortie. | The class is going on a trip.
+Hvilken farge har bilen? | De quelle couleur est la voiture ? | What colour is the car?
+Han godtok tilbudet. | Il a accepté l'offre. | He accepted the offer.
+Hva var årsaken? | Quelle était la cause ? | What was the cause?
+Jeg orker ikke å lage mat. | Je n'ai pas le courage de faire à manger. | I can't face cooking.
+Oppgaven er ferdig. | L'exercice est fini. | The task is done.
+Sangen er norsk. | La chanson est norvégienne. | The song is Norwegian.
+Veska er ny. | Le sac est neuf. | The bag is new.
+Varene kommer på mandag. | Les marchandises arrivent lundi. | The goods arrive on Monday.
+Resultatet kom [i dag]. | Le résultat est arrivé aujourd'hui. | The result came today.
+Kartet er gammelt. | La carte est ancienne. | The map is old.
+Han slo kneet. | Il s'est cogné le genou. | He hit his knee.
+Forslaget er godt. | La proposition est bonne. | The suggestion is good.
+Oi, det er sent! | Oh, il est tard ! | Oh, it's late!
+Det er forskjellige regler. | Il y a des règles différentes. | There are different rules.
+Kollegaen min er syk. | Mon collègue est malade. | My colleague is ill.
+Varm hendene ved peisen. | Réchauffe tes mains près de la cheminée. | Warm your hands by the fire.
+Broen er lang. | Le pont est long. | The bridge is long.
+Broen over elva er gammel. | Le pont sur la rivière est vieux. | The bridge over the river is old.
+Verken jeg eller hun vet svaret. | Ni moi ni elle ne connaissons la réponse. | Neither she nor I know the answer.
+Vi maler huset hvitt. | Nous peignons la maison en blanc. | We're painting the house white.
+Det var minus ti grader. | Il faisait moins dix. | It was minus ten degrees.
+Jeg sliter med å forstå. | J'ai du mal à comprendre. | I'm struggling to understand.
+Vil du ha en kopp? | Tu veux une tasse ? | Would you like a cup?
+Brannen var stor. | L'incendie était grand. | The fire was big.
+Jeg foretrekker te. | Je préfère le thé. | I prefer tea.
+Trykk på døra for å åpne. | Pousse la porte pour ouvrir. | Push the door to open.
+Gjett hvem som kom! | Devine qui est venu ! | Guess who came!
+De snakker samtidig. | Ils parlent en même temps. | They talk at the same time.
+Begravelsen var fin. | L'enterrement était beau. | The funeral was beautiful.
+Vinden er kald [i dag]. | Le vent est froid aujourd'hui. | The wind is cold today.
+Jeg håper du lykkes. | J'espère que tu réussiras. | I hope you succeed.
+Skjorta er hvit. | La chemise est blanche. | The shirt is white.
+Hagen er full av blomster. | Le jardin est plein de fleurs. | The garden is full of flowers.
+Vanligvis tar jeg bussen. | D'habitude, je prends le bus. | I usually take the bus.
+Jeg kjører sjelden bil. | Je conduis rarement. | I rarely drive.
+Tør du å spørre? | Tu oses demander ? | Do you dare ask?
+Vi koste oss på hytta. | On s'est bien amusés au chalet. | We had a great time at the cabin.
+Lokale folk er snille. | Les gens du coin sont gentils. | The locals are kind.
+Kontrakten er på to år. | Le contrat est de deux ans. | The contract is for two years.
+Hun er klok for alderen. | Elle est sage pour son âge. | She's wise for her age.
+Er do ledig? | Les WC sont libres ? | Is the loo free?
+Han flytta hit nylig. | Il a déménagé ici récemment. | He moved here recently.
+Jeg tåler ikke melk. | Je ne supporte pas le lait. | I can't tolerate milk.
+Vi slapper av på stranda. | Nous nous détendons à la plage. | We're relaxing at the beach.
+Hun har erfaring med barn. | Elle a de l'expérience avec les enfants. | She has experience with children.
+Det koster femti kroner per person. | Ça coûte cinquante couronnes par personne. | It costs fifty kroner per person.
+Språket er nytt for meg. | La langue est nouvelle pour moi. | The language is new to me.
+Jeg fryser om hendene. | J'ai froid aux mains. | My hands are cold.
+Kjør sakte her. | Roule lentement ici. | Drive slowly here.
+Hun har vært skilt i to år. | Elle est divorcée depuis deux ans. | She's been divorced for two years.
+Barna tegner blomster. | Les enfants dessinent des fleurs. | The children draw flowers.
+Regningen er betalt. | La facture est payée. | The bill is paid.
+Au, det var varmt! | Aïe, c'était chaud ! | Ouch, that was hot!
+Han klatrer opp trappa. | Il monte l'escalier. | He climbs the stairs.
+Hun har vondt i skulderen. | Elle a mal à l'épaule. | Her shoulder hurts.
+Jeg øver på norsk hver kveld. | Je travaille mon norvégien tous les soirs. | I practise Norwegian every evening.
+Venninna mi kommer [i kveld]. | Mon amie vient ce soir. | My friend is coming tonight.
+Butikken er åpen hver dag unntatt søndag. | Le magasin est ouvert tous les jours sauf le dimanche. | The shop is open every day except Sunday.
+Kan du oversette ordet? | Tu peux traduire le mot ? | Can you translate the word?
+Det koster cirka hundre kroner. | Ça coûte environ cent couronnes. | It costs about a hundred kroner.
+Han ble skuffet over resultatet. | Il a été déçu par le résultat. | He was disappointed with the result.
+Genseren er tynn. | Le pull est fin. | The sweater is thin.
+Legg brødet i en pose. | Mets le pain dans un sac. | Put the bread in a bag.
+Posen er full. | Le sac est plein. | The bag is full.
+Han var fattig som barn. | Il était pauvre enfant. | He was poor as a child.
+Vi passerte broen. | Nous avons passé le pont. | We crossed the bridge.
+Bussen passerer huset vårt. | Le bus passe devant notre maison. | The bus passes our house.
+Hvilket dyr liker du? | Quel animal aimes-tu ? | Which animal do you like?
+De reparerer bilen i garasjen. | Ils réparent la voiture au garage. | They're repairing the car in the garage.
+Eleven er flink. | L'élève est doué. | The pupil is capable.
+Kan du anbefale et hotell? | Tu peux recommander un hôtel ? | Can you recommend a hotel?
+Heisen går til femte etasje. | L'ascenseur va au cinquième étage. | The lift goes to the fifth floor.
+Ikke vær{være} frekk mot kundene. | Ne sois pas insolent avec les clients. | Don't be rude to the customers.
+Hun er sliten etter vakta. | Elle est épuisée après son service. | She's worn out after her shift.
+Vi må skynde oss. | Nous devons nous dépêcher. | We have to hurry.
+Vent innenfor døra. | Attends derrière la porte. | Wait inside the door.
+Hun har en rosa lue. | Elle a un bonnet rose. | She has a pink hat.
+Jeg kjeder meg på bussen. | Je m'ennuie dans le bus. | I get bored on the bus.
+Vi nådde fram før kvelden. | Nous sommes arrivés avant le soir. | We got there before evening.
+Han nådde toget. | Il a eu le train. | He caught the train.
+Heldigvis er det fredag. | Heureusement, on est vendredi. | Luckily it's Friday.
+Himmelen er full av skyer. | Le ciel est plein de nuages. | The sky is full of clouds.
+Jeg sender en e-post til sjefen. | J'envoie un e-mail au chef. | I'm sending an email to the boss.
+Kinoen er stengt [i dag]. | Le cinéma est fermé aujourd'hui. | The cinema is closed today.
+Jeg jobber nemlig i helgene. | C'est que je travaille les week-ends. | You see, I work weekends.
+Hun klipper håret mitt. | Elle me coupe les cheveux. | She cuts my hair.
+Tøm bøtta ute. | Vide le seau dehors. | Empty the bucket outside.
+Det var mye kos med familien. | C'était très agréable en famille. | It was very cosy with the family.
+Pølser med brød, takk. | Des saucisses avec du pain, merci. | Sausages with bread, please.
+Biblioteket har mange bøker på norsk. | La bibliothèque a beaucoup de livres en norvégien. | The library has many books in Norwegian.
+Har du kontanter eller kort? | Tu as du liquide ou une carte ? | Do you have cash or card?
+Bonden har hester og kyr. | L'agriculteur a des chevaux et des vaches. | The farmer has horses and cows.
+Hun bor ovenpå med barna. | Elle habite à l'étage avec les enfants. | She lives upstairs with the children.
+Datoen er feil. | La date est fausse. | The date is wrong.
+Håret hans er grått. | Ses cheveux sont gris. | His hair is grey.
+Barna trives på skolen. | Les enfants se plaisent à l'école. | The children like it at school.
+Prisene er rimelige her. | Les prix sont raisonnables ici. | The prices are reasonable here.
+Han gidder ikke å stå opp. | Il n'a pas envie de se lever. | He can't be bothered to get up.
+Ta vann istedenfor brus. | Prends de l'eau au lieu d'un soda. | Have water instead of a soft drink.
+Måltidet var godt. | Le repas était bon. | The meal was good.
+Du kan parkere bak huset. | Tu peux te garer derrière la maison. | You can park behind the house.
+Støvlene er for små. | Les bottes sont trop petites. | The boots are too small.
+Er du tørst? | Tu as soif ? | Are you thirsty?
+Det blir regn [i kveld]. | Il va pleuvoir ce soir. | It'll rain tonight.
+Han er svensk, men bor i Norge. | Il est suédois, mais habite en Norvège. | He's Swedish but lives in Norway.
+Hun jobber hjemmefra i dag. | Elle travaille de chez elle aujourd'hui. | She's working from home today.
+Frukt til dessert. | Des fruits en dessert. | Fruit for dessert.
+Det var en kort tur. | C'était une courte balade. | It was a short trip.
+Vi fyrer i ovnen. | Nous faisons du feu dans le poêle. | We light the stove.
+Han har feber og hodepine. | Il a de la fièvre et mal à la tête. | He has a fever and a headache.
+Hilsen fra oss alle. | Salutations de nous tous. | Greetings from all of us.
+Det er høflig å si takk. | C'est poli de dire merci. | It's polite to say thank you.
+Jeg er spent på [i morgen]. | J'ai hâte d'être à demain. | I'm excited about tomorrow.
+Utgangen er stengt. | La sortie est fermée. | The exit is closed.
+Pakken er stor. | Le colis est gros. | The parcel is big.
+Inngangen er bak huset. | L'entrée est derrière la maison. | The entrance is behind the house.
+PC-en virker ikke. | L'ordinateur ne marche pas. | The computer doesn't work.
+Det er temmelig langt. | C'est assez loin. | It's rather far.
+Jeg har hodepine hver dag. | J'ai mal à la tête tous les jours. | I have a headache every day.
+Vi sykler til skolen. | Nous allons à l'école à vélo. | We cycle to school.
+Lampa i stua er ny. | La lampe du salon est neuve. | The living room lamp is new.
+Bedriften er stor. | L'entreprise est grande. | The company is big.
+Hvordan uttaler du navnet ditt? | Comment prononces-tu ton nom ? | How do you pronounce your name?
+Hva er passordet til nettet? | Quel est le mot de passe du réseau ? | What's the network password?
+Hvilket yrke har du? | Quel métier fais-tu ? | What do you do for a living?
+To brus, takk. | Deux sodas, s'il vous plaît. | Two soft drinks, please.
+Sokkene er våte. | Les chaussettes sont mouillées. | The socks are wet.
+Hun er sjenert med nye folk. | Elle est timide avec les inconnus. | She's shy with new people.
+Innsjøen er kald. | Le lac est froid. | The lake is cold.
+Ta på deg lua! | Mets ton bonnet ! | Put on your hat!
+Tåka ligger over vannet. | Le brouillard est sur le lac. | The fog lies over the lake.
+En stor salat, takk. | Une grande salade, s'il vous plaît. | A large salad, please.
+Veien er bred her. | La route est large ici. | The road is wide here.
+Hvordan staver man det? | Comment ça s'écrit ? | How is it spelled?
+Han har en utenlandsk bil. | Il a une voiture étrangère. | He has a foreign car.
+Hobbyen min er å male. | Mon loisir, c'est la peinture. | My hobby is painting.
+Juice eller vann? | Du jus ou de l'eau ? | Juice or water?
+Er alle mette? | Tout le monde a assez mangé ? | Is everyone full?
+Legg nøkkelen oppå skapet. | Pose la clé sur l'armoire. | Put the key on top of the cupboard.
+Vi handler på senteret. | Nous faisons nos courses au centre commercial. | We shop at the shopping centre.
+Søknaden er sendt. | La candidature est envoyée. | The application has been sent.
+Gata er smal. | La rue est étroite. | The street is narrow.
+Barnehagen er ved skolen. | La crèche est près de l'école. | The kindergarten is by the school.
+Bananene er gule. | Les bananes sont jaunes. | The bananas are yellow.
+Vi spiser nedenunder. | Nous mangeons en bas. | We eat downstairs.
+Apoteket stenger klokka seks. | La pharmacie ferme à six heures. | The pharmacy closes at six.
+Fristen er på fredag. | La date limite est vendredi. | The deadline is on Friday.
+Vi fisker i bekken. | Nous pêchons dans le ruisseau. | We fish in the stream.
+Skjerfet er rødt. | L'écharpe est rouge. | The scarf is red.
+Laderen er borte. | Le chargeur a disparu. | The charger is gone.
+Gaffelen er skitten. | La fourchette est sale. | The fork is dirty.
+Utdanningen er gratis i Norge. | Les études sont gratuites en Norvège. | Education is free in Norway.
+Elgen er stor. | L'élan est grand. | The moose is big.
+Fridagen min er onsdag. | Mon jour de congé, c'est mercredi. | My day off is Wednesday.
+Vi trenger ro etter jobben. | Nous avons besoin de calme après le travail. | We need peace after work.

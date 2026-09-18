@@ -1,0 +1,179 @@
+# Mots grammaticaux : pronoms, déterminants, prépositions, conjonctions, particules
+# lemma | pos | fr | en | forms | flags
+@list core
+
+jeg | pron | je, moi | I, me | meg
+du | pron | tu, toi | you | deg
+han | pron | il, lui | he, him | ham
+hun | pron | elle | she, her | henne
+den | pron | il, elle, le, la (chose) ; ce, cette | it ; that, the
+det | pron | il, ce, ça ; le (neutre) | it, that ; the
+vi | pron | nous | we, us | oss
+dere | pron | vous (pluriel) | you (plural)
+de | pron | ils, elles ; les, ces | they ; those, the | dem
+seg | pron | se, soi | himself, herself, themselves
+man | pron | on | one, you (in general)
+selv | pron | même, soi-même | self, oneself
+hverandre | pron | l'un l'autre, les uns les autres | each other
+hvem | pron | qui ? | who
+hva | pron | quoi ? que ? | what
+hvilken | pron | quel, quelle | which | hvilket,hvilke
+noen | pron | quelqu'un, quelques ; des | someone, some, any | noe
+ingen | pron | personne, aucun | nobody, no | intet
+ingenting | pron | rien | nothing
+alt | pron | tout | everything
+som | pron | qui, que (relatif) ; comme | who, that, which ; as, like
+
+min | det | mon, ma, mes (s'accorde : min, mi, mitt, mine) | my, mine | mi,mitt,mine
+din | det | ton, ta, tes (s'accorde : din, di, ditt, dine) | your, yours | di,ditt,dine
+hans | det | son, sa (à lui) | his
+hennes | det | son, sa (à elle) | her, hers
+vår | det | notre, nos (s'accorde : vår, vårt, våre) | our | vårt,våre
+deres | det | votre ; leur | your (pl.) ; their
+sin | det | son, sa, ses à soi (s'accorde : sin, si, sitt, sine) | his/her/their own | si,sitt,sine
+en | det | un, une | a, an | ei,et,ene
+denne | det | ce, cette (-ci) | this | dette,disse
+hver | det | chaque | each, every | hvert
+all | det | tout, tous | all | alle
+begge | det | les deux | both
+mange | det | beaucoup de, nombreux | many | flere,flest
+annen | det | autre | other, another | anna,annet,andre
+slik | det | tel, comme ça | such, like that | slikt,slike
+sånn | det | comme ça, tel | like that, such | sånt,sånne
+samme | det | même (le même) | same
+egen | det | propre (à soi) | own | eget,egne
+
+i | prep | dans, en, à | in
+på | prep | sur, à | on, at
+til | prep | à, vers, pour | to, for, until
+med | prep | avec | with
+for | prep | pour ; car ; trop | for ; because ; too
+av | prep | de, par | of, by, off
+om | prep | de, sur ; si (whether) ; dans (temps) | about ; if, whether ; in (time)
+fra | prep | de, depuis | from
+etter | prep | après, derrière | after
+før | prep | avant | before
+over | prep | au-dessus de, plus de ; et (heure) | over, above ; past (time)
+under | prep | sous, pendant | under, during
+mot | prep | contre, vers | against, towards | imot
+uten | prep | sans | without
+ved | prep | près de, à côté de | by, at, next to
+hos | prep | chez | at (someone's place)
+gjennom | prep | à travers | through
+mellom | prep | entre | between
+bak | prep | derrière | behind
+foran | prep | devant | in front of
+rundt | prep | autour de ; environ | around
+utenfor | prep | dehors, à l'extérieur de | outside
+innenfor | prep | à l'intérieur de | inside, within
+forbi | prep | devant, au-delà ; passé | past, by
+blant | prep | parmi | among
+per | prep | par | per
+langs | prep | le long de | along
+siden | prep | depuis ; puisque | since ; ago
+
+og | konj | et | and
+men | konj | mais | but
+eller | konj | ou | or
+at | konj | que | that
+hvis | konj | si | if
+fordi | konj | parce que | because
+når | konj | quand | when
+da | konj | quand (passé) ; alors | when (past) ; then
+så | konj | alors, donc, si | so, then
+enn | konj | que (comparaison) | than
+mens | konj | pendant que | while
+både | konj | à la fois (both... and) | both
+enten | konj | soit (... soit) | either
+verken | konj | ni (... ni) | neither
+
+ikke | adv | ne... pas | not
+ja | int | oui | yes
+nei | int | non | no
+jo | adv | si (réponse) ; pourtant, bien | yes (contradicting) ; after all
+nå | adv | maintenant | now
+her | adv | ici | here
+der | adv | là | there
+hit | adv | ici (direction) | here (to)
+dit | adv | là (direction) | there (to)
+bare | adv | seulement, juste | only, just
+også | adv | aussi | also, too
+igjen | adv | encore, de nouveau ; il reste | again ; left
+alltid | adv | toujours | always
+aldri | adv | jamais | never
+ofte | adv | souvent | often
+kanskje | adv | peut-être | maybe
+veldig | adv | très | very
+litt | adv | un peu | a little
+mye | adv | beaucoup | much, a lot | mer,mest
+helt | adv | complètement, tout à fait | completely, quite
+ganske | adv | assez | quite, rather
+nok | adv | assez ; sans doute | enough ; probably
+allerede | adv | déjà | already
+ennå | adv | encore (pas) | yet, still
+fortsatt | adv | toujours, encore | still | fremdeles
+snart | adv | bientôt | soon
+straks | adv | tout de suite | immediately
+senere | adv | plus tard | later
+først | adv | d'abord | first
+sist | adv | en dernier, la dernière fois | last
+etterpå | adv | après, ensuite | afterwards
+nettopp | adv | à l'instant, justement | just (now), exactly
+akkurat | adv | exactement ; à l'instant | exactly ; just
+egentlig | adv | en fait, au fond | actually, really
+faktisk | adv | en fait, vraiment | actually, in fact
+virkelig | adv | vraiment | really
+sikkert | adv | sûrement | surely, probably
+selvfølgelig | adv | bien sûr | of course | selvsagt
+gjerne | adv | volontiers | gladly, willingly
+heller | adv | plutôt ; non plus | rather ; either (neither)
+vel | adv | bien ; n'est-ce pas | well ; I suppose
+visst | adv | paraît-il, apparemment | apparently
+lenge | adv | longtemps | long (time)
+langt | adv | loin | far
+hjemme | adv | à la maison | at home
+hjem | adv | à la maison (direction) | home (to)
+ute | adv | dehors | outside, out
+ut | adv | dehors (direction) | out
+inne | adv | dedans, à l'intérieur | inside, in
+inn | adv | dedans (direction) | in (to)
+oppe | adv | en haut ; debout | up, upstairs ; awake
+opp | adv | vers le haut | up
+nede | adv | en bas | down, downstairs
+ned | adv | vers le bas | down
+borte | adv | parti, absent ; là-bas | away, gone
+bort | adv | au loin (direction) | away
+sammen | adv | ensemble | together
+alene | adv | seul | alone
+tilbake | adv | de retour, en arrière | back
+fram | adv | en avant, jusqu'à | forward, forth | frem
+hvor | adv | où ; combien | where ; how
+hvordan | adv | comment | how
+hvorfor | adv | pourquoi | why
+ellers | adv | sinon ; à part ça | otherwise, else
+likevel | adv | quand même | anyway, still
+derfor | adv | c'est pourquoi | therefore, that's why
+altså | adv | donc, c'est-à-dire | so, that is
+omtrent | adv | environ | about, approximately
+nesten | adv | presque | almost
+plutselig | adv | soudain | suddenly
+vanligvis | adv | d'habitude | usually
+dessverre | adv | malheureusement | unfortunately
+heldigvis | adv | heureusement | fortunately
+kun | adv | seulement | only
+enda | adv | encore ; même | still ; even
+dessuten | adv | en plus | besides
+iallfall | adv | en tout cas | at least, anyway
+temmelig | adv | assez, plutôt | fairly
+fort | adv | vite | fast, quickly
+sakte | adv | lentement | slowly | saktere
+tidlig | adv | tôt | early
+sent | adv | tard | late
+
+hei | int | salut, bonjour | hi, hello
+takk | int | merci | thanks, thank you
+unnskyld | int | excuse(z)-moi, pardon | sorry, excuse me
+beklager | int | désolé | sorry
+ok | int | d'accord, OK | OK | okei
+hallo | int | allô, hé | hello
+jaså | int | ah bon ? | oh really?

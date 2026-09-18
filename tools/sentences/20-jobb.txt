@@ -1,0 +1,37 @@
+# Travail en général
+@theme jobb Work
+
+@level 300
+Jeg begynner på jobb klokka sju. | Je commence le travail à sept heures. | I start work at seven.
+Jeg jobber [i morgen]. | Je travaille demain. | I'm working tomorrow.
+Kan jeg få hjelp? | Est-ce que je peux avoir de l'aide ? | Can I get some help?
+Hva skal jeg gjøre nå? | Qu'est-ce que je dois faire maintenant ? | What should I do now?
+Jeg er ferdig her. | J'ai fini ici. | I'm done here.
+Hvor skal jeg legge dette? | Où est-ce que je dois poser ça ? | Where should I put this?
+Kan du vise meg hvordan? | Tu peux me montrer comment ? | Can you show me how?
+Beklager, jeg gjorde en feil. | Désolé, j'ai fait une erreur. | Sorry, I made a mistake.
+Det er ikke min feil. | Ce n'est pas ma faute. | It's not my fault.
+Jeg forstår, takk. | Je comprends, merci. | I understand, thanks.
+Kan du si det en gang til? | Tu peux le dire encore une fois ? | Can you say it one more time?
+Jeg jobba hele dagen [i går]. | J'ai travaillé toute la journée hier. | I worked all day yesterday.
+Hvem skal jeg snakke med? | À qui dois-je parler ? | Who should I talk to?
+Jeg trenger mer tid. | J'ai besoin de plus de temps. | I need more time.
+
+@level 600
+Jeg kommer litt sent [i dag]. | J'arrive un peu en retard aujourd'hui. | I'll be a bit late today.
+Sjefen min er grei. | Mon chef est sympa. | My boss is nice.
+Jeg har fri [i morgen]. | Je suis en congé demain. | I have the day off tomorrow.
+Når slutter du [i dag]? | Tu finis à quelle heure aujourd'hui ? | When do you finish today?
+Jeg slutter klokka fire. | Je finis à quatre heures. | I finish at four.
+Jeg lærer fort. | J'apprends vite. | I learn fast.
+Vi stenger klokka ti. | Nous fermons à dix heures. | We close at ten.
+Vakta mi begynner klokka tolv. | Mon service commence à midi. | My shift starts at twelve.
+Kan jeg bytte vakt med deg? | Je peux échanger mon service avec toi ? | Can I swap shifts with you?
+Jeg er syk og kan ikke komme på jobb. | Je suis malade et je ne peux pas venir travailler. | I'm ill and can't come to work.
+Hvor ligger kontoret? | Où est le bureau ? | Where is the office?
+
+@level 1000
+Jeg trenger en pause. | J'ai besoin d'une pause. | I need a break.
+Når får vi lønn? | Quand est-ce qu'on est payés ? | When do we get paid?
+Jeg har skrevet under kontrakten. | J'ai signé le contrat. | I have signed the contract.
+Kollegaene mine er hyggelige. | Mes collègues sont sympas. | My colleagues are nice.
