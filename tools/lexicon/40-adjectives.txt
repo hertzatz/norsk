@@ -1,0 +1,133 @@
+# Adjectifs : base, neutre, pluriel/défini, comparatif, superlatif
+@list core
+
+god | adj | bon | good | god,godt,gode,bedre,best
+bra | adj | bien, bon | good, fine | bra,bra,bra,bedre,best
+dårlig | adj | mauvais ; malade | bad ; ill | dårlig,dårlig,dårlige,verre/dårligere,verst/dårligst
+stor | adj | grand, gros | big, large | stor,stort,store,større,størst
+liten | adj | petit | small, little | liten/lita/lille,lite,små,mindre,minst
+ny | adj | nouveau, neuf | new | ny,nytt,nye,nyere,nyest
+gammel | adj | vieux | old | gammel,gammelt,gamle,eldre,eldst
+ung | adj | jeune | young | ung,ungt,unge,yngre,yngst
+lang | adj | long | long | lang,langt,lange,lengre,lengst
+kort | adj | court | short | | freq=korte,kortere,kortest
+høy | adj | haut, grand ; fort (son) | tall, high ; loud
+lav | adj | bas | low
+fin | adj | beau, joli, bien | nice, fine
+pen | adj | joli | pretty
+stygg | adj | laid | ugly | stygg,stygt,stygge
+glad | adj | content, heureux | happy, glad | glad,glad,glade
+lei | adj | lassé ; lei seg = triste | tired of ; sorry, sad | lei,lei,lei
+trist | adj | triste | sad | trist,trist,triste
+sint | adj | en colère | angry | sint,sint,sinte
+redd | adj | effrayé, qui a peur | afraid | redd,redd,redde
+sliten | adj | fatigué, épuisé | tired, worn out | sliten,slitent,slitne
+trøtt | adj | fatigué (sommeil) | tired, sleepy | trøtt,trøtt,trøtte
+syk | adj | malade | ill, sick
+frisk | adj | en bonne santé ; frais | healthy, well ; fresh
+sulten | adj | qui a faim | hungry | sulten,sultent,sultne
+tørst | adj | qui a soif | thirsty | tørst,tørst,tørste
+varm | adj | chaud | warm, hot
+kald | adj | froid | cold | kald,kaldt,kalde
+rolig | adj | calme | calm, quiet
+stille | adj | silencieux, calme | quiet, still | stille,stille,stille
+klar | adj | prêt ; clair | ready ; clear
+ferdig | adj | fini, prêt | finished, done
+full | adj | plein ; ivre | full ; drunk | full,fullt,fulle
+tom | adj | vide | empty | tom,tomt,tomme
+ren | adj | propre | clean
+skitten | adj | sale | dirty | skitten,skittent,skitne
+våt | adj | mouillé | wet | våt,vått,våte
+tørr | adj | sec | dry | tørr,tørt,tørre
+lett | adj | léger ; facile | light ; easy | lett,lett,lette
+tung | adj | lourd | heavy | tung,tungt,tunge,tyngre,tyngst
+vanskelig | adj | difficile | difficult
+enkel | adj | simple | simple, easy | enkel,enkelt,enkle
+rask | adj | rapide | fast, quick
+sen | adj | en retard, tardif | late | sen,sent,sene
+viktig | adj | important | important
+riktig | adj | juste, correct | right, correct
+sann | adj | vrai | true | sann,sant,sanne
+sikker | adj | sûr | sure, safe | sikker,sikkert,sikre
+mulig | adj | possible | possible
+umulig | adj | impossible | impossible
+farlig | adj | dangereux | dangerous
+trygg | adj | sûr, en sécurité | safe | trygg,trygt,trygge
+hyggelig | adj | agréable, sympa | nice, pleasant
+koselig | adj | agréable, chaleureux | cosy, nice
+snill | adj | gentil | kind | snill,snilt,snille
+grei | adj | sympa ; facile, OK | nice ; easy, fine | grei,greit,greie
+flink | adj | doué, bon (en) | clever, good at
+dum | adj | bête | stupid | dum,dumt,dumme
+morsom | adj | drôle, amusant | funny, fun | morsom,morsomt,morsomme
+kjedelig | adj | ennuyeux | boring
+interessant | adj | intéressant | interesting
+rar | adj | bizarre | strange, weird
+vanlig | adj | normal, habituel | normal, usual
+spesiell | adj | spécial | special | spesiell,spesielt,spesielle
+forskjellig | adj | différent | different
+lik | adj | pareil, semblable | alike, similar | | freq=likt
+fri | adj | libre ; en congé | free ; off (work) | fri,fritt,frie
+opptatt | adj | occupé | busy, occupied | opptatt,opptatt,opptatte
+ledig | adj | libre, disponible | free, available
+åpen | adj | ouvert | open | åpen,åpent,åpne
+stengt | adj | fermé | closed | stengt,stengt,stengte
+deilig | adj | délicieux ; agréable | delicious ; lovely
+søt | adj | sucré ; mignon | sweet ; cute | søt,søtt,søte
+sur | adj | acide, aigre ; grincheux | sour ; grumpy
+salt | adj | salé | salty | salt,salt,salte
+fersk | adj | frais | fresh | fersk,ferskt,ferske
+rød | adj | rouge | red | rød,rødt,røde
+blå | adj | bleu | blue | blå,blått,blå
+grønn | adj | vert | green | grønn,grønt,grønne
+gul | adj | jaune | yellow
+hvit | adj | blanc | white | hvit,hvitt,hvite
+svart | adj | noir | black | svart,svart,svarte
+grå | adj | gris | grey | grå,grått,grå
+brun | adj | marron | brown
+billig | adj | bon marché | cheap
+dyr | adj | cher | expensive | | freq=dyrt,dyre,dyrere
+rik | adj | riche | rich
+fattig | adj | pauvre | poor
+gratis | adj | gratuit | free (of charge) | gratis,gratis,gratis
+sterk | adj | fort | strong
+svak | adj | faible | weak
+nær | adj | proche | near, close | nær,nært,nære,nærmere,nærmest
+neste | adj | prochain, suivant | next | neste,neste,neste
+forrige | adj | précédent, dernier | last, previous | forrige,forrige,forrige
+siste | adj | dernier | last | siste,siste,siste
+første | adj | premier | first | første,første,første
+hel | adj | entier | whole | hel,helt,hele
+halv | adj | demi | half | halv,halvt,halve
+fornøyd | adj | satisfait | satisfied, pleased | fornøyd,fornøyd,fornøyde
+ærlig | adj | honnête | honest
+ekte | adj | vrai, authentique | real, genuine | ekte,ekte,ekte
+perfekt | adj | parfait | perfect | perfekt,perfekt,perfekte
+fantastisk | adj | fantastique | fantastic
+flott | adj | superbe, génial | great, splendid | flott,flott,flotte
+nydelig | adj | magnifique, délicieux | lovely, gorgeous
+vakker | adj | beau | beautiful | vakker,vakkert,vakre
+herlig | adj | merveilleux | lovely, wonderful
+enig | adj | d'accord | agreed, in agreement
+travel | adj | occupé, chargé | busy | travel,travelt,travle
+mett | adj | rassasié | full (after eating) | mett,mett,mette
+kjent | adj | connu | known, famous | kjent,kjent,kjente
+fremmed | adj | étranger, inconnu | foreign, strange | fremmed,fremmed,fremmede
+lys | adj | clair | light, bright | lys,lyst,lyse | freq=lyse,lyst
+mørk | adj | sombre, foncé | dark
+tykk | adj | épais, gros | thick, fat | tykk,tykt,tykke
+tynn | adj | mince, fin | thin | tynn,tynt,tynne
+myk | adj | doux, mou | soft
+hard | adj | dur | hard
+glatt | adj | glissant, lisse | slippery, smooth | glatt,glatt,glatte
+vond | adj | douloureux ; méchant | painful ; nasty | vond,vondt,vonde
+klok | adj | sage, intelligent | wise, clever
+smart | adj | malin | smart | smart,smart,smarte
+lat | adj | paresseux | lazy | lat,latt,late
+voksen | adj | adulte | adult, grown-up | voksen,voksent,voksne
+nervøs | adj | nerveux | nervous
+stolt | adj | fier | proud | stolt,stolt,stolte
+heldig | adj | chanceux | lucky
+lokal | adj | local | local
+privat | adj | privé | private | privat,privat,private
+alvorlig | adj | grave, sérieux | serious

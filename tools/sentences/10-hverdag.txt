@@ -1,0 +1,104 @@
+# norsk | français | english
+# *Nom = nom propre ; [expression] ; mot{id} = forcer le sens
+@theme hverdag Everyday life
+
+@level 300
+Hei! Jeg heter *Anna. | Salut ! Je m'appelle Anna. | Hi! My name is Anna.
+Hva heter du? | Comment tu t'appelles ? | What's your name?
+Jeg bor i *Rollag. | J'habite à Rollag. | I live in Rollag.
+Hvor bor du? | Où est-ce que tu habites ? | Where do you live?
+Hvordan går det med deg? | Comment ça va ? | How are you doing?
+Det går bra, takk. | Ça va bien, merci. | I'm fine, thanks.
+Jeg forstår ikke. | Je ne comprends pas. | I don't understand.
+Kan du si det igjen? | Tu peux le redire ? | Can you say that again?
+Jeg snakker bare litt norsk. | Je parle seulement un peu norvégien. | I only speak a little Norwegian.
+Jeg kommer fra Frankrike. | Je viens de France. | I come from France.
+Jeg har bodd her i ett{en_num} år. | J'habite ici depuis un an. | I have lived here for a year.
+Har du tid nå? | Tu as le temps maintenant ? | Do you have time now?
+Nei, ikke nå. | Non, pas maintenant. | No, not now.
+[Vi ses] [i morgen]! | À demain ! | See you tomorrow!
+[Ha det bra]! | Au revoir, bonne journée ! | Goodbye, take care!
+Takk for hjelpen! | Merci pour l'aide ! | Thanks for the help!
+Jeg vet ikke. | Je ne sais pas. | I don't know.
+Jeg tror det. | Je crois. | I think so.
+Det er greit. | C'est d'accord. | That's fine.
+Det er ikke noe problem. | Ce n'est pas un problème. | It's no problem.
+Jeg må gå nå. | Je dois y aller maintenant. | I have to go now.
+Jeg skal hjem. | Je rentre à la maison. | I'm going home.
+Kommer du [i kveld]? | Tu viens ce soir ? | Are you coming tonight?
+Jeg har ikke tid [i dag]. | Je n'ai pas le temps aujourd'hui. | I don't have time today.
+Hva skal du gjøre [i morgen]? | Qu'est-ce que tu vas faire demain ? | What are you going to do tomorrow?
+Hun er veldig snill. | Elle est très gentille. | She is very kind.
+Han er en god venn. | C'est un bon ami. | He is a good friend.
+Vi har to barn. | Nous avons deux enfants. | We have two children.
+Sønnen min heter *Leo. | Mon fils s'appelle Leo. | My son is called Leo.
+Mora mi bor i Frankrike. | Ma mère habite en France. | My mother lives in France.
+Familien min kommer snart. | Ma famille arrive bientôt. | My family is coming soon.
+Vi må kjøpe en ny bil. | Nous devons acheter une nouvelle voiture. | We have to buy a new car.
+Bilen er gammel, men den går fint. | La voiture est vieille, mais elle roule bien. | The car is old, but it runs fine.
+Jeg liker å bo her. | J'aime habiter ici. | I like living here.
+Det er fint her. | C'est beau ici. | It's nice here.
+Er du klar? | Tu es prêt ? | Are you ready?
+Vent litt! | Attends un peu ! | Wait a moment!
+Jeg husker ikke navnet hans. | Je ne me souviens pas de son nom. | I don't remember his name.
+Kan du hjelpe meg? | Tu peux m'aider ? | Can you help me?
+Jeg trenger hjelp. | J'ai besoin d'aide. | I need help.
+Hva betyr det ordet? | Que veut dire ce mot ? | What does that word mean?
+Hva er klokka? | Quelle heure est-il ? | What time is it?
+Klokka er halv{halv_num} tre{tre_num}. | Il est deux heures et demie. | It's half past two.
+Jeg står opp klokka seks. | Je me lève à six heures. | I get up at six o'clock.
+Jeg sover dårlig. | Je dors mal. | I sleep badly.
+Hun ringte meg [i går]. | Elle m'a appelé hier. | She called me yesterday.
+Jeg ringer deg [i kveld]. | Je t'appelle ce soir. | I'll call you tonight.
+Det var en fin dag. | C'était une belle journée. | It was a nice day.
+[God natt]! | Bonne nuit ! | Good night!
+Jeg har ikke penger. | Je n'ai pas d'argent. | I don't have any money.
+Det tar ti minutter. | Ça prend dix minutes. | It takes ten minutes.
+Jeg kan ikke komme [i dag]. | Je ne peux pas venir aujourd'hui. | I can't come today.
+*Rollag ligger i *Numedal. | Rollag se trouve dans le Numedal. | Rollag is in Numedal.
+*Kongsberg er en stor by. | Kongsberg est une grande ville. | Kongsberg is a big town.
+Vi drar til *Kongsberg på lørdag. | On va à Kongsberg samedi. | We're going to Kongsberg on Saturday.
+Jeg er glad i deg. | Je t'aime bien, je tiens à toi. | I'm fond of you.
+Hvem er det? | Qui est-ce ? | Who is that?
+Hvorfor det? | Pourquoi ça ? | Why is that?
+Jeg vet ikke hvor han er. | Je ne sais pas où il est. | I don't know where he is.
+Barna sover. | Les enfants dorment. | The children are sleeping.
+
+@level 600
+Døra er åpen. | La porte est ouverte. | The door is open.
+Jeg fant ikke nøkkelen. | Je n'ai pas trouvé la clé. | I didn't find the key.
+Jenta mi går på skolen. | Ma fille va à l'école. | My girl goes to school.
+Jeg savner familien min. | Ma famille me manque. | I miss my family.
+Hvor mye koster det? | Combien ça coûte ? | How much does it cost?
+Jeg er syk [i dag]. | Je suis malade aujourd'hui. | I'm ill today.
+Jeg skal ringe deg senere. | Je t'appellerai plus tard. | I'll call you later.
+Vil du ha kaffe? | Tu veux du café ? | Would you like some coffee?
+Jeg drikker mye vann. | Je bois beaucoup d'eau. | I drink a lot of water.
+Maten er klar! | Le repas est prêt ! | The food is ready!
+Vi spiser middag klokka fem. | Nous dînons à cinq heures. | We have dinner at five.
+Det er kaldt ute [i dag]. | Il fait froid dehors aujourd'hui. | It's cold outside today.
+Hun leser en bok. | Elle lit un livre. | She is reading a book.
+Jeg har ikke lest den boka. | Je n'ai pas lu ce livre. | I haven't read that book.
+Huset vårt er ikke stort. | Notre maison n'est pas grande. | Our house isn't big.
+Jeg er hjemme hele dagen. | Je suis à la maison toute la journée. | I'm at home all day.
+Telefonen min er borte. | Mon téléphone a disparu. | My phone is gone.
+Skolen begynner klokka åtte. | L'école commence à huit heures. | School starts at eight.
+Det er vanskelig å lære norsk. | C'est difficile d'apprendre le norvégien. | It's difficult to learn Norwegian.
+Jeg snakka med sjefen [i går]. | J'ai parlé avec le chef hier. | I talked with the boss yesterday.
+Hun er lege på sykehuset. | Elle est médecin à l'hôpital. | She is a doctor at the hospital.
+Vi flytta hit [i fjor]. | Nous avons déménagé ici l'an dernier. | We moved here last year.
+Jeg har vondt i hodet. | J'ai mal à la tête. | I have a headache.
+Det var hyggelig å møte deg. | C'était sympa de te rencontrer. | It was nice to meet you.
+
+@level 1000
+Kan du lukke døra? | Tu peux fermer la porte ? | Can you close the door?
+Vil du ha en kopp kaffe? | Tu veux une tasse de café ? | Would you like a cup of coffee?
+Jeg snakka med naboen [i går]. | J'ai parlé avec le voisin hier. | I talked with the neighbour yesterday.
+Jeg må handle mat på butikken. | Je dois faire les courses au magasin. | I have to buy food at the shop.
+Bussen kommer om fem minutter. | Le bus arrive dans cinq minutes. | The bus is coming in five minutes.
+Vi går på tur i skogen. | Nous allons nous promener dans la forêt. | We're going for a walk in the forest.
+Det snør mye om vinteren her. | Il neige beaucoup en hiver ici. | It snows a lot here in winter.
+Veien er glatt [i dag]. | La route est glissante aujourd'hui. | The road is slippery today.
+Hytta ligger ved sjøen. | Le chalet est au bord du lac. | The cabin is by the lake.
+Kan du kjøpe melk og brød? | Tu peux acheter du lait et du pain ? | Can you buy milk and bread?
+Jeg liker å gå på ski. | J'aime faire du ski. | I like skiing.

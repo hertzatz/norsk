@@ -1,0 +1,147 @@
+# Niveau 1000 : nettoyage, maison, linge
+@level 1000
+
+@theme rengjoring Cleaning
+Jeg jobber med renhold på et hotell. | Je fais le ménage dans un hôtel. | I work as a cleaner in a hotel.
+Rengjøringen tar to timer. | Le nettoyage prend deux heures. | The cleaning takes two hours.
+Vi begynner med rengjøringen klokka sju. | Nous commençons le nettoyage à sept heures. | We start the cleaning at seven.
+Ta en bøtte med vann og såpe. | Prends un seau avec de l'eau et du savon. | Take a bucket with water and soap.
+Bøtta står i skapet. | Le seau est dans le placard. | The bucket is in the cupboard.
+Mopp gulvet på kjøkkenet. | Passe la serpillière dans la cuisine. | Mop the kitchen floor.
+Moppen er våt. | La serpillière est mouillée. | The mop is wet.
+Tørk av bordet med en klut. | Essuie la table avec un chiffon. | Wipe the table with a cloth.
+Kluten er skitten. Ta en ny. | Le chiffon est sale. Prends-en un nouveau. | The cloth is dirty. Take a new one.
+Bruk svampen på vasken. | Utilise l'éponge sur l'évier. | Use the sponge on the sink.
+Vasken på badet er skitten. | Le lavabo de la salle de bains est sale. | The bathroom sink is dirty.
+Kosten står bak døra. | Le balai est derrière la porte. | The broom is behind the door.
+Kan du ta kosten og feie trappa? | Tu peux prendre le balai et balayer l'escalier ? | Can you take the broom and sweep the stairs?
+Støvsug gulvet i stua. | Passe l'aspirateur dans le salon. | Vacuum the living room floor.
+Støvsugeren er i kjelleren. | L'aspirateur est à la cave. | The vacuum cleaner is in the basement.
+Jeg har støvsuget alle rommene. | J'ai passé l'aspirateur dans toutes les chambres. | I've vacuumed all the rooms.
+Det er mye støv under senga. | Il y a beaucoup de poussière sous le lit. | There's a lot of dust under the bed.
+Tørk støv på hyllene. | Enlève la poussière des étagères. | Dust the shelves.
+Bruk hansker når du vasker toalettet. | Mets des gants pour laver les toilettes. | Wear gloves when you clean the toilet.
+Hanskene ligger i bøtta. | Les gants sont dans le seau. | The gloves are in the bucket.
+Hvor er vaskemiddelet? | Où est le produit de nettoyage ? | Where's the detergent?
+Ikke bruk for mye vaskemiddel. | N'utilise pas trop de produit. | Don't use too much detergent.
+Du må skrubbe dusjen. | Tu dois frotter la douche. | You have to scrub the shower.
+Skrubb flekken med svampen. | Frotte la tache avec l'éponge. | Scrub the stain with the sponge.
+Det er en flekk på teppet. | Il y a une tache sur le tapis. | There's a stain on the carpet.
+Flekken går ikke bort. | La tache ne part pas. | The stain won't come out.
+Speilet er skittent. | Le miroir est sale. | The mirror is dirty.
+Vask speilet og vinduet. | Lave le miroir et la fenêtre. | Clean the mirror and the window.
+Kranen virker ikke. | Le robinet ne marche pas. | The tap doesn't work.
+Skru av kranen! | Ferme le robinet ! | Turn off the tap!
+Skru på lyset i gangen. | Allume la lumière dans le couloir. | Turn on the light in the hallway.
+Tøm søppelet på alle rommene. | Vide les poubelles de toutes les chambres. | Empty the bins in all the rooms.
+Legg en ny søppelsekk i bøtta. | Mets un nouveau sac poubelle dans la poubelle. | Put a new bin bag in the bin.
+Søppelsekkene står i garasjen. | Les sacs poubelle sont dans le garage. | The bin bags are in the garage.
+Vi sorterer avfallet. | Nous trions les déchets. | We sort the waste.
+Papp og plast skal sorteres. | Le carton et le plastique doivent être triés. | Cardboard and plastic must be sorted.
+Legg plasten i den gule sekken. | Mets le plastique dans le sac jaune. | Put the plastic in the yellow bag.
+Pappen går i den blå dunken. | Le carton va dans la poubelle bleue. | The cardboard goes in the blue bin.
+Det lukter vondt her. | Ça sent mauvais ici. | It smells bad here.
+Lukta kommer fra kjøleskapet. | L'odeur vient du réfrigérateur. | The smell is coming from the fridge.
+Åpne vinduet, det er en rar lukt. | Ouvre la fenêtre, il y a une odeur bizarre. | Open the window, there's a strange smell.
+Skift lakenet på alle sengene. | Change les draps de tous les lits. | Change the sheets on all the beds.
+Rene laken ligger i skapet. | Les draps propres sont dans le placard. | Clean sheets are in the cupboard.
+Skitne håndklær går i vaskemaskinen. | Les serviettes sales vont dans le lave-linge. | Dirty towels go in the washing machine.
+Vaskemaskinen er full. | Le lave-linge est plein. | The washing machine is full.
+Sett på vaskemaskinen, takk. | Lance le lave-linge, s'il te plaît. | Put the washing machine on, please.
+Legg håndklærne i tørketrommelen. | Mets les serviettes dans le sèche-linge. | Put the towels in the tumble dryer.
+Tørketrommelen er ferdig. | Le sèche-linge a fini. | The dryer is done.
+Klesvasken tar lang tid. | La lessive prend du temps. | The laundry takes a long time.
+Vi har mye klesvask [i dag]. | Nous avons beaucoup de lessive aujourd'hui. | We have a lot of laundry today.
+Dyna og puta må byttes. | La couette et l'oreiller doivent être changés. | The duvet and pillow need changing.
+Rist dyna ute. | Secoue la couette dehors. | Shake the duvet outside.
+Legg ei ny pute på senga. | Mets un nouvel oreiller sur le lit. | Put a new pillow on the bed.
+Sengetøyet er rent. | Le linge de lit est propre. | The bedding is clean.
+Vi mangler toalettpapir på rom fire. | Il manque du papier toilette dans la chambre quatre. | We're out of toilet paper in room four.
+Sett toalettpapir på alle badene. | Mets du papier toilette dans toutes les salles de bains. | Put toilet paper in all the bathrooms.
+Hvor mange rom har du igjen? | Combien de chambres te reste-t-il ? | How many rooms do you have left?
+Rom tolv er ledig. | La chambre douze est libre. | Room twelve is free.
+Gjesten er ikke ute av rommet ennå. | Le client n'a pas encore quitté la chambre. | The guest hasn't left the room yet.
+Bank på døra før du går inn. | Frappe à la porte avant d'entrer. | Knock on the door before you go in.
+Spør i resepsjonen. | Demande à la réception. | Ask at reception.
+Resepsjonen er åpen hele natta. | La réception est ouverte toute la nuit. | Reception is open all night.
+Nøklene ligger i resepsjonen. | Les clés sont à la réception. | The keys are at reception.
+Vi må desinfisere toalettene. | Nous devons désinfecter les toilettes. | We have to disinfect the toilets.
+Desinfiser håndtakene. | Désinfecte les poignées. | Disinfect the handles.
+Soverommet er ryddig. | La chambre est rangée. | The bedroom is tidy.
+Rydd soverommet før gjestene kommer. | Range la chambre avant l'arrivée des clients. | Tidy the bedroom before the guests arrive.
+Tørk av bordene etter lunsj. | Essuie les tables après le déjeuner. | Wipe the tables after lunch.
+Gulvet er tørt nå. | Le sol est sec maintenant. | The floor is dry now.
+Vent til gulvet er tørt. | Attends que le sol soit sec. | Wait until the floor is dry.
+Gulvet er glatt når det er vått. | Le sol est glissant quand il est mouillé. | The floor is slippery when it's wet.
+Trappa er glatt, pass på! | L'escalier est glissant, attention ! | The stairs are slippery, careful!
+Vask trappa ned til kjelleren. | Lave l'escalier jusqu'à la cave. | Wash the stairs down to the basement.
+Heisen virker ikke. | L'ascenseur ne marche pas. | The lift doesn't work.
+Ta heisen til tredje etasje. | Prends l'ascenseur jusqu'au troisième étage. | Take the lift to the third floor.
+Vask inngangen hver morgen. | Lave l'entrée tous les matins. | Clean the entrance every morning.
+Utgangen er til venstre. | La sortie est à gauche. | The exit is on the left.
+Teppet i gangen er skittent. | Le tapis du couloir est sale. | The hallway carpet is dirty.
+Legg teppet tilbake. | Remets le tapis. | Put the carpet back.
+Lampa på bordet virker ikke. | La lampe sur la table ne marche pas. | The lamp on the table doesn't work.
+Skift lyspæra i lampa. | Change l'ampoule de la lampe. | Change the bulb in the lamp.
+Sofaen i stua er ny. | Le canapé du salon est neuf. | The sofa in the living room is new.
+Støvsug sofaen også. | Passe aussi l'aspirateur sur le canapé. | Vacuum the sofa too.
+Hylla er full av bøker. | L'étagère est pleine de livres. | The shelf is full of books.
+Sett boka tilbake i hylla. | Remets le livre sur l'étagère. | Put the book back on the shelf.
+Knivene ligger i skuffen. | Les couteaux sont dans le tiroir. | The knives are in the drawer.
+Åpne skuffen til venstre. | Ouvre le tiroir de gauche. | Open the drawer on the left.
+Legg tingene i ei eske. | Mets les affaires dans une boîte. | Put the things in a box.
+Eskene står i garasjen. | Les cartons sont dans le garage. | The boxes are in the garage.
+Kjelleren er kald og mørk. | La cave est froide et sombre. | The basement is cold and dark.
+Vi har en stor kjeller. | Nous avons une grande cave. | We have a big basement.
+Garasjen er full av ting. | Le garage est plein de choses. | The garage is full of stuff.
+Bilen står i garasjen. | La voiture est au garage. | The car is in the garage.
+Stua er stor og lys. | Le salon est grand et clair. | The living room is big and bright.
+Vi sitter i stua om kvelden. | Nous sommes au salon le soir. | We sit in the living room in the evening.
+Badet er i andre etasje. | La salle de bains est au deuxième étage. | The bathroom is on the second floor.
+Dusjen er kald. | La douche est froide. | The shower is cold.
+Jeg tar en dusj etter jobb. | Je prends une douche après le travail. | I take a shower after work.
+Hvor er håndkleet mitt? | Où est ma serviette ? | Where's my towel?
+Toalettet er opptatt. | Les toilettes sont occupées. | The toilet is occupied.
+Hvor er do? | Où sont les WC ? | Where's the loo?
+Jeg må på do. | Je dois aller aux toilettes. | I need the loo.
+Vinduet på soverommet er åpent. | La fenêtre de la chambre est ouverte. | The bedroom window is open.
+Vi har tre soverom. | Nous avons trois chambres. | We have three bedrooms.
+Det er et speil på veggen. | Il y a un miroir au mur. | There's a mirror on the wall.
+Veggene er hvite. | Les murs sont blancs. | The walls are white.
+Vi maler veggene [i helga]. | On peint les murs ce week-end. | We're painting the walls this weekend.
+Hun malte huset rødt. | Elle a peint la maison en rouge. | She painted the house red.
+Kjøleskapet må vaskes. | Le réfrigérateur doit être nettoyé. | The fridge needs cleaning.
+Oppvasken står i vasken. | La vaisselle est dans l'évier. | The washing-up is in the sink.
+Hvem tar oppvasken [i dag]? | Qui fait la vaisselle aujourd'hui ? | Who's doing the washing-up today?
+Sett tallerkenene i oppvaskmaskinen. | Mets les assiettes dans le lave-vaisselle. | Put the plates in the dishwasher.
+Oppvaskmaskinen er ferdig. | Le lave-vaisselle a fini. | The dishwasher is done.
+Tøm oppvaskmaskinen, takk. | Vide le lave-vaisselle, s'il te plaît. | Empty the dishwasher, please.
+Tallerkenene er rene. | Les assiettes sont propres. | The plates are clean.
+Glassene er tørre. | Les verres sont secs. | The glasses are dry.
+Tørk av glassene med et håndkle. | Essuie les verres avec un torchon. | Dry the glasses with a towel.
+Såpa er borte. | Il n'y a plus de savon. | The soap has run out.
+Kjøp mer såpe. | Achète plus de savon. | Buy more soap.
+Vi har rydda hele huset. | Nous avons rangé toute la maison. | We've tidied the whole house.
+Hytta må vaskes før gjestene kommer. | Le chalet doit être nettoyé avant l'arrivée des hôtes. | The cabin must be cleaned before the guests arrive.
+Vi vasker hytta hver lørdag. | Nous nettoyons le chalet tous les samedis. | We clean the cabin every Saturday.
+Ta av deg skoene i gangen. | Enlève tes chaussures dans l'entrée. | Take off your shoes in the hall.
+Støvlene står ved døra. | Les bottes sont à la porte. | The boots are by the door.
+Støvlene er våte av snø. | Les bottes sont mouillées de neige. | The boots are wet from the snow.
+Garderoben er i kjelleren. | Le vestiaire est à la cave. | The cloakroom is in the basement.
+Jeg har lagt klærne på stolen. | J'ai posé les vêtements sur la chaise. | I've put the clothes on the chair.
+Genseren er i vaskemaskinen. | Le pull est dans le lave-linge. | The sweater is in the washing machine.
+Buksa er skitten. | Le pantalon est sale. | The trousers are dirty.
+Skjorta må vaskes. | La chemise doit être lavée. | The shirt needs washing.
+Kjolen er ny. | La robe est neuve. | The dress is new.
+Sokkene ligger i skuffen. | Les chaussettes sont dans le tiroir. | The socks are in the drawer.
+Jeg finner bare en sokk! | Je ne trouve qu'une chaussette ! | I can only find one sock!
+Jakka henger i gangen. | La veste est accrochée dans l'entrée. | The jacket is hanging in the hall.
+Ta på deg lue og skjerf. | Mets ton bonnet et ton écharpe. | Put on your hat and scarf.
+Lua er for liten. | Le bonnet est trop petit. | The hat is too small.
+Skjerfet er varmt. | L'écharpe est chaude. | The scarf is warm.
+Barna trenger votter. | Les enfants ont besoin de moufles. | The children need mittens.
+Vottene er våte. | Les moufles sont mouillées. | The mittens are wet.
+Hun har en ny veske. | Elle a un nouveau sac. | She has a new bag.
+Veska er tung. | Le sac est lourd. | The bag is heavy.
+Sekken min er full. | Mon sac à dos est plein. | My backpack is full.
+Pakk sekken før turen. | Prépare ton sac avant la balade. | Pack your backpack before the trip.

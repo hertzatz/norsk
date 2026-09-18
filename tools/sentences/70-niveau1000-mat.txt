@@ -1,0 +1,150 @@
+# Niveau 1000 : restauration, cuisine, nourriture
+@level 1000
+
+@theme restaurant Restaurant
+Vi serverer frokost fra klokka sju. | Nous servons le petit-déjeuner à partir de sept heures. | We serve breakfast from seven o'clock.
+Frokost er det viktigste måltidet. | Le petit-déjeuner est le repas le plus important. | Breakfast is the most important meal.
+Hva spiser du til frokost? | Qu'est-ce que tu manges au petit-déjeuner ? | What do you eat for breakfast?
+Jeg spiser brød med ost til frokost. | Je mange du pain avec du fromage au petit-déjeuner. | I eat bread with cheese for breakfast.
+Til frokost har vi egg, brød og kaffe. | Au petit-déjeuner, nous avons des œufs, du pain et du café. | For breakfast we have eggs, bread and coffee.
+Når spiser vi lunsj? | On déjeune quand ? | When do we have lunch?
+Lunsjen er klar klokka tolv. | Le déjeuner est prêt à midi. | Lunch is ready at twelve.
+Jeg har med matpakke til lunsj. | J'apporte mon casse-croûte pour le déjeuner. | I bring a packed lunch.
+Vi har pause og spiser lunsj. | On fait une pause et on déjeune. | We take a break and have lunch.
+Kokken lager suppe til lunsj. | Le cuisinier prépare une soupe pour le déjeuner. | The cook is making soup for lunch.
+Suppa er varm og god. | La soupe est chaude et bonne. | The soup is hot and good.
+Vil du ha mer suppe? | Tu veux encore de la soupe ? | Would you like more soup?
+Kan du smake på sausen? | Tu peux goûter la sauce ? | Can you taste the sauce?
+Sausen trenger mer salt. | La sauce a besoin de plus de sel. | The sauce needs more salt.
+Den har en god smak. | Elle a bon goût. | It has a good taste.
+Smaken er litt sur. | Le goût est un peu acide. | The taste is a bit sour.
+Salaten er fersk. | La salade est fraîche. | The salad is fresh.
+Vi lager salat med tomat og løk. | Nous faisons une salade avec de la tomate et de l'oignon. | We're making a salad with tomato and onion.
+Skjær løken i små biter. | Coupe l'oignon en petits morceaux. | Cut the onion into small pieces.
+Kniven er skarp, pass på! | Le couteau est tranchant, attention ! | The knife is sharp, careful!
+Hun skar brødet med en kniv. | Elle a coupé le pain avec un couteau. | She cut the bread with a knife.
+Kutt tomatene i to. | Coupe les tomates en deux. | Cut the tomatoes in half.
+Poteter og fisk er vanlig mat i Norge. | Les pommes de terre et le poisson sont un plat courant en Norvège. | Potatoes and fish are common food in Norway.
+Kok potetene i tjue minutter. | Fais cuire les pommes de terre vingt minutes. | Boil the potatoes for twenty minutes.
+Vannet koker. | L'eau bout. | The water is boiling.
+Stek kjøttet i fem minutter. | Fais cuire la viande cinq minutes. | Fry the meat for five minutes.
+Kyllingen steker i ovnen. | Le poulet cuit au four. | The chicken is roasting in the oven.
+Sett kyllingen i ovnen. | Mets le poulet au four. | Put the chicken in the oven.
+Ovnen er varm. | Le four est chaud. | The oven is hot.
+Vi baker brød hver morgen. | Nous faisons du pain tous les matins. | We bake bread every morning.
+Hun baker boller og kake. | Elle fait des brioches et un gâteau. | She's baking buns and a cake.
+Bollene er ferske. | Les brioches sont fraîches. | The buns are fresh.
+Vil du ha en bolle til kaffen? | Tu veux une brioche avec ton café ? | Would you like a bun with your coffee?
+Laksen er fersk [i dag]. | Le saumon est frais aujourd'hui. | The salmon is fresh today.
+Vi serverer laks med poteter. | Nous servons du saumon avec des pommes de terre. | We serve salmon with potatoes.
+Pølser med brød er billig mat. | Des saucisses avec du pain, c'est un repas bon marché. | Sausages with bread are cheap food.
+Barna vil ha pølser. | Les enfants veulent des saucisses. | The children want sausages.
+Kjøttet er for rått. | La viande est trop crue. | The meat is too raw.
+Fisken er rå. Den må steke mer. | Le poisson est cru. Il doit cuire plus. | The fish is raw. It needs to cook more.
+Pizzaen er klar! | La pizza est prête ! | The pizza is ready!
+Vi bestiller pizza [i kveld]. | On commande une pizza ce soir. | We're ordering pizza tonight.
+Risen er ferdig. | Le riz est prêt. | The rice is done.
+Vil du ha ris eller poteter? | Tu veux du riz ou des pommes de terre ? | Do you want rice or potatoes?
+Grønnsaker er sunne for kroppen. | Les légumes sont bons pour le corps. | Vegetables are good for the body.
+Spis grønnsakene dine! | Mange tes légumes ! | Eat your vegetables!
+Vi trenger mer grønnsaker. | Il nous faut plus de légumes. | We need more vegetables.
+Frukt er godt for helsa. | Les fruits sont bons pour la santé. | Fruit is good for your health.
+Jeg spiser et eple hver dag. | Je mange une pomme chaque jour. | I eat an apple every day.
+Eplet er rødt og søtt. | La pomme est rouge et sucrée. | The apple is red and sweet.
+Bananen er gul. | La banane est jaune. | The banana is yellow.
+Barna liker banan og eple. | Les enfants aiment la banane et la pomme. | The children like bananas and apples.
+Vi plukker bær i skogen. | Nous cueillons des baies dans la forêt. | We pick berries in the forest.
+Det er mange bær i år. | Il y a beaucoup de baies cette année. | There are lots of berries this year.
+Kan du plukke noen tomater? | Tu peux cueillir quelques tomates ? | Can you pick some tomatoes?
+Et glass juice, takk. | Un verre de jus, s'il vous plaît. | A glass of juice, please.
+Barna drikker juice til frokost. | Les enfants boivent du jus au petit-déjeuner. | The children drink juice at breakfast.
+Vil du ha brus eller vann? | Tu veux un soda ou de l'eau ? | Do you want a soft drink or water?
+Brusen er kald. | Le soda est froid. | The soft drink is cold.
+Vil du ha te eller kaffe? | Tu veux du thé ou du café ? | Would you like tea or coffee?
+Jeg drikker te med sukker. | Je bois du thé avec du sucre. | I drink tea with sugar.
+Kaffe med melk og sukker, takk. | Un café avec du lait et du sucre, merci. | Coffee with milk and sugar, please.
+Et glass vin, takk. | Un verre de vin, s'il vous plaît. | A glass of wine, please.
+Rød eller hvit vin? | Du vin rouge ou blanc ? | Red or white wine?
+Vinen er fra Frankrike. | Le vin vient de France. | The wine is from France.
+Flaska er tom. Hent en ny. | La bouteille est vide. Va en chercher une autre. | The bottle is empty. Get a new one.
+Åpne en flaske vann. | Ouvre une bouteille d'eau. | Open a bottle of water.
+Sett flaskene i kjøleskapet. | Mets les bouteilles au réfrigérateur. | Put the bottles in the fridge.
+Osten ligger i kjøleskapet. | Le fromage est dans le réfrigérateur. | The cheese is in the fridge.
+Smøret er i kjøleskapet. | Le beurre est dans le réfrigérateur. | The butter is in the fridge.
+Vi har ikke mer melk. | Nous n'avons plus de lait. | We're out of milk.
+Melka er sur. | Le lait a tourné. | The milk has gone sour.
+Egget er kokt. | L'œuf est cuit. | The egg is boiled.
+Jeg vil ha to egg. | Je veux deux œufs. | I want two eggs.
+Stek eggene i smør. | Fais cuire les œufs au beurre. | Fry the eggs in butter.
+Brødet er ferskt. | Le pain est frais. | The bread is fresh.
+Kjøp et brød på vei hjem. | Achète un pain en rentrant. | Buy a loaf on the way home.
+Hva vil du ha på brødet? | Qu'est-ce que tu veux sur ton pain ? | What do you want on your bread?
+Vi har ost, skinke og annet pålegg. | Nous avons du fromage, du jambon et d'autres garnitures. | We have cheese, ham and other toppings.
+Pålegget står på bordet. | Les garnitures sont sur la table. | The toppings are on the table.
+Et stykke sjokolade, takk! | Un morceau de chocolat, merci ! | A piece of chocolate, please!
+Barna elsker sjokolade. | Les enfants adorent le chocolat. | Children love chocolate.
+Kaka er med sjokolade. | Le gâteau est au chocolat. | The cake is chocolate.
+Vil du ha is til dessert? | Tu veux une glace en dessert ? | Would you like ice cream for dessert?
+Vi lager vafler på søndag. | On fait des gaufres le dimanche. | We make waffles on Sunday.
+Vaflene er deilige. | Les gaufres sont délicieuses. | The waffles are delicious.
+Grøt er god mat om vinteren. | La bouillie est un bon plat en hiver. | Porridge is good food in winter.
+Vi spiser grøt til frokost. | Nous mangeons du porridge au petit-déjeuner. | We eat porridge for breakfast.
+Oppskriften er enkel. | La recette est simple. | The recipe is simple.
+Følg oppskriften! | Suis la recette ! | Follow the recipe!
+Hun har en god oppskrift på kake. | Elle a une bonne recette de gâteau. | She has a good cake recipe.
+Et måltid uten kjøtt. | Un repas sans viande. | A meal without meat.
+Vi spiser tre måltider om dagen. | Nous mangeons trois repas par jour. | We eat three meals a day.
+Middagen var deilig. | Le dîner était délicieux. | Dinner was delicious.
+Det smaker deilig! | C'est délicieux ! | It tastes delicious!
+Jeg er mett, takk. | J'ai assez mangé, merci. | I'm full, thanks.
+Er du mett? Vil du ha mer? | Tu as assez mangé ? Tu en veux encore ? | Are you full? Do you want more?
+Jeg er tørst. Kan jeg få vann? | J'ai soif. Je peux avoir de l'eau ? | I'm thirsty. Can I have some water?
+Barna er tørste. | Les enfants ont soif. | The children are thirsty.
+Kokken er nervøs [i dag]. | Le cuisinier est nerveux aujourd'hui. | The chef is nervous today.
+Gjestene venter på maten. | Les clients attendent leur repas. | The guests are waiting for their food.
+Vi har mange gjester i helga. | Nous avons beaucoup de clients ce week-end. | We have many guests this weekend.
+Kunden vil bestille. | Le client veut commander. | The customer wants to order.
+Har du bestilt bord? | Tu as réservé une table ? | Have you booked a table?
+Jeg vil gjerne bestille et bord for to. | Je voudrais réserver une table pour deux. | I'd like to book a table for two.
+Restauranten er full [i kveld]. | Le restaurant est complet ce soir. | The restaurant is full tonight.
+Restauranten ligger i sentrum. | Le restaurant est au centre-ville. | The restaurant is in the town centre.
+Kan jeg få regningen, takk? | Je peux avoir l'addition, s'il vous plaît ? | Can I have the bill, please?
+Regningen er på bordet. | L'addition est sur la table. | The bill is on the table.
+Vil du betale med kort? | Vous voulez payer par carte ? | Do you want to pay by card?
+Kan jeg betale med kort? | Je peux payer par carte ? | Can I pay by card?
+Vi tar ikke kontanter. | Nous n'acceptons pas les espèces. | We don't take cash.
+Har du kontanter? | Tu as du liquide ? | Do you have cash?
+Kassen er stengt. | La caisse est fermée. | The till is closed.
+Betal i kassen, takk. | Payez à la caisse, s'il vous plaît. | Pay at the till, please.
+Legg gaffelen til venstre. | Mets la fourchette à gauche. | Put the fork on the left.
+Kniven ligger til høyre for tallerkenen. | Le couteau est à droite de l'assiette. | The knife is to the right of the plate.
+Vi mangler en gaffel. | Il nous manque une fourchette. | We're missing a fork.
+Tallerkenene er skitne. | Les assiettes sont sales. | The plates are dirty.
+Sett tallerkenene på bordet. | Mets les assiettes sur la table. | Put the plates on the table.
+En kopp te, takk. | Une tasse de thé, s'il vous plaît. | A cup of tea, please.
+Koppen er full. | La tasse est pleine. | The cup is full.
+Glasset er skittent. | Le verre est sale. | The glass is dirty.
+Vi serverer middag fra klokka fem. | Nous servons le dîner à partir de cinq heures. | We serve dinner from five o'clock.
+Jeg serverer maten. | Je sers le repas. | I'm serving the food.
+Kan du servere kaffen? | Tu peux servir le café ? | Can you serve the coffee?
+Maten mangler salt. | Le plat manque de sel. | The food needs salt.
+Mangler du noe? | Il te manque quelque chose ? | Are you missing anything?
+Legg osten i en pose. | Mets le fromage dans un sac. | Put the cheese in a bag.
+Kast posen i søpla. | Jette le sac à la poubelle. | Throw the bag in the bin.
+Kjøttet er fra en gård i *Rollag. | La viande vient d'une ferme de Rollag. | The meat comes from a farm in Rollag.
+Hun er vegetarianer og spiser ikke kjøtt. | Elle est végétarienne et ne mange pas de viande. | She's vegetarian and doesn't eat meat.
+Kyllingen er deilig. | Le poulet est délicieux. | The chicken is delicious.
+Suppa har en herlig smak. | La soupe a un goût merveilleux. | The soup tastes wonderful.
+En bit kake, takk. | Un morceau de gâteau, merci. | A piece of cake, please.
+Skjær kaka i åtte biter. | Coupe le gâteau en huit morceaux. | Cut the cake into eight pieces.
+Brødet er tørt. | Le pain est sec. | The bread is dry.
+Sukkeret står i skapet. | Le sucre est dans le placard. | The sugar is in the cupboard.
+Hvor er saltet? | Où est le sel ? | Where's the salt?
+Maten er for salt. | Le plat est trop salé. | The food is too salty.
+Hun smakte på suppa. | Elle a goûté la soupe. | She tasted the soup.
+Smak på denne! | Goûte ça ! | Taste this!
+Vi spiser pizza på fredag. | On mange une pizza le vendredi. | We eat pizza on Friday.
+Fisk{fisk} og potet er min favoritt. | Le poisson et les pommes de terre sont mes préférés. | Fish and potatoes are my favourite.
+Kona mi fisker i elva. | Ma femme pêche dans la rivière. | My wife fishes in the river.
+Vi fisker i innsjøen om sommeren. | Nous pêchons dans le lac en été. | We fish in the lake in summer.
+Te med honning er godt. | Le thé au miel, c'est bon. | Tea with honey is nice.

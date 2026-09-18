@@ -1,0 +1,146 @@
+# Listes thématiques (métier et vie locale) : disponibles au niveau 1000
+@list theme
+
+@group Restaurant
+kokk | m | cuisinier | cook, chef
+servitør | m | serveur | waiter | servitør,servitøren,servitører,servitørene
+laks | m | saumon | salmon
+ris | m | riz | rice | ris,risen,ris,risen
+grøt | m | porridge, bouillie | porridge
+pålegg | n | garniture (tartines) | sandwich topping | pålegg,pålegget,pålegg,pålegga
+matpakke | f | casse-croûte | packed lunch
+skinke | f | jambon | ham
+dessert | m | dessert | dessert
+honning | m | miel | honey
+skarp | adj | tranchant | sharp
+sunn | adj | sain | healthy | sunn,sunt,sunne
+vegetarianer | m | végétarien | vegetarian | vegetarianer,vegetarianeren,vegetarianere,vegetarianerne
+favoritt | m | préféré | favourite
+meny | m | menu, carte | menu | meny,menyen,menyer,menyene
+bestilling | f | commande | order
+porsjon | m | portion | portion
+forrett | m | entrée | starter
+hovedrett | m | plat principal | main course
+kjele | m | casserole | pot, saucepan
+komfyr | m | cuisinière (plaques) | cooker, stove
+panne | f | poêle | frying pan
+oppvask | m | vaisselle (à laver) | washing-up | oppvask,oppvasken,,
+oppvaskmaskin | m | lave-vaisselle | dishwasher
+serviett | m | serviette de table | napkin
+bestikk | n | couverts | cutlery | bestikk,bestikket,bestikk,bestikka
+brett | n | plateau | tray
+allergi | m | allergie | allergy | allergi,allergien,allergier,allergiene
+glutenfri | adj | sans gluten | gluten-free | glutenfri,glutenfritt,glutenfrie
+hygiene | m | hygiène | hygiene | hygiene,hygienen,,
+forkle | n | tablier | apron | forkle,forkleet,forklær,forklærne
+krydder | n | épice | spice | krydder,krydderet,krydder,kryddera
+pepper | m | poivre | pepper | pepper,pepperen,,
+salt | n | sel | salt | salt,saltet,,
+olje | m | huile | oil
+mel | n | farine | flour | mel,melet,,
+fløte | m | crème | cream
+rømme | m | crème aigre | sour cream
+biff | m | steak | steak
+kjøttkake | f | boulette de viande | meatball
+reke | f | crevette | prawn
+fryser | m | congélateur | freezer | fryser,fryseren,frysere,fryserne
+mikrobølgeovn | m | micro-ondes | microwave
+hakke | v1 | hacher | chop
+skrelle | v1 | éplucher | peel
+blande | v1 | mélanger | mix
+tine | v2 | décongeler | thaw
+
+@group Cleaning
+vaskemiddel | n | produit de nettoyage | detergent | vaskemiddel,vaskemiddelet,vaskemidler,vaskemidlene
+såpe | f | savon | soap
+bøtte | f | seau | bucket
+mopp | m | serpillière, balai à franges | mop
+klut | m | chiffon | cloth
+svamp | m | éponge | sponge
+kost | m | balai | broom
+støvsuger | m | aspirateur | vacuum cleaner | støvsuger,støvsugeren,støvsugere,støvsugerne
+støvsuge | v1 | passer l'aspirateur | vacuum
+støv | n | poussière | dust | støv,støvet,,
+skrubbe | v1 | frotter | scrub
+hanske | m | gant | glove
+søppelsekk | m | sac poubelle | bin bag
+avfall | n | déchets | waste | avfall,avfallet,,
+sortere | v2 | trier | sort
+papp | m | carton | cardboard
+plast | m | plastique | plastic
+vask | m | évier, lavabo ; lessive | sink ; washing
+kran | m | robinet | tap
+flekk | m | tache | stain
+lukt | f | odeur | smell
+laken | n | drap | sheet | laken,lakenet,laken,laknene
+dyne | f | couette | duvet
+pute | f | oreiller | pillow
+sengetøy | n | linge de lit | bedding | sengetøy,sengetøyet,,
+vaskemaskin | m | lave-linge | washing machine
+tørketrommel | m | sèche-linge | tumble dryer | tørketrommel,tørketrommelen,tørketromler,tørketromlene
+klesvask | m | lessive (linge) | laundry | klesvask,klesvasken,,
+toalettpapir | n | papier toilette | toilet paper | toalettpapir,toalettpapiret,,
+rengjøring | f | nettoyage | cleaning
+renhold | n | entretien, ménage (métier) | cleaning (work) | renhold,renholdet,,
+resepsjon | m | réception | reception
+desinfisere | v2 | désinfecter | disinfect
+feie | v3 | balayer | sweep
+pusse | v1 | brosser, astiquer | brush, polish
+riste | v1 | secouer | shake
+dunk | m | poubelle (conteneur), bidon | bin, container
+håndtak | n | poignée | handle | håndtak,håndtaket,håndtak,håndtakene
+ryddig | adj | rangé, en ordre | tidy
+lyspære | f | ampoule | light bulb
+garderobe | m | vestiaire, penderie | cloakroom, wardrobe
+
+@group Work
+arbeidsplass | m | lieu de travail | workplace
+turnus | m | planning (rotation) | shift rota | turnus,turnusen,turnuser,turnusene
+overtid | m | heures supplémentaires | overtime | overtid,overtiden,,
+timelønn | f | salaire horaire | hourly wage
+lønnsslipp | m | fiche de paie | payslip
+sykemelding | f | arrêt maladie | sick note
+permisjon | m | congé | leave
+ansatt | m | employé | employee | ansatt,ansatte,ansatte,ansatte
+arbeidsgiver | m | employeur | employer | arbeidsgiver,arbeidsgiveren,arbeidsgivere,arbeidsgiverne
+leder | m | responsable, chef | manager | leder,lederen,ledere,lederne
+NAV | prop | NAV (emploi et aides sociales) | NAV (labour and welfare agency)
+skattekort | n | carte d'impôt | tax card | skattekort,skattekortet,skattekort,skattekorta
+kontonummer | n | numéro de compte | account number | kontonummer,kontonummeret,kontonumre,kontonumrene
+personnummer | n | numéro d'identité | national ID number | personnummer,personnummeret,personnumre,personnumrene
+opplæring | f | formation | training
+prøvetid | f | période d'essai | probation period
+uniform | m | uniforme | uniform
+førstehjelp | m | premiers secours | first aid | førstehjelp,førstehjelpen,,
+nødutgang | m | sortie de secours | emergency exit
+alarm | m | alarme | alarm
+intervju | n | entretien | interview | intervju,intervjuet,intervjuer,intervjuene
+stilling | f | poste | position, job
+deltid | m | temps partiel | part-time | deltid,deltiden,,
+heltid | m | temps plein | full-time | heltid,heltiden,,
+vikar | m | remplaçant | temp, substitute
+fast | adj | fixe, permanent (CDI) | permanent, fixed | fast,fast,faste
+
+@group Life in Norway
+nordmann | m | Norvégien (personne) | Norwegian (person) | nordmann,nordmannen,nordmenn,nordmennene
+hverdag | m | quotidien, jour de semaine | everyday, weekday
+påske | m | Pâques | Easter
+legevakt | f | urgences (médecin de garde) | emergency clinic
+fastlege | m | médecin traitant | GP, regular doctor
+samboer | m | concubin(e) | (cohabiting) partner | samboer,samboeren,samboere,samboerne
+ved | m | bois de chauffage | firewood | ved,veden,ved,veden
+dugnad | m | travail bénévole collectif | community work day
+vott | m | moufle | mitten
+parkering | m | parking | parking
+lag | n | équipe ; couche | team ; layer | lag,laget,lag,lagene
+måke | v2 | déneiger (à la pelle) | shovel (snow)
+brøyte | v1 | déneiger (chasse-neige) | plough (snow)
+snøskuffe | f | pelle à neige | snow shovel
+piggdekk | n | pneus cloutés | studded tyres | piggdekk,piggdekket,piggdekk,piggdekka
+vinterdekk | n | pneus hiver | winter tyres | vinterdekk,vinterdekket,vinterdekk,vinterdekka
+stabbur | n | grenier sur pilotis | traditional storehouse | stabbur,stabburet,stabbur,stabbura
+stavkirke | f | église en bois debout | stave church
+friluftsliv | n | vie en plein air | outdoor life | friluftsliv,friluftslivet,,
+brunost | m | fromage brun | brown cheese
+lefse | f | lefse (galette) | lefse (flatbread)
+dialekt | m | dialecte | dialect

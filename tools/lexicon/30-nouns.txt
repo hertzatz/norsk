@@ -1,0 +1,305 @@
+# Noms : m = masculin (en), f = féminin (ei), n = neutre (et), npl = pluriel seulement
+# formes : indéfini, défini, pluriel, pluriel défini
+@list core
+
+# Personnes
+mann | m | homme ; mari | man ; husband | mann,mannen,menn,mennene
+kvinne | f | femme | woman
+dame | m | dame, femme | lady, woman
+jente | f | fille | girl
+gutt | m | garçon | boy
+barn | n | enfant | child | barn,barnet,barn,barna
+folk | n | gens ; peuple | people | folk,folket,folk,folka/folkene
+menneske | n | être humain, personne | human being, person | ,,,menneskene
+person | m | personne | person
+venn | m | ami | friend
+venninne | f | amie | (female) friend
+kjæreste | m | petit(e) ami(e) | boyfriend, girlfriend
+familie | m | famille | family
+mor | f | mère | mother | mor,mora/moren,mødre,mødrene
+far | m | père | father | far,faren,fedre,fedrene
+mamma | m | maman | mum
+pappa | m | papa | dad
+foreldre | npl | parents | parents | foreldre,foreldrene
+bror | m | frère | brother | bror,broren,brødre,brødrene
+søster | f | sœur | sister | søster,søstera/søsteren,søstre,søstrene
+sønn | m | fils | son
+datter | f | fille (enfant) | daughter | datter,dattera/datteren,døtre,døtrene
+bestemor | f | grand-mère | grandmother | bestemor,bestemora/bestemoren,bestemødre,bestemødrene
+bestefar | m | grand-père | grandfather | bestefar,bestefaren,bestefedre,bestefedrene
+onkel | m | oncle | uncle | onkel,onkelen,onkler,onklene
+tante | f | tante | aunt
+kone | f | épouse | wife
+nabo | m | voisin | neighbour
+kollega | m | collègue | colleague | kollega,kollegaen,kolleger/kollegaer,kollegene/kollegaene
+sjef | m | chef, patron | boss
+kunde | m | client | customer
+gjest | m | invité, client | guest
+lege | m | médecin | doctor
+lærer | m | professeur | teacher | lærer,læreren,lærere,lærerne
+elev | m | élève | pupil
+unge | m | gamin, gosse | kid
+baby | m | bébé | baby
+fyr | m | type, gars | guy
+politi | n | police | police | politi,politiet,politi,politiene
+
+# Corps
+hode | n | tête | head
+øye | n | œil | eye | øye,øyet,øyne,øynene
+øre | n | oreille | ear
+nese | f | nez | nose
+munn | m | bouche | mouth
+tann | f | dent | tooth | tann,tanna/tannen,tenner,tennene
+hår | n | cheveux | hair | hår,håret,hår,håra/hårene
+hånd | f | main | hand | hånd,hånda/hånden,hender,hendene
+arm | m | bras | arm
+fot | m | pied | foot | fot,foten,føtter,føttene
+bein | n | jambe ; os | leg ; bone
+rygg | m | dos | back
+mage | m | ventre | stomach, belly
+hjerte | n | cœur | heart
+kropp | m | corps | body
+ansikt | n | visage | face | ansikt,ansiktet,ansikter,ansiktene
+hals | m | cou, gorge | neck, throat
+finger | m | doigt | finger | finger,fingeren,fingre,fingrene
+
+# Maison
+hus | n | maison | house
+leilighet | m | appartement | flat, apartment
+rom | n | pièce, chambre | room | rom,rommet,rom,rommene/romma
+stue | f | salon | living room
+kjøkken | n | cuisine | kitchen | kjøkken,kjøkkenet,kjøkken,kjøkkena/kjøkkenene
+bad | n | salle de bains ; bain | bathroom ; bath
+soverom | n | chambre (à coucher) | bedroom | soverom,soverommet,soverom,soverommene/soveromma
+toalett | n | toilettes | toilet | toalett,toalettet,toaletter,toalettene
+do | m | WC | loo | do,doen,doer,doene
+dør | f | porte | door
+vindu | n | fenêtre | window | vindu,vinduet,vinduer,vinduene
+gulv | n | sol, plancher | floor
+vegg | m | mur | wall
+tak | n | toit, plafond | roof, ceiling
+trapp | f | escalier | stairs
+seng | f | lit | bed
+stol | m | chaise | chair
+bord | n | table | table
+sofa | m | canapé | sofa | sofa,sofaen,sofaer,sofaene
+lampe | f | lampe | lamp
+lys | n | lumière ; bougie | light ; candle
+nøkkel | m | clé | key | nøkkel,nøkkelen,nøkler,nøklene
+hage | m | jardin | garden
+hytte | f | chalet, cabane | cabin
+garasje | m | garage | garage
+kjeller | m | cave, sous-sol | basement | kjeller,kjelleren,kjellere,kjellerne
+etasje | m | étage | floor, storey
+skap | n | placard, armoire | cupboard
+kjøleskap | n | réfrigérateur | fridge | kjøleskap,kjøleskapet,kjøleskap,kjøleskapa/kjøleskapene
+ting | m | chose | thing | ting,tingen,ting,tingene
+dusj | m | douche | shower
+håndkle | n | serviette | towel | håndkle,håndkleet,håndklær,håndklærne
+søppel | n | ordures, poubelle | rubbish, trash | søppel,søppelet,søppel,søpla
+
+# Nourriture
+mat | m | nourriture, repas | food
+frokost | m | petit-déjeuner | breakfast
+lunsj | m | déjeuner | lunch
+middag | m | dîner | dinner
+kaffe | m | café | coffee | kaffe,kaffen,kaffer,kaffene
+te | m | thé | tea | te,teen,teer,teene | freq=teen
+vann | n | eau ; lac | water ; lake
+melk | f | lait | milk
+øl | n | bière | beer
+vin | m | vin | wine
+brød | n | pain | bread
+ost | m | fromage | cheese
+smør | n | beurre | butter
+egg | n | œuf | egg
+kjøtt | n | viande | meat
+fisk | m | poisson | fish | fisk,fisken,fisker,fiskene
+kylling | m | poulet | chicken
+potet | m | pomme de terre | potato
+grønnsak | m | légume | vegetable
+frukt | m | fruit | fruit
+eple | n | pomme | apple
+sukker | n | sucre | sugar | sukker,sukkeret,sukker,sukkeret
+suppe | f | soupe | soup
+kake | f | gâteau | cake
+sjokolade | m | chocolat | chocolate
+pizza | m | pizza | pizza
+glass | n | verre | glass
+kopp | m | tasse | cup
+tallerken | m | assiette | plate | tallerken,tallerkenen,tallerkener,tallerkenene
+kniv | m | couteau | knife
+gaffel | m | fourchette | fork | gaffel,gaffelen,gafler,gaflene
+flaske | f | bouteille | bottle
+pose | m | sac (plastique) | bag
+bit | m | morceau | piece, bit
+stykke | n | morceau ; pièce | piece
+
+# Temps
+tid | f | temps | time | tid,tida/tiden,tider,tidene
+dag | m | jour | day
+natt | f | nuit | night | natt,natta/natten,netter,nettene
+morgen | m | matin | morning | morgen,morgenen,morgener,morgenene
+kveld | m | soir | evening
+ettermiddag | m | après-midi | afternoon
+uke | f | semaine | week
+måned | m | mois | month | måned,måneden,måneder,månedene
+år | n | an, année | year | år,året,år,åra/årene
+time | m | heure ; cours, rendez-vous | hour ; lesson, appointment
+minutt | n | minute | minute | minutt,minuttet,minutter,minuttene
+sekund | n | seconde | second | sekund,sekundet,sekunder,sekundene
+øyeblikk | n | instant | moment | øyeblikk,øyeblikket,øyeblikk,øyeblikkene
+gang | m | fois ; couloir | time (occurrence) ; hallway
+helg | f | week-end | weekend
+ferie | m | vacances | holiday
+jul | f | Noël | Christmas
+bursdag | m | anniversaire | birthday
+fremtid | f | avenir | future | fremtid,fremtida/fremtiden,fremtider,fremtidene
+
+# Lieux
+by | m | ville | town, city
+bygd | f | village, campagne | rural community, village
+gård | m | ferme | farm | gård,gården,gårder,gårdene
+land | n | pays ; campagne | country ; countryside
+sted | n | endroit | place | sted,stedet,steder,stedene
+vei | m | route, chemin | road, way
+gate | f | rue | street
+butikk | m | magasin | shop
+skole | m | école | school
+jobb | m | travail, boulot | job
+arbeid | n | travail | work | arbeid,arbeidet,arbeider,arbeidene
+kontor | n | bureau | office | kontor,kontoret,kontorer,kontorene
+sykehus | n | hôpital | hospital | sykehus,sykehuset,sykehus,sykehusa/sykehusene
+kirke | f | église | church
+restaurant | m | restaurant | restaurant
+hotell | n | hôtel | hotel | hotell,hotellet,hoteller,hotellene
+bank | m | banque | bank
+stasjon | m | gare | station
+fjell | n | montagne | mountain
+skog | m | forêt | forest
+sjø | m | mer ; lac | sea ; lake
+elv | f | rivière | river
+strand | f | plage | beach | strand,stranda/stranden,strender,strendene
+park | m | parc | park
+område | n | zone, quartier | area
+kommune | m | commune | municipality
+senter | n | centre | centre | senter,senteret,sentre,sentrene
+plass | m | place, espace | place, room, space
+side | f | côté ; page | side ; page
+
+# Transports
+bil | m | voiture | car
+buss | m | bus | bus
+tog | n | train | train
+fly | n | avion | plane
+båt | m | bateau | boat
+sykkel | m | vélo | bicycle | sykkel,sykkelen,sykler,syklene
+billett | m | billet | ticket
+tur | m | tour, balade, voyage | trip, walk
+reise | f | voyage | journey
+
+# Nature
+vær | n | temps (météo) | weather | vær,været,vær,vær | freq=været
+sol | f | soleil | sun
+regn | n | pluie | rain | regn,regnet,regn,regn | freq=regn
+vind | m | vent | wind
+himmel | m | ciel | sky | himmel,himmelen,himler,himlene
+luft | f | air | air
+tre | n | arbre ; bois | tree ; wood | tre,treet,trær,trærne | freq=treet,trær,trærne
+blomst | m | fleur | flower
+hund | m | chien | dog
+katt | m | chat | cat
+hest | m | cheval | horse
+fugl | m | oiseau | bird
+dyr | n | animal | animal | | freq=dyret,dyra,dyrene
+ku | f | vache | cow | ku,kua,kyr,kyrne
+elg | m | élan | moose
+natur | m | nature | nature
+
+# Choses, idées
+sak | f | affaire, chose | matter, case | sak,saka/saken,saker,sakene
+problem | n | problème | problem | problem,problemet,problemer,problemene
+spørsmål | n | question | question | spørsmål,spørsmålet,spørsmål,spørsmåla/spørsmålene
+svar | n | réponse | answer
+ord | n | mot ; parole | word
+språk | n | langue | language
+navn | n | nom | name
+nummer | n | numéro | number | nummer,nummeret,numre,numrene
+telefon | m | téléphone | phone
+mobil | m | portable | mobile phone
+melding | f | message, SMS | message, text
+brev | n | lettre | letter
+penger | npl | argent | money | penger,pengene
+lønn | f | salaire | salary, wage
+pris | m | prix | price
+krone | f | couronne (monnaie) | krone (NOK)
+regning | f | addition, facture | bill
+kort | n | carte | card | kort,kortet,kort,korta/kortene | freq=kortet,kortene,korta
+papir | n | papier | paper | papir,papiret,papirer,papirene
+bok | f | livre | book | bok,boka/boken,bøker,bøkene
+avis | f | journal | newspaper
+bilde | n | image, photo | picture, photo
+film | m | film | film, movie
+musikk | m | musique | music
+sang | m | chanson | song | | freq=sangen,sanger,sangene
+spill | n | jeu | game
+fest | m | fête | party
+gave | m | cadeau | gift, present
+plan | m | plan, projet | plan
+idé | m | idée | idea | idé,ideen/idéen,ideer,ideene
+grunn | m | raison ; sol | reason ; ground
+måte | m | manière, façon | way, manner
+del | m | partie | part
+slutt | m | fin | end
+begynnelse | m | début | beginning
+historie | f | histoire | story, history
+sannhet | m | vérité | truth
+feil | m | erreur, faute | mistake, error
+hjelp | f | aide | help | hjelp,hjelpa/hjelpen,,
+beskjed | m | message, consigne | message, notice
+avtale | m | accord, rendez-vous | agreement, appointment
+møte | n | réunion | meeting
+forskjell | m | différence | difference
+mulighet | m | possibilité | possibility, chance
+sjanse | m | chance | chance
+lov | m | loi ; permission | law ; permission
+regel | m | règle | rule | regel,regelen,regler,reglene
+ansvar | n | responsabilité | responsibility | ansvar,ansvaret,ansvar,ansvara
+liv | n | vie | life
+helse | f | santé | health
+følelse | m | sentiment | feeling
+glede | f | joie | joy
+kjærlighet | m | amour | love
+lyst | m | envie | desire, wish
+tanke | m | pensée | thought
+mening | m | avis ; sens | opinion ; meaning
+kurs | n | cours, formation | course
+klasse | m | classe | class
+oppgave | m | tâche, exercice | task
+vakt | f | garde, service | shift, duty
+skift | n | équipe, poste | shift
+pause | m | pause | break
+klær | npl | vêtements | clothes | klær,klærne
+jakke | f | veste | jacket
+sko | m | chaussure | shoe | sko,skoen,sko,skoene
+bukse | f | pantalon | trousers
+genser | m | pull | sweater | genser,genseren,gensere,genserne
+lue | f | bonnet | (knitted) hat
+veske | f | sac (à main) | bag, handbag
+tv | m | télé | TV | tv,tv-en,tv-er,tv-ene
+pc | m | ordinateur | computer | pc,pc-en,pc-er,pc-ene
+farge | m | couleur | colour
+nyhet | m | nouvelle | news
+vits | m | blague | joke
+lyd | m | son | sound
+stemme | m | voix | voice
+hilsen | m | salutation | greeting | hilsen,hilsenen,hilsener,hilsenene
+unnskyldning | m | excuse | apology, excuse
+skatt | m | impôt | tax
+søknad | m | candidature, demande | application
+kontrakt | m | contrat | contract
+medisin | m | médicament | medicine
+alder | m | âge | age | alder,alderen,aldre,aldrene
+adresse | m | adresse | address
+kart | n | carte (géographique) | map
+kos | m | moment agréable, confort | cosiness

@@ -1,0 +1,60 @@
+# Niveau 1000, lot 6 (fin)
+@level 1000
+
+@theme hverdag Everyday life
+Vi vil overraske henne, men den stygge kjolen er ikke fin. | Nous voulons lui faire une surprise, mais la robe moche n'est pas belle. | We want to surprise her, but the ugly dress isn't nice.
+Sikkerheten er viktig: enten gjør du det ordentlig, eller ikke. | La sécurité est importante : soit tu le fais correctement, soit pas du tout. | Safety matters: either you do it properly or not at all.
+Han har liksom vondt i øret og nesa. | Il a genre mal à l'oreille et au nez. | He sort of has pain in his ear and nose.
+Firmaet vil diskutere fremtiden med gjengen. | L'entreprise veut discuter de l'avenir avec l'équipe. | The company wants to discuss the future with the team.
+Hils på den slemme hunden, forresten. | Salue le méchant chien, au fait. | Say hello to the naughty dog, by the way.
+Buksa og skjorta er private klær. | Le pantalon et la chemise sont des vêtements personnels. | The trousers and shirt are personal clothes.
+Det er stor forskjell på begynnelsen og slutten. | Il y a une grande différence entre le début et la fin. | There's a big difference between the start and the end.
+Meld fra om ny adresse, ellers kommer posten altfor sent. | Signale ta nouvelle adresse, sinon le courrier arrive beaucoup trop tard. | Report your new address, otherwise the post comes far too late.
+En fremmed fortalte en vits og ropte høyt. | Un inconnu a raconté une blague et a crié fort. | A stranger told a joke and shouted loudly.
+Ifølge sjefen må vi gjenta opplæringen. | Selon le chef, nous devons refaire la formation. | According to the boss we must repeat the training.
+Vi leier en maskin, og dessuten en bil. | Nous louons une machine, et en plus une voiture. | We're renting a machine, and a car too.
+Iallfall kom han derfra helt overrasket. | En tout cas, il est revenu de là-bas tout surpris. | Anyway, he came back from there completely surprised.
+Hun er stadig modig. | Elle est toujours courageuse. | She's always brave.
+Årsaken er at jeg ikke orker mer. | La raison, c'est que je n'en peux plus. | The reason is that I can't take any more.
+Forslaget er bra, men verken jeg eller han er enig. | La proposition est bonne, mais ni lui ni moi ne sommes d'accord. | The suggestion is good, but neither he nor I agree.
+Varm{varme} opp suppa, jeg fryser. | Réchauffe la soupe, j'ai froid. | Heat up the soup, I'm freezing.
+Vi varmer{varme} opp maten i ovnen. | Nous réchauffons le repas au four. | We heat the food in the oven.
+Hun varma{varme} hendene ved peisen. | Elle s'est réchauffé les mains près de la cheminée. | She warmed her hands by the fire.
+Jeg varmer{varme} melk til barna. | Je fais chauffer du lait pour les enfants. | I'm warming milk for the children.
+Trykk her og gjett samtidig. | Appuie ici et devine en même temps. | Press here and guess at the same time.
+Vanligvis tør jeg ikke kose med katten. | D'habitude, je n'ose pas câliner le chat. | Usually I don't dare cuddle the cat.
+Lokale folk sier at do er nylig vasket. | Les gens du coin disent que les WC ont été lavés récemment. | Locals say the loo was recently cleaned.
+Slapp av, det koster ti kroner per time. | Détends-toi, ça coûte dix couronnes de l'heure. | Relax, it costs ten kroner an hour.
+Au, jeg klatret og slo skulderen på skiftet. | Aïe, j'ai grimpé et je me suis cogné l'épaule pendant mon service. | Ouch, I climbed and hit my shoulder on my shift.
+Venninna mi kan oversette alt unntatt dialekt. | Mon amie peut tout traduire sauf le dialecte. | My friend can translate everything except dialect.
+Den fattige mannen passerte oss med et dyr{dyr_noun}. | L'homme pauvre nous a dépassés avec un animal. | The poor man passed us with an animal.
+Ikke vær{være} frekk, vent innenfor med den rosa jakka. | Ne sois pas insolent, attends à l'intérieur avec la veste rose. | Don't be rude, wait inside with the pink jacket.
+Jeg har nemlig ikke kontanter. | C'est que je n'ai pas de liquide. | You see, I don't have cash.
+Den grå katten gidder ikke å gå ut i regnet. | Le chat gris n'a pas envie de sortir sous la pluie. | The grey cat can't be bothered to go out in the rain.
+Ta frukt istedenfor sjokolade. | Prends des fruits au lieu du chocolat. | Have fruit instead of chocolate.
+Parker bilen og jobb hjemmefra [i dag]. | Gare la voiture et travaille de chez toi aujourd'hui. | Park the car and work from home today.
+Det er kort{kort_adj} vei og praktisk å sykle. | C'est un court trajet et pratique à vélo. | It's a short way and practical to cycle.
+Kort{kort_adj} sagt: det er praktisk. | Bref : c'est pratique. | In short: it's practical.
+Mange hilsener, jeg er spent på svaret. | Amitiés, j'ai hâte d'avoir la réponse. | Best wishes, I'm eager for the answer.
+Utgangen og inngangen er temmelig smale. | La sortie et l'entrée sont assez étroites. | The exit and entrance are rather narrow.
+Lad mobilen, passordet står på laderen. | Charge ton portable, le mot de passe est sur le chargeur. | Charge your phone, the password is on the charger.
+Hun er sjenert, men hun smiler bredt. | Elle est timide, mais elle a un grand sourire. | She's shy, but she smiles broadly.
+Oppskriften er utenlandsk. | La recette est étrangère. | The recipe is foreign.
+Søknaden har frist på fredag. | La candidature a une date limite vendredi. | The application deadline is Friday.
+Vi går langs bekken med skjerf og votter. | Nous marchons le long du ruisseau avec écharpe et moufles. | We walk along the stream with scarves and mittens.
+Fridagen min er i morgen. | Mon jour de congé, c'est demain. | My day off is tomorrow.
+Jeg fryser når det er vind. | J'ai froid quand il y a du vent. | I'm cold when it's windy.
+Vi frøs hele natta. | Nous avons eu froid toute la nuit. | We were cold all night.
+Klatre sakte, du kan falle. | Grimpe lentement, tu peux tomber. | Climb slowly, you might fall.
+Vi sykler fordi det er praktisk. | Nous faisons du vélo parce que c'est pratique. | We cycle because it's practical.
+Maskinen er privat. | La machine est privée. | The machine is private.
+Slapp av etter skiftet. | Détends-toi après ton service. | Relax after your shift.
+Skiftet begynner cirka klokka tre. | Le service commence vers trois heures. | The shift starts at about three.
+Han ble skuffet over regnet. | Il a été déçu par la pluie. | He was disappointed by the rain.
+Du kan parkere ved den brede veien. | Tu peux te garer près de la grande route. | You can park by the wide road.
+Hun er sjenert og litt skuffet. | Elle est timide et un peu déçue. | She's shy and a bit disappointed.
+Regnet kommer cirka klokka fem. | La pluie arrive vers cinq heures. | The rain comes at about five.
+Senga er bred, og jeg slapper av. | Le lit est large, et je me détends. | The bed is wide, and I'm relaxing.
+Ikke parker her, gjestene kommer. | Ne te gare pas ici, les clients arrivent. | Don't park here, the guests are coming.
+Skiftet{skift} mitt er ferdig klokka ti. | Mon service finit à dix heures. | My shift ends at ten.
+Regnet{regn} er kaldt [i dag]. | La pluie est froide aujourd'hui. | The rain is cold today.

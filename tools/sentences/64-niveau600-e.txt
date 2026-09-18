@@ -1,0 +1,202 @@
+# Niveau 600, lot 5 (fin du niveau)
+@level 600
+
+@theme hverdag Everyday life
+Vi bor nær hverandre. | Nous habitons près l'un de l'autre. | We live near each other.
+Vinduet står åpent. | La fenêtre est ouverte. | The window is open.
+Er det langt herfra? | C'est loin d'ici ? | Is it far from here?
+Dattera vår er syk. | Notre fille est malade. | Our daughter is ill.
+Hun stoppa foran døra. | Elle s'est arrêtée devant la porte. | She stopped in front of the door.
+Du må velge en. | Tu dois en choisir un. | You have to choose one.
+Vi handla [i går]. | Nous avons fait les courses hier. | We went shopping yesterday.
+Kjøleskapet er tomt. | Le réfrigérateur est vide. | The fridge is empty.
+Hånda er tom. | La main est vide. | The hand is empty.
+De selger fisk her. | Ils vendent du poisson ici. | They sell fish here.
+Flyet kommer klokka fire. | L'avion arrive à quatre heures. | The plane arrives at four.
+Jeg hater det. | Je déteste ça. | I hate it.
+Sjekk om alt er klart. | Vérifie que tout est prêt. | Check that everything's ready.
+Jeg kommer uansett [i morgen]. | Je viens de toute façon demain. | I'm coming tomorrow anyway.
+Jeg har aldri fløyet. | Je n'ai jamais pris l'avion. | I've never flown.
+Jeg vil helst sove. | Je préfère dormir. | I'd rather sleep.
+Vi prater norsk sammen. | Nous parlons norvégien ensemble. | We speak Norwegian together.
+Bilen står mellom husene. | La voiture est entre les maisons. | The car is between the houses.
+God reise! | Bon voyage ! | Have a good trip!
+Han har svart jakke. | Il a une veste noire. | He has a black jacket.
+Svart er min farge. | Le noir est ma couleur. | Black is my colour.
+Det er mulig at han kommer. | C'est possible qu'il vienne. | It's possible he'll come.
+Savner du Frankrike? | La France te manque ? | Do you miss France?
+Ikke bekymre deg, det går bra. | Ne t'inquiète pas, ça va aller. | Don't worry, it'll be fine.
+Det gikk raskt. Han var rask. | Ça s'est passé vite. Il était rapide. | It went fast. He was quick.
+For en fantastisk dag! | Quelle journée fantastique ! | What a fantastic day!
+Det var en god idé. | C'était une bonne idée. | That was a good idea.
+Ikke fall! | Ne tombe pas ! | Don't fall!
+Du er trygg her. | Tu es en sécurité ici. | You're safe here.
+Det er blod på gulvet. | Il y a du sang par terre. | There's blood on the floor.
+Hun er enda ikke hjemme. | Elle n'est toujours pas rentrée. | She still isn't home.
+Egentlig er det enkelt. | En fait, c'est simple. | Actually, it's simple.
+Valget er ditt. | Le choix t'appartient. | The choice is yours.
+Hvor forsvant han? | Où a-t-il disparu ? | Where did he go?
+Hun har et pent ansikt. | Elle a un joli visage. | She has a pretty face.
+Hvem bestemmer her? | Qui décide ici ? | Who decides here?
+Det er en kul idé. | C'est une idée cool. | That's a cool idea.
+Barna er utenfor. | Les enfants sont dehors. | The children are outside.
+Sannheten er viktig. | La vérité est importante. | The truth is important.
+Vi sitter nede. | Nous sommes assis en bas. | We're sitting downstairs.
+Vi har en avtale om det. | Nous avons un accord là-dessus. | We have an agreement about it.
+Del det med meg! | Partage-le avec moi ! | Share it with me!
+Det var en spesiell kveld. | C'était une soirée spéciale. | It was a special evening.
+Hun er søt og snill. | Elle est mignonne et gentille. | She's sweet and kind.
+Alt var perfekt. | Tout était parfait. | Everything was perfect.
+Kjæresten hans er lærer. | Sa copine est enseignante. | His girlfriend is a teacher.
+Hvor mye tjener du? | Combien tu gagnes ? | How much do you earn?
+Er det ekte? Jeg tror ikke det. | C'est du vrai ? Je ne crois pas. | Is it real? I don't think so.
+Han venter foran skolen. | Il attend devant l'école. | He's waiting in front of the school.
+Jeg tapte pengene. | J'ai perdu l'argent. | I lost the money.
+Tanken er god. | L'idée est bonne. | The thought is good.
+Kontoret mitt er lite. | Mon bureau est petit. | My office is small.
+Kan du forklare det en gang til? | Tu peux l'expliquer encore une fois ? | Can you explain it one more time?
+Tidligere jobba jeg i *Oslo. | Avant, je travaillais à Oslo. | I used to work in Oslo.
+Trekk stolen hit. | Tire la chaise par ici. | Pull the chair over here.
+Det har forandra seg mye. | Ça a beaucoup changé. | It has changed a lot.
+Det er bare et spill, ikke vær{være} sint. | Ce n'est qu'un jeu, ne sois pas fâché. | It's just a game, don't be angry.
+Jeg bærer den for deg. | Je le porte pour toi. | I'll carry it for you.
+Jorda er våt etter regnet. | La terre est mouillée après la pluie. | The ground is wet after the rain.
+Merk deg navnet. | Retiens le nom. | Remember the name.
+Har du fått beskjed? | Tu as été prévenu ? | Have you been told?
+Det er helt vanlig her. | C'est tout à fait normal ici. | It's completely normal here.
+Kan du telle barna? | Tu peux compter les enfants ? | Can you count the children?
+Vi avtalte å ringe. | Nous avions convenu de nous appeler. | We agreed to call.
+Det fungerer ikke nå. | Ça ne marche pas maintenant. | It doesn't work now.
+Nyheten kom [i går]. | La nouvelle est arrivée hier. | The news came yesterday.
+Til stor glede{glede_noun} for barna. | À la grande joie des enfants. | To the children's great joy.
+Glede{glede_noun} er viktig. | La joie est importante. | Joy is important.
+Det tar en halv{halv_adj} dag. | Ça prend une demi-journée. | It takes half a day.
+Du kan være stolt. | Tu peux être fier. | You can be proud.
+Det er altså ikke sant. | Donc ce n'est pas vrai. | So it's not true.
+Hun kom likevel. | Elle est venue quand même. | She came anyway.
+Jeg har lyst{lyst} til å reise. | J'ai envie de voyager. | I feel like travelling.
+Han jobber på sykehuset. | Il travaille à l'hôpital. | He works at the hospital.
+Vær{være} ærlig, er du sint? | Sois honnête, tu es fâché ? | Be honest, are you angry?
+Han har vondt i kroppen. | Il a mal partout. | His body aches.
+Kroppen trenger å sove. | Le corps a besoin de dormir. | The body needs to sleep.
+Ideen er sprø. | L'idée est folle. | The idea is crazy.
+Vi er enige om det. | Nous sommes d'accord là-dessus. | We agree on that.
+Du kan ikke endre det. | Tu ne peux pas changer ça. | You can't change that.
+Hun er smart og snill. | Elle est intelligente et gentille. | She's smart and kind.
+Hva er ditt råd? | Quel est ton conseil ? | What's your advice?
+Bildet henger fint. | Le tableau est bien accroché. | The picture hangs nicely.
+Det gir ingen mening. | Ça n'a aucun sens. | It makes no sense.
+Vi bygde en båt. | Nous avons construit un bateau. | We built a boat.
+Du har fint hår. | Tu as de beaux cheveux. | You have nice hair.
+Slutt å tulle! | Arrête de faire l'idiot ! | Stop fooling around!
+Alle lo. | Tout le monde a ri. | Everyone laughed.
+Han har lange bein. | Il a de longues jambes. | He has long legs.
+Reglene er enkle. | Les règles sont simples. | The rules are simple.
+Gata er stille. | La rue est calme. | The street is quiet.
+Hvor mye skatt betaler du? | Combien d'impôts paies-tu ? | How much tax do you pay?
+Det tar tretti sekunder. | Ça prend trente secondes. | It takes thirty seconds.
+Hun greide det! | Elle a réussi ! | She did it!
+Snu deg og se! | Retourne-toi et regarde ! | Turn around and look!
+Jeg støtter ham. | Je le soutiens. | I support him.
+Båten er ute på vannet. | Le bateau est sur l'eau. | The boat is out on the water.
+Munnen min er tørr. | J'ai la bouche sèche. | My mouth is dry.
+Han har mat i munnen. Lukk den! | Il a de la nourriture dans la bouche. Ferme-la ! | He has food in his mouth. Close it!
+Munnen er stor. | La bouche est grande. | The mouth is big.
+Vi bor i et fint område. | Nous habitons dans un beau quartier. | We live in a nice area.
+Vi danser ofte. | Nous dansons souvent. | We dance often.
+Jeg bytta jobb. | J'ai changé de travail. | I changed jobs.
+Det er en mulighet. | C'est une possibilité. | It's a possibility.
+Jaså, det er sant? | Ah bon, c'est vrai ? | Oh, is it true?
+Læreren var syk. | Le professeur était malade. | The teacher was ill.
+Kan du tilgi ham? | Tu peux lui pardonner ? | Can you forgive him?
+Det er kun to dager igjen. | Il ne reste que deux jours. | There are only two days left.
+Det lukter rart. | Ça sent bizarre. | It smells strange.
+Absolutt, det stemmer. | Absolument, c'est exact. | Absolutely, that's right.
+Hun er en tøff dame. | C'est une dame courageuse. | She's a tough lady.
+Han er tøff. | Il est dur. | He's tough.
+Det er umulig! | C'est impossible ! | It's impossible!
+Han vokste fort. | Il a grandi vite. | He grew fast.
+Håret vokser. | Les cheveux poussent. | The hair is growing.
+Er det alvorlig, legen? | C'est grave, docteur ? | Is it serious, doctor?
+Det er god luft her. | L'air est bon ici. | The air is good here.
+Luften er kald. | L'air est froid. | The air is cold.
+Rekker du det? | Tu as le temps ? | Will you make it?
+Jeg rekker ikke det. | Je n'aurai pas le temps. | I won't make it.
+Takk for all informasjonen. | Merci pour toutes les informations. | Thanks for all the information.
+Hvor dypt er det? | C'est profond comment ? | How deep is it?
+Det er dypt her, pass på! | C'est profond ici, attention ! | It's deep here, careful!
+Stenger dere snart? | Vous fermez bientôt ? | Are you closing soon?
+Vi stengte klokka ti. | Nous avons fermé à dix heures. | We closed at ten.
+Vi var heldige. | Nous avons eu de la chance. | We were lucky.
+Han ble rik. | Il est devenu riche. | He became rich.
+Hørte du lyden? | Tu as entendu le bruit ? | Did you hear the sound?
+Særlig barna liker det. | Surtout les enfants aiment ça. | Especially the children like it.
+Ryggen er sterk. | Le dos est fort. | The back is strong.
+Han nevnte ingenting. | Il n'a rien mentionné. | He didn't mention anything.
+Dessverre er det for sent. | Malheureusement, c'est trop tard. | Unfortunately it's too late.
+Spesielt [i dag]. | Surtout aujourd'hui. | Especially today.
+Jeg nekter! | Je refuse ! | I refuse!
+Takk, du er vennlig. | Merci, tu es aimable. | Thanks, you're kind.
+Jeg er våken nå. | Je suis réveillé maintenant. | I'm awake now.
+Hun er opptatt med barna. | Elle est occupée avec les enfants. | She's busy with the children.
+Det er interessant. Fortell mer! | C'est intéressant. Raconte encore ! | That's interesting. Tell me more!
+Et stykke av huset. | Une partie de la maison. | A piece of the house.
+Katten er så lat. | Le chat est si paresseux. | The cat is so lazy.
+Ikke vær{være} lat! | Ne sois pas paresseux ! | Don't be lazy!
+Hvem har ansvaret? | Qui est responsable ? | Who's in charge?
+Jeg vil be om unnskyldning til deg. | Je voudrais m'excuser auprès de toi. | I want to apologize to you.
+Kler du på deg? | Tu t'habilles ? | Are you getting dressed?
+Vi planlegger en reise. | Nous préparons un voyage. | We're planning a trip.
+Maten var nydelig, takk. | Le repas était délicieux, merci. | The food was lovely, thanks.
+Hun dekker bordet. | Elle met la table. | She's setting the table.
+En øl, takk! | Une bière, s'il vous plaît ! | A beer, please!
+Vi eier ikke huset. | La maison n'est pas à nous. | We don't own the house.
+Han tilbød seg å hjelpe. | Il a proposé d'aider. | He offered to help.
+Jeg søker etter en jobb. | Je cherche un travail. | I'm looking for a job.
+Hun bringer mat. | Elle apporte à manger. | She brings food.
+Iblant går vi ut. | Parfois, on sort. | Sometimes we go out.
+Beholde den! | Garde-la ! | Keep it!
+Han beholdt pengene. | Il a gardé l'argent. | He kept the money.
+Himmelen er mørk [i kveld]. | Le ciel est sombre ce soir. | The sky is dark tonight.
+Barna leker med steiner. | Les enfants jouent avec des pierres. | The children play with stones.
+Han lånte meg penger. | Il m'a prêté de l'argent. | He lent me money.
+Fyll på glasset. | Remplis le verre. | Fill up the glass.
+Hun fylte glassene. | Elle a rempli les verres. | She filled the glasses.
+Hotellet ligger midt i byen. | L'hôtel est en plein centre-ville. | The hotel is right in the town centre.
+Plutselig var han borte. | Soudain, il était parti. | Suddenly he was gone.
+Er han forelsket i deg? | Il est amoureux de toi ? | Is he in love with you?
+Noen banka på. | Quelqu'un a frappé. | Someone knocked.
+Hjertet banker. | Le cœur bat. | The heart beats.
+Hun oppdaga en ny verden. | Elle a découvert un nouveau monde. | She discovered a new world.
+Takk for at dere inviterte oss! | Merci de nous avoir invités ! | Thanks for inviting us!
+Tida går fort forbi. | Le temps passe vite. | Time flies.
+Jeg har forsøkt alt. | J'ai tout essayé. | I've tried everything.
+Har du pakka alt? | Tu as tout emballé ? | Have you packed everything?
+Hva forventer du? | À quoi tu t'attends ? | What do you expect?
+Jeg leverer den [i morgen]. | Je le remets demain. | I'll hand it in tomorrow.
+Svar innen fredag, takk. | Réponds avant vendredi, s'il te plaît. | Answer by Friday, please.
+Glasset er tomt, kan du fylle det? | Le verre est vide, tu peux le remplir ? | The glass is empty, can you fill it?
+Han solgte alt han hadde. | Il a vendu tout ce qu'il avait. | He sold everything he had.
+Vi flyr hjem [i morgen]. | Nous rentrons en avion demain. | We're flying home tomorrow.
+Hun har svarte klær. | Elle a des vêtements noirs. | She has black clothes.
+Det var en svart natt. | C'était une nuit noire. | It was a black night.
+Maten var fantastisk! | Le repas était fantastique ! | The food was fantastic!
+Han har et snilt ansikt. | Il a un visage gentil. | He has a kind face.
+Hun er nede nå. | Elle est en bas maintenant. | She's downstairs now.
+Kan vi dele den? | On peut le partager ? | Can we share it?
+Han sitter på kontoret. | Il est au bureau. | He's in the office.
+Jorda er kald. | La terre est froide. | The ground is cold.
+Hele kroppen gjør vondt. | Tout le corps me fait mal. | My whole body hurts.
+Jeg greier det selv. | Je m'en sors tout seul. | I can manage it myself.
+Hun åpna munnen. | Elle a ouvert la bouche. | She opened her mouth.
+Onkelen min har en båt. | Mon oncle a un bateau. | My uncle has a boat.
+Vannet er dypt og kaldt. | L'eau est profonde et froide. | The water is deep and cold.
+Han er for lat til å jobbe. | Il est trop paresseux pour travailler. | He's too lazy to work.
+Himmelen er stor her. | Le ciel est grand ici. | The sky is big here.
+Han fylte bilen. | Il a fait le plein. | He filled up the car.
+Hun banker på døra. | Elle frappe à la porte. | She's knocking on the door.
+Han inviterte hele familien. | Il a invité toute la famille. | He invited the whole family.
+Katten vår er svart. | Notre chat est noir. | Our cat is black.
+Svart kaffe, takk. | Un café noir, merci. | Black coffee, please.
+Et stykke til, takk. | Encore un morceau, merci. | One more piece, please.
+Gi meg et lite stykke. | Donne-moi un petit morceau. | Give me a small piece.

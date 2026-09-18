@@ -1,0 +1,535 @@
+# Essentiels : nombres, jours, mois, heure, mesures, directions, expressions
+@level 300
+
+@theme tall Numbers and time
+Jeg har null kroner. | J'ai zéro couronne. | I have zero kroner.
+Det er null grader ute. | Il fait zéro degré dehors. | It's zero degrees outside.
+Nummeret mitt begynner med null. | Mon numéro commence par zéro. | My number starts with zero.
+Null, en, to, tre{tre_num}, fire, fem. | Zéro, un, deux, trois, quatre, cinq. | Zero, one, two, three, four, five.
+Vi har bare null eller en sjanse. | Nous n'avons que zéro ou une chance. | We have zero or one chance.
+Jeg har en{en_num} bror og to søstre. | J'ai un frère et deux sœurs. | I have one brother and two sisters.
+Vent ett{en_num} minutt! | Attends une minute ! | Wait one minute!
+Jeg har bare ett barn. | Je n'ai qu'un enfant. | I only have one child.
+Klokka er en{en_num}. | Il est une heure. | It's one o'clock.
+Vi er tre{tre_num} i familien. | Nous sommes trois dans la famille. | There are three of us in the family.
+Jeg jobber tre{tre_num} dager i uka. | Je travaille trois jours par semaine. | I work three days a week.
+Hun har tre{tre_num} barn. | Elle a trois enfants. | She has three children.
+Klokka er fire. | Il est quatre heures. | It's four o'clock.
+Vi er fire personer. | Nous sommes quatre personnes. | We are four people.
+Jeg har bodd her i fire år. | J'habite ici depuis quatre ans. | I've lived here for four years.
+Det tar fire timer til *Oslo. | Il faut quatre heures jusqu'à Oslo. | It takes four hours to Oslo.
+Jeg har fire timer igjen. | Il me reste quatre heures. | I have four hours left.
+Klokka er seks. | Il est six heures. | It's six o'clock.
+Jeg står opp klokka sju. | Je me lève à sept heures. | I get up at seven.
+Det er sju dager i en uke. | Il y a sept jours dans une semaine. | There are seven days in a week.
+Barnet er sju år. | L'enfant a sept ans. | The child is seven.
+Jeg har sju timer med jobb [i dag]. | J'ai sept heures de travail aujourd'hui. | I have seven hours of work today.
+Vi spiser klokka sju. | On mange à sept heures. | We eat at seven.
+Jeg jobber åtte timer. | Je travaille huit heures. | I work eight hours.
+Klokka er åtte. | Il est huit heures. | It's eight o'clock.
+Hun er åtte år gammel. | Elle a huit ans. | She's eight years old.
+Vi kommer klokka åtte. | Nous venons à huit heures. | We're coming at eight.
+Jeg begynner klokka åtte hver dag. | Je commence à huit heures tous les jours. | I start at eight every day.
+Klokka er ni. | Il est neuf heures. | It's nine o'clock.
+Jeg har ni timer [i morgen]. | J'ai neuf heures demain. | I have nine hours tomorrow.
+Gutten er ni år. | Le garçon a neuf ans. | The boy is nine.
+Vi er ni personer på jobb. | Nous sommes neuf au travail. | There are nine of us at work.
+Hun kommer klokka ni. | Elle arrive à neuf heures. | She's coming at nine.
+Klokka er elleve. | Il est onze heures. | It's eleven o'clock.
+Jeg legger meg klokka elleve. | Je me couche à onze heures. | I go to bed at eleven.
+Han er elleve år. | Il a onze ans. | He's eleven.
+Vi har elleve dager igjen. | Il nous reste onze jours. | We have eleven days left.
+Det er elleve personer her. | Il y a onze personnes ici. | There are eleven people here.
+Klokka er tolv. | Il est midi / minuit. | It's twelve o'clock.
+Vi spiser klokka tolv. | On mange à midi. | We eat at twelve.
+Jeg har jobbet tolv timer [i dag]. | J'ai travaillé douze heures aujourd'hui. | I've worked twelve hours today.
+Hun er tretten år. | Elle a treize ans. | She's thirteen.
+Det er tretten personer i rommet. | Il y a treize personnes dans la pièce. | There are thirteen people in the room.
+Jeg har tretten kroner. | J'ai treize couronnes. | I have thirteen kroner.
+Bussen kommer om tretten minutter. | Le bus arrive dans treize minutes. | The bus comes in thirteen minutes.
+Han har bodd her i tretten år. | Il habite ici depuis treize ans. | He's lived here for thirteen years.
+Det tar fjorten dager. | Ça prend quinze jours. | It takes a fortnight.
+Hun er fjorten år. | Elle a quatorze ans. | She's fourteen.
+Vi har fjorten dager ferie. | Nous avons quatorze jours de vacances. | We have fourteen days off.
+Jeg har fjorten timer igjen. | Il me reste quatorze heures. | I have fourteen hours left.
+Om fjorten dager kommer hun. | Elle arrive dans quinze jours. | She's coming in a fortnight.
+Klokka er kvart over fem. | Il est cinq heures et quart. | It's quarter past five.
+Vent femten minutter. | Attends quinze minutes. | Wait fifteen minutes.
+Jeg er femten minutter sen. | J'ai quinze minutes de retard. | I'm fifteen minutes late.
+Han er femten år. | Il a quinze ans. | He's fifteen.
+Det tar femten minutter å gå. | Il faut quinze minutes à pied. | It takes fifteen minutes to walk.
+Vi har femten gjester [i kveld]. | Nous avons quinze invités ce soir. | We have fifteen guests tonight.
+Jenta er seksten år. | La fille a seize ans. | The girl is sixteen.
+Jeg jobber seksten timer i uka. | Je travaille seize heures par semaine. | I work sixteen hours a week.
+Vi er seksten personer. | Nous sommes seize. | There are sixteen of us.
+Klokka seksten er jeg ferdig. | À seize heures, j'ai fini. | At four p.m. I'm done.
+Det koster seksten kroner. | Ça coûte seize couronnes. | It costs sixteen kroner.
+Han er sytten år. | Il a dix-sept ans. | He's seventeen.
+Klokka sytten går bussen. | Le bus part à dix-sept heures. | The bus leaves at five p.m.
+Vi har sytten dager igjen. | Il nous reste dix-sept jours. | We have seventeen days left.
+Det er sytten personer på jobb. | Il y a dix-sept personnes au travail. | There are seventeen people at work.
+Hun kommer klokka sytten. | Elle arrive à dix-sept heures. | She's coming at five p.m.
+Når du er atten år, kan du kjøre bil. | À dix-huit ans, tu peux conduire. | When you're eighteen you can drive.
+Klokka atten spiser vi. | À dix-huit heures, on mange. | We eat at six p.m.
+Hun er atten år [i dag]! | Elle a dix-huit ans aujourd'hui ! | She's eighteen today!
+Det tar atten minutter. | Ça prend dix-huit minutes. | It takes eighteen minutes.
+Vi er atten i klassen. | Nous sommes dix-huit dans la classe. | There are eighteen of us in the class.
+Han er nitten år. | Il a dix-neuf ans. | He's nineteen.
+Klokka nitten ser vi på tv. | À dix-neuf heures, on regarde la télé. | At seven p.m. we watch TV.
+Det koster nitten kroner. | Ça coûte dix-neuf couronnes. | It costs nineteen kroner.
+Vi har nitten dager igjen. | Il nous reste dix-neuf jours. | We have nineteen days left.
+Bussen går om nitten minutter. | Le bus part dans dix-neuf minutes. | The bus leaves in nineteen minutes.
+Jeg er tjue år. | J'ai vingt ans. | I'm twenty.
+Det tar tjue minutter med bil. | Ça prend vingt minutes en voiture. | It takes twenty minutes by car.
+Klokka er tjue over fem. | Il est cinq heures vingt. | It's twenty past five.
+Vi var tjue personer på festen. | Nous étions vingt à la fête. | There were twenty of us at the party.
+Jeg har tjue kroner. | J'ai vingt couronnes. | I have twenty kroner.
+Han er tretti år. | Il a trente ans. | He's thirty.
+Det tar tretti minutter. | Ça prend trente minutes. | It takes thirty minutes.
+Jeg jobber tretti timer i uka. | Je travaille trente heures par semaine. | I work thirty hours a week.
+Vi har bodd her i tretti år. | Nous habitons ici depuis trente ans. | We've lived here for thirty years.
+Det er tretti dager i en måned. | Il y a trente jours dans un mois. | There are thirty days in a month.
+Mora mi er førti år. | Ma mère a quarante ans. | My mother is forty.
+Det tar førti minutter til *Kongsberg. | Il faut quarante minutes jusqu'à Kongsberg. | It takes forty minutes to Kongsberg.
+Jeg jobber førti timer i uka. | Je travaille quarante heures par semaine. | I work forty hours a week.
+Vi var førti personer. | Nous étions quarante. | There were forty of us.
+Det koster førti kroner. | Ça coûte quarante couronnes. | It costs forty kroner.
+Faren min er femti år. | Mon père a cinquante ans. | My father is fifty.
+Det er femti kilometer til byen. | Il y a cinquante kilomètres jusqu'à la ville. | It's fifty kilometres to town.
+Vi har femti gjester. | Nous avons cinquante invités. | We have fifty guests.
+Han har femti kroner. | Il a cinquante couronnes. | He has fifty kroner.
+Det var femti personer der. | Il y avait cinquante personnes. | There were fifty people there.
+Det er seksti minutter i en time. | Il y a soixante minutes dans une heure. | There are sixty minutes in an hour.
+Han er seksti år. | Il a soixante ans. | He's sixty.
+Det tar seksti minutter. | Ça prend soixante minutes. | It takes sixty minutes.
+Vi har seksti rom. | Nous avons soixante chambres. | We have sixty rooms.
+Hun kjører seksti på veien. | Elle roule à soixante sur la route. | She drives at sixty on the road.
+Bestemor er sytti år. | Grand-mère a soixante-dix ans. | Grandma is seventy.
+Det er sytti kilometer til *Kongsberg. | Il y a soixante-dix kilomètres jusqu'à Kongsberg. | It's seventy kilometres to Kongsberg.
+Vi kjører sytti. | On roule à soixante-dix. | We're driving at seventy.
+Det kostet sytti kroner. | Ça a coûté soixante-dix couronnes. | It cost seventy kroner.
+Han ble sytti [i år]. | Il a eu soixante-dix ans cette année. | He turned seventy this year.
+Bestefar er åtti år. | Grand-père a quatre-vingts ans. | Grandpa is eighty.
+Det er åtti kilometer til byen. | Il y a quatre-vingts kilomètres jusqu'à la ville. | It's eighty kilometres to town.
+Vi kjører åtti på veien. | On roule à quatre-vingts sur la route. | We drive at eighty on the road.
+Hun har åtti kroner. | Elle a quatre-vingts couronnes. | She has eighty kroner.
+Han ble åtti [i fjor]. | Il a eu quatre-vingts ans l'an dernier. | He turned eighty last year.
+Hun er nitti år gammel. | Elle a quatre-vingt-dix ans. | She's ninety years old.
+Det koster nitti kroner. | Ça coûte quatre-vingt-dix couronnes. | It costs ninety kroner.
+Det tar nitti minutter. | Ça prend quatre-vingt-dix minutes. | It takes ninety minutes.
+Vi har nitti rom. | Nous avons quatre-vingt-dix chambres. | We have ninety rooms.
+Det er nitti dager til jul. | Il y a quatre-vingt-dix jours avant Noël. | It's ninety days to Christmas.
+Det koster hundre kroner. | Ça coûte cent couronnes. | It costs a hundred kroner.
+Huset er over hundre år. | La maison a plus de cent ans. | The house is over a hundred years old.
+Jeg har hundre ting å gjøre. | J'ai cent choses à faire. | I have a hundred things to do.
+Det var hundre personer der. | Il y avait cent personnes. | There were a hundred people.
+Det koster tusen kroner. | Ça coûte mille couronnes. | It costs a thousand kroner.
+Tusen takk for hjelpen! | Mille mercis pour l'aide ! | Thanks a lot for the help!
+Det bor tusen personer i *Rollag. | Mille personnes habitent à Rollag. | A thousand people live in Rollag.
+Jeg har sagt det tusen ganger! | Je l'ai dit mille fois ! | I've said it a thousand times!
+Vi har tusen ting å gjøre. | On a mille choses à faire. | We have a thousand things to do.
+Det bor fem millioner i Norge. | Cinq millions de personnes vivent en Norvège. | Five million people live in Norway.
+Det koster en million. | Ça coûte un million. | It costs a million.
+Han har en million kroner. | Il a un million de couronnes. | He has a million kroner.
+Takk en million! | Merci un million de fois ! | Thanks a million!
+Det er millioner av folk der. | Il y a des millions de gens là-bas. | There are millions of people there.
+Det er andre gang jeg er her. | C'est la deuxième fois que je suis ici. | It's the second time I'm here.
+Hun bor i andre etasje. | Elle habite au deuxième étage. | She lives on the second floor.
+Det er tredje gang han ringer. | C'est la troisième fois qu'il appelle. | It's the third time he's calling.
+Jeg bor i tredje etasje. | J'habite au troisième étage. | I live on the third floor.
+Hun kom på tredje plass. | Elle est arrivée troisième. | She came third.
+Det er den tredje dagen. | C'est le troisième jour. | It's the third day.
+Tredje dag på jobb var bra. | Le troisième jour de travail était bien. | The third day at work was good.
+Det er fjerde gang [i dag]! | C'est la quatrième fois aujourd'hui ! | It's the fourth time today!
+Rommet er i fjerde etasje. | La chambre est au quatrième étage. | The room is on the fourth floor.
+Hun er fjerde barn i familien. | Elle est le quatrième enfant de la famille. | She's the fourth child in the family.
+Fjerde dag var lang. | Le quatrième jour a été long. | The fourth day was long.
+Det er den fjerde uka. | C'est la quatrième semaine. | It's the fourth week.
+Det er femte gang jeg sier det. | C'est la cinquième fois que je le dis. | It's the fifth time I've said it.
+Hun bor i femte etasje. | Elle habite au cinquième étage. | She lives on the fifth floor.
+Han kom på femte plass. | Il est arrivé cinquième. | He came fifth.
+Det er den femte dagen. | C'est le cinquième jour. | It's the fifth day.
+Femte uke på jobb. | Cinquième semaine au travail. | Fifth week at work.
+Det tar halvannen time. | Ça prend une heure et demie. | It takes an hour and a half.
+Jeg har venta i halvannen time. | J'ai attendu une heure et demie. | I've waited an hour and a half.
+Vi har bodd her i halvannet år. | Nous habitons ici depuis un an et demi. | We've lived here for a year and a half.
+Det tar halvannen time til *Oslo. | Il faut une heure et demie jusqu'à Oslo. | It takes an hour and a half to Oslo.
+Jeg kommer om halvannen time. | J'arrive dans une heure et demie. | I'll be there in an hour and a half.
+Klokka er kvart på seks. | Il est six heures moins le quart. | It's quarter to six.
+Jeg kommer om et kvarter. | J'arrive dans un quart d'heure. | I'll be there in a quarter of an hour.
+Klokka er kvart over ni. | Il est neuf heures et quart. | It's quarter past nine.
+Vi begynner kvart på åtte. | On commence à huit heures moins le quart. | We start at quarter to eight.
+Bussen går kvart over sju. | Le bus part à sept heures et quart. | The bus leaves at quarter past seven.
+Hun kommer kvart over fire. | Elle arrive à quatre heures et quart. | She's coming at quarter past four.
+Vi møtes kvart på tolv. | On se retrouve à midi moins le quart. | We meet at quarter to twelve.
+Klokka er kvart på ni. | Il est neuf heures moins le quart. | It's quarter to nine.
+Jeg slutter kvart på fem. | Je finis à cinq heures moins le quart. | I finish at quarter to five.
+Klokka er halv{halv_num} ni. | Il est huit heures et demie. | It's half past eight.
+Vi spiser halv{halv_num} seks. | On mange à cinq heures et demie. | We eat at half past five.
+Jeg står opp halv{halv_num} sju. | Je me lève à six heures et demie. | I get up at half past six.
+Hun kommer halv{halv_num} fire. | Elle arrive à trois heures et demie. | She's coming at half past three.
+[Hvor mye er klokka]? | Quelle heure est-il ? | What time is it?
+[Hvor mye er klokka] nå? | Quelle heure est-il maintenant ? | What time is it now?
+Unnskyld, [hvor mye er klokka]? | Pardon, quelle heure est-il ? | Excuse me, what time is it?
+Vet du [hvor mye er klokka]? | Tu sais quelle heure il est ? | Do you know what time it is?
+[Hvor mye er klokka]? Klokka er ti. | Quelle heure est-il ? Il est dix heures. | What time is it? It's ten.
+
+@theme dager Days and months
+[I dag] er det mandag. | Aujourd'hui, c'est lundi. | Today is Monday.
+Jeg begynner på mandag. | Je commence lundi. | I start on Monday.
+Hver mandag jobber jeg tidlig. | Tous les lundis, je travaille tôt. | Every Monday I work early.
+Vi ses på mandag! | On se voit lundi ! | See you on Monday!
+Mandag er en lang dag. | Le lundi est une longue journée. | Monday is a long day.
+På tirsdag har jeg fri. | Mardi, je suis en congé. | On Tuesday I'm off.
+Hver tirsdag spiller jeg fotball. | Tous les mardis, je joue au foot. | Every Tuesday I play football.
+Kommer du på tirsdag? | Tu viens mardi ? | Are you coming on Tuesday?
+Tirsdag kveld er jeg hjemme. | Mardi soir, je suis à la maison. | Tuesday evening I'm at home.
+Møtet er på tirsdag. | La réunion est mardi. | The meeting is on Tuesday.
+[I dag] er det onsdag. | Aujourd'hui, c'est mercredi. | Today is Wednesday.
+Hun kommer på onsdag. | Elle vient mercredi. | She's coming on Wednesday.
+Onsdag er midt i uka. | Mercredi est au milieu de la semaine. | Wednesday is the middle of the week.
+Vi har møte hver onsdag. | Nous avons réunion tous les mercredis. | We have a meeting every Wednesday.
+Jeg jobber ikke på onsdag. | Je ne travaille pas mercredi. | I don't work on Wednesday.
+På torsdag drar vi til *Oslo. | Jeudi, on va à Oslo. | On Thursday we're going to Oslo.
+Torsdag er min fridag. | Le jeudi est mon jour de congé. | Thursday is my day off.
+Kan vi møtes på torsdag? | On peut se voir jeudi ? | Can we meet on Thursday?
+Jeg ringer deg på torsdag. | Je t'appelle jeudi. | I'll call you on Thursday.
+Torsdag kveld spiser vi ute. | Jeudi soir, on mange dehors. | Thursday evening we eat out.
+Endelig er det fredag! | Enfin vendredi ! | Finally it's Friday!
+På fredag har vi fest. | Vendredi, on fait la fête. | On Friday we're having a party.
+Fredag kveld er jeg ferdig. | Vendredi soir, j'ai fini. | Friday evening I'm done.
+Jeg jobber til fredag. | Je travaille jusqu'à vendredi. | I work until Friday.
+Hva gjør du på fredag? | Qu'est-ce que tu fais vendredi ? | What are you doing on Friday?
+På lørdag skal vi på tur. | Samedi, on part en balade. | On Saturday we're going on a trip.
+Jeg jobber lørdag og søndag. | Je travaille samedi et dimanche. | I work Saturday and Sunday.
+Lørdag er en god dag. | Le samedi est un bon jour. | Saturday is a good day.
+Hva skal du gjøre på lørdag? | Qu'est-ce que tu fais samedi ? | What are you doing on Saturday?
+På søndag sover jeg lenge. | Dimanche, je fais la grasse matinée. | On Sunday I sleep in.
+Søndag er for familien. | Le dimanche, c'est pour la famille. | Sunday is for the family.
+Butikken er stengt på søndag. | Le magasin est fermé le dimanche. | The shop is closed on Sunday.
+Vi ses på søndag! | On se voit dimanche ! | See you on Sunday!
+Søndag kveld er jeg trøtt. | Dimanche soir, je suis fatigué. | Sunday evening I'm tired.
+Hva gjorde du [i går]? | Qu'est-ce que tu as fait hier ? | What did you do yesterday?
+Jeg jobba [i går] og [i forgårs]. | J'ai travaillé hier et avant-hier. | I worked yesterday and the day before.
+Han kom [i forgårs]. | Il est arrivé avant-hier. | He came the day before yesterday.
+[I forgårs] var det søndag. | Avant-hier, c'était dimanche. | The day before yesterday was Sunday.
+Jeg så ham [i forgårs]. | Je l'ai vu avant-hier. | I saw him the day before yesterday.
+Vi snakka [i forgårs]. | On a parlé avant-hier. | We talked the day before yesterday.
+[I overmorgen] har jeg fri. | Après-demain, je suis en congé. | The day after tomorrow I'm off.
+Vi drar [i overmorgen]. | Nous partons après-demain. | We're leaving the day after tomorrow.
+Hun kommer [i overmorgen]. | Elle arrive après-demain. | She's coming the day after tomorrow.
+Jeg ringer deg [i overmorgen]. | Je t'appelle après-demain. | I'll call you the day after tomorrow.
+Er møtet [i morgen] eller [i overmorgen]? | La réunion, c'est demain ou après-demain ? | Is the meeting tomorrow or the day after?
+Jeg sov dårlig [i natt]. | J'ai mal dormi cette nuit. | I slept badly last night.
+Hva skjedde [i natt]? | Que s'est-il passé cette nuit ? | What happened last night?
+Jeg har ikke spist [i morges]. | Je n'ai pas mangé ce matin. | I haven't eaten this morning.
+Han ringte [i morges]. | Il a appelé ce matin. | He called this morning.
+Jeg kom [i morges]. | Je suis arrivé ce matin. | I arrived this morning.
+[I morges] var det kaldt. | Ce matin, il faisait froid. | This morning it was cold.
+Hva har du gjort [i år]? | Qu'est-ce que tu as fait cette année ? | What have you done this year?
+[I år] skal jeg lære norsk. | Cette année, je vais apprendre le norvégien. | This year I'm going to learn Norwegian.
+Vi flytta hit [i år]. | Nous avons déménagé ici cette année. | We moved here this year.
+[I år] har jeg jobbet mye. | Cette année, j'ai beaucoup travaillé. | This year I've worked a lot.
+[I fjor] bodde jeg i *Lyon. | L'an dernier, j'habitais à Lyon. | Last year I lived in Lyon.
+[I fjor] var jeg ikke her. | L'an dernier, je n'étais pas ici. | Last year I wasn't here.
+Jeg er født i januar. | Je suis né en janvier. | I was born in January.
+I januar er det veldig kaldt. | En janvier, il fait très froid. | In January it's very cold.
+Vi begynner i januar. | On commence en janvier. | We start in January.
+Januar er en mørk måned. | Janvier est un mois sombre. | January is a dark month.
+Hun kom hit i januar. | Elle est arrivée ici en janvier. | She came here in January.
+I februar er det mye snø. | En février, il y a beaucoup de neige. | In February there's a lot of snow.
+Februar er kort{kort_adj}. | Février est court. | February is short.
+Bursdagen min er i februar. | Mon anniversaire est en février. | My birthday is in February.
+Vi har ferie i februar. | Nous avons des vacances en février. | We have a holiday in February.
+Han flytter i februar. | Il déménage en février. | He's moving in February.
+I mars kommer lyset tilbake. | En mars, la lumière revient. | In March the light comes back.
+Jeg begynner på ny jobb i mars. | Je commence un nouveau travail en mars. | I start a new job in March.
+Det snør fortsatt i mars. | Il neige encore en mars. | It still snows in March.
+Vi ses i mars. | On se voit en mars. | See you in March.
+Mars er en fin måned. | Mars est un beau mois. | March is a nice month.
+I april er det ofte fint. | En avril, il fait souvent beau. | In April it's often nice.
+Snøen blir borte i april. | La neige disparaît en avril. | The snow goes away in April.
+Hun er født i april. | Elle est née en avril. | She was born in April.
+Vi kom til Norge i april. | Nous sommes arrivés en Norvège en avril. | We came to Norway in April.
+I april blir det varmere. | En avril, il fait plus chaud. | In April it gets warmer.
+Mai er en vakker måned. | Mai est un beau mois. | May is a beautiful month.
+I mai er det fest i hele Norge. | En mai, c'est la fête dans toute la Norvège. | In May there's a celebration all over Norway.
+I mai blir alt grønt. | En mai, tout devient vert. | In May everything turns green.
+Jeg har fri i mai. | Je suis en congé en mai. | I'm off in May.
+Vi gifta oss i mai. | Nous nous sommes mariés en mai. | We got married in May.
+I juni er det lyst{lys_adj} hele natta. | En juin, il fait jour toute la nuit. | In June it's light all night.
+Skolen slutter i juni. | L'école finit en juin. | School ends in June.
+Vi drar til Frankrike i juni. | On va en France en juin. | We're going to France in June.
+Juni er min måned. | Juin est mon mois. | June is my month.
+Hun kommer i juni. | Elle vient en juin. | She's coming in June.
+I juli har vi ferie. | En juillet, nous avons des vacances. | In July we're on holiday.
+Juli er varm. | Juillet est chaud. | July is warm.
+Mange folk er borte i juli. | Beaucoup de gens sont partis en juillet. | Lots of people are away in July.
+Restauranten er full i juli. | Le restaurant est plein en juillet. | The restaurant is full in July.
+Vi jobber mye i juli. | Nous travaillons beaucoup en juillet. | We work a lot in July.
+I august begynner skolen. | En août, l'école commence. | In August school starts.
+Vi kommer hjem i august. | Nous rentrons en août. | We're coming home in August.
+August er fin i Norge. | Août est beau en Norvège. | August is nice in Norway.
+Jeg er født i august. | Je suis né en août. | I was born in August.
+Han begynte her i august. | Il a commencé ici en août. | He started here in August.
+I september blir det kaldere. | En septembre, il fait plus froid. | In September it gets colder.
+Nå er det september. | Maintenant, c'est septembre. | Now it's September.
+Vi flytta hit i september. | Nous avons déménagé ici en septembre. | We moved here in September.
+Jeg begynte på kurs i september. | J'ai commencé un cours en septembre. | I started a course in September.
+September er en fin måned. | Septembre est un beau mois. | September is a nice month.
+I oktober kommer høsten. | En octobre arrive l'automne. | In October autumn comes.
+Oktober er mørk og våt. | Octobre est sombre et humide. | October is dark and wet.
+Hun kommer tilbake i oktober. | Elle revient en octobre. | She's coming back in October.
+Vi har mye å gjøre i oktober. | Nous avons beaucoup à faire en octobre. | We have a lot to do in October.
+Bursdagen hans er i oktober. | Son anniversaire est en octobre. | His birthday is in October.
+I november er det mørkt. | En novembre, il fait sombre. | In November it's dark.
+November er en lang måned. | Novembre est un long mois. | November is a long month.
+Den første snøen kommer i november. | La première neige arrive en novembre. | The first snow comes in November.
+Jeg har ferie i november. | J'ai des vacances en novembre. | I have a holiday in November.
+Vi ses i november. | On se voit en novembre. | See you in November.
+I desember er det jul. | En décembre, c'est Noël. | In December it's Christmas.
+Desember er mørk og kald. | Décembre est sombre et froid. | December is dark and cold.
+Hele familien kommer i desember. | Toute la famille vient en décembre. | The whole family comes in December.
+Vi jobber mye i desember. | Nous travaillons beaucoup en décembre. | We work a lot in December.
+Jeg drar hjem i desember. | Je rentre chez moi en décembre. | I'm going home in December.
+Vinteren er lang her. | L'hiver est long ici. | Winter is long here.
+Om vinteren går jeg på ski. | En hiver, je fais du ski. | In winter I go skiing.
+Det er kaldt om vinteren. | Il fait froid en hiver. | It's cold in winter.
+Vinteren kommer tidlig i *Numedal. | L'hiver arrive tôt dans le Numedal. | Winter comes early in Numedal.
+Jeg liker vinteren. | J'aime l'hiver. | I like winter.
+Våren kommer sent i fjellet. | Le printemps arrive tard en montagne. | Spring comes late in the mountains.
+Om våren blir alt grønt. | Au printemps, tout devient vert. | In spring everything turns green.
+Vi flytter til våren. | Nous déménageons au printemps. | We're moving in the spring.
+Våren er fin her. | Le printemps est beau ici. | Spring is nice here.
+Jeg venter på våren. | J'attends le printemps. | I'm waiting for spring.
+Sommeren er kort{kort_adj}, men fin. | L'été est court, mais beau. | Summer is short but nice.
+Om sommeren er det lyst{lys_adj} lenge. | En été, il fait jour longtemps. | In summer it's light for a long time.
+Vi har ferie om sommeren. | Nous avons des vacances en été. | We have holidays in summer.
+Sommeren var varm [i år]. | L'été a été chaud cette année. | The summer was warm this year.
+Hva gjør du i sommer? | Qu'est-ce que tu fais cet été ? | What are you doing this summer?
+Om høsten blir det mørkt. | En automne, il fait sombre. | In autumn it gets dark.
+Høsten er fin i *Numedal. | L'automne est beau dans le Numedal. | Autumn is nice in Numedal.
+Til høsten begynner jeg på kurs. | À l'automne, je commence un cours. | In the autumn I'm starting a course.
+Jeg liker høsten. | J'aime l'automne. | I like autumn.
+Høsten kom tidlig [i år]. | L'automne est arrivé tôt cette année. | Autumn came early this year.
+
+@theme vinter Winter
+Det er mye snø [i år]. | Il y a beaucoup de neige cette année. | There's a lot of snow this year.
+Snøen kom [i natt]. | La neige est tombée cette nuit. | The snow came last night.
+Barna leker i snøen. | Les enfants jouent dans la neige. | The children are playing in the snow.
+Vi må ta bort snøen. | On doit enlever la neige. | We have to clear the snow.
+Snøen ligger lenge her. | La neige reste longtemps ici. | The snow stays a long time here.
+Det snør! | Il neige ! | It's snowing!
+Det snødde hele natta. | Il a neigé toute la nuit. | It snowed all night.
+Det skal snø [i morgen]. | Il va neiger demain. | It's going to snow tomorrow.
+Snør det mye her? | Il neige beaucoup ici ? | Does it snow a lot here?
+Det har snødd i to dager. | Il neige depuis deux jours. | It's been snowing for two days.
+Det er is på veien. | Il y a de la glace sur la route. | There's ice on the road.
+Vil du ha is? | Tu veux une glace ? | Do you want some ice cream?
+Barna vil ha is. | Les enfants veulent une glace. | The children want ice cream.
+Isen er glatt. | La glace est glissante. | The ice is slippery.
+Pass på isen! | Attention à la glace ! | Watch out for the ice!
+Kulda kom tidlig [i år]. | Le froid est arrivé tôt cette année. | The cold came early this year.
+Jeg liker ikke kulda. | Je n'aime pas le froid. | I don't like the cold.
+Kulda er hard her. | Le froid est rude ici. | The cold is hard here.
+Kulda varer lenge. | Le froid dure longtemps. | The cold lasts a long time.
+Hvordan tåler du kulda? | Comment tu supportes le froid ? | How do you cope with the cold?
+Det er minus ti grader ute. | Il fait moins dix dehors. | It's minus ten outside.
+Det var minus tjue [i natt]. | Il faisait moins vingt cette nuit. | It was minus twenty last night.
+Om vinteren er det ofte minus. | En hiver, il fait souvent moins. | In winter it's often below zero.
+Minus fem er ikke så kaldt. | Moins cinq, ce n'est pas si froid. | Minus five isn't that cold.
+Det blir minus [i morgen]. | Il fera moins demain. | It'll be below zero tomorrow.
+
+@theme veien Directions
+Gå [til venstre] ved kirka. | Tourne à gauche à l'église. | Turn left at the church.
+Det er døra [til venstre]. | C'est la porte à gauche. | It's the door on the left.
+Kjør [til venstre] etter huset. | Tourne à gauche après la maison. | Turn left after the house.
+Rommet er [til venstre]. | La chambre est à gauche. | The room is on the left.
+Den venstre hånda er kald. | La main gauche est froide. | The left hand is cold.
+Jeg har vondt i venstre fot. | J'ai mal au pied gauche. | My left foot hurts.
+Han sitter på venstre side. | Il est assis à gauche. | He's sitting on the left.
+Venstre dør, takk. | La porte de gauche, merci. | The left door, please.
+Hun bruker venstre hånd. | Elle utilise la main gauche. | She uses her left hand.
+Gå [til høyre] etter døra. | Tourne à droite après la porte. | Turn right after the door.
+Det er [til høyre]. | C'est à droite. | It's on the right.
+Kjør [til høyre] ved *Rollag. | Tourne à droite à Rollag. | Turn right at Rollag.
+Huset er [til høyre]. | La maison est à droite. | The house is on the right.
+Toalettet er [til høyre]. | Les toilettes sont à droite. | The toilet is on the right.
+Den høyre døra er min. | La porte de droite est la mienne. | The right-hand door is mine.
+Jeg bruker høyre hånd. | J'utilise la main droite. | I use my right hand.
+Han sitter på høyre side. | Il est assis à droite. | He's sitting on the right.
+Jeg har vondt i høyre arm. | J'ai mal au bras droit. | My right arm hurts.
+Høyre eller venstre? | À droite ou à gauche ? | Right or left?
+Kjør [rett fram] til byen. | Roule tout droit jusqu'à la ville. | Drive straight on to the town.
+Det er [rett fram] og [til venstre]. | C'est tout droit puis à gauche. | It's straight ahead and to the left.
+Gå [rett fram] og så [til høyre]. | Va tout droit puis à droite. | Go straight ahead and then right.
+Bare gå [rett fram]! | Va juste tout droit ! | Just go straight ahead!
+
+@theme mengde Measures
+En kilo poteter, takk. | Un kilo de pommes de terre, s'il vous plaît. | A kilo of potatoes, please.
+Hvor mye koster en kilo? | Combien coûte un kilo ? | How much is a kilo?
+Det er to kilo. | Ça fait deux kilos. | That's two kilos.
+Den er fem kilo. | Il fait cinq kilos. | It weighs five kilos.
+Jeg har gått ned tre{tre_num} kilo. | J'ai perdu trois kilos. | I've lost three kilos.
+Hundre gram smør. | Cent grammes de beurre. | A hundred grams of butter.
+Det er fem hundre gram. | Ça fait cinq cents grammes. | That's five hundred grams.
+Ta to hundre gram. | Prends deux cents grammes. | Take two hundred grams.
+Hvor mange gram? | Combien de grammes ? | How many grams?
+Det er ti gram sukker. | Il y a dix grammes de sucre. | There's ten grams of sugar.
+En liter melk, takk. | Un litre de lait, s'il vous plaît. | A litre of milk, please.
+Jeg drikker to liter vann hver dag. | Je bois deux litres d'eau par jour. | I drink two litres of water a day.
+Hvor mange liter? | Combien de litres ? | How many litres?
+Det er fem liter. | Ça fait cinq litres. | That's five litres.
+Vi trenger ti liter. | Nous avons besoin de dix litres. | We need ten litres.
+Det er hundre meter til butikken. | Le magasin est à cent mètres. | The shop is a hundred metres away.
+Han er to meter høy. | Il mesure deux mètres. | He's two metres tall.
+Gå ti meter til. | Avance encore de dix mètres. | Go ten more metres.
+Hvor mange meter er det? | Ça fait combien de mètres ? | How many metres is it?
+Rommet er fem meter langt. | La pièce fait cinq mètres de long. | The room is five metres long.
+Det er ti prosent. | C'est dix pour cent. | It's ten per cent.
+Hundre prosent sikker! | Sûr à cent pour cent ! | A hundred per cent sure!
+Jeg jobber åtti prosent. | Je travaille à quatre-vingts pour cent. | I work eighty per cent.
+Hun jobber femti prosent. | Elle travaille à cinquante pour cent. | She works fifty per cent.
+Det er femti prosent av prisen. | C'est cinquante pour cent du prix. | It's fifty per cent of the price.
+
+@theme folk Meeting people
+Jeg snakker norsk og fransk. | Je parle norvégien et français. | I speak Norwegian and French.
+Snakker du fransk? | Tu parles français ? | Do you speak French?
+Mamma snakker bare fransk. | Maman ne parle que français. | Mum only speaks French.
+Hun er fransk. | Elle est française. | She's French.
+Snakker du engelsk? | Tu parles anglais ? | Do you speak English?
+Jeg snakker litt engelsk. | Je parle un peu anglais. | I speak a little English.
+Kan vi snakke engelsk? | On peut parler anglais ? | Can we speak English?
+Han snakker godt engelsk. | Il parle bien anglais. | He speaks English well.
+Si det på engelsk. | Dis-le en anglais. | Say it in English.
+Jeg bor i Norge nå. | J'habite en Norvège maintenant. | I live in Norway now.
+Hvor lenge har du vært i Norge? | Depuis combien de temps es-tu en Norvège ? | How long have you been in Norway?
+Norge er et fint land. | La Norvège est un beau pays. | Norway is a nice country.
+Jeg liker å bo i Norge. | J'aime vivre en Norvège. | I like living in Norway.
+Familien min er i Frankrike. | Ma famille est en France. | My family is in France.
+Jeg drar til Frankrike i sommer. | Je vais en France cet été. | I'm going to France this summer.
+Har du vært i Frankrike? | Tu es allé en France ? | Have you been to France?
+[Ha det]! Vi ses. | Salut ! À plus. | Bye! See you.
+[Ha det], jeg må gå. | Salut, je dois y aller. | Bye, I have to go.
+[Ha det], og takk for hjelpen! | Au revoir, et merci pour l'aide ! | Bye, and thanks for the help!
+[Ha det], vi snakkes! | Salut, on se parle ! | Bye, talk soon!
+[Ha det bra], og lykke til! | Au revoir, et bonne chance ! | Take care, and good luck!
+[Ha det bra] i Frankrike! | Bon séjour en France ! | Have a good time in France!
+[Ha det bra], vi ses [i morgen]. | Au revoir, à demain. | Take care, see you tomorrow.
+[Ha det bra], mamma! | Au revoir, maman ! | Bye, Mum!
+[Vi ses] [i kveld]! | À ce soir ! | See you tonight!
+[Vi ses] på jobb. | On se voit au travail. | See you at work.
+[God morgen], alle sammen! | Bonjour tout le monde ! | Good morning, everyone!
+[God morgen], hvordan går det? | Bonjour, comment ça va ? | Good morning, how are you?
+[God morgen], sjef! | Bonjour, chef ! | Good morning, boss!
+[God morgen], er du klar? | Bonjour, tu es prêt ? | Good morning, are you ready?
+[God dag], jeg heter *Anne. | Bonjour, je m'appelle Anne. | Good day, my name is Anne.
+[God dag], kan jeg hjelpe deg? | Bonjour, je peux vous aider ? | Good day, can I help you?
+[God dag] og velkommen! | Bonjour et bienvenue ! | Good day and welcome!
+[God dag], hva kan jeg gjøre for deg? | Bonjour, que puis-je faire pour vous ? | Good day, what can I do for you?
+[God dag], jeg ringer om jobben. | Bonjour, j'appelle pour le travail. | Good day, I'm calling about the job.
+[God kveld]! Vil dere sitte her? | Bonsoir ! Vous voulez vous asseoir ici ? | Good evening! Would you like to sit here?
+[God kveld], og velkommen! | Bonsoir, et bienvenue ! | Good evening, and welcome!
+[God kveld], hvordan går det? | Bonsoir, comment ça va ? | Good evening, how are you?
+[God kveld], har dere bestilt? | Bonsoir, vous avez réservé ? | Good evening, have you booked?
+[God kveld] til alle! | Bonsoir à tous ! | Good evening, everyone!
+[God natt], vi ses [i morgen]. | Bonne nuit, à demain. | Good night, see you tomorrow.
+[God natt], barn! | Bonne nuit, les enfants ! | Good night, children!
+Si [god natt] til pappa. | Dis bonne nuit à papa. | Say good night to Dad.
+[Takk for maten], det var godt! | Merci pour le repas, c'était bon ! | Thanks for the meal, it was good!
+[Takk for maten], mamma! | Merci pour le repas, maman ! | Thanks for the meal, Mum!
+Barna sier [takk for maten]. | Les enfants disent merci pour le repas. | The children say thanks for the meal.
+Husk å si [takk for maten]. | N'oublie pas de dire merci pour le repas. | Remember to say thanks for the meal.
+[Takk for maten]! [Velkommen] skal du være. | Merci pour le repas ! Je t'en prie. | Thanks for the meal! You're welcome.
+Kan du hjelpe meg, [vær så snill]? | Tu peux m'aider, s'il te plaît ? | Can you help me, please?
+[Vær så snill], snakk litt saktere. | S'il te plaît, parle un peu plus lentement. | Please speak a bit more slowly.
+[Vær så snill], kom hit. | S'il te plaît, viens ici. | Please come here.
+Gi meg den, [vær så snill]. | Donne-le-moi, s'il te plaît. | Give it to me, please.
+[Vær så snill], vent litt. | S'il te plaît, attends un peu. | Please wait a bit.
+[Værsågod], her er maten. | Voilà, voici le repas. | Here you are, here's the food.
+[Værsågod], sett deg! | Je t'en prie, assieds-toi ! | Please, sit down!
+[Værsågod], det er til deg. | Tiens, c'est pour toi. | Here you go, it's for you.
+Maten er klar, [værsågod]! | Le repas est prêt, servez-vous ! | Dinner's ready, help yourselves!
+[Værsågod], kom inn! | Je vous en prie, entrez ! | Please, come in!
+[Takk skal du ha]! | Merci beaucoup ! | Thank you very much!
+[Takk skal du ha] for hjelpen. | Merci beaucoup pour l'aide. | Thank you very much for the help.
+Det var snilt, [takk skal du ha]. | C'était gentil, merci beaucoup. | That was kind, thank you very much.
+[Takk skal du ha], det var godt. | Merci beaucoup, c'était bon. | Thank you very much, it was good.
+[Takk skal du ha], vi ses! | Merci beaucoup, à plus ! | Thanks a lot, see you!
+[Tusen takk] for i dag! | Merci beaucoup pour aujourd'hui ! | Thanks a lot for today!
+[Tusen takk], det var snilt. | Mille mercis, c'était gentil. | Thanks so much, that was kind.
+[Tusen takk] for gaven! | Mille mercis pour le cadeau ! | Thanks a lot for the present!
+[Tusen takk] for maten! | Merci beaucoup pour le repas ! | Thanks a lot for the food!
+[Tusen takk] for alt! | Merci pour tout ! | Thanks for everything!
+Takk! – [Ingen årsak]. | Merci ! – De rien. | Thanks! – You're welcome.
+[Ingen årsak], det var lite. | De rien, ce n'était rien. | You're welcome, it was nothing.
+[Ingen årsak], jeg hjelper gjerne. | De rien, j'aide volontiers. | Not at all, I'm happy to help.
+Tusen takk! – [Ingen årsak]! | Mille mercis ! – De rien ! | Thanks so much! – You're welcome!
+[Ingen årsak], vi ses! | De rien, à plus ! | You're welcome, see you!
+[Velkommen] til Norge! | Bienvenue en Norvège ! | Welcome to Norway!
+[Velkommen] til oss! | Bienvenue chez nous ! | Welcome to our place!
+[Velkommen] til *Rollag! | Bienvenue à Rollag ! | Welcome to Rollag!
+Hei, [hvordan går det]? | Salut, comment ça va ? | Hi, how's it going?
+[Hvordan går det] på jobben? | Comment ça va au travail ? | How's it going at work?
+[Hvordan går det] med familien? | Comment va la famille ? | How's the family?
+[Hvordan går det] med norsk? | Comment ça va avec le norvégien ? | How's your Norwegian going?
+[Bare bra], takk! | Ça va bien, merci ! | Fine, thanks!
+[Bare bra], og med deg? | Ça va bien, et toi ? | Fine, and you?
+Hvordan har du det? – [Bare bra]. | Comment vas-tu ? – Bien. | How are you? – Fine.
+[Bare bra], takk som spør. | Ça va, merci de demander. | Fine, thanks for asking.
+Det går [bare bra]. | Ça va très bien. | It's going just fine.
+[Jeg forstår ikke] hva du sier. | Je ne comprends pas ce que tu dis. | I don't understand what you're saying.
+[Jeg forstår ikke] det ordet. | Je ne comprends pas ce mot. | I don't understand that word.
+Beklager, [jeg forstår ikke] norsk så godt. | Désolé, je ne comprends pas très bien le norvégien. | Sorry, I don't understand Norwegian very well.
+[Jeg forstår ikke], kan du si det igjen? | Je ne comprends pas, tu peux répéter ? | I don't understand, can you say it again?
+[Kan du si det igjen], takk? | Tu peux répéter, s'il te plaît ? | Can you say that again, please?
+Unnskyld, [kan du si det igjen]? | Pardon, tu peux répéter ? | Sorry, can you say that again?
+[Kan du si det igjen] litt saktere? | Tu peux le redire un peu plus lentement ? | Can you say it again a bit more slowly?
+[Kan du si det igjen]? Jeg hørte ikke. | Tu peux répéter ? Je n'ai pas entendu. | Can you say it again? I didn't hear.
+Hva? [Kan du si det igjen]? | Quoi ? Tu peux répéter ? | What? Can you say that again?
+[Snakk sakte], takk. | Parle lentement, s'il te plaît. | Speak slowly, please.
+[Snakk sakte], jeg er ny her. | Parle lentement, je suis nouveau ici. | Speak slowly, I'm new here.
+[Snakk sakte], så forstår jeg. | Parle lentement, comme ça je comprends. | Speak slowly and I'll understand.
+[Snakk sakte], [vær så snill]. | Parle lentement, s'il te plaît. | Speak slowly, please.
+Hei, [hva heter du]? | Salut, comment tu t'appelles ? | Hi, what's your name?
+[Hva heter du]? Jeg heter *Ole. | Comment tu t'appelles ? Je m'appelle Ole. | What's your name? I'm Ole.
+[Hva heter du], og hvor kommer du fra? | Comment tu t'appelles, et d'où viens-tu ? | What's your name, and where are you from?
+[Hva heter du] på norsk? | Comment tu t'appelles en norvégien ? | What's your name in Norwegian?
+Hei, [jeg heter] *Marie. | Salut, je m'appelle Marie. | Hi, my name is Marie.
+[Jeg heter] *Paul, og jeg er fra Frankrike. | Je m'appelle Paul et je suis français. | I'm Paul, and I'm from France.
+[Jeg heter] *Tom. Og du? | Je m'appelle Tom. Et toi ? | I'm Tom. And you?
+[Jeg heter] *Lise, jeg er ny her. | Je m'appelle Lise, je suis nouvelle ici. | My name is Lise, I'm new here.
+[Unnskyld meg], kan jeg komme forbi? | Excusez-moi, je peux passer ? | Excuse me, can I get past?
+[Unnskyld meg], hvor er toalettet? | Excusez-moi, où sont les toilettes ? | Excuse me, where is the toilet?
+[Unnskyld meg], er denne plassen ledig? | Excusez-moi, cette place est libre ? | Excuse me, is this seat free?
+[Unnskyld meg], jeg må gå. | Excusez-moi, je dois y aller. | Excuse me, I have to go.
+[Unnskyld meg], er du *Per? | Excusez-moi, vous êtes Per ? | Excuse me, are you Per?
+[Selv om] det er kaldt, går vi ut. | Même s'il fait froid, on sort. | Even though it's cold, we're going out.
+[Selv om] jeg er trøtt, jobber jeg. | Même si je suis fatigué, je travaille. | Even though I'm tired, I work.
+Jeg kommer, [selv om] jeg er sen. | Je viens, même si je suis en retard. | I'm coming, even if I'm late.
+[Selv om] det er vanskelig, prøver jeg. | Même si c'est difficile, j'essaie. | Even though it's difficult, I try.
+Hun smiler, [selv om] hun er lei seg. | Elle sourit, même si elle est triste. | She smiles, even though she's sad.
+Jeg liker norsk mat, [for eksempel] fisk. | J'aime la cuisine norvégienne, par exemple le poisson. | I like Norwegian food, for example fish.
+Du kan [for eksempel] ringe ham. | Tu peux par exemple l'appeler. | You could call him, for example.
+[For eksempel] kan vi møtes på fredag. | Par exemple, on peut se voir vendredi. | For example, we could meet on Friday.
+Mange ord er like, [for eksempel] «hus». | Beaucoup de mots se ressemblent, par exemple « hus ». | Many words are similar, for example "hus".
+Er alt [i orden]? | Tout va bien ? | Is everything OK?
+Det er [i orden], takk. | C'est bon, merci. | It's all right, thanks.
+Rommet er [i orden] nå. | La chambre est en ordre maintenant. | The room is in order now.
+Ja, det er helt [i orden]. | Oui, c'est tout à fait en ordre. | Yes, that's perfectly fine.
+Alt er [i orden] her. | Tout est en ordre ici. | Everything's in order here.
+Kom hit [med en gang]! | Viens ici tout de suite ! | Come here right away!
+Jeg gjør det [med en gang]. | Je le fais tout de suite. | I'll do it right away.
+Han svarte [med en gang]. | Il a répondu tout de suite. | He answered at once.
+Kan du komme [med en gang]? | Tu peux venir tout de suite ? | Can you come right away?
+Hun forsto det [med en gang]. | Elle l'a compris tout de suite. | She understood it at once.
+[Noen ganger] jobber jeg om natta. | Parfois je travaille la nuit. | Sometimes I work at night.
+[Noen ganger] er det vanskelig. | Parfois c'est difficile. | Sometimes it's difficult.
+Vi ses [noen ganger] i byen. | On se voit parfois en ville. | We sometimes see each other in town.
+[Noen ganger] forstår jeg ingenting. | Parfois je ne comprends rien. | Sometimes I don't understand anything.
+Han ringer [noen ganger]. | Il appelle parfois. | He calls sometimes.
+[Hva slags] jobb har du? | Quel genre de travail as-tu ? | What kind of job do you have?
+[Hva slags] mat liker du? | Quel genre de cuisine aimes-tu ? | What kind of food do you like?
+[Hva slags] bil har du? | Quelle sorte de voiture as-tu ? | What kind of car do you have?
+[Hva slags] musikk liker du? | Quel genre de musique aimes-tu ? | What kind of music do you like?
+[Hva slags] hus bor dere i? | Dans quel genre de maison habitez-vous ? | What kind of house do you live in?

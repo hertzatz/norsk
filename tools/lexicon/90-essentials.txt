@@ -1,0 +1,150 @@
+# Essentiels : ajoutés en plus des 300 mots, disponibles dès le niveau 300
+@list essentials
+
+@group Numbers
+null | num | zéro | zero
+en | num | un | one | én,ett,ei
+to | num | deux | two
+tre | num | trois | three
+fire | num | quatre | four
+fem | num | cinq | five
+seks | num | six | six
+sju | num | sept | seven | syv
+åtte | num | huit | eight
+ni | num | neuf | nine
+ti | num | dix | ten
+elleve | num | onze | eleven
+tolv | num | douze | twelve
+tretten | num | treize | thirteen
+fjorten | num | quatorze | fourteen
+femten | num | quinze | fifteen
+seksten | num | seize | sixteen
+sytten | num | dix-sept | seventeen
+atten | num | dix-huit | eighteen
+nitten | num | dix-neuf | nineteen
+tjue | num | vingt | twenty
+tretti | num | trente | thirty
+førti | num | quarante | forty
+femti | num | cinquante | fifty
+seksti | num | soixante | sixty
+sytti | num | soixante-dix | seventy
+åtti | num | quatre-vingts | eighty
+nitti | num | quatre-vingt-dix | ninety
+hundre | num | cent | hundred
+tusen | num | mille | thousand
+million | num | million | million | millioner
+andre | num | deuxième | second
+tredje | num | troisième | third
+fjerde | num | quatrième | fourth
+femte | num | cinquième | fifth
+halvannen | num | un et demi | one and a half | halvannet
+kvart | num | quart | quarter
+
+@group Days
+mandag | m | lundi | Monday
+tirsdag | m | mardi | Tuesday
+onsdag | m | mercredi | Wednesday
+torsdag | m | jeudi | Thursday
+fredag | m | vendredi | Friday
+lørdag | m | samedi | Saturday
+søndag | m | dimanche | Sunday
+i dag | expr | aujourd'hui | today
+i går | expr | hier | yesterday
+i morgen | expr | demain | tomorrow
+i kveld | expr | ce soir | tonight
+i natt | expr | cette nuit | tonight (at night)
+i morges | expr | ce matin (passé) | this morning
+i overmorgen | expr | après-demain | the day after tomorrow
+i forgårs | expr | avant-hier | the day before yesterday
+
+@group Months and seasons
+januar | m | janvier | January
+februar | m | février | February
+mars | m | mars | March
+april | m | avril | April
+mai | m | mai | May
+juni | m | juin | June
+juli | m | juillet | July
+august | m | août | August
+september | m | septembre | September
+oktober | m | octobre | October
+november | m | novembre | November
+desember | m | décembre | December
+vinter | m | hiver | winter | vinter,vinteren,vintrer,vintrene
+vår | m | printemps | spring | vår,våren,vårer,vårene
+sommer | m | été | summer | sommer,sommeren,somrer,somrene
+høst | m | automne | autumn
+i år | expr | cette année | this year
+i fjor | expr | l'an dernier | last year
+i helga | expr | ce week-end | this weekend
+
+@group Winter
+snø | m | neige | snow | snø,snøen,snø,snø
+snø | v3 | neiger | snow
+is | m | glace (eau gelée) ; glace (dessert) | ice ; ice cream | is,isen,is,isen
+kulde | f | froid | cold (weather)
+minus | adv | moins (température) | minus
+
+@group Directions
+venstre | adj | gauche | left | venstre,venstre,venstre
+høyre | adj | droite | right | høyre,høyre,høyre
+rett fram | expr | tout droit | straight ahead
+til venstre | expr | à gauche | to the left
+til høyre | expr | à droite | to the right
+
+@group Time
+kvarter | n | quart d'heure | quarter of an hour | kvarter,kvarteret,kvarter,kvarterene
+klokke | f | horloge, montre ; heure | clock, watch ; o'clock
+halv | num | demi ; halv tre = 2 h 30 | half ; halv tre = 2:30
+kvart over | expr | et quart | quarter past
+kvart på | expr | moins le quart | quarter to
+hvor mye er klokka | expr | quelle heure est-il ? | what time is it?
+
+@group Measures
+kilo | m | kilo | kilo | kilo,kiloen,kilo,kiloene
+gram | n | gramme | gram | gram,grammet,gram,grammene
+liter | m | litre | litre | liter,literen,liter,literne
+meter | m | mètre | metre | meter,meteren,meter,meterne
+prosent | m | pour cent | per cent | prosent,prosenten,prosent,prosentene
+kilometer | m | kilomètre | kilometre | kilometer,kilometeren,kilometer,kilometerne
+mil | m | mile norvégien (10 km) | Norwegian mile (10 km) | mil,milen,mil,milene
+
+@group Languages and countries
+norsk | adj | norvégien | Norwegian | norsk,norsk,norske
+fransk | adj | français | French | fransk,fransk,franske
+engelsk | adj | anglais | English | engelsk,engelsk,engelske
+Norge | prop | Norvège | Norway
+Frankrike | prop | France | France
+
+@group Expressions
+født | adj | né | born | født,født,fødte
+ha det | expr | au revoir | bye
+ha det bra | expr | au revoir, bonne continuation | goodbye, take care
+vi ses | expr | à plus tard | see you
+god morgen | expr | bonjour (le matin) | good morning
+god dag | expr | bonjour | good day
+god kveld | expr | bonsoir | good evening
+god natt | expr | bonne nuit | good night
+takk for maten | expr | merci pour le repas | thanks for the meal
+vær så snill | expr | s'il te plaît | please
+værsågod | expr | voilà, je vous en prie ; servez-vous | here you are ; help yourself | vær så god
+takk skal du ha | expr | merci beaucoup | thank you very much
+tusen takk | expr | mille mercis | thanks a lot
+ingen årsak | expr | de rien | you're welcome
+velkommen | expr | bienvenue | welcome
+gratulerer | expr | félicitations | congratulations
+gratulerer med dagen | expr | joyeux anniversaire | happy birthday
+hvordan går det | expr | comment ça va ? | how are you?
+bare bra | expr | ça va bien | fine
+jeg forstår ikke | expr | je ne comprends pas | I don't understand
+kan du si det igjen | expr | peux-tu répéter ? | can you say that again?
+snakk sakte | expr | parle lentement | speak slowly
+hva heter du | expr | comment t'appelles-tu ? | what's your name?
+jeg heter | expr | je m'appelle | my name is
+unnskyld meg | expr | excusez-moi | excuse me
+selv om | expr | même si | even if
+for eksempel | expr | par exemple | for example
+i orden | expr | en ordre, d'accord | all right, OK
+med en gang | expr | tout de suite | right away
+noen ganger | expr | parfois | sometimes
+hva slags | expr | quel genre de | what kind of

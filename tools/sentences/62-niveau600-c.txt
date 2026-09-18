@@ -1,0 +1,268 @@
+# Niveau 600, lot 3
+@level 600
+
+@theme hverdag Everyday life
+Ikke ødelegg telefonen min! | N'abîme pas mon téléphone ! | Don't break my phone!
+Regnet ødela dagen. | La pluie a gâché la journée. | The rain ruined the day.
+Ungene løper og hopper. | Les gosses courent et sautent. | The kids run and jump.
+Ungene våkna tidlig. | Les gosses se sont réveillés tôt. | The kids woke up early.
+Han bor nær kirka. | Il habite près de l'église. | He lives near the church.
+Hotellet ligger nær sjøen. | L'hôtel est près du lac. | The hotel is near the lake.
+Jeg er faktisk ganske trøtt. | En fait, je suis assez fatigué. | Actually, I'm quite tired.
+Klokka er nesten ti. | Il est presque dix heures. | It's almost ten.
+Nesten alle kom. | Presque tout le monde est venu. | Almost everyone came.
+Jeg slutter på jobben neste måned. | Je quitte mon travail le mois prochain. | I'm leaving my job next month.
+Bildet henger bak døra. | Le tableau est accroché derrière la porte. | The picture hangs behind the door.
+Damen ved siden av er lege. | La dame d'à côté est médecin. | The lady next door is a doctor.
+Hvem er den unge damen? | Qui est cette jeune dame ? | Who is that young lady?
+Ellers går det bra. | Sinon, ça va bien. | Otherwise it's going well.
+Det var dumt gjort. | C'était bête. | That was a silly thing to do.
+Begge foreldrene mine jobber. | Mes deux parents travaillent. | Both my parents work.
+Et øyeblikk, jeg kommer straks. | Un instant, j'arrive tout de suite. | One moment, I'm coming right away.
+Døra står åpen. | La porte est ouverte. | The door is open.
+Bilen står bak huset. Bak huset er det en hage. | La voiture est derrière la maison. Derrière la maison, il y a un jardin. | The car is behind the house. Behind the house there's a garden.
+Historien hans er rar. | Son histoire est bizarre. | His story is strange.
+Hun fortalte en morsom historie. | Elle a raconté une histoire drôle. | She told a funny story.
+Han har nettopp gått. | Il vient de partir. | He's just left.
+Jeg har nettopp spist. | Je viens de manger. | I've just eaten.
+Hvor langt er det herfra til *Kongsberg? | C'est loin d'ici à Kongsberg ? | How far is it from here to Kongsberg?
+Mens du venter, kan du lese. | Pendant que tu attends, tu peux lire. | While you wait, you can read.
+Han jobber mens barna sover. | Il travaille pendant que les enfants dorment. | He works while the children sleep.
+Jeg lover at jeg kommer. | Je promets que je viendrai. | I promise I'll come.
+Du lovte meg det! | Tu me l'as promis ! | You promised me!
+Hun reiser mye. | Elle voyage beaucoup. | She travels a lot.
+Når reiser du? | Quand est-ce que tu pars ? | When are you leaving?
+En lang reise er slutt. | Un long voyage se termine. | A long journey is over.
+Reisen hjem tok to dager. | Le voyage de retour a pris deux jours. | The journey home took two days.
+Han er ganske ung. | Il est assez jeune. | He's quite young.
+Det gikk ganske bra. | Ça s'est assez bien passé. | It went quite well.
+Vi må gjøre noe med taket. | Nous devons faire quelque chose pour le toit. | We have to do something about the roof.
+Han kasta den til meg. | Il me l'a lancé. | He threw it to me.
+Ikke kast mat! | Ne jette pas la nourriture ! | Don't throw away food!
+Er du skada? | Tu es blessé ? | Are you hurt?
+Det skader ikke å prøve. | Ça ne coûte rien d'essayer. | It doesn't hurt to try.
+Hun er gift med en mann fra *Oslo. | Elle est mariée à un homme d'Oslo. | She's married to a man from Oslo.
+Dattera mi går på skolen. | Ma fille va à l'école. | My daughter goes to school.
+Han forlot huset tidlig. | Il a quitté la maison tôt. | He left the house early.
+Du må ikke forlate meg. | Tu ne dois pas me quitter. | You mustn't leave me.
+Har du en plan? | Tu as un plan ? | Do you have a plan?
+Bussen stopper her. | Le bus s'arrête ici. | The bus stops here.
+Han stoppa ikke. | Il ne s'est pas arrêté. | He didn't stop.
+Rommet er vakkert. | La chambre est belle. | The room is beautiful.
+Hun valgte den røde. | Elle a choisi la rouge. | She chose the red one.
+Vi handler hver fredag. | Nous faisons les courses tous les vendredis. | We do the shopping every Friday.
+Huset står tomt. | La maison est vide. | The house stands empty.
+Flaska er tom. | La bouteille est vide. | The bottle is empty.
+Hun har allerede gått. | Elle est déjà partie. | She has already left.
+Han solgte bilen sin. | Il a vendu sa voiture. | He sold his car.
+Det er riktig, du har rett. | C'est juste, tu as raison. | That's right, you're right.
+Flyet går om en time. | L'avion part dans une heure. | The plane leaves in an hour.
+Fuglen flyr. | L'oiseau vole. | The bird flies.
+Jeg hater å være sen. | Je déteste être en retard. | I hate being late.
+Kan du sjekke døra? | Tu peux vérifier la porte ? | Can you check the door?
+Ta det rolig, det går bra. | Du calme, ça va aller. | Take it easy, it'll be fine.
+Uansett, vi ses [i morgen]. | En tout cas, à demain. | Anyway, see you tomorrow.
+Jeg vil helst bo her. | Je préfère habiter ici. | I'd rather live here.
+Hun prater hele tida. | Elle bavarde tout le temps. | She chats all the time.
+Det er mellom deg og meg. | C'est entre toi et moi. | It's between you and me.
+Han har svarte sko. | Il a des chaussures noires. | He has black shoes.
+Han er sterk som en hest. | Il est fort comme un cheval. | He's as strong as a horse.
+Det er mye arbeid. | C'est beaucoup de travail. | It's a lot of work.
+Er det mulig? | C'est possible ? | Is it possible?
+Jeg savner familien. | La famille me manque. | I miss the family.
+Hjertet mitt er glad. | Mon cœur est content. | My heart is glad.
+Livet er hardt noen ganger. | La vie est dure parfois. | Life is hard sometimes.
+Hun bekymrer seg for mye. | Elle s'inquiète trop. | She worries too much.
+For en rar dag! | Quelle drôle de journée ! | What a strange day!
+Han er rask. | Il est rapide. | He's fast.
+Det var fantastisk å se. | C'était fantastique à voir. | It was fantastic to see.
+Vi leter overalt. | Nous cherchons partout. | We're looking everywhere.
+Det var din idé! | C'était ton idée ! | It was your idea!
+De gifta seg i kirka. | Ils se sont mariés à l'église. | They got married in church.
+Filmen var ikke morsom. | Le film n'était pas drôle. | The film wasn't funny.
+Pass på så du ikke faller! | Fais attention de ne pas tomber ! | Be careful not to fall!
+Barna er trygge her. | Les enfants sont en sécurité ici. | The children are safe here.
+Det kom blod fra foten. | Du sang coulait du pied. | Blood came from the foot.
+Enda en gang! | Encore une fois ! | One more time!
+Hva heter han egentlig? | Comment il s'appelle, en fait ? | What's his name actually?
+Du må ta et valg. | Tu dois faire un choix. | You have to make a choice.
+Hvor forsvant tida? | Où est passé le temps ? | Where did the time go?
+Du ser pen ut. | Tu es jolie. | You look pretty.
+Legen sa at jeg må hvile. | Le médecin a dit que je dois me reposer. | The doctor said I must rest.
+Hun bestemmer alt. | C'est elle qui décide de tout. | She decides everything.
+Vi så en film [i går]. | Nous avons vu un film hier. | We watched a film yesterday.
+Det var kult! | C'était cool ! | That was cool!
+Stolen er gammel. | La chaise est vieille. | The chair is old.
+Vi venter utenfor døra. | Nous attendons devant la porte. | We're waiting outside the door.
+Hun sa sannheten. | Elle a dit la vérité. | She told the truth.
+Ansiktet hans er rødt. | Son visage est rouge. | His face is red.
+Huset er hvitt og rødt. | La maison est blanche et rouge. | The house is white and red.
+Barna er nede. | Les enfants sont en bas. | The children are downstairs.
+Han er oppe hele natta. | Il est debout toute la nuit. | He's up all night.
+Har du nummeret hans? | Tu as son numéro ? | Do you have his number?
+Vi har en avtale, ikke sant? | On a un accord, n'est-ce pas ? | We have a deal, right?
+Kan vi dele en pizza? | On peut partager une pizza ? | Can we share a pizza?
+Vi starter [i morgen]. | On commence demain. | We start tomorrow.
+Det er en spesiell følelse. | C'est une sensation spéciale. | It's a special feeling.
+Kaka er søt. | Le gâteau est sucré. | The cake is sweet.
+Slå av lyset. | Éteins la lumière. | Turn off the light.
+Det var en perfekt dag. | C'était une journée parfaite. | It was a perfect day.
+Kjæresten min kommer [i kveld]. | Mon copain vient ce soir. | My boyfriend is coming tonight.
+Kjærlighet er alt. | L'amour, c'est tout. | Love is everything.
+Prisen er god. | Le prix est bon. | The price is good.
+Hun tjener mer enn meg. | Elle gagne plus que moi. | She earns more than me.
+Er det ekte? Ja, det er ekte. | C'est vrai ? Oui, c'est vrai. | Is it real? Yes, it's real.
+Foreldrene mine er gamle. | Mes parents sont âgés. | My parents are old.
+Han er sint i dag. | Il est fâché aujourd'hui. | He's angry today.
+Hun står foran huset. | Elle est devant la maison. | She's in front of the house.
+Vi tapte, men det er greit. | On a perdu, mais c'est pas grave. | We lost, but it's OK.
+Jeg har en tanke. | J'ai une idée. | I have a thought.
+Hun jobber på et kontor. | Elle travaille dans un bureau. | She works in an office.
+Forklar meg det igjen. | Explique-le-moi encore. | Explain it to me again.
+Det er enkelt å lære. | C'est facile à apprendre. | It's easy to learn.
+Han har tre{tre_num} hester. | Il a trois chevaux. | He has three horses.
+Hun var her tidligere [i dag]. | Elle était là plus tôt aujourd'hui. | She was here earlier today.
+Han trakk meg ut. | Il m'a tiré dehors. | He pulled me out.
+Det gjelder alle. | Ça concerne tout le monde. | It applies to everyone.
+Ingenting har forandra seg. | Rien n'a changé. | Nothing has changed.
+Hendene er rene. | Les mains sont propres. | The hands are clean.
+Det er ikke farlig. | Ce n'est pas grave. | It's no big deal.
+Vil du spille et spill? | Tu veux jouer à un jeu ? | Do you want to play a game?
+Kom hit straks! | Viens ici tout de suite ! | Come here right now!
+Kan du bære vesken? | Tu peux porter le sac ? | Can you carry the bag?
+Han har jord på hendene. | Il a de la terre sur les mains. | He has soil on his hands.
+Jeg merka at han var sint. | J'ai remarqué qu'il était fâché. | I noticed he was angry.
+Gi beskjed hvis du kommer. | Préviens si tu viens. | Let me know if you're coming.
+Filmen varer to timer. | Le film dure deux heures. | The film lasts two hours.
+Følelsen er god. | La sensation est bonne. | The feeling is good.
+Det er vanlig å ta av seg skoene. | C'est normal d'enlever ses chaussures. | It's normal to take off your shoes.
+Tell pengene. | Compte l'argent. | Count the money.
+Vi synger sammen. | Nous chantons ensemble. | We sing together.
+Vi avtalte ingenting. | Nous n'avons rien convenu. | We didn't agree on anything.
+Fungerer det nå? | Ça marche maintenant ? | Does it work now?
+Lykke til med jobben! | Bonne chance avec le travail ! | Good luck with the job!
+Det er en god nyhet. | C'est une bonne nouvelle. | It's good news.
+Rommet er lyst{lys_adj}. | La pièce est claire. | The room is bright.
+Med glede! | Avec plaisir ! | With pleasure!
+Babyen er søt. | Le bébé est mignon. | The baby is cute.
+Han spiste en halv{halv_adj} pizza. | Il a mangé une demi-pizza. | He ate half a pizza.
+Jeg er stolt av det. | J'en suis fier. | I'm proud of it.
+Det er altså sant. | C'est donc vrai. | So it's true.
+Jeg er ikke sulten, men jeg spiser likevel. | Je n'ai pas faim, mais je mange quand même. | I'm not hungry, but I'm eating anyway.
+Jeg har lyst{lyst} på kaffe. | J'ai envie d'un café. | I feel like a coffee.
+Han ligger på sykehuset. | Il est à l'hôpital. | He's in hospital.
+Hun er ærlig. | Elle est honnête. | She's honest.
+Kroppen min er sliten. | Mon corps est épuisé. | My body is worn out.
+Du er sprø! | Tu es fou ! | You're crazy!
+Jeg gleder meg til å se deg. | J'ai hâte de te voir. | I'm looking forward to seeing you.
+Banken er stengt. | La banque est fermée. | The bank is closed.
+Vi er enige. | Nous sommes d'accord. | We agree.
+Han endra planen. | Il a changé le plan. | He changed the plan.
+Du er smart. | Tu es malin. | You're smart.
+Takk for rådet. | Merci pour le conseil. | Thanks for the advice.
+Jakka henger der. | La veste est accrochée là. | The jacket is hanging there.
+Hva er din mening om det? | Quel est ton avis là-dessus ? | What's your opinion on it?
+Jeg våkner tidlig. | Je me réveille tôt. | I wake up early.
+De bygger en bro. | Ils construisent un pont. | They're building a bridge.
+Håret hennes er langt. | Ses cheveux sont longs. | Her hair is long.
+Ikke tull! | Ne dis pas de bêtises ! | Stop joking around!
+Hvorfor ler du? | Pourquoi tu ris ? | Why are you laughing?
+Han skada beinet. | Il s'est blessé à la jambe. | He hurt his leg.
+Det er regelen her. | C'est la règle ici. | That's the rule here.
+Gata er lang. | La rue est longue. | The street is long.
+Skatten er høy. | L'impôt est élevé. | The tax is high.
+Ett{en_num} sekund! | Une seconde ! | One second!
+Greier du det? | Tu y arrives ? | Can you manage it?
+Snu deg rundt. | Retourne-toi. | Turn around.
+Hvem har vakt [i natt]? | Qui est de garde cette nuit ? | Who's on duty tonight?
+Takk for at du støtter meg. | Merci de me soutenir. | Thanks for supporting me.
+Båten er ny. | Le bateau est neuf. | The boat is new.
+Klærne dine er på senga. | Tes vêtements sont sur le lit. | Your clothes are on the bed.
+Området er stille. | Le quartier est calme. | The area is quiet.
+Hun har røde sko. | Elle a des chaussures rouges. | She has red shoes.
+Hun danser godt. | Elle danse bien. | She dances well.
+Hun har et stort smil. | Elle a un grand sourire. | She has a big smile.
+Hvorfor gråt du? | Pourquoi as-tu pleuré ? | Why did you cry?
+Vi byttet plass. | Nous avons échangé nos places. | We swapped places.
+Det er en god mulighet for deg. | C'est une bonne occasion pour toi. | It's a good opportunity for you.
+Onkelen min kommer på besøk. | Mon oncle vient nous voir. | My uncle is coming to visit.
+Jaså, det visste jeg ikke. | Ah bon, je ne savais pas. | Oh, I didn't know that.
+Han var lærer i mange år. | Il a été professeur pendant des années. | He was a teacher for many years.
+Hun hoppet i vannet. | Elle a sauté dans l'eau. | She jumped into the water.
+Endelig kom sommeren. | Enfin l'été est arrivé. | Summer finally came.
+Jeg tilgir deg. | Je te pardonne. | I forgive you.
+Det er kun for barn. | C'est seulement pour les enfants. | It's only for children.
+Han skada armen. | Il s'est blessé au bras. | He hurt his arm.
+Det lukter godt her. | Ça sent bon ici. | It smells good here.
+Absolutt, det gjør jeg. | Absolument, je le fais. | Absolutely, I'll do it.
+Du er tøff! | Tu es courageux ! | You're tough!
+Det er ikke umulig. | Ce n'est pas impossible. | It's not impossible.
+Han vokste opp i *Numedal. | Il a grandi dans le Numedal. | He grew up in Numedal.
+Takk for den fine gaven. | Merci pour le beau cadeau. | Thanks for the lovely gift.
+Han har vondt i begge føttene. | Il a mal aux deux pieds. | Both his feet hurt.
+Det er et alvorlig problem. | C'est un problème sérieux. | It's a serious problem.
+Luften er frisk her. | L'air est frais ici. | The air is fresh here.
+Vi rakk bussen. | Nous avons eu le bus. | We made the bus.
+Takk for informasjonen. | Merci pour l'information. | Thanks for the information.
+Sjøen er dyp. | Le lac est profond. | The lake is deep.
+Når stenger dere? | À quelle heure fermez-vous ? | When do you close?
+Hun er heldig. | Elle a de la chance. | She's lucky.
+Jeg ser på tv hver kveld. | Je regarde la télé tous les soirs. | I watch TV every evening.
+De er rike folk. | Ce sont des gens riches. | They're rich people.
+Musikken er for høy. | La musique est trop forte. | The music is too loud.
+Jeg fikk et brev fra mora mi. | J'ai reçu une lettre de ma mère. | I got a letter from my mother.
+Jeg hørte en lyd. | J'ai entendu un bruit. | I heard a noise.
+Jeg liker særlig vinteren. | J'aime surtout l'hiver. | I especially like winter.
+Ryggen min gjør vondt. | J'ai mal au dos. | My back hurts.
+Du nevnte det [i går]. | Tu l'as mentionné hier. | You mentioned it yesterday.
+Leiligheten er stor. | L'appartement est grand. | The flat is big.
+Barna er sultne. | Les enfants ont faim. | The children are hungry.
+Dessverre er det sant. | Malheureusement, c'est vrai. | Unfortunately it's true.
+Det er spesielt kaldt [i dag]. | Il fait particulièrement froid aujourd'hui. | It's especially cold today.
+Han nekter å svare. | Il refuse de répondre. | He refuses to answer.
+Folk her er vennlige. | Les gens ici sont aimables. | People here are friendly.
+Hvor mye koster det? – Det koster ti kroner. | Combien ça coûte ? – Dix couronnes. | How much is it? – Ten kroner.
+Det regner ute. | Il pleut dehors. | It's raining outside.
+Barnet er våkent. | L'enfant est réveillé. | The child is awake.
+Hun er alltid opptatt. | Elle est toujours occupée. | She's always busy.
+Boka er interessant. | Le livre est intéressant. | The book is interesting.
+Et stykke brød, takk. | Un morceau de pain, merci. | A piece of bread, please.
+Katten er lat. | Le chat est paresseux. | The cat is lazy.
+Du har ansvar for barna. | Tu es responsable des enfants. | You're responsible for the children.
+Du skal få en unnskyldning. | Tu vas avoir des excuses. | You'll get an apology.
+Kle på barna! | Habille les enfants ! | Get the children dressed!
+Vi planlegger en fest. | Nous organisons une fête. | We're planning a party.
+Det er snø overalt [i dag]. | Il y a de la neige partout aujourd'hui. | There's snow everywhere today.
+For en nydelig dag! | Quelle belle journée ! | What a lovely day!
+Hvem dekker bordet? | Qui met la table ? | Who's setting the table?
+Vil du ha en øl? | Tu veux une bière ? | Would you like a beer?
+Vi besøkte mora mi [i går]. | Nous avons rendu visite à ma mère hier. | We visited my mother yesterday.
+Han eier en gård. | Il possède une ferme. | He owns a farm.
+De tilbyr gratis kaffe. | Ils offrent du café gratuit. | They offer free coffee.
+Hun søker på mange jobber. | Elle postule à beaucoup de postes. | She applies for lots of jobs.
+Kan du bringe den hit? | Tu peux l'apporter ici ? | Can you bring it here?
+Iblant sover jeg dårlig. | Parfois je dors mal. | Sometimes I sleep badly.
+Kan jeg beholde boka? | Je peux garder le livre ? | Can I keep the book?
+Se på himmelen! | Regarde le ciel ! | Look at the sky!
+Steinen er tung. | La pierre est lourde. | The stone is heavy.
+Kan jeg låne bilen? | Je peux emprunter la voiture ? | Can I borrow the car?
+Fyll på vann. | Remets de l'eau. | Top up the water.
+Kirka ligger ved veien. | L'église est au bord de la route. | The church is by the road.
+Vi bodde på et fint hotell. | Nous avons logé dans un bel hôtel. | We stayed at a nice hotel.
+Plutselig forsvant han. | Soudain, il a disparu. | Suddenly he disappeared.
+Er du forelsket? | Tu es amoureux ? | Are you in love?
+Hjertet mitt banker. | Mon cœur bat. | My heart is pounding.
+Midt på dagen spiser vi. | En milieu de journée, on mange. | We eat in the middle of the day.
+Vi oppdaga et problem. | Nous avons découvert un problème. | We discovered a problem.
+Takk for at du inviterte oss. | Merci de nous avoir invités. | Thanks for inviting us.
+Jeg tar toget til *Oslo. | Je prends le train pour Oslo. | I'm taking the train to Oslo.
+Han kjørte forbi huset. | Il est passé devant la maison en voiture. | He drove past the house.
+Vi forsøkte å ringe. | Nous avons essayé d'appeler. | We tried to call.
+Jeg pakker nå. | Je fais ma valise maintenant. | I'm packing now.
+Vi trener sammen. | Nous nous entraînons ensemble. | We train together.
+Det forventer jeg. | Je m'y attends. | I expect that.
+Husk å låse bilen. | N'oublie pas de fermer la voiture à clé. | Remember to lock the car.
+Skoene er våte. | Les chaussures sont mouillées. | The shoes are wet.
+Kan du levere dette til ham? | Tu peux lui remettre ça ? | Can you give him this?
+Svar innen en uke. | Réponds dans la semaine. | Answer within a week.
+Du må ikke kaste søpla her. | Tu ne dois pas jeter les ordures ici. | You mustn't throw rubbish here.

@@ -1,0 +1,197 @@
+# Niveau 300, lot 4
+@level 300
+
+@theme jobb Work
+De trenger folk på jobben. | Ils ont besoin de monde au travail. | They need people at work.
+De sa at jeg kan begynne [i morgen]. | Ils ont dit que je peux commencer demain. | They said I can start tomorrow.
+Vi trenger en mann til. | Nous avons besoin d'un homme de plus. | We need one more man.
+Trenger du noe mer? | Tu as besoin d'autre chose ? | Do you need anything else?
+Jeg trenger å snakke med deg. | J'ai besoin de te parler. | I need to talk to you.
+Kan du ta den opp? | Tu peux le ramasser ? | Can you pick it up?
+Jeg går opp og ser. | Je monte voir. | I'll go up and have a look.
+Jeg må opp klokka fem [i morgen]. | Je dois me lever à cinq heures demain. | I have to get up at five tomorrow.
+Han sa opp jobben sin. | Il a démissionné. | He quit his job.
+Sett deg ned og hvil. | Assieds-toi et repose-toi. | Sit down and rest.
+Kan du sette tingene inn i rommet? | Tu peux mettre les choses dans la pièce ? | Can you put the things into the room?
+Hun setter alt på plass. | Elle remet tout en place. | She puts everything in its place.
+Vi må holde rommet rent. | Nous devons garder la pièce propre. | We have to keep the room clean.
+Hold døra, takk! | Tiens la porte, merci ! | Hold the door, please!
+Han holder alltid det han sier. | Il tient toujours ce qu'il dit. | He always keeps his word.
+Er rommet klart? | La chambre est prête ? | Is the room ready?
+Jeg er klar om fem minutter. | Je suis prêt dans cinq minutes. | I'll be ready in five minutes.
+Alt er klart for [i kveld]. | Tout est prêt pour ce soir. | Everything's ready for tonight.
+Sjefen er en grei mann. | Le patron est un homme sympa. | The boss is a nice man.
+Det er greit for meg. | Ça me va. | That's fine with me.
+Er det greit at jeg går nå? | C'est d'accord si je pars maintenant ? | Is it OK if I leave now?
+Det er rommet [til venstre]. | C'est la pièce à gauche. | It's the room on the left.
+Rommet ved siden av er ledig. | La chambre à côté est libre. | The room next door is free.
+Hvilket rom skal jeg ta først? | Quelle chambre je fais d'abord ? | Which room shall I do first?
+Jeg vet ikke hvilken dør det er. | Je ne sais pas quelle porte c'est. | I don't know which door it is.
+Hvilke ting skal jeg ta med? | Quelles choses dois-je emporter ? | Which things should I bring?
+Kan du vise meg hvor det er? | Tu peux me montrer où c'est ? | Can you show me where it is?
+Hun viste meg hele huset. | Elle m'a montré toute la maison. | She showed me the whole house.
+Jeg vil lære å gjøre det selv. | Je veux apprendre à le faire moi-même. | I want to learn to do it myself.
+Hun lærer meg mye. | Elle m'apprend beaucoup. | She teaches me a lot.
+Jeg har lært mye her. | J'ai beaucoup appris ici. | I've learned a lot here.
+Første dag må du bare se og lære. | Le premier jour, tu dois juste regarder et apprendre. | On the first day you just have to watch and learn.
+Du lærer fort. | Tu apprends vite. | You learn fast.
+Jeg jobber ute i dag. | Je travaille dehors aujourd'hui. | I'm working outside today.
+Barna er ute og spiller. | Les enfants sont dehors en train de jouer. | The children are out playing.
+Det er fint ute. | Il fait beau dehors. | It's nice outside.
+Er det noen der ute? | Il y a quelqu'un dehors ? | Is anyone out there?
+Er han fortsatt på jobb? | Il est toujours au travail ? | Is he still at work?
+Jeg er fortsatt ny her. | Je suis encore nouveau ici. | I'm still new here.
+Du må betale før du går. | Tu dois payer avant de partir. | You have to pay before you leave.
+Han betalte for alle. | Il a payé pour tout le monde. | He paid for everyone.
+Kan jeg betale nå? | Je peux payer maintenant ? | Can I pay now?
+Ring politiet hvis det skjer noe. | Appelle la police s'il se passe quelque chose. | Call the police if something happens.
+Politiet sa at vi må vente. | La police a dit qu'on doit attendre. | The police said we have to wait.
+Svar når jeg spør deg! | Réponds quand je te pose une question ! | Answer when I ask you!
+Hun svarer aldri på telefonen. | Elle ne répond jamais au téléphone. | She never answers the phone.
+Jeg vet ikke hva jeg skal svare. | Je ne sais pas quoi répondre. | I don't know what to answer.
+Hent barna før klokka fem. | Va chercher les enfants avant cinq heures. | Pick up the children before five.
+Kan du hente noe til meg? | Tu peux aller me chercher quelque chose ? | Can you fetch something for me?
+Hun stoler på meg. | Elle me fait confiance. | She trusts me.
+Jeg stoler ikke på ham. | Je ne lui fais pas confiance. | I don't trust him.
+Kan jeg stole på deg? | Je peux compter sur toi ? | Can I count on you?
+Hva er ditt spørsmål? | Quelle est ta question ? | What's your question?
+Jeg har et spørsmål til. | J'ai encore une question. | I have one more question.
+Det er et godt ord. | C'est un bon mot. | That's a good word.
+Jeg forstår ikke ordet. | Je ne comprends pas le mot. | I don't understand the word.
+Jeg har ingen ord. | Je n'ai pas de mots. | I have no words.
+Det er viktig å komme tidlig. | C'est important d'arriver tôt. | It's important to come early.
+Det viktigste er at du er her. | Le plus important, c'est que tu sois là. | The most important thing is that you're here.
+Det er en viktig dag for meg. | C'est un jour important pour moi. | It's an important day for me.
+
+@theme hverdag Everyday life
+De kommer [i morgen] tidlig. | Ils arrivent demain matin tôt. | They're coming early tomorrow.
+Hva gjør de nå? | Qu'est-ce qu'ils font maintenant ? | What are they doing now?
+Han vasker seg. | Il se lave. | He's washing.
+Hun ser seg rundt. | Elle regarde autour d'elle. | She looks around.
+Han tok med seg barna. | Il a emmené les enfants. | He took the children with him.
+Den andre bilen er min. | L'autre voiture est à moi. | The other car is mine.
+Jeg vil ha en annen. | J'en veux un autre. | I want another one.
+Si hei til mora di! | Dis bonjour à ta mère ! | Say hi to your mother!
+Etter en time kom han tilbake. | Au bout d'une heure, il est revenu. | After an hour he came back.
+Hun kom tilbake etter to år. | Elle est revenue au bout de deux ans. | She came back after two years.
+Du er også velkommen. | Tu es aussi le bienvenu. | You're welcome too.
+Hvis du vil, kan du også komme. | Si tu veux, tu peux venir aussi. | If you like, you can come too.
+Broren min kommer også. | Mon frère vient aussi. | My brother is coming too.
+Barna gikk over veien. | Les enfants ont traversé la route. | The children crossed the road.
+Det er over hundre år gammelt. | C'est vieux de plus de cent ans. | It's over a hundred years old.
+Jeg må gjøre alt selv. | Je dois tout faire moi-même. | I have to do everything myself.
+Han bor på den andre siden av byen. | Il habite de l'autre côté de la ville. | He lives on the other side of town.
+Klar, ferdig, gå! | À vos marques, prêts, partez ! | Ready, steady, go!
+Hun døde [i natt]. | Elle est morte cette nuit. | She died last night.
+Han døde da jeg var liten. | Il est mort quand j'étais petit. | He died when I was little.
+Jeg trodde han var død. | Je croyais qu'il était mort. | I thought he was dead.
+Faren min og jeg er like. | Mon père et moi, on se ressemble. | My father and I are alike.
+Han ble far [i fjor]. | Il est devenu père l'an dernier. | He became a father last year.
+Han kjenner alle i byen. | Il connaît tout le monde en ville. | He knows everyone in town.
+Jeg kjenner meg ikke igjen. | Je ne me reconnais pas. | I don't recognise myself.
+Du har rett, det er sant. | Tu as raison, c'est vrai. | You're right, it's true.
+Gå rett hjem! | Rentre directement ! | Go straight home!
+Han fortalte meg alt. | Il m'a tout raconté. | He told me everything.
+Hun forteller alltid mye. | Elle raconte toujours beaucoup de choses. | She always has a lot to tell.
+Er dette tingene dine? | Ce sont tes affaires ? | Are these your things?
+Jeg har mange ting å fortelle deg. | J'ai plein de choses à te raconter. | I have lots of things to tell you.
+Vi møtes på samme sted. | On se retrouve au même endroit. | We'll meet at the same place.
+Hun ba meg vente. | Elle m'a demandé d'attendre. | She asked me to wait.
+Jeg ba ham ringe deg. | Je lui ai demandé de t'appeler. | I asked him to call you.
+Jeg kom sent fordi bilen ikke ville starte. | Je suis arrivé en retard parce que la voiture ne voulait pas démarrer. | I was late because the car wouldn't start.
+Er du sikker på at han kommer? | Tu es sûr qu'il vient ? | Are you sure he's coming?
+Han er veldig glad i barna. | Il aime beaucoup les enfants. | He's very fond of children.
+Det var veldig fint. | C'était très bien. | It was very nice.
+Jeg har ikke sett ham siden [i morges]. | Je ne l'ai pas vu depuis ce matin. | I haven't seen him since this morning.
+[I morgen] tidlig drar vi. | Demain à la première heure, nous partons. | We leave early tomorrow.
+Jeg drikker aldri noe uten mat. | Je ne bois jamais rien sans manger. | I never drink anything without food.
+Kom hit og se! | Viens voir ! | Come and look!
+Han er redd for hunden. | Il a peur du chien. | He's afraid of the dog.
+Jeg er ikke redd. | Je n'ai pas peur. | I'm not afraid.
+Akkurat nå har jeg ikke tid. | En ce moment, je n'ai pas le temps. | Right now I don't have time.
+Det er slutt på pengene. | Il n'y a plus d'argent. | The money has run out.
+Takk, det var virkelig snilt av deg. | Merci, c'était vraiment gentil de ta part. | Thanks, that was really kind of you.
+Vi fortsetter etter lunsj. | On continue après le déjeuner. | We'll carry on after lunch.
+Han slår aldri barna. | Il ne frappe jamais les enfants. | He never hits the children.
+Vi har samme navn. | Nous avons le même nom. | We have the same name.
+Synes du det er vanskelig? | Tu trouves ça difficile ? | Do you find it difficult?
+Første gang var vanskelig. | La première fois était difficile. | The first time was difficult.
+Han føler seg alene. | Il se sent seul. | He feels alone.
+Hun har en dårlig dag. | Elle passe une mauvaise journée. | She's having a bad day.
+Vi skal lage noe godt. | On va préparer quelque chose de bon. | We're going to make something nice.
+Hva lager du? | Qu'est-ce que tu prépares ? | What are you making?
+Beklager, jeg er sen. | Désolé, je suis en retard. | Sorry, I'm late.
+Jeg ønsker dere en god jul. | Je vous souhaite un joyeux Noël. | I wish you a merry Christmas.
+Jeg skal møte en venn [i kveld]. | Je vais voir un ami ce soir. | I'm meeting a friend tonight.
+Det er siste gang jeg sier det. | C'est la dernière fois que je le dis. | It's the last time I say it.
+Kan du sende meg navnet? | Tu peux m'envoyer le nom ? | Can you send me the name?
+Jeg sender pengene [i morgen]. | J'envoie l'argent demain. | I'll send the money tomorrow.
+Han sto i døra. | Il était dans l'encadrement de la porte. | He stood in the doorway.
+Ta meg i hånda! | Prends-moi la main ! | Hold my hand!
+Det er en annen sak. | C'est une autre affaire. | That's another matter.
+Hva gjelder saken? | De quoi s'agit-il ? | What's it about?
+Det er ikke så galt. | Ce n'est pas si grave. | It's not that bad.
+Barna spiller ute. | Les enfants jouent dehors. | The children are playing outside.
+Hun spilte godt. | Elle a bien joué. | She played well.
+Hunden ligger under bordet. | Le chien est couché sous la table. | The dog is lying under the table.
+Under middagen snakka vi mye. | Pendant le dîner, on a beaucoup parlé. | We talked a lot during dinner.
+Jeg vil ikke slippe deg. | Je ne veux pas te lâcher. | I don't want to let you go.
+Vi slapp å vente. | On n'a pas eu besoin d'attendre. | We didn't have to wait.
+Natta var lang. | La nuit a été longue. | The night was long.
+God natt, sov godt! | Bonne nuit, dors bien ! | Good night, sleep well!
+Vi lever godt her. | On vit bien ici. | We live well here.
+Hun har sin egen måte å gjøre det på. | Elle a sa propre façon de le faire. | She has her own way of doing it.
+Han er visst ikke hjemme. | Apparemment, il n'est pas à la maison. | Apparently he's not home.
+Det er visst sant. | Il paraît que c'est vrai. | Apparently it's true.
+Jeg traff mora di [i dag]. | J'ai rencontré ta mère aujourd'hui. | I met your mother today.
+Hallo, er det deg? | Allô, c'est toi ? | Hello, is that you?
+Han er en snill fyr. | C'est un type gentil. | He's a kind guy.
+Jeg har mista telefonen. | J'ai perdu mon téléphone. | I've lost my phone.
+Pengene er borte. | L'argent a disparu. | The money is gone.
+Vi går rundt og ser. | On fait le tour pour regarder. | We walk around and look.
+Finnes det noe mer? | Il y a autre chose ? | Is there anything else?
+Det er det beste i verden. | C'est la meilleure chose au monde. | It's the best thing in the world.
+Jeg skjønner ingenting! | Je ne comprends rien ! | I don't understand anything!
+Skjønner du hva jeg mener? | Tu comprends ce que je veux dire ? | Do you get what I mean?
+Vi håper på det beste. | On espère le meilleur. | We hope for the best.
+Kan du skrive det ned? | Tu peux l'écrire ? | Can you write it down?
+Han skriver godt. | Il écrit bien. | He writes well.
+Sønnen hennes er lege. | Son fils est médecin. | Her son is a doctor.
+Hva gjør sønnen din? | Que fait ton fils ? | What does your son do?
+Vi spiser hos mora mi [i kveld]. | On mange chez ma mère ce soir. | We're eating at my mother's tonight.
+Det var grunnen til at jeg ringte. | C'était la raison de mon appel. | That was the reason I called.
+Når er møtet? | C'est quand, la réunion ? | When is the meeting?
+Det virker ikke. | Ça ne marche pas. | It doesn't work.
+Han virker snill. | Il a l'air gentil. | He seems kind.
+Gå bort derfra! | Va-t'en de là ! | Get away from there!
+Pengene er en del av problemet. | L'argent fait partie du problème. | The money is part of the problem.
+Hvem kom først? | Qui est arrivé en premier ? | Who came first?
+Er det noen inne? | Il y a quelqu'un à l'intérieur ? | Is anyone inside?
+Hun er et menneske som alle liker. | C'est quelqu'un que tout le monde aime bien. | She's someone everyone likes.
+Hva kalles det på norsk? | Comment ça s'appelle en norvégien ? | What's it called in Norwegian?
+De kalte ham *Leo. | Ils l'ont appelé Leo. | They called him Leo.
+Veien går gjennom byen. | La route traverse la ville. | The road goes through the town.
+Da tar jeg heller bilen. | Alors je préfère prendre la voiture. | Then I'd rather take the car.
+Kan du komme? Ja, selvfølgelig. | Tu peux venir ? Oui, bien sûr. | Can you come? Yes, of course.
+Jeg er lei av å vente. | J'en ai marre d'attendre. | I'm tired of waiting.
+Neste gang skal jeg gjøre det selv. | La prochaine fois, je le ferai moi-même. | Next time I'll do it myself.
+Det er ikke lov å stå her. | Il est interdit de rester ici. | You're not allowed to stand here.
+Hun har vakre øyne. | Elle a de beaux yeux. | She has beautiful eyes.
+For et flott hus! | Quelle belle maison ! | What a great house!
+Du har sikkert rett. | Tu as sûrement raison. | You're probably right.
+Hun kommer gjerne [i morgen]. | Elle vient volontiers demain. | She's happy to come tomorrow.
+Stemmen hans er fin. | Sa voix est belle. | His voice is nice.
+Han vant ingenting. | Il n'a rien gagné. | He didn't win anything.
+Hun er alene med barna. | Elle est seule avec les enfants. | She's alone with the children.
+Derfor må vi gå nå. | C'est pourquoi nous devons partir maintenant. | That's why we have to go now.
+Følg med! | Fais attention ! / Suis bien ! | Pay attention!
+Han følger alltid etter meg. | Il me suit toujours. | He always follows me.
+Det var lett! | C'était facile ! | That was easy!
+Hodet mitt er fullt. | J'ai la tête pleine. | My head is full.
+Han lurte på hvor du var. | Il se demandait où tu étais. | He was wondering where you were.
+Det stemmer, jeg var der. | C'est exact, j'étais là. | That's right, I was there.
+Han er kjent for å være snill. | Il est connu pour être gentil. | He's known for being kind.
+Stikk hjem nå! | File à la maison maintenant ! | Off home now!
+Kjære venn! | Cher ami ! | Dear friend!
+Glasset er fullt. | Le verre est plein. | The glass is full.
+Svar på spørsmålet! | Réponds à la question ! | Answer the question!

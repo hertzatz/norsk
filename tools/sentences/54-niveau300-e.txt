@@ -1,0 +1,168 @@
+# Niveau 300, lot 5 (fin du niveau)
+@level 300
+
+@theme hverdag Everyday life
+Vi drar kanskje hjem [i morgen]. | On rentre peut-être demain. | We might go home tomorrow.
+Kanskje du vet hvor han drar? | Tu sais peut-être où il va ? | Maybe you know where he's going?
+Det er vel ikke så farlig? | Ce n'est pas si grave, si ? | It's not that bad, is it?
+Men det er jo virkelig fint her! | Mais c'est vraiment beau ici ! | But it really is nice here!
+Man burde ikke gjøre sånn. | On ne devrait pas faire comme ça. | One shouldn't do that.
+Man vet aldri hva som skjer. | On ne sait jamais ce qui va se passer. | You never know what'll happen.
+Han sitter ved siden av meg. | Il est assis à côté de moi. | He's sitting next to me.
+Du burde snakke med ham. | Tu devrais lui parler. | You should talk to him.
+Hun kom mot oss. | Elle est venue vers nous. | She came towards us.
+Hun er yngre enn deg. | Elle est plus jeune que toi. | She's younger than you.
+Mannen er død, men kona lever. | Le mari est mort, mais la femme est vivante. | The husband is dead, but the wife is alive.
+Er det deres barn? | Ce sont leurs enfants ? | Are those their children?
+Jeg er her fordi jeg vil lære. | Je suis ici parce que je veux apprendre. | I'm here because I want to learn.
+Fordi han er syk, kommer han ikke. | Comme il est malade, il ne vient pas. | Because he's ill, he isn't coming.
+Slik gjør vi det her. | C'est comme ça qu'on fait ici. | This is how we do it here.
+Jeg jobber fra morgen til natt. | Je travaille du matin à la nuit. | I work from morning till night.
+Vi drar tidlig om morgenen. | On part tôt le matin. | We leave early in the morning.
+Uten deg klarer jeg meg ikke. | Sans toi, je ne m'en sors pas. | I can't manage without you.
+Hun gikk uten å si noe. | Elle est partie sans rien dire. | She left without saying anything.
+Barnet er redd for natta. | L'enfant a peur de la nuit. | The child is afraid of the night.
+Jeg føler meg dårlig. | Je me sens mal. | I feel unwell.
+Det er akkurat det jeg trenger. | C'est exactement ce dont j'ai besoin. | That's exactly what I need.
+Det er slutt nå. | C'est fini maintenant. | It's over now.
+Er det virkelig sant? | C'est vraiment vrai ? | Is that really true?
+Vi fortsetter [i morgen]. | On continue demain. | We'll continue tomorrow.
+Han slo seg på hånda. | Il s'est fait mal à la main. | He hurt his hand.
+Hva synes du om det? | Qu'en penses-tu ? | What do you think about it?
+Jeg føler at det er riktig. | Je sens que c'est juste. | I feel it's right.
+Han kom sent [i går] kveld. | Il est arrivé tard hier soir. | He came late last night.
+Hva skal vi lage til barna? | Qu'est-ce qu'on prépare pour les enfants ? | What shall we make for the children?
+Jeg ønsker deg alt godt. | Je te souhaite le meilleur. | I wish you all the best.
+Kvinnen ved døra er mora hans. | La femme à la porte est sa mère. | The woman at the door is his mother.
+Når skal vi møtes? | On se voit quand ? | When shall we meet?
+Jeg vil gjerne møte familien din. | J'aimerais rencontrer ta famille. | I'd like to meet your family.
+Hvem kom sist? | Qui est arrivé en dernier ? | Who came last?
+Det er siste sjanse. | C'est la dernière chance. | It's the last chance.
+Send meg et ord når du er hjemme. | Envoie-moi un mot quand tu es à la maison. | Send me a word when you're home.
+Saken er ikke så enkel. | L'affaire n'est pas si simple. | It's not so simple.
+Det var en gal dag. | C'était une journée de fou. | It was a crazy day.
+Barna sitter under bordet. | Les enfants sont assis sous la table. | The children are sitting under the table.
+Han slapp pengene. | Il a lâché l'argent. | He dropped the money.
+Vi sov hele natta. | On a dormi toute la nuit. | We slept all night.
+Jeg vil leve her hele livet. | Je veux vivre ici toute ma vie. | I want to live here all my life.
+Hun har sin egen måte å snakke på. | Elle a sa propre façon de parler. | She has her own way of talking.
+Hva betyr dette? | Qu'est-ce que ça veut dire ? | What does this mean?
+Han kommer visst [i morgen]. | Il paraît qu'il vient demain. | Apparently he's coming tomorrow.
+På denne måten går det fort. | De cette façon, ça va vite. | This way it goes fast.
+Jeg håper å treffe deg igjen. | J'espère te revoir. | I hope to see you again.
+Hallo, jeg ringer om jobben. | Allô, j'appelle pour le travail. | Hello, I'm calling about the job.
+Den fyren kjenner jeg ikke. | Ce type, je ne le connais pas. | I don't know that guy.
+Hun mista{miste} bilen sin. | Elle a perdu sa voiture. | She lost her car.
+Alt er borte. | Tout a disparu. | Everything is gone.
+Hunden løper rundt huset. | Le chien court autour de la maison. | The dog runs around the house.
+Finnes det en annen vei? | Il y a un autre chemin ? | Is there another way?
+Hun vil se verden. | Elle veut voir le monde. | She wants to see the world.
+Jeg skjønte ikke hva han sa. | Je n'ai pas compris ce qu'il a dit. | I didn't understand what he said.
+Jeg håper det går bra. | J'espère que ça va bien se passer. | I hope it goes well.
+Jeg bor hos broren min nå. | J'habite chez mon frère maintenant. | I'm living with my brother now.
+Hva er grunnen? | Quelle est la raison ? | What's the reason?
+Møtet er ferdig. | La réunion est finie. | The meeting is over.
+Virker det nå? | Ça marche maintenant ? | Does it work now?
+Hun gikk bort til ham. | Elle est allée vers lui. | She went over to him.
+Den første delen er lett. | La première partie est facile. | The first part is easy.
+Først må du ringe. | D'abord, tu dois appeler. | First you have to call.
+Det er kaldt inne. | Il fait froid à l'intérieur. | It's cold inside.
+Alle mennesker er like. | Tous les êtres humains sont égaux. | All people are equal.
+Vi kaller det en dag. | On s'arrête là pour aujourd'hui. | Let's call it a day.
+Han gikk gjennom døra. | Il est passé par la porte. | He went through the door.
+Jeg vil heller vente. | Je préfère attendre. | I'd rather wait.
+Kjære deg, kom hit! | Mon chéri, viens ici ! | Darling, come here!
+Selvfølgelig hjelper jeg deg. | Bien sûr que je t'aide. | Of course I'll help you.
+Jeg er lei av dette. | J'en ai assez de ça. | I'm fed up with this.
+Neste uke har jeg tid. | La semaine prochaine, j'ai le temps. | Next week I have time.
+Det var en flott dag. | C'était une super journée. | It was a great day.
+Har du lov til å komme? | Tu as le droit de venir ? | Are you allowed to come?
+Hun ser på meg med store øyne. | Elle me regarde avec de grands yeux. | She's looking at me wide-eyed.
+Det blir sikkert fint. | Ça va sûrement être bien. | It'll surely be nice.
+Jeg kommer gjerne. | Je viens volontiers. | I'd love to come.
+Hun har en stemme{stemme_noun} som jeg liker. | Elle a une voix que j'aime bien. | She has a voice I like.
+Jeg stoler på deg. | Je te fais confiance. | I trust you.
+Kan du hente meg? | Tu peux venir me chercher ? | Can you pick me up?
+Vi vinner aldri. | On ne gagne jamais. | We never win.
+Han svarte ikke på spørsmålet. | Il n'a pas répondu à la question. | He didn't answer the question.
+Derfor ringte jeg. | C'est pour ça que j'ai appelé. | That's why I called.
+Følg meg, så viser jeg deg. | Suis-moi, je vais te montrer. | Follow me and I'll show you.
+Det er ikke lett å lære norsk. | Ce n'est pas facile d'apprendre le norvégien. | It's not easy to learn Norwegian.
+Jeg har vondt i hodet [i dag]. | J'ai mal à la tête aujourd'hui. | I have a headache today.
+Han har mye i hodet. | Il a beaucoup de choses en tête. | He has a lot on his mind.
+Hodet mitt er ikke med [i dag]. | J'ai la tête ailleurs aujourd'hui. | My head's not in it today.
+Jeg lurer på om han kommer. | Je me demande s'il vient. | I wonder if he's coming.
+Kan jeg stille et spørsmål? | Je peux poser une question ? | Can I ask a question?
+Det stemmer ikke helt. | Ce n'est pas tout à fait exact. | That's not quite right.
+Hun er kjent i hele landet. | Elle est connue dans tout le pays. | She's known all over the country.
+Han stakk{stikke} av. | Il s'est sauvé. | He ran off.
+Jeg stikker bort til ham. | Je fais un saut chez lui. | I'll pop over to him.
+Kjære deg, ikke vær{være} redd. | Mon cœur, n'aie pas peur. | Darling, don't be afraid.
+Det er vanskelig å si. | C'est difficile à dire. | It's hard to say.
+Livet er ikke alltid lett. | La vie n'est pas toujours facile. | Life isn't always easy.
+Han mente det ikke sånn. | Il ne voulait pas dire ça. | He didn't mean it like that.
+Jeg må treffe sjefen. | Je dois voir le chef. | I have to meet the boss.
+Han er på min side. | Il est de mon côté. | He's on my side.
+Vi følger veien til byen. | Nous suivons la route jusqu'à la ville. | We follow the road to the town.
+Det er en del ting jeg må gjøre. | Il y a un certain nombre de choses que je dois faire. | There are a number of things I have to do.
+
+@theme folk Meeting people
+Vi bor på samme side av veien. | Nous habitons du même côté de la route. | We live on the same side of the road.
+Blomsten er død. | La fleur est morte. | The flower is dead.
+Jeg har aldri hørt noe slikt. | Je n'ai jamais entendu une chose pareille. | I've never heard anything like it.
+Kan vi fortsette senere? | On peut continuer plus tard ? | Can we continue later?
+Det er for sent nå. | C'est trop tard maintenant. | It's too late now.
+Han var sen til møtet. | Il était en retard à la réunion. | He was late for the meeting.
+Hun var den siste som kom. | Elle était la dernière à arriver. | She was the last to come.
+Siste gang så jeg ham i byen. | La dernière fois, je l'ai vu en ville. | Last time I saw him in town.
+Kan du sende meg det? | Tu peux me l'envoyer ? | Can you send it to me?
+Det er en sak for politiet. | C'est une affaire pour la police. | It's a matter for the police.
+Under uka jobber jeg. | En semaine, je travaille. | During the week I work.
+Du vet visst mye om det. | On dirait que tu en sais beaucoup. | You seem to know a lot about it.
+Han er en morsom fyr. | C'est un type drôle. | He's a funny guy.
+Ikke miste det! | Ne le perds pas ! | Don't lose it!
+Vi går rundt i byen. | On se promène en ville. | We walk around town.
+Det finnes mange snille folk. | Il y a beaucoup de gens gentils. | There are lots of kind people.
+Hele verden er her. | Le monde entier est ici. | The whole world is here.
+Det er ingen grunn til å være redd. | Il n'y a aucune raison d'avoir peur. | There's no reason to be afraid.
+Jeg har et møte klokka to. | J'ai une réunion à deux heures. | I have a meeting at two.
+Gå bort herfra! | Va-t'en d'ici ! | Get away from here!
+Barna er inne nå. | Les enfants sont à l'intérieur maintenant. | The children are inside now.
+Vi må inn nå. | On doit rentrer maintenant. | We have to go in now.
+Hun så gjennom vinduet. | Elle a regardé par la fenêtre. | She looked through the window.
+Jeg tar heller en annen dag. | Je préfère prendre un autre jour. | I'd rather take another day.
+Selvfølgelig er det sant! | Bien sûr que c'est vrai ! | Of course it's true!
+Hun er lei seg [i dag]. | Elle est triste aujourd'hui. | She's sad today.
+Det var flott! | C'était génial ! | That was great!
+Det er ikke lov. | Ce n'est pas permis. | It's not allowed.
+Han ser meg i øynene. | Il me regarde dans les yeux. | He looks me in the eyes.
+Du kommer sikkert til å like det. | Tu vas sûrement aimer. | You'll surely like it.
+Stemmen din er fin. | Ta voix est belle. | Your voice is nice.
+Hvem vinner? | Qui gagne ? | Who's winning?
+Hun svarte med en gang. | Elle a répondu tout de suite. | She answered right away.
+Derfor sa jeg ingenting. | C'est pour ça que je n'ai rien dit. | That's why I said nothing.
+Hodet er det viktigste. | La tête, c'est le plus important. | The head is the most important thing.
+Du lurte meg! | Tu m'as eu ! | You tricked me!
+Stemmer det? | C'est exact ? | Is that right?
+Han ble kjent i hele verden. | Il est devenu connu dans le monde entier. | He became known all over the world.
+Jeg stikker [i morgen]. | Je pars demain. | I'm off tomorrow.
+Kom inn og sett deg! | Entre et assieds-toi ! | Come in and sit down!
+Treet er dødt. | L'arbre est mort. | The tree is dead.
+Han døde, men han lever i hjertet mitt. | Il est mort, mais il vit dans mon cœur. | He died, but he lives on in my heart.
+Fortsett sånn! | Continue comme ça ! | Keep it up!
+Hun fortsatte å snakke. | Elle a continué à parler. | She kept talking.
+Bussen var sen [i dag]. | Le bus était en retard aujourd'hui. | The bus was late today.
+Jeg er litt sen. | Je suis un peu en retard. | I'm a bit late.
+Hva har du under jakka? | Qu'est-ce que tu as sous ta veste ? | What have you got under your jacket?
+Vi var ute under hele dagen. | Nous étions dehors toute la journée. | We were out all day.
+Han kjørte bort. | Il est parti en voiture. | He drove away.
+Ta det bort! | Enlève ça ! | Take it away!
+Jeg er inne hele dagen. | Je suis à l'intérieur toute la journée. | I'm inside all day.
+Er det varmt inne? | Il fait chaud à l'intérieur ? | Is it warm inside?
+Vi kjører gjennom *Rollag. | On traverse Rollag en voiture. | We're driving through Rollag.
+Jeg har gått gjennom alt. | J'ai tout passé en revue. | I've gone through everything.
+Hun har blå øyne. | Elle a les yeux bleus. | She has blue eyes.
+Lukk øynene! | Ferme les yeux ! | Close your eyes!
+Er han død? | Il est mort ? | Is he dead?
+Øynene hans er store. | Ses yeux sont grands. | His eyes are big.
+Han lovte å ringe meg. | Il a promis de m'appeler. | He promised to call me.
