@@ -53,21 +53,33 @@ function voiceFor() {
   return v;
 }
 
-function play(src, text, el = null) {
-  const rate = state.speed;
+// Sentences exist at four speeds spoken by the voice itself (no time-stretch); folder = speed in %.
+// 100 % and 85 % sit next to the app; 70 % and 55 % live in the norsk-db site
+// (hertzatz.github.io/norsk-db online, ./norsk-db locally: "../norsk-db" resolves to both).
+const DB_BASE = "../norsk-db";
+const SPEED_DIR = { 1: ["audio", "s100"], 0.85: ["audio", "s085"], 0.7: [DB_BASE, "s070"], 0.55: [DB_BASE, "s055"] };
+
+function play(src, text, el = null, rate = state.speed, fallback = null) {
   if (playingEl) playingEl.classList.remove("playing");
   playingEl = el;
   if (el) el.classList.add("playing");
-  player.onerror = () => speakFallback(text, rate);
+  player.onerror = () => fallback ? fallback() : speakFallback(text, rate);
   player.onended = () => { if (el) el.classList.remove("playing"); };
   player.src = src;
   player.preservesPitch = true;
   player.defaultPlaybackRate = rate;
   player.playbackRate = rate;
-  player.play().catch(() => speakFallback(text, rate));
+  player.play().catch(() => fallback ? fallback() : speakFallback(text, rate));
 }
 const playWord = (text, el, key = text) => play(`audio/${voiceFor(key)}/w/${slug(text)}.mp3`, text, el);
-const playSentence = (s, el) => play(`audio/${voiceFor(s.id)}/s/${s.id}.mp3`, s.no, el);
+function playSentence(s, el) {
+  const voice = voiceFor(s.id);
+  const normal = `audio/${voice}/s100/${s.id}.mp3`;
+  const [base, dir] = SPEED_DIR[state.speed] || SPEED_DIR[1];
+  if (dir === "s100") return play(normal, s.no, el);
+  // spoken-slow file at rate 1; if it is missing, fall back to the normal file slowed by the browser
+  play(`${base}/${voice}/${dir}/${s.id}.mp3`, s.no, el, 1, () => play(normal, s.no, el));
+}
 
 // ---------- helpers ----------
 const ART = { m: "en", f: "ei", n: "et" };
@@ -569,7 +581,7 @@ function bind() {
   seg("levelSeg", (b) => { state.level = +b.dataset.level; shown = PAGE; render(); });
   seg("langSeg", (b) => { state.lang = b.dataset.lang; render(); });
   seg("voiceSeg", (b) => { state.voice = b.dataset.voice; syncControls(); save(); });
-  seg("speedSeg", (b) => { state.speed = +b.dataset.speed; player.playbackRate = state.speed; syncControls(); save(); });
+  seg("speedSeg", (b) => { state.speed = +b.dataset.speed; if (!/\/s0\d\d\//.test(player.src)) player.playbackRate = state.speed; syncControls(); save(); });
   document.querySelector(".tabs").onclick = (e) => {
     const b = e.target.closest("button"); if (!b) return;
     state.view = b.dataset.view; render(); window.scrollTo(0, 0);
