@@ -385,14 +385,14 @@ function renderVerbs() {
 const PERSONAL = [
   ["1st sg.", "jeg", "meg", "min / mi / mitt / mine", "je, moi · mon, ma, mes", "I, me · my"],
   ["2nd sg.", "du", "deg", "din / di / ditt / dine", "tu, toi · ton, ta, tes", "you · your"],
-  ["3rd sg. masc.", "han", "ham / han", "hans", "il, lui · son, sa, ses (à lui)", "he, him · his"],
-  ["3rd sg. fem.", "hun", "henne", "hennes", "elle · son, sa, ses (à elle)", "she, her · her"],
-  ["3rd sg. thing", "den / det", "den / det", "dens / dets", "il, elle (chose) · son", "it · its"],
+  ["3rd sg. masc.", "han", "ham / han", "hans", "il, le, lui · son, sa, ses (à lui)", "he, him · his"],
+  ["3rd sg. fem.", "hun", "henne", "hennes", "elle, la, lui · son, sa, ses (à elle)", "she, her · her"],
+  ["3rd sg. thing", "den / det", "den / det", "dens / dets", "il, elle, le, la (chose) · son, sa", "it · its"],
   ["1st pl.", "vi", "oss", "vår / vårt / våre", "nous · notre, nos", "we, us · our"],
   ["2nd pl.", "dere", "dere", "deres", "vous · votre, vos", "you · your"],
   ["3rd pl.", "de", "dem", "deres", "ils, elles, eux · leur, leurs", "they, them · their"],
   ["reflexive", "—", "seg", "sin / si / sitt / sine", "se · son, sa, ses (à soi)", "himself… · his own"],
-  ["general", "man", "en", "ens", "on", "one"],
+  ["general", "man", "en", "ens", "on · son, sa (de on)", "one · one's"],
 ];
 
 // "min / mi / mitt / mine" -> four cells; an invariable possessive fills all four.
