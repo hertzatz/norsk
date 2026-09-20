@@ -396,18 +396,18 @@ const PERSONAL = [
   ["indéfini", ["man", "on", "one"], ["en", "on (objet)", "one"]],
 ];
 
-// Possessives: [owner, forms, fr, en]; one form = invariable, four = masc/fém/neutre/pluriel
+// Possessives: [owner, [[form, fr, en], …]]; one form = invariable
 const POSSESS = [
-  [["jeg", "je", "I"], ["min", "mi", "mitt", "mine"], "mon, ma, mes", "my"],
-  [["du", "tu", "you"], ["din", "di", "ditt", "dine"], "ton, ta, tes", "your"],
-  [["han", "il", "he"], ["hans"], "son, sa, ses (à lui)", "his"],
-  [["hun", "elle", "she"], ["hennes"], "son, sa, ses (à elle)", "her"],
-  [["den / det", "la chose", "it"], ["dens / dets"], "son, sa (de la chose)", "its"],
-  [["vi", "nous", "we"], ["vår", "vår", "vårt", "våre"], "notre, nos", "our"],
-  [["dere", "vous", "you"], ["deres"], "votre, vos", "your"],
-  [["de", "ils, elles", "they"], ["deres"], "leur, leurs", "their"],
-  [["seg", "le sujet", "the subject"], ["sin", "si", "sitt", "sine"], "son, sa, ses (à soi)", "his/her own"],
-  [["man", "on", "one"], ["ens"], "son, sa (de on)", "one's"],
+  [["jeg", "je", "I"], [["min", "mon", "my"], ["mi", "ma", "my"], ["mitt", "mon", "my"], ["mine", "mes", "my"]]],
+  [["du", "tu", "you"], [["din", "ton", "your"], ["di", "ta", "your"], ["ditt", "ton", "your"], ["dine", "tes", "your"]]],
+  [["han", "il", "he"], [["hans", "son, sa, ses (à lui)", "his"]]],
+  [["hun", "elle", "she"], [["hennes", "son, sa, ses (à elle)", "her"]]],
+  [["den / det", "la chose", "it"], [["dens / dets", "son, sa (de la chose)", "its"]]],
+  [["vi", "nous", "we"], [["vår", "notre", "our"], ["vår", "notre", "our"], ["vårt", "notre", "our"], ["våre", "nos", "our"]]],
+  [["dere", "vous", "you"], [["deres", "votre, vos", "your"]]],
+  [["de", "ils, elles", "they"], [["deres", "leur, leurs", "their"]]],
+  [["seg", "le sujet", "the subject"], [["sin", "son", "his/her own"], ["si", "sa", "his/her own"], ["sitt", "son", "his/her own"], ["sine", "ses", "his/her own"]]],
+  [["man", "on", "one"], [["ens", "son, sa (de on)", "one's"]]],
 ];
 
 // A cell: the Norwegian form, its translation underneath
@@ -420,11 +420,11 @@ function pcell(no, fr, en, cls = "") {
 function renderPronouns() {
   const personal = PERSONAL.map(([label, [s, sfr, sen], [o, ofr, oen]]) => `<tr>
       <td class="gl muted">${label}</td>${pcell(s, sfr, sen, "inf")}${pcell(o, ofr, oen)}</tr>`).join("");
-  const possessive = POSSESS.map(([[own, ofr, oen], forms, fr, en]) => `<tr>
+  const possessive = POSSESS.map(([[own, ofr, oen], forms]) => `<tr>
       ${pcell(own, ofr, oen, "inf")}
-      ${forms.length === 4 ? forms.map((f) => `<td>${vf(f)}</td>`).join("")
-        : `<td colspan="4">${vf(forms[0])} <span class="muted">(ne change jamais)</span></td>`}
-      <td class="gl muted">${gl(fr, en)}</td></tr>`).join("");
+      ${forms.length === 4 ? forms.map(([f, ffr, fen]) => pcell(f, ffr, fen)).join("")
+        : `<td colspan="4">${vf(forms[0][0])}<br><span class="muted">${gl(forms[0][1], forms[0][2])} — ne change jamais</span></td>`}
+      </tr>`).join("");
   const others = WORDS.filter((w) => (w.pos === "pron" || w.pos === "det") && inLevel(w))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
   document.getElementById("pronouns").innerHTML = `
@@ -447,8 +447,7 @@ function renderPronouns() {
         <th>Masculine<br><span class="muted">bilen …</span></th>
         <th>Feminine<br><span class="muted">boka …</span></th>
         <th>Neuter<br><span class="muted">huset …</span></th>
-        <th>Plural<br><span class="muted">barna …</span></th>
-        <th>Meaning</th></tr></thead>
+        <th>Plural<br><span class="muted">barna …</span></th></tr></thead>
       <tbody>${possessive}</tbody></table></div>
     <div class="note-box">
       <p><b>Après le nom</b> (le plus courant à l'oral) : le nom prend sa forme définie, <i>bilen min</i>, et non <i>bil min</i>.
