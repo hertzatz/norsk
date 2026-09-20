@@ -382,74 +382,82 @@ function renderVerbs() {
 }
 
 // ---------- pronouns view ----------
+// Personal pronouns: [label, subject, object] where each form is [norsk, fr, en]
 const PERSONAL = [
-  ["1st sg.", "jeg", "meg", "min / mi / mitt / mine", "je, moi · mon, ma, mes", "I, me · my"],
-  ["2nd sg.", "du", "deg", "din / di / ditt / dine", "tu, toi · ton, ta, tes", "you · your"],
-  ["3rd sg. masc.", "han", "ham / han", "hans", "il, le, lui · son, sa, ses (à lui)", "he, him · his"],
-  ["3rd sg. fem.", "hun", "henne", "hennes", "elle, la, lui · son, sa, ses (à elle)", "she, her · her"],
-  ["3rd sg. thing", "den / det", "den / det", "dens / dets", "il, elle, le, la (chose) · son, sa", "it · its"],
-  ["1st pl.", "vi", "oss", "vår / vårt / våre", "nous · notre, nos", "we, us · our"],
-  ["2nd pl.", "dere", "dere", "deres", "vous · votre, vos", "you · your"],
-  ["3rd pl.", "de", "dem", "deres", "ils, elles, eux · leur, leurs", "they, them · their"],
-  ["reflexive", "—", "seg", "sin / si / sitt / sine", "se · son, sa, ses (à soi)", "himself… · his own"],
-  ["general", "man", "en", "ens", "on · son, sa (de on)", "one · one's"],
+  ["1re sg.", ["jeg", "je", "I"], ["meg", "me, moi", "me"]],
+  ["2e sg.", ["du", "tu", "you"], ["deg", "te, toi", "you"]],
+  ["3e sg. masc.", ["han", "il", "he"], ["ham / han", "le, lui", "him"]],
+  ["3e sg. fém.", ["hun", "elle", "she"], ["henne", "la, lui", "her"]],
+  ["3e sg. chose", ["den / det", "il, elle", "it"], ["den / det", "le, la", "it"]],
+  ["1re pl.", ["vi", "nous", "we"], ["oss", "nous", "us"]],
+  ["2e pl.", ["dere", "vous", "you"], ["dere", "vous", "you"]],
+  ["3e pl.", ["de", "ils, elles", "they"], ["dem", "les, eux", "them"]],
+  ["réfléchi", ["—", "", ""], ["seg", "se, soi", "himself, herself…"]],
+  ["indéfini", ["man", "on", "one"], ["en", "on (objet)", "one"]],
 ];
 
-// "min / mi / mitt / mine" -> four cells; an invariable possessive fills all four.
-// "dens / dets" agrees with the owner, not the owned noun, so it spans the four columns.
-function possCells(poss) {
-  const parts = poss.split("/").map((x) => x.trim());
-  if (parts.length === 2) return `<td colspan="4">${vf(poss)} <span class="muted">(selon le genre du possesseur)</span></td>`;
-  const four = parts.length === 4 ? parts : parts.length === 3 ? [parts[0], parts[0], parts[1], parts[2]]
-    : [parts[0], parts[0], parts[0], parts[0]];
-  return four.map((x) => `<td>${x === "—" ? "—" : vf(x)}</td>`).join("");
+// Possessives: [owner, forms, fr, en]; one form = invariable, four = masc/fém/neutre/pluriel
+const POSSESS = [
+  [["jeg", "je", "I"], ["min", "mi", "mitt", "mine"], "mon, ma, mes", "my"],
+  [["du", "tu", "you"], ["din", "di", "ditt", "dine"], "ton, ta, tes", "your"],
+  [["han", "il", "he"], ["hans"], "son, sa, ses (à lui)", "his"],
+  [["hun", "elle", "she"], ["hennes"], "son, sa, ses (à elle)", "her"],
+  [["den / det", "la chose", "it"], ["dens / dets"], "son, sa (de la chose)", "its"],
+  [["vi", "nous", "we"], ["vår", "vår", "vårt", "våre"], "notre, nos", "our"],
+  [["dere", "vous", "you"], ["deres"], "votre, vos", "your"],
+  [["de", "ils, elles", "they"], ["deres"], "leur, leurs", "their"],
+  [["seg", "le sujet", "the subject"], ["sin", "si", "sitt", "sine"], "son, sa, ses (à soi)", "his/her own"],
+  [["man", "on", "one"], ["ens"], "son, sa (de on)", "one's"],
+];
+
+// A cell: the Norwegian form, its translation underneath
+const gl = (fr, en) => state.lang === "en" ? en : state.lang === "fr" ? fr : (en && fr !== en ? `${fr}<br>${en}` : fr);
+function pcell(no, fr, en, cls = "") {
+  if (no === "—") return `<td class="${cls}">—</td>`;
+  return `<td class="${cls}">${vf(no)}<br><span class="muted">${gl(fr, en)}</span></td>`;
 }
 
 function renderPronouns() {
-  const personal = PERSONAL.map(([p, subj, obj, poss, fr, en]) => `<tr>
-      <td class="gl">${state.lang === "en" ? en : state.lang === "fr" ? fr : `${fr}<br><span class="muted">${en}</span>`}<br><span class="muted">${p}</span></td>
-      <td class="inf">${subj === "—" ? "—" : vf(subj)}</td><td>${vf(obj)}</td>${possCells(poss)}</tr>`).join("");
+  const personal = PERSONAL.map(([label, [s, sfr, sen], [o, ofr, oen]]) => `<tr>
+      <td class="gl muted">${label}</td>${pcell(s, sfr, sen, "inf")}${pcell(o, ofr, oen)}</tr>`).join("");
+  const possessive = POSSESS.map(([[own, ofr, oen], forms, fr, en]) => `<tr>
+      ${pcell(own, ofr, oen, "inf")}
+      ${forms.length === 4 ? forms.map((f) => `<td>${vf(f)}</td>`).join("")
+        : `<td colspan="4">${vf(forms[0])} <span class="muted">(ne change jamais)</span></td>`}
+      <td class="gl muted">${gl(fr, en)}</td></tr>`).join("");
   const others = WORDS.filter((w) => (w.pos === "pron" || w.pos === "det") && inLevel(w))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
   document.getElementById("pronouns").innerHTML = `
-    <h2 class="vh">Personal and possessive pronouns</h2>
+    <h2 class="vh">Personal pronouns</h2>
     <div class="table-wrap"><table class="vt">
-      <thead>
-        <tr><th rowspan="2">Meaning</th><th rowspan="2">Subject</th><th rowspan="2">Object</th><th colspan="4" class="grp">Possessive, by the owned noun</th></tr>
-        <tr><th>Masculine</th><th>Feminine</th><th>Neuter</th><th>Plural</th></tr>
-      </thead>
+      <thead><tr><th></th><th>Subject <span class="muted">jeg ser…</span></th><th>Object <span class="muted">…ser meg</span></th></tr></thead>
       <tbody>${personal}</tbody></table></div>
     <div class="note-box">
-      <p><b>Possessif après le nom</b> (le plus courant à l'oral) : <i>bilen min</i> (ma voiture), <i>huset vårt</i> (notre maison).</p>
-      <p><b>Accord :</b> <i>min</i> (masc.), <i>mi</i> (fém.), <i>mitt</i> (neutre), <i>mine</i> (pluriel) : <i>bilen min, kona mi, huset mitt, barna mine</i>.</p>
-      <p><b>sin ou hans ?</b> <i>Han elsker kona si</i> = sa propre femme · <i>Han elsker kona hans</i> = la femme d'un autre homme.</p>
       <p><b>Objet :</b> <i>ham</i> à l'écrit, mais <i>han</i> est très courant à l'oral (<i>Jeg så han i går</i>).
-         De même, <i>dem</i> à l'écrit, <i>dom</i> se dit dans beaucoup de dialectes.</p>
-      <p>Tap a form to hear it.</p>
+         De même <i>dem</i> à l'écrit, <i>dom</i> dans beaucoup de dialectes.</p>
+      <p><b>den ou det ?</b> <i>den</i> pour un nom masculin ou féminin (<i>bilen → den</i>), <i>det</i> pour un neutre (<i>huset → det</i>).</p>
     </div>
-    <h2 class="vh">Possessive agreement</h2>
+
+    <h2 class="vh">Possessives</h2>
     <div class="note-box">
-      <p>Le possessif s'accorde avec <b>la chose possédée</b> (son genre et son nombre en norvégien), pas avec le possesseur.
-         Le genre norvégien n'est pas le genre français : <i>ei bok</i> (féminin), <i>et hus</i> (neutre).
-         L'article affiché devant chaque nom (onglet Mots) donne le genre.</p>
+      <p>Le possessif s'accorde avec <b>la chose possédée</b>, pas avec le possesseur : <i>bilen min</i>, <i>boka mi</i>, <i>huset mitt</i>, <i>barna mine</i>.</p>
     </div>
     <div class="table-wrap"><table class="vt">
-      <thead><tr><th>Meaning</th><th>Masculine (en)</th><th>Feminine (ei)</th><th>Neuter (et)</th><th>Plural</th></tr></thead>
-      <tbody>
-        ${[["mon, ma, mes", "min"], ["ton, ta, tes", "din"], ["son, sa, ses (à soi)", "sin"], ["notre, nos", "vår"],
-           ["son, sa, ses (à lui)", "hans"], ["son, sa, ses (à elle)", "hennes"], ["votre ; leur", "deres"]]
-          .map(([fr, key]) => `<tr><td class="gl">${fr}</td>${AGREE[key].map((x) => `<td>${vf(x)}</td>`).join("")}</tr>`).join("")}
-        <tr><td class="gl muted">example</td><td><i>bilen ${vf("din")}</i><br><span class="muted">ta voiture</span></td>
-          <td><i>boka ${vf("di")}</i><br><span class="muted">ton livre</span></td>
-          <td><i>huset ${vf("ditt")}</i><br><span class="muted">ta maison</span></td>
-          <td><i>barna ${vf("dine")}</i><br><span class="muted">tes enfants</span></td></tr>
-      </tbody></table></div>
+      <thead><tr><th>Owner</th>
+        <th>Masculine<br><span class="muted">bilen …</span></th>
+        <th>Feminine<br><span class="muted">boka …</span></th>
+        <th>Neuter<br><span class="muted">huset …</span></th>
+        <th>Plural<br><span class="muted">barna …</span></th>
+        <th>Meaning</th></tr></thead>
+      <tbody>${possessive}</tbody></table></div>
     <div class="note-box">
-      <p><b>Après le nom</b> (le plus courant) : le nom prend sa forme définie : <i>bilen min</i>, pas <i>bil min</i>.
-         <b>Devant le nom</b>, c'est plus insistant : <i>min bil</i> = MA voiture.</p>
-      <p><b>hans, hennes, deres</b> ne changent jamais : <i>bilen hans, huset hans, barna hans</i>.</p>
-      <p>À l'écrit, le féminin <i>mi / di / si</i> est souvent remplacé par <i>min / din / sin</i> (<i>boken min</i>) ; à l'oral dans ta région, on dit plutôt <i>boka mi</i>.</p>
+      <p><b>Après le nom</b> (le plus courant à l'oral) : le nom prend sa forme définie, <i>bilen min</i>, et non <i>bil min</i>.
+         <b>Devant le nom</b>, c'est insistant : <i>min bil</i> = MA voiture.</p>
+      <p><b>sin ou hans ?</b> <i>Han elsker kona si</i> = sa propre femme · <i>Han elsker kona hans</i> = la femme d'un autre.</p>
+      <p>À l'écrit, le féminin <i>mi / di / si</i> est souvent remplacé par <i>min / din / sin</i> (<i>boken min</i>) ; à l'oral dans ta région, on dit <i>boka mi</i>.</p>
+      <p>Tap a form to hear it.</p>
     </div>
+
     <h2 class="vh">Other pronouns and determiners <span class="badge">${others.length}</span></h2>
     <div class="table-wrap"><table class="vt">
       <thead><tr><th>Meaning</th><th>Word</th><th>Forms</th><th></th></tr></thead>
