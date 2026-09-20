@@ -6,13 +6,13 @@ jeg | pron | je, moi | I, me | meg
 du | pron | tu, toi | you | deg
 han | pron | il, lui | he, him | ham
 hun | pron | elle | she, her | henne
-den | pron | il, elle, le, la (chose) ; ce, cette | it ; that, the
-det | pron | il, ce, ça ; le (neutre) | it, that ; the
+den | pron | il, elle, le, la (chose) ; ce, cette | it ; that, the | dens
+det | pron | il, ce, ça ; le (neutre) | it, that ; the | dets
 vi | pron | nous | we, us | oss
 dere | pron | vous (pluriel) | you (plural)
 de | pron | ils, elles ; les, ces | they ; those, the | dem
 seg | pron | se, soi | himself, herself, themselves
-man | pron | on | one, you (in general)
+man | pron | on | one, you (in general) | en,ens
 selv | pron | même, soi-même | self, oneself
 hverandre | pron | l'un l'autre, les uns les autres | each other
 hvem | pron | qui ? | who

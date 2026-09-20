@@ -385,9 +385,9 @@ function renderVerbs() {
 const PERSONAL = [
   ["1st sg.", "jeg", "meg", "min / mi / mitt / mine", "je, moi · mon, ma, mes", "I, me · my"],
   ["2nd sg.", "du", "deg", "din / di / ditt / dine", "tu, toi · ton, ta, tes", "you · your"],
-  ["3rd sg. masc.", "han", "ham", "hans", "il, lui · son, sa, ses (à lui)", "he, him · his"],
+  ["3rd sg. masc.", "han", "ham / han", "hans", "il, lui · son, sa, ses (à lui)", "he, him · his"],
   ["3rd sg. fem.", "hun", "henne", "hennes", "elle · son, sa, ses (à elle)", "she, her · her"],
-  ["3rd sg. thing", "den / det", "den / det", "dens", "il, elle (chose) · son", "it · its"],
+  ["3rd sg. thing", "den / det", "den / det", "dens / dets", "il, elle (chose) · son", "it · its"],
   ["1st pl.", "vi", "oss", "vår / vårt / våre", "nous · notre, nos", "we, us · our"],
   ["2nd pl.", "dere", "dere", "deres", "vous · votre, vos", "you · your"],
   ["3rd pl.", "de", "dem", "deres", "ils, elles, eux · leur, leurs", "they, them · their"],
@@ -395,11 +395,13 @@ const PERSONAL = [
   ["general", "man", "en", "ens", "on", "one"],
 ];
 
-// "min / mi / mitt / mine" -> four cells; an invariable possessive fills all four
+// "min / mi / mitt / mine" -> four cells; an invariable possessive fills all four.
+// "dens / dets" agrees with the owner, not the owned noun, so it spans the four columns.
 function possCells(poss) {
   const parts = poss.split("/").map((x) => x.trim());
+  if (parts.length === 2) return `<td colspan="4">${vf(poss)} <span class="muted">(selon le genre du possesseur)</span></td>`;
   const four = parts.length === 4 ? parts : parts.length === 3 ? [parts[0], parts[0], parts[1], parts[2]]
-    : parts.length === 2 ? [parts[0], parts[0], parts[1], "—"] : [parts[0], parts[0], parts[0], parts[0]];
+    : [parts[0], parts[0], parts[0], parts[0]];
   return four.map((x) => `<td>${x === "—" ? "—" : vf(x)}</td>`).join("");
 }
 
@@ -421,6 +423,8 @@ function renderPronouns() {
       <p><b>Possessif après le nom</b> (le plus courant à l'oral) : <i>bilen min</i> (ma voiture), <i>huset vårt</i> (notre maison).</p>
       <p><b>Accord :</b> <i>min</i> (masc.), <i>mi</i> (fém.), <i>mitt</i> (neutre), <i>mine</i> (pluriel) : <i>bilen min, kona mi, huset mitt, barna mine</i>.</p>
       <p><b>sin ou hans ?</b> <i>Han elsker kona si</i> = sa propre femme · <i>Han elsker kona hans</i> = la femme d'un autre homme.</p>
+      <p><b>Objet :</b> <i>ham</i> à l'écrit, mais <i>han</i> est très courant à l'oral (<i>Jeg så han i går</i>).
+         De même, <i>dem</i> à l'écrit, <i>dom</i> se dit dans beaucoup de dialectes.</p>
       <p>Tap a form to hear it.</p>
     </div>
     <h2 class="vh">Possessive agreement</h2>

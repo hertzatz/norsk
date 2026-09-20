@@ -201,3 +201,5 @@ Svart kaffe, takk. | Un café noir, merci. | Black coffee, please.
 Et stykke til, takk. | Encore un morceau, merci. | One more piece, please.
 Gi meg et lite stykke. | Donne-moi un petit morceau. | Give me a small piece.
 Kan du bringe pakken til naboen? | Peux-tu apporter le colis au voisin ? | Can you take the parcel to the neighbour?
+Kan du bringe meg en kopp? | Peux-tu m'apporter une tasse ? | Can you bring me a cup?
+Han bringer bøker til skolen. | Il apporte des livres à l'école. | He brings books to the school.
