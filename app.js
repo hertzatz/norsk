@@ -103,23 +103,22 @@ const clickableNo = (text) => esc(text).split(/(\s+|[,.;:!?¿¡"«»()]+)/).map(
 
 async function translateBar(q) {
   const out = document.getElementById("trOut");
-  out.hidden = false;
   out.innerHTML = `<span class="muted">…</span>`;
   try {
     // anything typed goes to Norwegian; if it already was Norwegian, translate it to French (or English)
     let no = await trFetch(q, "auto", "no"), other = "";
     if (no.from === "no") {
       const lang = state.lang === "en" ? "en" : "fr";
-      other = `<span class="tr-other"><span class="lang">${lang.toUpperCase()}</span>${esc((await trFetch(q, "no", lang)).text)}</span>`;
+      other = `<span class="tr-other"> · ${esc((await trFetch(q, "no", lang)).text)}</span>`;
       no = { text: q };
     }
     out.innerHTML = `
       <button class="play" id="trPlay" aria-label="Play">▶</button>
-      <span class="tr-no">${clickableNo(no.text)}</span>${other}
+      <span class="tr-no">${clickableNo(no.text)}${other}</span>
       <button class="tr-close" id="trClose" aria-label="Clear">✕</button>`;
     document.getElementById("trPlay").onclick = (e) => play(ttsUrl(no.text, voiceFor(no.text)), no.text, e.currentTarget, 1);
     document.getElementById("trClose").onclick = () => {
-      out.hidden = true; out.innerHTML = ""; document.getElementById("trInput").value = "";
+      out.innerHTML = `<span class="muted">→ norsk</span>`; document.getElementById("trInput").value = "";
     };
   } catch (err) {
     out.innerHTML = `<span class="muted">${String(err.message) === "daily_limit"
