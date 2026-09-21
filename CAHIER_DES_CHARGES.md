@@ -20,7 +20,7 @@ Apprendre le norvégien parlé du quotidien et du travail (restauration, nettoya
 | Formes écrites | Bokmål « de l'Est », proche de l'oral de Kongsberg/Numedal : féminin en *-a* (*ei jente, jenta, boka*), passé en *-a* des verbes faibles (*snakka, kasta*), quand le bokmål officiel l'autorise |
 | Niveaux | Sélecteur **300 / 600 / 1000** dans l'application |
 | Essentiels | Nombres, jours, mois, heure : liste à part, **ajoutée en plus** des 300 (disponible dès le niveau 300) |
-| Hébergement | GitHub Pages, compte GitHub **hertzatz** |
+| Hébergement | Site : GitHub Pages (compte **hertzatz**) · audio : Cloudflare R2 (bucket `norsk-app`) |
 
 ## 3. Vocabulaire
 
@@ -126,7 +126,8 @@ Une phrase peut combiner le tronc commun du niveau et un thème métier choisi.
 - [x] Phrases : ~8000 phrases, **chaque mot dans au moins 5 phrases de son niveau, y compris au niveau 2000** (validé par script), tolérance de 20 % de mots bonus par phrase.
 - [x] Audio : deux voix (Pernille, Finn) pour tous les mots, formes et phrases, en alternance à chaque lecture en mode « Both ».
 - [x] Application : phrases cliquables, formes étiquetées (temps des verbes), double-clic → phrases d'un mot, filtres niveau/thème/catégorie, recherche NO/FR/EN sans accents, vitesse et voix réglables, onglets Verbs et Pronouns, interface en anglais, case « Only this level » (n'affiche que les mots et phrases du niveau choisi), tout mot norvégien cliquable partout.
-- [x] Mise en ligne GitHub Pages : https://hertzatz.github.io/norsk/
+- [x] Mise en ligne GitHub Pages : https://hertzatz.github.io/norsk/ ; audio (85 000 mp3, 1,7 Go) sur Cloudflare R2, offre gratuite.
+- [x] Audio des phrases à 4 vitesses prononcées par la voix (100 / 85 / 70 / 55 %) ; pistes des verbes français puis norvégien.
 - [ ] Cartes mémoire, quiz, dictée.
 - [ ] Progression, PWA hors ligne.
 
@@ -136,7 +137,7 @@ Une phrase peut combiner le tronc commun du niveau et un thème métier choisi.
 
 ## 10. Questions ouvertes
 - [x] Formes : *-a* (proche Kongsberg/Numedal).
-- [x] Hébergement : GitHub Pages, compte hertzatz.
+- [x] Hébergement : GitHub Pages (compte hertzatz) pour le site, Cloudflare R2 pour l'audio.
 - [x] Essentiels (nombres, jours, mois, heure) : en plus des 300.
 - [x] Moteur audio : edge-tts (voix neuronales Microsoft), **deux voix** : Pernille (♀) et Finn (♂), au choix dans l'application ou en alternance.
 - [x] Vitesse : audio généré à vitesse normale, **vitesse réglable dans l'application** (×1 / ×0,85 / ×0,7 / ×0,55), sans changer la hauteur de la voix.

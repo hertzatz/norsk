@@ -407,7 +407,7 @@ function renderVerbs() {
         <td>${modal ? "—" : vfRow("skal " + f.inf)}</td>
         <td>${modal ? "—" : vf(imperative(f.inf))}</td>
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>
-        <td><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button></td>
+        <td class="drill-cell"><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button></td>
       </tr>`;
     }).join("");
     return `<h2 class="vh drill-head">${title} <span class="badge">${list.length}</span>
@@ -416,7 +416,7 @@ function renderVerbs() {
         </span></h2>
       <p class="hint">${help}</p>
       <div class="table-wrap"><table class="vt">
-        <thead><tr><th>Meaning</th><th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th></th></tr></thead>
+        <thead><tr><th>Meaning</th><th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th class="drill-cell"></th></tr></thead>
         <tbody>${rows}</tbody></table></div>`;
   }).join("") || `<p class="empty">No verbs found.</p>`;
 }
