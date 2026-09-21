@@ -40,11 +40,38 @@ def slug(text):
     return "".join(out).strip("_")[:80]
 
 
+def imperative(inf):
+    """Same rule as imperative() in app.js."""
+    if not inf.endswith("e") or len(inf) < 3 or not any(c in "aeiouyæøå" for c in inf[:-1]):
+        return inf
+    imp = inf[:-1]
+    return imp[:-1] if imp.endswith("mm") else imp
+
+
+def shown_forms(w):
+    """Every form the app displays (and makes clickable) for a word: cards, popovers, tables."""
+    f = w.get("forms") or {}
+    split = lambda s: [x.strip() for x in (s or "").split("/") if x.strip()]
+    out = [w["lemma"]]
+    for key in ("inf", "pres", "past", "perf", "indef", "def", "pl", "defpl", "base", "neut", "comp", "sup"):
+        out += split(f.get(key))
+    if w["pos"] == "verb" and " " not in w["lemma"]:
+        out += ["har " + p for p in split(f.get("perf"))]
+        if f.get("inf"):
+            out += ["skal " + f["inf"], "vil " + f["inf"], imperative(f["inf"])]
+        if w["lemma"] + "s" in w["variants"]:
+            out.append(w["lemma"] + "s")
+    if w["pos"] in ("pron", "det"):
+        out += w["variants"]
+    return out
+
+
 def collect():
     texts = {}
     words = json.loads((ROOT / "data" / "words.json").read_text(encoding="utf-8"))
     for w in words:
-        texts.setdefault(("w", slug(w["lemma"])), w["lemma"])
+        for form in shown_forms(w):
+            texts.setdefault(("w", slug(form)), form)
     sent_file = ROOT / "data" / "sentences.json"
     if sent_file.exists():
         for s in json.loads(sent_file.read_text(encoding="utf-8")):
