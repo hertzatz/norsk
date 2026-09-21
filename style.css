@@ -175,3 +175,10 @@ body.noscroll { overflow: hidden; }
 .vf.playing { background: var(--hl); }
 @media (max-width: 500px) { .word .more span { display: none; } }
 .tabs button.on { color: var(--accent); background: var(--chip); }
+
+/* verb drills */
+.vt .drill { border: 1px solid var(--line); background: var(--chip); border-radius: 99px; padding: 2px 9px; cursor: pointer; font-size: .85rem; }
+.drill-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.drill-ctrl { margin-left: auto; display: inline-flex; gap: 4px; }
+.drill-ctrl button { border: 1px solid var(--line); background: var(--chip); border-radius: 8px; padding: 2px 9px; cursor: pointer; font-size: .9rem; }
+.vt tr.drilling td { background: var(--hl); }

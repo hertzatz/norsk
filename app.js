@@ -53,13 +53,14 @@ function voiceFor() {
   return v;
 }
 
-// Sentences exist at four speeds spoken by the voice itself (no time-stretch); folder = speed in %.
-// 100 % and 85 % sit next to the app; 70 % and 55 % live in the norsk-db site
-// (hertzatz.github.io/norsk-db online, ./norsk-db locally: "../norsk-db" resolves to both).
-const DB_BASE = "../norsk-db";
-const SPEED_DIR = { 1: ["audio", "s100"], 0.85: ["audio", "s085"], 0.7: [DB_BASE, "s070"], 0.55: [DB_BASE, "s055"] };
+// All audio lives in the Cloudflare R2 bucket norsk-app: <voice>/<folder>/<file>.mp3
+// folders: w (words), s100 / s085 / s070 / s055 (sentences at that % of normal speed), verb (drills).
+const AUDIO_BASE = "https://pub-9c5fcccd9b314f969fcb77df05b56023.r2.dev";
+const SPEED_DIR = { 1: "s100", 0.85: "s085", 0.7: "s070", 0.55: "s055" };
+const audioUrl = (voice, dir, file) => `${AUDIO_BASE}/${voice}/${dir}/${file}.mp3`;
 
 function play(src, text, el = null, rate = state.speed, fallback = null) {
+  if (typeof drillStop === "function" && (drillQueue.length || !drill.paused)) drillStop();
   if (playingEl) playingEl.classList.remove("playing");
   playingEl = el;
   if (el) el.classList.add("playing");
@@ -71,14 +72,48 @@ function play(src, text, el = null, rate = state.speed, fallback = null) {
   player.playbackRate = rate;
   player.play().catch(() => fallback ? fallback() : speakFallback(text, rate));
 }
-const playWord = (text, el, key = text) => play(`audio/${voiceFor(key)}/w/${slug(text)}.mp3`, text, el);
+const playWord = (text, el, key = text) => play(audioUrl(voiceFor(key), "w", slug(text)), text, el);
 function playSentence(s, el) {
   const voice = voiceFor(s.id);
-  const normal = `audio/${voice}/s100/${s.id}.mp3`;
-  const [base, dir] = SPEED_DIR[state.speed] || SPEED_DIR[1];
-  if (dir === "s100") return play(normal, s.no, el);
-  // spoken-slow file at rate 1; if it is missing, fall back to the normal file slowed by the browser
-  play(`${base}/${voice}/${dir}/${s.id}.mp3`, s.no, el, 1, () => play(normal, s.no, el));
+  const dir = SPEED_DIR[state.speed] || "s100";
+  // the slower speeds are spoken slowly by the voice itself, so they play at rate 1;
+  // if one is missing, the normal file is slowed down by the browser instead
+  if (dir === "s100") return play(audioUrl(voice, dir, s.id), s.no, el);
+  play(audioUrl(voice, dir, s.id), s.no, el, 1, () => play(audioUrl(voice, "s100", s.id), s.no, el));
+}
+
+// ---------- verb drills: French then Norwegian, one track per verb (<voice>/verb/<id>.mp3) ----------
+const drill = new Audio();
+let drillQueue = [], drillIdx = 0, drillCls = null;
+function drillMark(id) {
+  document.querySelectorAll("#verbs tr.drilling").forEach((tr) => tr.classList.remove("drilling"));
+  if (!id) return;
+  const btn = document.querySelector(`#verbs .drill[data-id="${CSS.escape(id)}"]`);
+  const tr = btn && btn.closest("tr");
+  if (tr) { tr.classList.add("drilling"); tr.scrollIntoView({ block: "nearest", behavior: "smooth" }); }
+}
+function drillPlay(id) {
+  player.pause();
+  drillMark(id);
+  drill.src = audioUrl(voiceFor(id), "verb", id);
+  drill.play().catch(() => {});
+}
+function drillStop() {
+  drill.pause(); drill.currentTime = 0;
+  drillQueue = []; drillCls = null; drillMark(null);
+}
+drill.onended = () => {
+  if (drillQueue.length && drillIdx < drillQueue.length - 1) drillPlay(drillQueue[++drillIdx]);
+  else { drillQueue = []; drillCls = null; drillMark(null); }
+};
+function drillGroup(cls, act) {
+  if (act === "pause") return drill.pause();
+  if (act === "stop") return drillStop();
+  if (drillCls === cls && drill.paused && drillQueue.length) return drill.play();   // resume
+  const table = document.querySelector(`#verbs .drill-ctrl[data-cls="${cls}"]`).closest("h2").nextElementSibling.nextElementSibling;
+  drillQueue = [...table.querySelectorAll(".drill")].map((b) => b.dataset.id);
+  drillIdx = 0; drillCls = cls;
+  if (drillQueue.length) drillPlay(drillQueue[0]);
 }
 
 // ---------- helpers ----------
@@ -372,12 +407,16 @@ function renderVerbs() {
         <td>${modal ? "—" : vfRow("skal " + f.inf)}</td>
         <td>${modal ? "—" : vf(imperative(f.inf))}</td>
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>
+        <td><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button></td>
       </tr>`;
     }).join("");
-    return `<h2 class="vh">${title} <span class="badge">${list.length}</span></h2>
+    return `<h2 class="vh drill-head">${title} <span class="badge">${list.length}</span>
+        <span class="drill-ctrl" data-cls="${cls}">
+          <button data-act="play" aria-label="Play all">▶</button><button data-act="pause" aria-label="Pause">⏸</button><button data-act="stop" aria-label="Stop">⏹</button>
+        </span></h2>
       <p class="hint">${help}</p>
       <div class="table-wrap"><table class="vt">
-        <thead><tr><th>Meaning</th><th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th></tr></thead>
+        <thead><tr><th>Meaning</th><th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th></th></tr></thead>
         <tbody>${rows}</tbody></table></div>`;
   }).join("") || `<p class="empty">No verbs found.</p>`;
 }
@@ -603,6 +642,10 @@ function bind() {
   document.getElementById("search").oninput = (e) => { state.q = e.target.value; renderWords(); };
   document.getElementById("verbSearch").oninput = (e) => { state.vq = e.target.value; renderVerbs(); };
   document.addEventListener("click", (e) => {
+    const d = e.target.closest(".drill");
+    if (d) { drillQueue = []; drillCls = null; return drillPlay(d.dataset.id); }
+    const ctrl = e.target.closest(".drill-ctrl button");
+    if (ctrl) return drillGroup(ctrl.closest(".drill-ctrl").dataset.cls, ctrl.dataset.act);
     const more = e.target.closest(".more");
     if (more && !e.target.closest(".word")) return openSheet(more.dataset.id);
     const form = e.target.closest(".vf");

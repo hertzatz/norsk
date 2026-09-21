@@ -17,3 +17,14 @@ python -m http.server 8765        # puis http://localhost:8765/
 ```
 
 Voir [CAHIER_DES_CHARGES.md](CAHIER_DES_CHARGES.md).
+
+## Audio
+
+Les fichiers audio (~85 000 mp3, 1,7 Go) ne sont pas dans ce dépôt : ils sont servis depuis un bucket
+Cloudflare R2 (`norsk-app`, adresse publique dans `AUDIO_BASE` de `app.js`).
+
+```
+python tools/gen_audio.py [s100 s085 s070 s055]   # mots et phrases -> audio/ et norsk-db/ (local, ignorés par git)
+python tools/gen_verb_audio.py                     # pistes des verbes (français puis norvégien) -> norsk-db/<voix>/verb/
+python tools/upload_r2.py                          # envoie ce qui manque dans le bucket (clés dans ../../.norsk-r2.env)
+```
