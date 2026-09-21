@@ -55,6 +55,8 @@ NO_SUFFIX = {"slappe": " av", "skynde": " seg", "kjede": " seg"}
 # imperatives that make no sense as a drill
 NO_IMP = {"se_ut", "ha_lyst_på", "gidde", "orke", "rekke", "trenge", "pleie", "komme_til_å", "sulte", "fryse",
           "hete_verb", "finnes", "lykkes", "trives", "synes", "hende", "skje", "koste"}
+# French forms written out for verbs whose sense the conjugator cannot guess (subject jeg)
+FR_JEG = {"burde": ["devoir", "je devrais", "je devais", "j'aurais dû", None, None]}
 RECIPROCAL = {"møtes"}   # vi møtes = nous nous rencontrons
 ETRE = {"apparaître"}    # passé composé with être despite the conjugator
 AVOIR_WITH_OBJECT = {"passer", "monter", "descendre", "sortir", "rentrer", "retourner"}
@@ -164,7 +166,7 @@ def build():
             person, subj_no = ("1", "p"), "vi"
         per_voice = {}
         for voice, (_, _, gender) in VOICES.items():
-            fr = FR_FULL.get(vid) or french_forms(gloss, gender, person, subject)
+            fr = FR_FULL.get(vid) or FR_JEG.get(vid) or french_forms(gloss, gender, person, subject)
             no = norwegian_forms(w, subj_no)
             if not fr:
                 failed.append(f"{w['lemma']}: {gloss}")
