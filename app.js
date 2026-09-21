@@ -59,18 +59,29 @@ const AUDIO_BASE = "https://pub-9c5fcccd9b314f969fcb77df05b56023.r2.dev";
 const SPEED_DIR = { 1: "s100", 0.85: "s085", 0.7: "s070", 0.55: "s055" };
 const audioUrl = (voice, dir, file) => `${AUDIO_BASE}/${voice}/${dir}/${file}.mp3`;
 
+// Each play gets a number; only the latest one may fall back, and only once (the error event and the
+// rejected play() promise can both fire; a click that interrupts the previous sound is not an error).
+let playSeq = 0;
 function play(src, text, el = null, rate = state.speed, fallback = null) {
+  const seq = ++playSeq;
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
   if (typeof drillStop === "function" && (drillQueue.length || !drill.paused)) drillStop();
   if (playingEl) playingEl.classList.remove("playing");
   playingEl = el;
   if (el) el.classList.add("playing");
-  player.onerror = () => fallback ? fallback() : speakFallback(text, rate);
+  let failed = false;
+  const fail = () => {
+    if (failed || seq !== playSeq) return;
+    failed = true;
+    fallback ? fallback() : speakFallback(text, rate);
+  };
+  player.onerror = fail;
   player.onended = () => { if (el) el.classList.remove("playing"); };
   player.src = src;
   player.preservesPitch = true;
   player.defaultPlaybackRate = rate;
   player.playbackRate = rate;
-  player.play().catch(() => fallback ? fallback() : speakFallback(text, rate));
+  player.play().catch((e) => { if (e && e.name !== "AbortError") fail(); });
 }
 function playWord(text, el, key = text) {
   const voice = voiceFor(key);
