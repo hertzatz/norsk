@@ -84,7 +84,14 @@ function playSentence(s, el) {
 
 // ---------- verb drills: French then Norwegian, one track per verb (<voice>/verb/<id>.mp3) ----------
 const drill = new Audio();
-let drillQueue = [], drillIdx = 0, drillCls = null;
+let drillQueue = [], drillIdx = 0, drillCls = null, drillId = null;
+// the ▶ of the row being read shows ⏸ while it plays
+function drillIcons() {
+  document.querySelectorAll("#verbs .drill").forEach((b) => {
+    b.textContent = b.dataset.id === drillId && !drill.paused ? "⏸" : "▶";
+  });
+}
+drill.onplay = drill.onpause = drillIcons;
 function drillMark(id) {
   document.querySelectorAll("#verbs tr.drilling").forEach((tr) => tr.classList.remove("drilling"));
   if (!id) return;
@@ -94,17 +101,27 @@ function drillMark(id) {
 }
 function drillPlay(id) {
   player.pause();
+  drillId = id;
   drillMark(id);
   drill.src = audioUrl(voiceFor(id), "verb", id);
   drill.play().catch(() => {});
 }
+// row button: play, pause, resume
+function drillToggle(id) {
+  if (id === drillId && drill.src) {
+    if (!drill.paused) return drill.pause();
+    if (drill.currentTime > 0 && !drill.ended) return drill.play();
+  }
+  drillQueue = []; drillCls = null;
+  drillPlay(id);
+}
 function drillStop() {
   drill.pause(); drill.currentTime = 0;
-  drillQueue = []; drillCls = null; drillMark(null);
+  drillQueue = []; drillCls = null; drillId = null; drillMark(null); drillIcons();
 }
 drill.onended = () => {
-  if (drillQueue.length && drillIdx < drillQueue.length - 1) drillPlay(drillQueue[++drillIdx]);
-  else { drillQueue = []; drillCls = null; drillMark(null); }
+  if (drillQueue.length && drillIdx < drillQueue.length - 1) return drillPlay(drillQueue[++drillIdx]);
+  drillQueue = []; drillCls = null; drillId = null; drillMark(null); drillIcons();
 };
 function drillGroup(cls, act) {
   if (act === "pause") return drill.pause();
@@ -419,6 +436,7 @@ function renderVerbs() {
         <thead><tr><th>Meaning</th><th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th class="drill-cell"></th></tr></thead>
         <tbody>${rows}</tbody></table></div>`;
   }).join("") || `<p class="empty">No verbs found.</p>`;
+  drillIcons();   // keep ⏸ on the row being read after a re-render (search, level change)
 }
 
 // ---------- pronouns view ----------
@@ -643,7 +661,7 @@ function bind() {
   document.getElementById("verbSearch").oninput = (e) => { state.vq = e.target.value; renderVerbs(); };
   document.addEventListener("click", (e) => {
     const d = e.target.closest(".drill");
-    if (d) { drillQueue = []; drillCls = null; return drillPlay(d.dataset.id); }
+    if (d) return drillToggle(d.dataset.id);
     const ctrl = e.target.closest(".drill-ctrl button");
     if (ctrl) return drillGroup(ctrl.closest(".drill-ctrl").dataset.cls, ctrl.dataset.act);
     const more = e.target.closest(".more");
