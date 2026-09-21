@@ -72,7 +72,11 @@ function play(src, text, el = null, rate = state.speed, fallback = null) {
   player.playbackRate = rate;
   player.play().catch(() => fallback ? fallback() : speakFallback(text, rate));
 }
-const playWord = (text, el, key = text) => play(audioUrl(voiceFor(key), "w", slug(text)), text, el);
+function playWord(text, el, key = text) {
+  const voice = voiceFor(key);
+  play(audioUrl(voice, "w", slug(text)), text, el, state.speed,
+       () => play(ttsUrl(text, voice), text, el, 1));   // no prepared file: spoken by Azure through the Worker
+}
 function playSentence(s, el) {
   const voice = voiceFor(s.id);
   const dir = SPEED_DIR[state.speed] || "s100";
@@ -80,6 +84,48 @@ function playSentence(s, el) {
   // if one is missing, the normal file is slowed down by the browser instead
   if (dir === "s100") return play(audioUrl(voice, dir, s.id), s.no, el);
   play(audioUrl(voice, dir, s.id), s.no, el, 1, () => play(audioUrl(voice, "s100", s.id), s.no, el));
+}
+
+// ---------- translation bar (Cloudflare Worker: Google Translate + Azure Speech, keys kept there) ----------
+const TR_BASE = "https://norsk-translate.valentin-besnardiere.workers.dev";
+const trUrl = (path, params) => `${TR_BASE}/${path}?${new URLSearchParams(params)}`;
+const ttsUrl = (text, voice) => trUrl("tts", { q: text, voice, rate: String(Math.round(state.speed * 100)) });
+
+async function trFetch(q, from, to) {
+  const r = await fetch(trUrl("translate", { q, from, to }));
+  const j = await r.json();
+  if (!r.ok) throw new Error(j.error || r.status);
+  return j;
+}
+// Norwegian text -> clickable words (same popover and sounds as everywhere else)
+const clickableNo = (text) => esc(text).split(/(\s+|[,.;:!?¿¡"«»()]+)/).map((part) =>
+  /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="vf" data-t="${part}">${part}</span>` : part).join("");
+
+async function translateBar(q) {
+  const out = document.getElementById("trOut"), panel = document.getElementById("trPanel");
+  panel.hidden = false;
+  out.innerHTML = `<p class="muted">…</p>`;
+  try {
+    // anything typed goes to Norwegian; if it already was Norwegian, translate it to French (or English)
+    let no = await trFetch(q, "auto", "no"), other = q, otherLang = no.from;
+    if (no.from === "no") {
+      otherLang = state.lang === "en" ? "en" : "fr";
+      other = (await trFetch(q, "no", otherLang)).text;
+      no = { text: q };
+    }
+    out.innerHTML = `
+      <div class="row"><div class="no tr-no">${clickableNo(no.text)}</div>
+        <button class="play" id="trPlay" aria-label="Play">▶</button></div>
+      <div class="tr"><span class="lang">${esc((otherLang || "").toUpperCase())}</span>${esc(other)}</div>
+      <p class="hint">Tap a word to hear it and see its forms.</p>`;
+    document.getElementById("trPlay").onclick = (e) => {
+      play(ttsUrl(no.text, voiceFor(no.text)), no.text, e.currentTarget, 1);
+    };
+  } catch (err) {
+    out.innerHTML = `<p class="muted">${String(err.message) === "daily_limit"
+      ? "Daily translation limit reached (free quota protection). Try again tomorrow."
+      : "Translation unavailable right now."}</p>`;
+  }
 }
 
 // ---------- verb drills: French then Norwegian, one track per verb (<voice>/verb/<id>.mp3) ----------
@@ -670,6 +716,12 @@ function bind() {
     if (form) { tapWord(form, form.dataset.t); e.stopPropagation(); }
   });
   document.querySelectorAll(".note-box").forEach(makeClickable);
+  document.getElementById("trForm").onsubmit = (e) => {
+    e.preventDefault();
+    const q = document.getElementById("trInput").value.trim();
+    if (q) translateBar(q);
+  };
+  document.getElementById("trClose").onclick = () => { document.getElementById("trPanel").hidden = true; };
   document.getElementById("sentSearch").oninput = (e) => { state.sq = e.target.value; shown = PAGE; renderSentences(); };
   document.getElementById("listSel").onchange = (e) => { state.list = e.target.value; render(); };
   document.getElementById("posSel").onchange = (e) => { state.pos = e.target.value; render(); };

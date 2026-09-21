@@ -5,7 +5,7 @@ Layout in the bucket (same as the local audio/ folder):
   <voice>/s100 … s055/<id>.mp3  sentences at 100 / 85 / 70 / 55 %
   <voice>/verb/<id>.mp3     verb drills (French then Norwegian)
 
-Credentials are read from ../../.norsk-r2.env (outside the repository):
+Credentials are read from ../../.norsk-keys.env (outside the repository):
   R2_ACCOUNT=…  R2_KEY=…  R2_SECRET=…
 Only files missing in the bucket (or with a different size) are sent, so the script can be re-run.
 Usage: python upload_r2.py [--test]
@@ -19,7 +19,9 @@ import boto3
 from botocore.config import Config
 
 ROOT = Path(__file__).resolve().parent.parent
-ENV = ROOT.parent.parent / ".norsk-r2.env"
+ENV = ROOT.parent.parent / ".norsk-keys.env"
+if not ENV.exists():                     # former name
+    ENV = ROOT.parent.parent / ".norsk-r2.env"
 BUCKET = "norsk-app"
 # local folder -> sub-folders sent from it
 SOURCES = [(ROOT / "audio", ("w", "s100", "s085", "s070", "s055", "verb"))]

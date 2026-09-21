@@ -30,7 +30,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  padding-bottom: calc(64px + env(safe-area-inset-bottom, 0px));
+  padding-bottom: calc(112px + env(safe-area-inset-bottom, 0px));
 }
 button, input, select { font: inherit; color: inherit; }
 
@@ -142,7 +142,7 @@ body.noscroll { overflow: hidden; }
 /* Tabs */
 .tabs {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 20;
-  display: flex; justify-content: center; gap: 4px;
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 4px;
   background: var(--card); border-top: 1px solid var(--line);
   padding: 6px 8px calc(6px + env(safe-area-inset-bottom, 0px));
 }
@@ -186,3 +186,14 @@ body.noscroll { overflow: hidden; }
 .drill-ctrl { margin-left: auto; display: inline-flex; gap: 4px; }
 .drill-ctrl button { border: 1px solid var(--line); background: var(--chip); border-radius: 8px; padding: 2px 9px; cursor: pointer; font-size: .9rem; }
 .vt tr.drilling td { background: var(--hl); }
+
+/* translation bar (under the 4 tab buttons) and its result panel */
+.tr-bar { flex-basis: 100%; display: flex; gap: 6px; max-width: 720px; margin: 4px auto 0; }
+.tr-bar input { flex: 1; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--bg); color: inherit; font-size: .95rem; }
+.tr-bar button { border: 1px solid var(--line); background: var(--chip); border-radius: 10px; padding: 0 14px; cursor: pointer; font-size: 1rem; }
+.tr-panel { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(112px + env(safe-area-inset-bottom, 0px));
+  width: min(720px, calc(100% - 24px)); z-index: 30; background: var(--card); border: 1px solid var(--line);
+  border-radius: 14px; box-shadow: 0 6px 24px rgba(0,0,0,.18); padding: 12px 14px; }
+.tr-panel .tr-no { font-size: 1.15rem; }
+.tr-close { position: absolute; top: 6px; right: 8px; border: 0; background: transparent; cursor: pointer; font-size: 1rem; color: var(--muted); }

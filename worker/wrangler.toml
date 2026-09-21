@@ -1,0 +1,14 @@
+name = "norsk-translate"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+preview_urls = false
+
+[vars]
+AZURE_SPEECH_REGION = "norwayeast"
+
+# Secrets (set with `wrangler secret put`, never committed): GOOGLE_TRANSLATE_KEY, AZURE_SPEECH_KEY
+
+# Daily character counters (safety cap)
+[[kv_namespaces]]
+binding = "LIMITS"
+id = "27a7c9fda8fe4403a2361f3b3426cd0d"
