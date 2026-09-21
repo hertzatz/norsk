@@ -188,11 +188,13 @@ body.noscroll { overflow: hidden; }
 .vt tr.drilling td { background: var(--hl); }
 
 /* translation: input line, then output line, under the 4 tab buttons */
-.tr-bar { flex-basis: 100%; display: flex; gap: 6px; max-width: 720px; margin: 4px auto 0; }
+/* the wrapper takes a whole row of the bar, so input and output always sit under the 4 buttons */
+.tr-wrap { flex: 0 0 100%; box-sizing: border-box; min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 4px; margin-top: 4px; }
+.tr-bar { width: 100%; max-width: 720px; box-sizing: border-box; display: flex; gap: 6px; }
 .tr-bar input { flex: 1; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px;
   background: var(--bg); color: inherit; font-size: .95rem; }
 .tr-bar button { border: 1px solid var(--line); background: var(--chip); border-radius: 10px; padding: 0 14px; cursor: pointer; font-size: 1rem; }
-.tr-out { flex-basis: 100%; max-width: 720px; margin: 4px auto 0; display: flex; align-items: center; gap: 8px;
+.tr-out { width: 100%; max-width: 720px; box-sizing: border-box; display: flex; align-items: center; gap: 8px;
   flex-wrap: nowrap; min-height: 38px; padding: 4px 10px; border: 1px solid var(--line); border-radius: 10px;
   background: var(--bg); text-align: left; }
 .tr-out .tr-no { flex: 1; min-width: 0; font-size: 1.05rem; overflow-x: auto; white-space: nowrap; }
