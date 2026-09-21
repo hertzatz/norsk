@@ -187,13 +187,14 @@ body.noscroll { overflow: hidden; }
 .drill-ctrl button { border: 1px solid var(--line); background: var(--chip); border-radius: 8px; padding: 2px 9px; cursor: pointer; font-size: .9rem; }
 .vt tr.drilling td { background: var(--hl); }
 
-/* translation bar (under the 4 tab buttons) and its result panel */
+/* translation: input line, then output line, under the 4 tab buttons */
 .tr-bar { flex-basis: 100%; display: flex; gap: 6px; max-width: 720px; margin: 4px auto 0; }
 .tr-bar input { flex: 1; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px;
   background: var(--bg); color: inherit; font-size: .95rem; }
 .tr-bar button { border: 1px solid var(--line); background: var(--chip); border-radius: 10px; padding: 0 14px; cursor: pointer; font-size: 1rem; }
-.tr-panel { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(112px + env(safe-area-inset-bottom, 0px));
-  width: min(720px, calc(100% - 24px)); z-index: 30; background: var(--card); border: 1px solid var(--line);
-  border-radius: 14px; box-shadow: 0 6px 24px rgba(0,0,0,.18); padding: 12px 14px; }
-.tr-panel .tr-no { font-size: 1.15rem; }
-.tr-close { position: absolute; top: 6px; right: 8px; border: 0; background: transparent; cursor: pointer; font-size: 1rem; color: var(--muted); }
+.tr-out { flex-basis: 100%; max-width: 720px; margin: 4px auto 0; display: flex; align-items: center; gap: 8px;
+  flex-wrap: wrap; padding: 6px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); text-align: left; }
+.tr-out .tr-no { flex: 1; min-width: 0; font-size: 1.1rem; }
+.tr-out .tr-other { flex-basis: 100%; font-size: .9rem; color: var(--muted); }
+.tr-out .play { flex: none; }
+.tr-close { flex: none; border: 0; background: transparent; cursor: pointer; font-size: 1rem; color: var(--muted); }

@@ -102,29 +102,29 @@ const clickableNo = (text) => esc(text).split(/(\s+|[,.;:!?¿¡"«»()]+)/).map(
   /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="vf" data-t="${part}">${part}</span>` : part).join("");
 
 async function translateBar(q) {
-  const out = document.getElementById("trOut"), panel = document.getElementById("trPanel");
-  panel.hidden = false;
-  out.innerHTML = `<p class="muted">…</p>`;
+  const out = document.getElementById("trOut");
+  out.hidden = false;
+  out.innerHTML = `<span class="muted">…</span>`;
   try {
     // anything typed goes to Norwegian; if it already was Norwegian, translate it to French (or English)
-    let no = await trFetch(q, "auto", "no"), other = q, otherLang = no.from;
+    let no = await trFetch(q, "auto", "no"), other = "";
     if (no.from === "no") {
-      otherLang = state.lang === "en" ? "en" : "fr";
-      other = (await trFetch(q, "no", otherLang)).text;
+      const lang = state.lang === "en" ? "en" : "fr";
+      other = `<span class="tr-other"><span class="lang">${lang.toUpperCase()}</span>${esc((await trFetch(q, "no", lang)).text)}</span>`;
       no = { text: q };
     }
     out.innerHTML = `
-      <div class="row"><div class="no tr-no">${clickableNo(no.text)}</div>
-        <button class="play" id="trPlay" aria-label="Play">▶</button></div>
-      <div class="tr"><span class="lang">${esc((otherLang || "").toUpperCase())}</span>${esc(other)}</div>
-      <p class="hint">Tap a word to hear it and see its forms.</p>`;
-    document.getElementById("trPlay").onclick = (e) => {
-      play(ttsUrl(no.text, voiceFor(no.text)), no.text, e.currentTarget, 1);
+      <button class="play" id="trPlay" aria-label="Play">▶</button>
+      <span class="tr-no">${clickableNo(no.text)}</span>${other}
+      <button class="tr-close" id="trClose" aria-label="Clear">✕</button>`;
+    document.getElementById("trPlay").onclick = (e) => play(ttsUrl(no.text, voiceFor(no.text)), no.text, e.currentTarget, 1);
+    document.getElementById("trClose").onclick = () => {
+      out.hidden = true; out.innerHTML = ""; document.getElementById("trInput").value = "";
     };
   } catch (err) {
-    out.innerHTML = `<p class="muted">${String(err.message) === "daily_limit"
+    out.innerHTML = `<span class="muted">${String(err.message) === "daily_limit"
       ? "Daily translation limit reached (free quota protection). Try again tomorrow."
-      : "Translation unavailable right now."}</p>`;
+      : "Translation unavailable right now."}</span>`;
   }
 }
 
@@ -721,7 +721,9 @@ function bind() {
     const q = document.getElementById("trInput").value.trim();
     if (q) translateBar(q);
   };
-  document.getElementById("trClose").onclick = () => { document.getElementById("trPanel").hidden = true; };
+  // the bottom bar grows with the translation line: keep the page content clear of it
+  const bar = document.querySelector(".tabs");
+  new ResizeObserver(() => { document.body.style.paddingBottom = bar.offsetHeight + 12 + "px"; }).observe(bar);
   document.getElementById("sentSearch").oninput = (e) => { state.sq = e.target.value; shown = PAGE; renderSentences(); };
   document.getElementById("listSel").onchange = (e) => { state.list = e.target.value; render(); };
   document.getElementById("posSel").onchange = (e) => { state.pos = e.target.value; render(); };
