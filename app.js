@@ -699,7 +699,7 @@ function bind() {
   seg("voiceSeg", (b) => { state.voice = b.dataset.voice; syncControls(); save(); });
   seg("speedSeg", (b) => { state.speed = +b.dataset.speed; if (!/\/s0\d\d\//.test(player.src)) player.playbackRate = state.speed; syncControls(); save(); });
   document.querySelector(".tabs").onclick = (e) => {
-    const b = e.target.closest("button"); if (!b) return;
+    const b = e.target.closest("button[data-view]"); if (!b) return;   // only the 4 tab buttons (not ➜ ▶ ✕ of the translation lines)
     state.view = b.dataset.view; render(); window.scrollTo(0, 0);
   };
   document.getElementById("search").oninput = (e) => { state.q = e.target.value; renderWords(); };
