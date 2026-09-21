@@ -5,7 +5,7 @@
 
 The French voice matches the Norwegian one (Denise with Pernille, Henri with Finn), so French
 past participles agree with the speaker (je suis allée / je suis allé).
-Output: norsk-db/<voice>/verb/<verb id>.mp3, plus data/verb_drills.json (the texts, to review).
+Output: audio/<voice>/verb/<verb id>.mp3, plus data/verb_drills.json (the texts, to review).
 Fragments are cached in tools/.frag/ so a re-run only synthesises what changed.
 Usage: python gen_verb_audio.py
 """
@@ -28,7 +28,7 @@ from verbecc import CompleteConjugator  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 FRAG = Path(__file__).parent / ".frag"
-OUT = ROOT / "norsk-db"
+OUT = ROOT / "audio"
 FF = imageio_ffmpeg.get_ffmpeg_exe()
 VOICES = {"pernille": ("fr-FR-DeniseNeural", "nb-NO-PernilleNeural", "f"),
           "finn": ("fr-FR-HenriNeural", "nb-NO-FinnNeural", "m")}

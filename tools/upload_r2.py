@@ -1,6 +1,6 @@
 """Upload the audio to the Cloudflare R2 bucket norsk-app (S3-compatible API).
 
-Layout in the bucket (same as the local norsk-app folder):
+Layout in the bucket (same as the local audio/ folder):
   <voice>/w/<slug>.mp3      words and forms
   <voice>/s100 … s055/<id>.mp3  sentences at 100 / 85 / 70 / 55 %
   <voice>/verb/<id>.mp3     verb drills (French then Norwegian)
@@ -22,7 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ENV = ROOT.parent.parent / ".norsk-r2.env"
 BUCKET = "norsk-app"
 # local folder -> sub-folders sent from it
-SOURCES = [(ROOT / "audio", ("w", "s100", "s085")), (ROOT / "norsk-db", ("s070", "s055", "verb"))]
+SOURCES = [(ROOT / "audio", ("w", "s100", "s085", "s070", "s055", "verb"))]
 VOICES = ("pernille", "finn")
 
 
