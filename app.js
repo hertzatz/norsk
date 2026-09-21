@@ -139,6 +139,7 @@ function formRows(w) {
     if (!MODALS.has(w.lemma)) {
       rows.push(["Future", `skal ${f.inf} · vil ${f.inf}`], ["Imperative", imperative(f.inf) + "!"]);
     }
+    if (!w.lemma.includes(" ") && w.variants.includes(w.lemma + "s")) rows.push(["-s form", w.lemma + "s"]);
     return rows;
   }
   if (w.pos === "noun") {
@@ -478,6 +479,8 @@ function showPop(anchor, tok) {
     <div class="lemma">${lemmaHTML(w)} <span class="badge cat">${esc(catLabel(w))}</span></div>
     <div class="gloss">${glossHTML(w)}</div>
     ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v)}</td></tr>`).join("")}</table>` : ""}
+    ${w.pos === "verb" && (tok.t || "").toLowerCase() === w.lemma + "s" ? `<div class="note"><b>${esc(tok.t.toLowerCase())}</b> = forme en <b>-s</b> de <i>${esc(w.lemma)}</i> :
+      réciproque (<i>vi ses</i> = on se voit, <i>vi møtes</i> = on se retrouve) ou passif (<i>døra lukkes</i> = la porte est fermée).</div>` : ""}
     ${tok.x ? `<div class="note">Bonus word: level ${w.level}</div>` : ""}
     <button class="pop-more" data-id="${esc(w.id)}">📚 See sentences (${n})</button>`;
   pop.hidden = false;
