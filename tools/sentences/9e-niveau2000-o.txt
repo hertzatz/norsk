@@ -37,7 +37,7 @@ Forfatteren skrev en roman om sorg og tillit. | L'écrivain a écrit un roman su
 Kunstneren viste stolthet over maleriet. | L'artiste a montré de la fierté pour le tableau. | The artist showed pride in the painting.
 Studenten er interessert i universet og planetene. | L'étudiant s'intéresse à l'univers et aux planètes. | The student is interested in the universe and the planets.
 Flyktningen fikk tillit og et lån i banken. | Le réfugié a obtenu la confiance et un prêt à la banque. | The refugee got trust and a loan at the bank.
-Innvandreren ble medlem av laget. | L'immigré est devenu membre de l'équipe. | The immigrant became a member of the team.
+Innvandreren ble medlem av laget{lag}. | L'immigré est devenu membre de l'équipe. | The immigrant became a member of the team.
 Bruden gråt av glede; tårene kom. | La mariée pleurait de joie ; les larmes sont venues. | The bride cried with joy; the tears came.
 Brudgommen var takknemlig for gaven fra kusina. | Le marié était reconnaissant du cadeau de la cousine. | The groom was grateful for the gift from the cousin.
 Humøret til sjefen var elendig i dag. | L'humeur du chef était exécrable aujourd'hui. | The boss's mood was lousy today.
@@ -154,7 +154,7 @@ Hagearbeid og strikking er gode vaner. | Le jardinage et le tricot sont de bonne
 Idrett gir mosjon og godt humør. | Le sport donne de l'exercice et de la bonne humeur. | Sport gives exercise and good spirits.
 Svømmehallen og treningssenteret har rabatt for studenter. | La piscine et la salle de sport ont une remise pour les étudiants. | The pool and gym have a discount for students.
 Vi vinket til spilleren etter seieren. | Nous avons fait signe au joueur après la victoire. | We waved to the player after the victory.
-Konkurransen endte med medalje til laget vårt. | La compétition s'est terminée par une médaille pour notre équipe. | The competition ended with a medal for our team.
+Konkurransen endte med medalje til laget{lag} vårt. | La compétition s'est terminée par une médaille pour notre équipe. | The competition ended with a medal for our team.
 Fiskestanga og kompasset er med på telttur. | La canne à pêche et la boussole viennent en camping. | The fishing rod and compass come on the camping trip.
 Vi gikk oppover åsen og nedover til fossen. | Nous avons monté la colline et descendu jusqu'à la cascade. | We walked up the ridge and down to the waterfall.
 Stien går innover dalen og bortover elva. | Le sentier va vers l'intérieur de la vallée et le long de la rivière. | The path goes into the valley and along the river.

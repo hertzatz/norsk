@@ -20,7 +20,7 @@ mor | f | mère | mother | mor,mora/moren,mødre,mødrene
 far | m | père | father | far,faren,fedre,fedrene
 mamma | m | maman | mum
 pappa | m | papa | dad
-foreldre | npl | parents | parents | foreldre,foreldrene
+foreldre | npl-m | parents | parents | foreldre,foreldrene
 bror | m | frère | brother | bror,broren,brødre,brødrene
 søster | f | sœur | sister | søster,søstera/søsteren,søstre,søstrene
 sønn | m | fils | son
@@ -229,7 +229,7 @@ telefon | m | téléphone | phone
 mobil | m | portable | mobile phone
 melding | f | message, SMS | message, text
 brev | n | lettre | letter
-penger | npl | argent | money | penger,pengene
+penger | npl-m | argent | money | penger,pengene
 lønn | f | salaire | salary, wage
 pris | m | prix | price
 krone | f | couronne (monnaie) | krone (NOK)
@@ -279,7 +279,7 @@ oppgave | m | tâche, exercice | task
 vakt | f | garde, service | shift, duty
 skift | n | équipe, poste | shift
 pause | m | pause | break
-klær | npl | vêtements | clothes | klær,klærne
+klær | npl-n | vêtements | clothes | klær,klærne
 jakke | f | veste | jacket
 sko | m | chaussure | shoe | sko,skoen,sko,skoene
 bukse | f | pantalon | trousers

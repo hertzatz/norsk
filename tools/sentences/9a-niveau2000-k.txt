@@ -6,7 +6,7 @@ Det er ikke min skyld at bussen var sen. | Ce n'est pas ma faute si le bus étai
 Vi nyter utsikten fra toppen. | Nous profitons de la vue depuis le sommet. | We enjoy the view from the top.
 Hva slags bil har naboen? | Quel genre de voiture a le voisin ? | What kind of car does the neighbour have?
 Elva er vid og stille om sommeren. | La rivière est large et calme en été. | The river is wide and calm in summer.
-Spilleren på laget skjøt mål. | Le joueur de l'équipe a marqué. | The player on the team scored.
+Spilleren på laget{lag} skjøt mål. | Le joueur de l'équipe a marqué. | The player on the team scored.
 Passet{pass} ligger i lommeboka. | Le passeport est dans le portefeuille. | The passport is in the wallet.
 Hjelmen beskytter hodet på ski. | Le casque protège la tête à ski. | The helmet protects the head when skiing.
 Det hender at toget er sent. | Il arrive que le train soit en retard. | It happens that the train is late.

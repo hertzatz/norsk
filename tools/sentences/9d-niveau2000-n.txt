@@ -103,7 +103,7 @@ Dra i tauet for å åpne. | Tire sur la corde pour ouvrir. | Pull the rope to op
 Tøm ut posen på bordet. | Vide le sac sur la table. | Empty the bag onto the table.
 Varm opp bilen før du kjører. | Fais chauffer la voiture avant de rouler. | Warm up the car before you drive.
 Hun lovet bort kaka til naboen. | Elle a promis le gâteau au voisin. | She promised the cake to the neighbour.
-Alle teller med i laget. | Tout le monde compte dans l'équipe. | Everyone counts in the team.
+Alle teller med i laget{lag}. | Tout le monde compte dans l'équipe. | Everyone counts in the team.
 Sjekk ut før klokka elleve. | Libère la chambre avant onze heures. | Check out before eleven.
 Still inn varmen på tjue grader. | Règle le chauffage à vingt degrés. | Set the heating to twenty degrees.
 Vi har ikke råd til å fly i år. | Nous n'avons pas les moyens de prendre l'avion cette année. | We can't afford to fly this year.
@@ -130,7 +130,7 @@ Jeg har håp{håp} om en bedre jobb. | J'ai l'espoir d'un meilleur travail. | I 
 Nyhetene var dårlige i dag. | Les nouvelles étaient mauvaises aujourd'hui. | The news was bad today.
 Minn meg på å ringe tannlegen. | Rappelle-moi d'appeler le dentiste. | Remind me to call the dentist.
 Anda svømmer i vannet bak huset. | Le canard nage dans le lac derrière la maison. | The duck swims in the lake behind the house.
-Styret i laget møtes i kveld. | Le conseil de l'équipe se réunit ce soir. | The team board meets tonight.
+Styret i laget{lag} møtes i kveld. | Le conseil de l'équipe se réunit ce soir. | The team board meets tonight.
 Det er normalt å være sliten på fredag. | C'est normal d'être fatigué le vendredi. | It's normal to be tired on Friday.
 Sikre{sikre} bagasjen før du kjører. | Attache les bagages avant de rouler. | Secure the luggage before you drive.
 Jenta ligner på bestemoren. | La fille ressemble à sa grand-mère. | The girl looks like her grandmother.

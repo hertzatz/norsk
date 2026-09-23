@@ -1,9 +1,9 @@
 "use strict";
 
-const state = { level: 300, lang: "both", voice: "alt", speed: 1, view: "phrases", theme: "", list: "", pos: "", hideTr: false, only: false, q: "", sq: "", vq: "" };
+const state = { level: 300, lang: "both", voice: "alt", speed: 1, view: "phrases", theme: "", list: "", pos: "", hideTr: false, only: false, q: "", sq: "", vq: "",
+  scroll: {}, shown: 50 };   // scroll: the place reached in each view · shown: how many sentences were listed
 let WORDS = [], SENTENCES = [], BY_ID = {}, SENT_BY_ID = {};
 const PAGE = 50;
-let shown = PAGE;
 
 // ---------- storage (per-device convenience only) ----------
 function load() {
@@ -11,12 +11,36 @@ function load() {
   state.q = "";
   state.sq = "";
   state.vq = "";
+  if (!state.scroll || typeof state.scroll !== "object") state.scroll = {};
+  state.shown = Math.min(Math.max(PAGE, state.shown | 0), 5000);
 }
 function save() {
   try {
-    const { level, lang, voice, speed, view, theme, list, pos, hideTr, only } = state;
-    localStorage.setItem("norsk.settings", JSON.stringify({ level, lang, voice, speed, view, theme, list, pos, hideTr, only }));
+    const { level, lang, voice, speed, view, theme, list, pos, hideTr, only, scroll, shown } = state;
+    localStorage.setItem("norsk.settings", JSON.stringify({ level, lang, voice, speed, view, theme, list, pos, hideTr, only, scroll, shown }));
   } catch (e) {}
+}
+
+// The place reached in each view is kept in the browser, so you come back where you were,
+// even after closing the tab. A new filter starts the view again from the top.
+let scrollTimer = 0, restoringScroll = false;
+function rememberScroll() {
+  if (restoringScroll) return;
+  state.scroll[state.view] = Math.round(window.scrollY);
+  clearTimeout(scrollTimer);
+  scrollTimer = setTimeout(save, 400);
+}
+function restoreScroll() {
+  const y = state.scroll[state.view] || 0;
+  restoringScroll = true;
+  requestAnimationFrame(() => {
+    window.scrollTo(0, y);
+    requestAnimationFrame(() => { restoringScroll = false; });
+  });
+}
+function resetList() {
+  state.shown = PAGE;
+  state.scroll[state.view] = 0;
 }
 
 // ---------- audio ----------
@@ -34,6 +58,18 @@ function slug(text) {
 
 const player = new Audio();
 let playingEl = null;
+// Only one thing is marked as read at a time, and the mark stays after the sound ends:
+// it moves away only when something else is read. A word also lifts the card it sits in.
+let readCard = null;
+function markRead(el, cls = "playing") {
+  const card = el ? el.closest(".sent, .word") : null;
+  [playingEl, readCard].forEach((old) => {
+    if (old && old !== el && old !== card) old.classList.remove("playing", "drilling");
+  });
+  playingEl = el; readCard = card;
+  if (card) card.classList.add("playing");
+  if (el) el.classList.add(cls);
+}
 
 function speakFallback(text, rate) {
   if (!("speechSynthesis" in window)) return;
@@ -55,7 +91,9 @@ function voiceFor() {
 
 // All audio lives in the Cloudflare R2 bucket norsk-app: <voice>/<folder>/<file>.mp3
 // folders: w (words), s100 / s085 / s070 / s055 (sentences at that % of normal speed), verb (drills).
-const AUDIO_BASE = "https://pub-9c5fcccd9b314f969fcb77df05b56023.r2.dev";
+// Served from the local audio/ folder when the site is opened through localhost (same layout, same names).
+const LOCAL_AUDIO = location.hostname === "localhost" || location.hostname === "127.0.0.1";
+const AUDIO_BASE = LOCAL_AUDIO ? "audio" : "https://pub-9c5fcccd9b314f969fcb77df05b56023.r2.dev";
 const SPEED_DIR = { 1: "s100", 0.85: "s085", 0.7: "s070", 0.55: "s055" };
 const audioUrl = (voice, dir, file) => `${AUDIO_BASE}/${voice}/${dir}/${file}.mp3`;
 
@@ -66,9 +104,7 @@ function play(src, text, el = null, rate = state.speed, fallback = null) {
   const seq = ++playSeq;
   if ("speechSynthesis" in window) speechSynthesis.cancel();
   if (typeof drillStop === "function" && (drillQueue.length || !drill.paused)) drillStop();
-  if (playingEl) playingEl.classList.remove("playing");
-  playingEl = el;
-  if (el) el.classList.add("playing");
+  markRead(el);
   let failed = false;
   const fail = () => {
     if (failed || seq !== playSeq) return;
@@ -76,7 +112,6 @@ function play(src, text, el = null, rate = state.speed, fallback = null) {
     fallback ? fallback() : speakFallback(text, rate);
   };
   player.onerror = fail;
-  player.onended = () => { if (el) el.classList.remove("playing"); };
   player.src = src;
   player.preservesPitch = true;
   player.defaultPlaybackRate = rate;
@@ -110,7 +145,7 @@ async function trFetch(q, from, to) {
 }
 // Norwegian text -> clickable words (same popover and sounds as everywhere else)
 const clickableNo = (text) => esc(text).split(/(\s+|[,.;:!?¿¡"«»()]+)/).map((part) =>
-  /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="vf" data-t="${part}">${part}</span>` : part).join("");
+  /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="${vfClass(part)}" data-t="${part}">${part}</span>` : part).join("");
 
 async function translateBar(q) {
   const out = document.getElementById("trOut");
@@ -149,11 +184,11 @@ function drillIcons() {
 }
 drill.onplay = drill.onpause = drillIcons;
 function drillMark(id) {
-  document.querySelectorAll("#verbs tr.drilling").forEach((tr) => tr.classList.remove("drilling"));
-  if (!id) return;
-  const btn = document.querySelector(`#verbs .drill[data-id="${CSS.escape(id)}"]`);
-  const tr = btn && btn.closest("tr");
-  if (tr) { tr.classList.add("drilling"); tr.scrollIntoView({ block: "nearest", behavior: "smooth" }); }
+  const btn = id && document.querySelector(`#verbs .drill[data-id="${CSS.escape(id)}"]`);
+  const tr = btn ? btn.closest("tr") : null;
+  if (id && !tr) return;                       // that row is not on screen: keep the current mark
+  markRead(tr, "drilling");
+  if (tr) tr.scrollIntoView({ block: "nearest", behavior: "smooth" });
 }
 function drillPlay(id) {
   player.pause();
@@ -173,11 +208,11 @@ function drillToggle(id) {
 }
 function drillStop() {
   drill.pause(); drill.currentTime = 0;
-  drillQueue = []; drillCls = null; drillId = null; drillMark(null); drillIcons();
+  drillQueue = []; drillCls = null; drillId = null; drillIcons();   // the row stays marked where you stopped
 }
 drill.onended = () => {
   if (drillQueue.length && drillIdx < drillQueue.length - 1) return drillPlay(drillQueue[++drillIdx]);
-  drillQueue = []; drillCls = null; drillId = null; drillMark(null); drillIcons();
+  drillQueue = []; drillCls = null; drillId = null; drillIcons();   // the row stays marked where you stopped
 };
 function drillGroup(cls, act) {
   if (act === "pause") return drill.pause();
@@ -215,6 +250,21 @@ const CATEGORIES = [
 const CAT_OF = {};
 CATEGORIES.forEach(([key, label, codes]) => codes.forEach((c) => (CAT_OF[c] = { key, label })));
 const catLabel = (w) => (CAT_OF[w.pos] || { label: w.pos }).label;
+
+// Colour code, used on every Norwegian word of the app (legend under each toolbar):
+// nouns by gender (m blue, f pink, n neuter green), verbs by class (irregular red, 1 yellow, 2 orange, 3 purple).
+function wordColor(w) {
+  if (!w) return "";
+  if (w.pos === "noun" || w.pos === "npl") return w.gender ? "g-" + w.gender : "";
+  if (w.pos === "verb") return "v-" + (w.vclass || "irr");   // "å" (pos inf) stays neutral
+  return "";
+}
+// A written form (snakka, huset, har vaert...) -> the classes of its clickable span
+const vfClass = (text) => ["vf", wordColor(wordForForm(text))].filter(Boolean).join(" ");
+
+const LEGEND = `<p class="legend">
+  <b class="g-m">en masculin</b><b class="g-f">ei f&eacute;minin</b><b class="g-n">et neutre</b>
+  <b class="v-irr">verbe irr&eacute;gulier</b><b class="v-v1">v. groupe 1</b><b class="v-v2">v. groupe 2</b><b class="v-v3">v. groupe 3</b></p>`;
 
 const MODALS = new Set(["kunne", "ville", "skulle", "måtte", "burde"]);
 
@@ -290,9 +340,10 @@ function glossHTML(w) {
 }
 
 function lemmaHTML(w) {
-  const art = w.pos === "noun" && w.gender ? `<span class="art">${ART[w.gender]}</span> ` : "";
+  const c = wordColor(w);
+  const art = w.pos === "noun" && w.gender ? `<span class="art ${c}">${ART[w.gender]}</span> ` : "";
   const verb = w.pos === "verb" ? `<span class="art">å</span> ` : "";
-  return art + verb + `<span class="vf" data-t="${esc(w.lemma)}">${esc(w.lemma)}</span>`;
+  return art + verb + `<span class="vf ${c}" data-t="${esc(w.lemma)}">${esc(w.lemma)}</span>`;
 }
 
 // Level filter: up to the selected level, or exactly that level when "Only this level" is ticked
@@ -334,7 +385,7 @@ function makeClickable(root) {
   root.querySelectorAll("i").forEach((i) => {
     if (i.querySelector(".vf")) return;
     i.innerHTML = i.textContent.split(/(\s+|[,.;:!?…()«»"]+)/).map((part) =>
-      /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="vf" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
+      /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="${vfClass(part)}" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
   });
 }
 
@@ -345,7 +396,8 @@ const sentencesWith = (id) => SENTENCES.filter((s) => s.tokens.some((t) => t.w =
 function sentenceHTML(s, hitId = null, showPass = false) {
   const toks = s.tokens.map((t, i) => {
     if (!t.w && !t.name) return esc(t.t);
-    const cls = ["tok", t.name && "name", t.x && "extra", hitId && t.w === hitId && "hit"].filter(Boolean).join(" ");
+    const cls = ["tok", wordColor(BY_ID[t.w]), t.name && "name", t.x && "extra",
+                 hitId && t.w === hitId && "hit"].filter(Boolean).join(" ");
     return `<span class="${cls}" data-i="${i}">${esc(t.t)}</span>`;
   }).join("");
   const fr = `<div class="tr"><span class="lang">FR</span>${esc(s.fr)}</div>`;
@@ -432,8 +484,8 @@ function renderSentences() {
     box.innerHTML = `<p class="empty">No sentences for this level yet.</p>`;
     return;
   }
-  box.innerHTML = list.slice(0, shown).map((s) => sentenceHTML(s, null, true)).join("") +
-    (list.length > shown ? `<button class="load-more" id="loadMore">Show more (${list.length - shown} left)</button>` : "");
+  box.innerHTML = list.slice(0, state.shown).map((s) => sentenceHTML(s, null, true)).join("") +
+    (list.length > state.shown ? `<button class="load-more" id="loadMore">Show more (${list.length - state.shown} left)</button>` : "");
 }
 
 // ---------- verbs view ----------
@@ -447,13 +499,13 @@ const VERB_GROUPS = [
 // A clickable form; "/" alternatives become separate clickable forms
 function vf(text) {
   return (text || "").split("/").map((x) => x.trim()).filter(Boolean)
-    .map((x) => `<span class="vf" data-t="${esc(x)}">${esc(x)}</span>`).join(" / ");
+    .map((x) => `<span class="${vfClass(x)}" data-t="${esc(x)}">${esc(x)}</span>`).join(" / ");
 }
 
 // "har vært / vart" -> each Norwegian word clickable, keeping separators
 function vfRow(text) {
   return String(text).split(/(\s+|\/|·|!)/).map((part) =>
-    /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="vf" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
+    /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="${vfClass(part)}" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
 }
 
 function glossCell(w) {
@@ -689,7 +741,7 @@ function onSentenceClick(e) {
     showPop(tokEl, tok);
     e.stopPropagation();
   } else if (btn) {
-    playSentence(s, btn);
+    playSentence(s, btn.closest(".sent") || btn);   // the whole card lifts while it is read
   } else if (tr && tr.closest(".hide-tr")) {
     tr.classList.toggle("shown");
   }
@@ -705,13 +757,14 @@ function bind() {
   const seg = (id, fn) => (document.getElementById(id).onclick = (e) => {
     const b = e.target.closest("button"); if (b) fn(b);
   });
-  seg("levelSeg", (b) => { state.level = +b.dataset.level; shown = PAGE; render(); });
+  seg("levelSeg", (b) => { state.level = +b.dataset.level; resetList(); render(); });
   seg("langSeg", (b) => { state.lang = b.dataset.lang; render(); });
   seg("voiceSeg", (b) => { state.voice = b.dataset.voice; syncControls(); save(); });
   seg("speedSeg", (b) => { state.speed = +b.dataset.speed; if (!/\/s0\d\d\//.test(player.src)) player.playbackRate = state.speed; syncControls(); save(); });
   document.querySelector(".tabs").onclick = (e) => {
     const b = e.target.closest("button[data-view]"); if (!b) return;   // only the 4 tab buttons (not ➜ ▶ ✕ of the translation lines)
-    state.view = b.dataset.view; render(); window.scrollTo(0, 0);
+    rememberScroll();                                  // keep the place in the view we leave
+    state.view = b.dataset.view; render(); restoreScroll();
   };
   document.getElementById("search").oninput = (e) => { state.q = e.target.value; renderWords(); };
   document.getElementById("verbSearch").oninput = (e) => { state.vq = e.target.value; renderVerbs(); };
@@ -734,12 +787,12 @@ function bind() {
   // the bottom bar grows with the translation line: keep the page content clear of it
   const bar = document.querySelector(".tabs");
   new ResizeObserver(() => { document.body.style.paddingBottom = bar.offsetHeight + 12 + "px"; }).observe(bar);
-  document.getElementById("sentSearch").oninput = (e) => { state.sq = e.target.value; shown = PAGE; renderSentences(); };
+  document.getElementById("sentSearch").oninput = (e) => { state.sq = e.target.value; resetList(); renderSentences(); };
   document.getElementById("listSel").onchange = (e) => { state.list = e.target.value; render(); };
   document.getElementById("posSel").onchange = (e) => { state.pos = e.target.value; render(); };
-  document.getElementById("themeSel").onchange = (e) => { state.theme = e.target.value; shown = PAGE; render(); };
+  document.getElementById("themeSel").onchange = (e) => { state.theme = e.target.value; resetList(); render(); };
   document.getElementById("hideTr").onchange = (e) => { state.hideTr = e.target.checked; render(); };
-  document.getElementById("onlyLevel").onchange = (e) => { state.only = e.target.checked; shown = PAGE; render(); };
+  document.getElementById("onlyLevel").onchange = (e) => { state.only = e.target.checked; resetList(); render(); };
 
   const words = document.getElementById("words");
   words.onclick = (e) => {
@@ -747,7 +800,7 @@ function bind() {
     if (e.target.closest(".vf")) return; // a form: handled by the global word handler
     if (e.target.closest(".more")) return openSheet(li.dataset.id);
     const w = BY_ID[li.dataset.id];
-    if (w) playWord(w.lemma, li.querySelector(".play"));
+    if (w) playWord(w.lemma, li);   // the whole card lifts, as when the ▶ of a sentence is pressed
   };
   words.ondblclick = (e) => {
     const li = e.target.closest(".word"); if (li) openSheet(li.dataset.id);
@@ -755,7 +808,7 @@ function bind() {
 
   const sentences = document.getElementById("sentences");
   sentences.onclick = (e) => {
-    if (e.target.id === "loadMore") { shown += PAGE; renderSentences(); return; }
+    if (e.target.id === "loadMore") { state.shown += PAGE; save(); renderSentences(); return; }
     onSentenceClick(e);
   };
   sentences.ondblclick = onSentenceDblClick;
@@ -776,13 +829,15 @@ function bind() {
   });
   window.addEventListener("scroll", () => { pop.hidden = true; }, { passive: true });
   sheetBody.addEventListener("scroll", () => { pop.hidden = true; }, { passive: true });
+  window.addEventListener("scroll", rememberScroll, { passive: true });
+  window.addEventListener("pagehide", () => { rememberScroll(); save(); });
 }
 
 async function init() {
   load();
   const [w, s] = await Promise.all([
-    fetch("data/words.json").then((r) => r.json()),
-    fetch("data/sentences.json").then((r) => (r.ok ? r.json() : [])).catch(() => []),
+    fetch("data/words.json", { cache: "no-cache" }).then((r) => r.json()),
+    fetch("data/sentences.json", { cache: "no-cache" }).then((r) => (r.ok ? r.json() : [])).catch(() => []),
   ]);
   WORDS = w; SENTENCES = s;
   const hash = location.hash.slice(1);  // #phrases, #mots, #verbes, #pronoms open that tab directly
@@ -790,6 +845,7 @@ async function init() {
   WORDS.forEach((x) => (BY_ID[x.id] = x));
   SENTENCES.forEach((x) => (SENT_BY_ID[x.id] = x));
   fillSelects();
+  document.querySelectorAll(".legend-slot").forEach((el) => (el.innerHTML = LEGEND));
   // A saved filter that no longer exists (renamed group or theme) falls back to "all"
   const has = (id, v) => [...document.getElementById(id).options].some((o) => o.value === v);
   if (!has("listSel", state.list)) state.list = "";
@@ -797,6 +853,7 @@ async function init() {
   if (!has("posSel", state.pos)) state.pos = "";
   bind();
   render();
+  restoreScroll();   // back where you left off
 }
 
 init();

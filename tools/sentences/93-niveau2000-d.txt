@@ -3,7 +3,7 @@
 
 @theme fritid Leisure
 Idrett er viktig for barna i bygda. | Le sport est important pour les enfants du village. | Sport is important for the children in the village.
-Kampen endte med seier for laget vårt. | Le match s'est terminé par une victoire pour notre équipe. | The match ended in victory for our team.
+Kampen endte med seier for laget{lag} vårt. | Le match s'est terminé par une victoire pour notre équipe. | The match ended in victory for our team.
 Tapet var tungt for spillerne. | La défaite a été dure pour les joueurs. | The loss was hard for the players.
 Hun vant konkurransen og fikk en premie. | Elle a gagné le concours et a reçu un prix. | She won the competition and got a prize.
 Han tok medalje i langrenn. | Il a remporté une médaille en ski de fond. | He won a medal in cross-country skiing.

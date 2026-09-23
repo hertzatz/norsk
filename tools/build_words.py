@@ -6,6 +6,7 @@ Lexicon line format (fields separated by '|', trailing fields optional):
 pos:
     m, f, n      noun (masc / fem / neuter)       forms: indef, def, pl, defpl
     npl          plural-only noun                 forms: pl, defpl
+    npl-m/f/n    plural-only noun with its gender (penger npl-m, klær npl-n)
     v1           kaste  -> kaster, kasta/kastet, kasta/kastet
     v2           spise  -> spiser, spiste, spist
     v3           prøve  -> prøver, prøvde, prøvd   (bo -> bor, bodde, bodd)
@@ -129,6 +130,9 @@ SLOT_NAMES = {
 def build_entry(fields, lst, group):
     fields += [""] * (6 - len(fields))
     lemma, pos, fr, en, forms_s, flags_s = [f.strip() for f in fields[:6]]
+    npl_gender = ""
+    if pos.startswith("npl-"):           # penger = npl-m, klær = npl-n: plural-only, but still a gender
+        pos, npl_gender = "npl", pos[4:]
     explicit = [s.strip() for s in forms_s.split(",")] if forms_s else []
     flags = dict(f.split("=", 1) for f in flags_s.split() if "=" in f)
 
@@ -204,6 +208,8 @@ def build_entry(fields, lst, group):
     }
     if pos in ("m", "f", "n"):
         entry["gender"] = pos
+    elif npl_gender:
+        entry["gender"] = npl_gender
     if kind == "verb":
         entry["vclass"] = "irr" if pos == "v" else pos  # v1 kaste/kasta, v2 spise/spiste, v3 prøve/prøvde
     if structured:

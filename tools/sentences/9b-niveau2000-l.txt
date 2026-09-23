@@ -8,7 +8,7 @@ Naboen reddet katten unna brannen. | Le voisin a sauvé le chat de l'incendie. |
 Det var ikke engang min skyld at det gikk galt. | Ce n'était même pas ma faute si ça a mal tourné. | It wasn't even my fault that it went wrong.
 Jeg nyter å drive kafeen om sommeren. | J'aime bien tenir le café en été. | I enjoy running the café in summer.
 Hva slags fugl er det på taket? | Quel genre d'oiseau est-ce sur le toit ? | What kind of bird is that on the roof?
-Tyven stjal lommeboka til en spiller på laget. | Le voleur a volé le portefeuille d'un joueur de l'équipe. | The thief stole the wallet of a player on the team.
+Tyven stjal lommeboka til en spiller på laget{lag}. | Le voleur a volé le portefeuille d'un joueur de l'équipe. | The thief stole the wallet of a player on the team.
 Utrolig nok fant vi passet{pass} på bussen. | Incroyable mais vrai, nous avons trouvé le passeport dans le bus. | Incredibly, we found the passport on the bus.
 Hjelmen beskytter hodet, men det hender at man slår seg likevel. | Le casque protège la tête, mais il arrive qu'on se blesse quand même. | The helmet protects the head, but it happens that you get hurt anyway.
 Presidenten snakket om gjeld og skatt. | Le président a parlé de dette et d'impôts. | The president talked about debt and taxes.

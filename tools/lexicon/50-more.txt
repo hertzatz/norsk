@@ -140,7 +140,7 @@ jord | f | terre, sol | earth, soil
 sky | f | nuage | cloud | sky,skya/skyen,skyer,skyene
 tåke | f | brouillard | fog
 grad | m | degré | degree
-kontanter | npl | espèces, liquide | cash | kontanter,kontantene
+kontanter | npl-m | espèces, liquide | cash | kontanter,kontantene
 tilbud | n | offre, promotion | offer, special offer | tilbud,tilbudet,tilbud,tilbudene
 vare | m | article, marchandise | item, product | | freq=varen,varer,varene
 pakke | m | paquet, colis | parcel, package | | freq=pakken,pakkene

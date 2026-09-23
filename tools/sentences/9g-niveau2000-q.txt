@@ -119,7 +119,7 @@ Elva er mektig om våren. | La rivière est impressionnante au printemps. | The 
 Javel, jeg forstår. | Bon, je comprends. | All right, I understand.
 Det er ingen skam å be om hjelp. | Il n'y a pas de honte à demander de l'aide. | There's no shame in asking for help.
 Barna løp til bestefar for å få en klem. | Les enfants ont couru vers grand-père pour un câlin. | The children ran to Grandpa for a hug.
-Han representerer laget i konkurransen. | Il représente l'équipe dans la compétition. | He represents the team in the competition.
+Han representerer laget{lag} i konkurransen. | Il représente l'équipe dans la compétition. | He represents the team in the competition.
 Sausen er mild, ikke sterk. | La sauce est douce, pas piquante. | The sauce is mild, not hot.
 Hun besto kurset i norsk. | Elle a réussi le cours de norvégien. | She passed the Norwegian course.
 Pengene står på kontoen din nå. | L'argent est sur ton compte maintenant. | The money is in your account now.

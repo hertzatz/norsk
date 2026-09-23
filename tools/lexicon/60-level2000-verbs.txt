@@ -140,7 +140,7 @@ hviske | v1 | chuchoter | whisper
 plage | v1 | embêter, tourmenter | bother, torment
 mase | v1 | harceler, insister | nag
 nøle | v2 | hésiter | hesitate
-love bort | v1 | promettre (à qqn d'autre) | promise away | love bort,lover bort,lova bort/lovet bort,lova bort/lovet bort
+love bort | v1 | promettre (à qqn d'autre) | promise away | love bort,lover bort,lova bort/lovet bort/lovte bort,lova bort/lovet bort/lovt bort
 stemme for | v2 | voter pour | vote for | stemme for,stemmer for,stemte for,stemt for
 telle med | v | compter (inclure) | count, include | telle med,teller med,talte med,talt med
 vare ved | v2 | persister | last, persist | vare ved,varer ved,varte ved,vart ved

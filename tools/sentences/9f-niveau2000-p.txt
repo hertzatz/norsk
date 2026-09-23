@@ -222,7 +222,7 @@ Et par dager til, så er vi ferdige. | Encore deux jours, et nous aurons fini. |
 Dalen er vid og lys om sommeren. | La vallée est vaste et lumineuse en été. | The valley is wide and bright in summer.
 Løpet gikk rundt vannet i to timer. | La course a fait le tour du lac en deux heures. | The race went around the lake for two hours.
 Hun vant løpet med en meter. | Elle a gagné la course d'un mètre. | She won the race by a metre.
-Vi trenger støtte{støtte_noun} fra kommunen til laget. | Nous avons besoin du soutien de la commune pour l'équipe. | We need support from the municipality for the team.
+Vi trenger støtte{støtte_noun} fra kommunen til laget{lag}. | Nous avons besoin du soutien de la commune pour l'équipe. | We need support from the municipality for the team.
 Minn{minne_verb} meg på å låse døra. | Rappelle-moi de fermer la porte à clé. | Remind me to lock the door.
 Vann{vanne} tomatene hver morgen. | Arrose les tomates chaque matin. | Water the tomatoes every morning.
 Vi sørger over den gamle hunden. | Nous pleurons le vieux chien. | We're grieving for the old dog.

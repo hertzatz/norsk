@@ -118,7 +118,7 @@ lomme | f | poche | pocket
 lommebok | f | portefeuille | wallet | lommebok,lommeboka,lommebøker,lommebøkene
 koffert | m | valise | suitcase
 paraply | m | parapluie | umbrella
-briller | npl | lunettes | glasses | briller,brillene
+briller | npl-f | lunettes | glasses | briller,brillene
 ring | m | bague | ring
 smykke | n | bijou | jewellery
 leke | f | jouet | toy

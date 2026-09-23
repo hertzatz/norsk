@@ -8,6 +8,9 @@
   --red: #c8102e;
   --chip: #eef2f7;
   --hl: #fff3c4;
+  /* word colour code: noun genders, then verb classes */
+  --c-m: #1359b3; --c-f: #b02a7a; --c-n: #17713f;
+  --c-irr: #c0182b; --c-v1: #8a6d00; --c-v2: #b24a00; --c-v3: #6b34b8;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -20,6 +23,8 @@
     --red: #ff6b7d;
     --chip: #223040;
     --hl: #4a3f12;
+    --c-m: #6fb4ff; --c-f: #ff8ecb; --c-n: #56d48c;
+    --c-irr: #ff7385; --c-v1: #e8c44e; --c-v2: #ff9a4d; --c-v3: #b892ff;
   }
 }
 * { box-sizing: border-box; }
@@ -54,7 +59,7 @@ button, input, select { font: inherit; color: inherit; }
 }
 .seg button.on { background: #fff; color: #1d3557; font-weight: 600; }
 
-main { max-width: 760px; margin: 0 auto; padding: 12px 16px; }
+main { max-width: max(760px, 50vw); margin: 0 auto; padding: 12px 16px; }
 .toolbar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 6px; }
 .toolbar input[type=search] { flex: 1 1 220px; min-width: 0; }
 .toolbar select { max-width: 100%; }
@@ -201,3 +206,33 @@ body.noscroll { overflow: hidden; }
 .tr-out .tr-other { font-size: .9rem; color: var(--muted); }
 .tr-out .play { flex: none; }
 .tr-close { flex: none; border: 0; background: transparent; cursor: pointer; font-size: 1rem; color: var(--muted); }
+
+/* ---- word colour code (genders and verb classes), on every Norwegian word ---- */
+/* two classes, like .tok.hit, so the colour wins over the search highlight */
+.g-m, .tok.g-m, .art.g-m { color: var(--c-m); }
+.g-f, .tok.g-f, .art.g-f { color: var(--c-f); }
+.g-n, .tok.g-n, .art.g-n { color: var(--c-n); }
+.v-irr, .tok.v-irr, .art.v-irr { color: var(--c-irr); }
+.v-v1, .tok.v-v1, .art.v-v1 { color: var(--c-v1); }
+.v-v2, .tok.v-v2, .art.v-v2 { color: var(--c-v2); }
+.v-v3, .tok.v-v3, .art.v-v3 { color: var(--c-v3); }
+.legend { display: flex; flex-wrap: wrap; gap: 2px 12px; margin: 0 0 8px; font-size: .78rem; }
+.legend b { font-weight: 600; }
+
+/* every verb is underlined (its colour says which class); wins over the dotted marks */
+.tok:is(.v-irr, .v-v1, .v-v2, .v-v3),
+.vf:is(.v-irr, .v-v1, .v-v2, .v-v3),
+.note-box i .vf:is(.v-irr, .v-v1, .v-v2, .v-v3) { text-decoration: underline; text-underline-offset: 3px; }
+.legend b:is(.v-irr, .v-v1, .v-v2, .v-v3) { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---- what is being read lifts off the page: bigger, with a drop shadow ---- */
+.tok, .vf { transition: transform .12s ease, box-shadow .12s ease; }
+.tok.playing, .vf.playing {
+  display: inline-block; transform: scale(1.25); transform-origin: center bottom;
+  box-shadow: 0 5px 14px rgba(0,0,0,.35); position: relative; z-index: 3;
+}
+.sent, .word { transition: transform .15s ease, box-shadow .15s ease; }
+.sent.playing, .word.playing { transform: scale(1.04); box-shadow: 0 10px 26px rgba(0,0,0,.3); position: relative; z-index: 2; }
+/* the verb row being read: same idea, gentler, so the neighbours stay readable */
+.vt tr.drilling { transform: scale(1.04); }
+.vt tr.drilling td { box-shadow: 0 6px 16px rgba(0,0,0,.22); }

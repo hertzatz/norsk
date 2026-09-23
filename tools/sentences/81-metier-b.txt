@@ -144,7 +144,7 @@ Dugnaden starter klokka ti. | La journée bénévole commence à dix heures. | T
 Etter dugnaden spiser vi vafler. | Après la journée bénévole, on mange des gaufres. | After the work day we eat waffles.
 Vottene er i sekken. | Les moufles sont dans le sac à dos. | The mittens are in the backpack.
 Parkeringen koster ti kroner. | Le parking coûte dix couronnes. | Parking costs ten kroner.
-Laget spiller på lørdag. | L'équipe joue samedi. | The team plays on Saturday.
+Laget{lag} spiller på lørdag. | L'équipe joue samedi. | The team plays on Saturday.
 Hvilket lag holder du med? | Quelle équipe tu soutiens ? | Which team do you support?
 Hjelp meg å måke. | Aide-moi à déneiger. | Help me shovel.
 Snøskuffa er i garasjen. | La pelle à neige est dans le garage. | The snow shovel is in the garage.

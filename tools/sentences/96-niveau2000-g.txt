@@ -113,7 +113,7 @@ Hun dukket opp, hørte på oss og snakket om jobben. | Elle est apparue, nous a 
 Ikke gi deg, og ikke gi opp; du kommer deg etter ferien. | Ne lâche pas, et n'abandonne pas ; tu te remettras après les vacances. | Don't quit, and don't give up; you'll recover after the holiday.
 Hun tilbød seg å låne bort bilen. | Elle a proposé de prêter la voiture. | She offered to lend the car.
 Stem for forslaget, det teller med. | Vote pour la proposition, ça compte. | Vote for the proposal, it counts.
-Du må ha lyst på jobben og stole på laget. | Tu dois avoir envie du travail et faire confiance à l'équipe. | You must want the job and trust the team.
+Du må ha lyst på jobben og stole på laget{lag}. | Tu dois avoir envie du travail et faire confiance à l'équipe. | You must want the job and trust the team.
 Kle av deg, hvil deg og legg deg tidlig. | Déshabille-toi, repose-toi et couche-toi tôt. | Undress, rest and go to bed early.
 Han lovte bort helga og meldte seg på kurset. | Il a promis son week-end et s'est inscrit au cours. | He gave away his weekend and signed up for the course.
 Kulda varer ved, så vi koster på oss varme. | Le froid persiste, alors nous nous payons du chauffage. | The cold persists, so we treat ourselves to heating.

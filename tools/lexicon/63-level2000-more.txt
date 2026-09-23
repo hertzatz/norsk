@@ -3,7 +3,7 @@
 
 # Nourriture et cuisine
 frokostblanding | f | céréales | breakfast cereal
-havregryn | npl | flocons d'avoine | oats | havregryn,havregrynene
+havregryn | npl-n | flocons d'avoine | oats | havregryn,havregrynene
 yoghurt | m | yaourt | yoghurt | yoghurt,yoghurten,yoghurter,yoghurtene
 syltetøy | n | confiture | jam | syltetøy,syltetøyet,,
 sennep | m | moutarde | mustard | sennep,sennepen,,
@@ -14,8 +14,8 @@ gulrot | f | carotte | carrot | gulrot,gulrota,gulrøtter,gulrøttene
 agurk | m | concombre | cucumber
 paprika | m | poivron | pepper (vegetable) | paprika,paprikaen,paprikaer,paprikaene
 kål | m | chou | cabbage
-erter | npl | petits pois | peas | erter,ertene
-bønner | npl | haricots | beans | bønner,bønnene
+erter | npl-f | petits pois | peas | erter,ertene
+bønner | npl-f | haricots | beans | bønner,bønnene
 sopp | m | champignon | mushroom
 appelsin | m | orange | orange
 sitron | m | citron | lemon
@@ -32,7 +32,7 @@ bacon | n | bacon | bacon | bacon,baconet,,
 makrell | m | maquereau | mackerel | makrell,makrellen,makrell,makrellene
 sild | f | hareng | herring | sild,silda,sild,sildene
 pasta | m | pâtes | pasta | pasta,pastaen,,
-nudler | npl | nouilles | noodles | nudler,nudlene
+nudler | npl-m | nouilles | noodles | nudler,nudlene
 pannekake | f | crêpe | pancake
 kjeks | m | biscuit | biscuit | kjeks,kjeksen,kjeks,kjeksene
 godteri | n | bonbons | sweets | godteri,godteriet,godterier,godteriene
@@ -47,7 +47,7 @@ lokk | n | couvercle | lid | lokk,lokket,lokk,lokka
 korktrekker | m | tire-bouchon | corkscrew | korktrekker,korktrekkeren,korktrekkere,korktrekkerne
 boksåpner | m | ouvre-boîte | can opener | boksåpner,boksåpneren,boksåpnere,boksåpnerne
 kjøkkenrull | m | essuie-tout | kitchen roll
-matvarer | npl | denrées alimentaires | groceries | matvarer,matvarene
+matvarer | npl-m | denrées alimentaires | groceries | matvarer,matvarene
 holdbarhet | f | date de péremption | shelf life | holdbarhet,holdbarheten,,
 appetitt | m | appétit | appetite | appetitt,appetitten,,
 vegetar | adj | végétarien (plat) | vegetarian | vegetar,vegetar,vegetar
@@ -75,7 +75,7 @@ belte | n | ceinture | belt
 knapp | m | bouton | button
 glidelås | m | fermeture éclair | zip
 caps | m | casquette | cap | caps,capsen,capser,capsene
-solbriller | npl | lunettes de soleil | sunglasses | solbriller,solbrillene
+solbriller | npl-f | lunettes de soleil | sunglasses | solbriller,solbrillene
 prøverom | n | cabine d'essayage | fitting room | prøverom,prøverommet,prøverom,prøveromma
 
 # Loisirs, sport, culture
@@ -88,7 +88,7 @@ premie | m | prix (récompense) | prize
 medalje | m | médaille | medal
 langrenn | n | ski de fond | cross-country skiing | langrenn,langrennet,,
 slalåm | m | ski alpin | alpine skiing | slalåm,slalåmen,,
-skøyter | npl | patins à glace | ice skates | skøyter,skøytene
+skøyter | npl-f | patins à glace | ice skates | skøyter,skøytene
 aking | f | luge | sledging | aking,akinga,,
 kjelke | m | luge (objet) | sledge
 skiheis | m | remontée mécanique | ski lift
@@ -138,7 +138,7 @@ mappe | f | dossier | folder
 video | m | vidéo | video | video,videoen,videoer,videoene
 kamera | n | appareil photo | camera | kamera,kameraet,kameraer,kameraene
 høyttaler | m | enceinte, haut-parleur | speaker | høyttaler,høyttaleren,høyttalere,høyttalerne
-hodetelefoner | npl | casque audio | headphones | hodetelefoner,hodetelefonene
+hodetelefoner | npl-m | casque audio | headphones | hodetelefoner,hodetelefonene
 ladekabel | m | câble de charge | charging cable | ladekabel,ladekabelen,ladekabler,ladekablene
 wifi | m | wifi | wifi | wifi,wifien,,
 nettverk | n | réseau | network | nettverk,nettverket,nettverk,nettverka
@@ -146,7 +146,7 @@ brukernavn | n | nom d'utilisateur | username | brukernavn,brukernavnet,brukerna
 innlogging | f | connexion | login
 oppdatering | f | mise à jour | update
 feilmelding | f | message d'erreur | error message
-sosiale medier | npl | réseaux sociaux | social media | sosiale medier,sosiale mediene
+sosiale medier | npl-n | réseaux sociaux | social media | sosiale medier,sosiale mediene
 radio | m | radio | radio | radio,radioen,radioer,radioene
 kanal | m | chaîne | channel
 reklame | m | publicité | advertising
@@ -291,7 +291,7 @@ jeger | m | chasseur | hunter | jeger,jegeren,jegere,jegerne
 skolegård | m | cour d'école | school yard
 plante | f | plante | plant
 nordlys | n | aurore boréale | northern lights | nordlys,nordlyset,,
-søsken | npl | frères et sœurs | siblings | søsken,søsknene
+søsken | npl-n | frères et sœurs | siblings | søsken,søsknene
 postmann | m | facteur | postman | postmann,postmannen,postmenn,postmennene
 ark | n | feuille (papier) | sheet (of paper) | ark,arket,ark,arka/arkene
 styre | n | conseil d'administration | board | styre,styret,styrer,styrene

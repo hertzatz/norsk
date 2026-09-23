@@ -158,7 +158,7 @@ Dersom det snør, blir vi hjemme, ettersom veien er dårlig. | S'il neige, nous 
 Vi går ut selv om det regner, slik at hunden får luft. | Nous sortons même s'il pleut, pour que le chien prenne l'air. | We go out even if it rains, so that the dog gets some air.
 Derfor ble vi hjemme, og dermed så vi filmen likevel. | Donc nous sommes restés à la maison, et ainsi nous avons quand même vu le film. | So we stayed home, and thus we saw the film after all.
 Jo mer du øver, desto bedre blir du, hvorvidt du vil eller ikke. | Plus tu t'entraînes, meilleur tu deviens, que tu le veuilles ou non. | The more you practise, the better you get, whether you want to or not.
-Han arbeider på verkstedet og leder laget. | Il travaille à l'atelier et dirige l'équipe. | He works in the workshop and leads the team.
+Han arbeider på verkstedet og leder laget{lag}. | Il travaille à l'atelier et dirige l'équipe. | He works in the workshop and leads the team.
 Vi overlevde stormen og beskyttet dyrene. | Nous avons survécu à la tempête et protégé les animaux. | We survived the storm and protected the animals.
 Samle tingene og gjem dem før uværet. | Rassemble les affaires et cache-les avant les intempéries. | Gather the things and hide them before the storm.
 Minn{minne_verb} alle om reglene, og rett{rette} feilene. | Rappelle les règles à tous, et corrige les erreurs. | Remind everyone of the rules, and correct the mistakes.

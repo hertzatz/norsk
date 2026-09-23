@@ -229,7 +229,7 @@ Vi har dugnad på lørdag. | Nous avons une journée de travail bénévole samed
 Alle naboene kommer på dugnad. | Tous les voisins viennent à la journée bénévole. | All the neighbours come to the work day.
 Ta på deg vottene, det er kaldt. | Mets tes moufles, il fait froid. | Put on your mittens, it's cold.
 Parkeringen er full. | Le parking est plein. | The car park is full.
-Laget vårt vant. | Notre équipe a gagné. | Our team won.
+Laget{lag} vårt vant. | Notre équipe a gagné. | Our team won.
 Han spiller på et lag. | Il joue dans une équipe. | He plays on a team.
 Det er et tykt lag med snø. | Il y a une épaisse couche de neige. | There's a thick layer of snow.
 Jeg måkte snø i en time. | J'ai déneigé pendant une heure. | I shovelled snow for an hour.

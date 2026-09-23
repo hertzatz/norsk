@@ -96,7 +96,7 @@ Ved er billig her. | Le bois est bon marché ici. | Firewood is cheap here.
 Dugnad er vanlig i Norge. | La journée bénévole est courante en Norvège. | Community work days are common in Norway.
 Hun har røde votter. | Elle a des moufles rouges. | She has red mittens.
 Parkeringen er ved butikken. | Le parking est près du magasin. | The car park is by the shop.
-Laget vårt trener hver tirsdag. | Notre équipe s'entraîne tous les mardis. | Our team trains every Tuesday.
+Laget{lag} vårt trener hver tirsdag. | Notre équipe s'entraîne tous les mardis. | Our team trains every Tuesday.
 Et nytt lag med snø kom [i natt]. | Une nouvelle couche de neige est tombée cette nuit. | A new layer of snow came last night.
 Jeg måker før jeg går på jobb. | Je déneige avant d'aller au travail. | I shovel snow before going to work.
 Veiene brøytes tidlig. | Les routes sont déneigées tôt. | The roads are ploughed early.
@@ -149,7 +149,7 @@ Lukta fra kjøkkenet er god. | L'odeur de la cuisine est bonne. | The smell from
 @theme norge Life in Norway
 Veden ligger ved huset. | Le bois est près de la maison. | The firewood is by the house.
 Vi fyrer med ved hele vinteren. | Nous nous chauffons au bois tout l'hiver. | We heat with firewood all winter.
-Laget vant [i går]. | L'équipe a gagné hier. | The team won yesterday.
+Laget{lag} vant [i går]. | L'équipe a gagné hier. | The team won yesterday.
 Legg litt salt{salt_noun} i suppa. | Mets un peu de sel dans la soupe. | Put a little salt in the soup.
 Det er en god lukt{lukt} her. | Il y a une bonne odeur ici. | There's a nice smell here.
 Kjøp mer ved{ved_noun} til hytta. | Achète plus de bois pour le chalet. | Buy more firewood for the cabin.
