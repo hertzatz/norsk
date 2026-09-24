@@ -59,7 +59,7 @@ def shown_forms(w):
             out += ["skal " + f["inf"], "vil " + f["inf"], imperative(f["inf"])]
         if w["lemma"] + "s" in w["variants"]:
             out.append(w["lemma"] + "s")
-    if w["pos"] in ("pron", "det"):
+    if w["pos"] in ("pron", "det", "adv"):     # their other forms are listed in the Pronouns tab
         out += w["variants"]
     return out
 
