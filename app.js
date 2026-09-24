@@ -145,7 +145,7 @@ async function trFetch(q, from, to) {
 }
 // Norwegian text -> clickable words (same popover and sounds as everywhere else)
 const clickableNo = (text) => esc(text).split(/(\s+|[,.;:!?¿¡"«»()]+)/).map((part) =>
-  /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="${vfClass(part)}" data-t="${part}">${part}</span>` : part).join("");
+  /^[\wæøåÆØÅ-]+$/.test(part) ? vfSpan(part) : part).join("");
 
 async function translateBar(q) {
   const out = document.getElementById("trOut");
@@ -259,8 +259,19 @@ function wordColor(w) {
   if (w.pos === "verb") return "v-" + (w.vclass || "irr");   // "å" (pos inf) stays neutral
   return "";
 }
-// A written form (snakka, huset, har vaert...) -> the classes of its clickable span
-const vfClass = (text) => ["vf", wordColor(wordForForm(text))].filter(Boolean).join(" ");
+// A written form -> the word it belongs to. When the caller knows the word (its own row, its own card),
+// that word wins: "visst" in the adverb row is the adverb, not the participle of vite.
+function ownerOf(text, w = null) {
+  const key = text.toLowerCase().trim();
+  if (w && (w.variants.includes(key) || w.variants.includes(key.replace(/^(å|en|ei|et|har|skal|vil) /, "")))) return w;
+  return wordForForm(text);
+}
+// The clickable span of a form: coloured like its word, and carrying that word's id for the popover
+function vfSpan(text, w = null) {
+  const owner = ownerOf(text, w);
+  const cls = ["vf", wordColor(owner)].filter(Boolean).join(" ");
+  return `<span class="${cls}" data-t="${esc(text)}"${owner ? ` data-w="${esc(owner.id)}"` : ""}>${esc(text)}</span>`;
+}
 
 const LEGEND = `<p class="legend">
   <b class="g-m">en masculin</b><b class="g-f">ei f&eacute;minin</b><b class="g-n">et neutre</b>
@@ -320,11 +331,11 @@ function formRows(w) {
 function formsLine(w) {
   const f = w.forms;
   if (!f) return "";
-  const c = (x) => x ? vf(first(x)) : "";
+  const c = (x) => x ? vf(first(x), w) : "";
   if (w.pos === "noun") return [f.def, f.pl, f.defpl].map(c).filter(Boolean).join(" · ");
   if (w.pos === "npl") return c(f.defpl);
-  if (w.pos === "verb") return `pres. ${c(f.pres)} · past ${c(f.past)} · perf. ${vf("har " + first(f.perf))}` +
-    (MODALS.has(w.lemma) ? "" : ` · fut. ${vf("skal " + f.inf)}`);
+  if (w.pos === "verb") return `pres. ${c(f.pres)} · past ${c(f.past)} · perf. ${vf("har " + first(f.perf), w)}` +
+    (MODALS.has(w.lemma) ? "" : ` · fut. ${vf("skal " + f.inf, w)}`);
   if (w.pos === "adj") {
     const parts = [f.neut, f.pl].map(c);
     if (f.comp && f.comp !== f.base) parts.push(c(f.comp), c(f.sup));
@@ -343,7 +354,7 @@ function lemmaHTML(w) {
   const c = wordColor(w);
   const art = w.pos === "noun" && w.gender ? `<span class="art ${c}">${ART[w.gender]}</span> ` : "";
   const verb = w.pos === "verb" ? `<span class="art">å</span> ` : "";
-  return art + verb + `<span class="vf ${c}" data-t="${esc(w.lemma)}">${esc(w.lemma)}</span>`;
+  return art + verb + `<span class="vf ${c}" data-t="${esc(w.lemma)}" data-w="${esc(w.id)}">${esc(w.lemma)}</span>`;
 }
 
 // Level filter: up to the selected level, or exactly that level when "Only this level" is ticked
@@ -375,7 +386,7 @@ function wordForForm(text) {
 // Every Norwegian word anywhere (tables, note boxes, titles): play it and show its popover
 function tapWord(el, text) {
   playWord(text, el);
-  const w = wordForForm(text);
+  const w = (el.dataset.w && BY_ID[el.dataset.w]) || wordForForm(text);
   if (w) showPop(el, { t: text, w: w.id });
   else pop.hidden = true;
 }
@@ -385,7 +396,7 @@ function makeClickable(root) {
   root.querySelectorAll("i").forEach((i) => {
     if (i.querySelector(".vf")) return;
     i.innerHTML = i.textContent.split(/(\s+|[,.;:!?…()«»"]+)/).map((part) =>
-      /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="${vfClass(part)}" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
+      /^[\wæøåÆØÅ-]+$/.test(part) ? vfSpan(part) : esc(part)).join("");
   });
 }
 
@@ -497,15 +508,14 @@ const VERB_GROUPS = [
 ];
 
 // A clickable form; "/" alternatives become separate clickable forms
-function vf(text) {
-  return (text || "").split("/").map((x) => x.trim()).filter(Boolean)
-    .map((x) => `<span class="${vfClass(x)}" data-t="${esc(x)}">${esc(x)}</span>`).join(" / ");
+function vf(text, w = null) {
+  return (text || "").split("/").map((x) => x.trim()).filter(Boolean).map((x) => vfSpan(x, w)).join(" / ");
 }
 
 // "har vært / vart" -> each Norwegian word clickable, keeping separators
-function vfRow(text) {
+function vfRow(text, w = null) {
   return String(text).split(/(\s+|\/|·|!)/).map((part) =>
-    /^[\wæøåÆØÅ-]+$/.test(part) ? `<span class="${vfClass(part)}" data-t="${esc(part)}">${esc(part)}</span>` : esc(part)).join("");
+    /^[\wæøåÆØÅ-]+$/.test(part) ? vfSpan(part, w) : esc(part)).join("");
 }
 
 function glossCell(w) {
@@ -525,12 +535,12 @@ function renderVerbs() {
       const f = w.forms, modal = MODALS.has(w.lemma);
       return `<tr>
         <td class="gl">${glossCell(w)}</td>
-        <td class="inf">${vfRow("å " + f.inf)}</td>
-        <td>${vf(f.pres)}</td>
-        <td>${vf(f.past)}</td>
-        <td>${vfRow("har " + f.perf)}</td>
-        <td>${modal ? "—" : vfRow("skal " + f.inf)}</td>
-        <td>${modal ? "—" : vf(imperative(f.inf))}</td>
+        <td class="inf">${vfRow("å " + f.inf, w)}</td>
+        <td>${vf(f.pres, w)}</td>
+        <td>${vf(f.past, w)}</td>
+        <td>${vfRow("har " + f.perf, w)}</td>
+        <td>${modal ? "—" : vfRow("skal " + f.inf, w)}</td>
+        <td>${modal ? "—" : vf(imperative(f.inf), w)}</td>
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>
         <td class="drill-cell"><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button></td>
       </tr>`;
@@ -593,6 +603,16 @@ function renderPronouns() {
       </tr>`).join("");
   const others = WORDS.filter((w) => (w.pos === "pron" || w.pos === "det") && inLevel(w))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
+  const adverbs = WORDS.filter((w) => w.pos === "adv" && inLevel(w))
+    .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
+  // Meaning | word | its other forms (mye → mer, mest; fortsatt → fremdeles) | sentences
+  const wordTable = (list) => `<div class="table-wrap"><table class="vt">
+      <thead><tr><th>Meaning</th><th>Word</th><th>Forms</th><th></th></tr></thead>
+      <tbody>${list.map((w) => `<tr>
+        <td class="gl">${glossCell(w)}</td>
+        <td class="inf">${vf(w.lemma, w)}</td>
+        <td>${w.variants.filter((v) => v !== w.lemma.toLowerCase()).map((v) => vf(v, w)).join(", ")}</td>
+        <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td></tr>`).join("")}</tbody></table></div>`;
   document.getElementById("pronouns").innerHTML = `
     <h2 class="vh">Personal pronouns</h2>
     <div class="table-wrap"><table class="vt">
@@ -624,13 +644,10 @@ function renderPronouns() {
     </div>
 
     <h2 class="vh">Other pronouns and determiners <span class="badge">${others.length}</span></h2>
-    <div class="table-wrap"><table class="vt">
-      <thead><tr><th>Meaning</th><th>Word</th><th>Forms</th><th></th></tr></thead>
-      <tbody>${others.map((w) => `<tr>
-        <td class="gl">${glossCell(w)}</td>
-        <td class="inf">${vf(w.lemma)}</td>
-        <td>${w.variants.filter((v) => v !== w.lemma.toLowerCase()).map((v) => vf(v)).join(", ")}</td>
-        <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td></tr>`).join("")}</tbody></table></div>`;
+    ${wordTable(others)}
+
+    <h2 class="vh">Adverbs <span class="badge">${adverbs.length}</span></h2>
+    ${wordTable(adverbs)}`;
 }
 
 // ---------- popover ----------
@@ -643,7 +660,7 @@ function showPop(anchor, tok) {
   pop.innerHTML = `
     <div class="lemma">${lemmaHTML(w)} <span class="badge cat">${esc(catLabel(w))}</span></div>
     <div class="gloss">${glossHTML(w)}</div>
-    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v)}</td></tr>`).join("")}</table>` : ""}
+    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v, w)}</td></tr>`).join("")}</table>` : ""}
     ${w.pos === "verb" && (tok.t || "").toLowerCase() === w.lemma + "s" ? `<div class="note"><b>${esc(tok.t.toLowerCase())}</b> = forme en <b>-s</b> de <i>${esc(w.lemma)}</i> :
       réciproque (<i>vi ses</i> = on se voit, <i>vi møtes</i> = on se retrouve) ou passif (<i>døra lukkes</i> = la porte est fermée).</div>` : ""}
     ${tok.x ? `<div class="note">Bonus word: level ${w.level}</div>` : ""}
@@ -671,7 +688,7 @@ function openSheet(id) {
   document.getElementById("sheetTitle").innerHTML = lemmaHTML(w);
   document.getElementById("sheetBody").innerHTML = `
     <div class="gloss">${glossHTML(w)}</div>
-    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v)}</td></tr>`).join("")}</table>` : ""}
+    ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v, w)}</td></tr>`).join("")}</table>` : ""}
     <p class="count">${here.length} sentence${here.length > 1 ? "s" : ""} at level ${state.level}</p>
     <div class="sheet-list ${state.hideTr ? "hide-tr" : ""}">
       ${here.map((s) => sentenceHTML(s, id)).join("") || `<p class="empty">No sentences at this level.</p>`}
