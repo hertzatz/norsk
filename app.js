@@ -593,7 +593,40 @@ function pcell(no, fr, en, cls = "") {
   return `<td class="${cls}">${vf(no)}<br><span class="muted">${gl(fr, en)}</span></td>`;
 }
 
+// Question words: [fr, en, norsk, questions that start with it]. The example is the shortest question of
+// the corpus with that start (in the level first), so it is always an already checked sentence.
+const QUESTION_WORDS = [
+  ["quoi ? que ?", "what", "hva", /^Hva (?!slags )/],
+  ["qui ?", "who", "hvem", /^Hvem /],
+  ["quel, lequel · quelle, laquelle (nom en / ei)", "which (en / ei noun)", "hvilken", /^Hvilken /],
+  ["quel, lequel (nom et)", "which (et noun)", "hvilket", /^Hvilket /],
+  ["quels, lesquels · quelles, lesquelles", "which (plural)", "hvilke", /^Hvilke /],
+  ["où ?", "where", "hvor", /^Hvor (?!mye |mange |lenge |gammel |ofte |langt |stor )/],
+  ["quand ?", "when", "når", /^Når /],
+  ["pourquoi ?", "why", "hvorfor", /^Hvorfor /],
+  ["comment ?", "how", "hvordan", /^Hvordan /],
+  ["combien ? (quantité)", "how much", "hvor mye", /^Hvor mye (?!er klokka)/],   // not the set phrase "what time is it"
+  ["combien ? (nombre)", "how many", "hvor mange", /^Hvor mange /],
+  ["combien de temps ?", "how long", "hvor lenge", /^Hvor lenge /],
+  ["quel genre de ?", "what kind of", "hva slags", /^Hva slags /],
+];
+function exampleQuestion(re) {
+  const all = SENTENCES.filter((s) => re.test(s.no) && s.no.endsWith("?"));
+  const here = all.filter(sentInLevel);
+  return (here.length ? here : all).sort((a, b) => a.level - b.level || a.no.length - b.no.length)[0] || null;
+}
+// A sentence as clickable words, each tied to the word the sentence data gives it
+const tokensHTML = (s) => s.tokens.map((t) => (t.w ? vfSpan(t.t, BY_ID[t.w]) : esc(t.t))).join("");
+
 function renderPronouns() {
+  const questions = QUESTION_WORDS.map(([fr, en, no, re]) => {
+    const s = exampleQuestion(re);
+    return `<tr>
+      <td class="gl">${gl(esc(fr), esc(en))}</td>
+      <td class="inf">${vfRow(no)}</td>
+      <td>${s ? `${tokensHTML(s)}<br><span class="muted">${gl(esc(s.fr), esc(s.en))}</span>` : "—"}</td>
+      <td>${s ? `<button class="qplay" data-sid="${esc(s.id)}" aria-label="Play the question">▶</button>` : ""}</td></tr>`;
+  }).join("");
   const personal = PERSONAL.map(([label, [s, sfr, sen], [o, ofr, oen]]) => `<tr>
       <td class="gl muted">${label}</td>${pcell(s, sfr, sen, "inf")}${pcell(o, ofr, oen)}</tr>`).join("");
   const possessive = POSSESS.map(([[own, ofr, oen], forms]) => `<tr>
@@ -641,6 +674,19 @@ function renderPronouns() {
       <p><b>sin ou hans ?</b> <i>Han elsker kona si</i> = sa propre femme · <i>Han elsker kona hans</i> = la femme d'un autre.</p>
       <p>À l'écrit, le féminin <i>mi / di / si</i> est souvent remplacé par <i>min / din / sin</i> (<i>boken min</i>) ; à l'oral dans ta région, on dit <i>boka mi</i>.</p>
       <p>Tap a form to hear it.</p>
+    </div>
+
+    <h2 class="vh">Question words</h2>
+    <div class="table-wrap"><table class="vt">
+      <thead><tr><th>Meaning</th><th>Word</th><th>Example</th><th></th></tr></thead>
+      <tbody>${questions}</tbody></table></div>
+    <div class="note-box">
+      <p><b>hvilken</b> veut dire « quel » et aussi « lequel ». Il s'accorde avec la chose, comme les possessifs :
+         <i>hvilken bil</i>, <i>hvilken bok</i>, <i>hvilket hus</i>, <i>hvilke barn</i>.</p>
+      <p><b>hvor + un mot</b> = « à quel point » : <i>hvor mye</i>, <i>hvor mange</i>, <i>hvor lenge</i>,
+         <i>hvor gammel</i> (quel âge), <i>hvor ofte</i> (combien de fois), <i>hvor langt</i> (quelle distance).</p>
+      <p><b>Question indirecte :</b> si le mot interrogatif est sujet, on ajoute <i>som</i> :
+         <i>Jeg vet ikke hva som skjer</i> · <i>Gjett hvem som kom</i>. Sinon, rien : <i>Jeg skjønner hva du mener</i>.</p>
     </div>
 
     <h2 class="vh">Other pronouns and determiners <span class="badge">${others.length}</span></h2>
@@ -790,6 +836,8 @@ function bind() {
     if (d) return drillToggle(d.dataset.id);
     const ctrl = e.target.closest(".drill-ctrl button");
     if (ctrl) return drillGroup(ctrl.closest(".drill-ctrl").dataset.cls, ctrl.dataset.act);
+    const q = e.target.closest(".qplay");   // example question of the Question words table
+    if (q) return playSentence(SENT_BY_ID[q.dataset.sid], q.closest("tr"));
     const more = e.target.closest(".more");
     if (more && !e.target.closest(".word")) return openSheet(more.dataset.id);
     const form = e.target.closest(".vf");
