@@ -440,7 +440,7 @@ function sentenceHTML(s, hitId = null, showPass = false) {
 // ---------- blurred translations ----------
 // "Flouter" in the top bar blurs the Norwegian (sentences and table forms), to recall it from the translation.
 // Holding the 👁 of a row or a sentence card shows it; releasing blurs it again. In the tables the 👁 sits in
-// its own column, just left of the Norwegian.
+// its own column at the far right (in the ▶ cell of the verb tables).
 const eyeBtn = `<button class="eye" aria-label="Hold to read the Norwegian">👁</button>`;
 const eyeTh = () => (state.blur ? `<th class="eye-col"></th>` : "");
 const eyeTd = () => (state.blur ? `<td class="eye-col">${eyeBtn}</td>` : "");
@@ -537,12 +537,12 @@ function renderWords() {
   });
   document.getElementById("wordCount").textContent = `${list.length} words · double-click: see sentences`;
   const rows = trickyFirst(list, (w) => w.id).map((w) => `<tr${trAttrs(w.id)}>
-      <td class="gl tk trn">${glossCell(w)}</td>${eyeTd()}
+      <td class="gl tk trn">${glossCell(w)}</td>
       <td class="inf">${lemmaHTML(w)} <span class="badge cat">${esc(catLabel(w))}</span>${modalBadge(w)}</td>
       <td>${formsLine(w)}</td>
-      <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td></tr>`).join("");
+      <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>${eyeTd()}</tr>`).join("");
   document.getElementById("words").innerHTML = list.length ? `<div class="table-wrap"><table class="vt">
-      <thead><tr><th>Meaning</th>${eyeTh()}<th>Word</th><th>Forms</th><th></th></tr></thead>
+      <thead><tr><th>Meaning</th><th>Word</th><th>Forms</th><th></th>${eyeTh()}</tr></thead>
       <tbody>${rows}</tbody></table></div>` : `<p class="empty">No words found.</p>`;
 }
 
@@ -630,7 +630,7 @@ function renderVerbs() {
     const row = (w) => {
       const f = w.forms, modal = MODALS.has(w.lemma);
       return `<tr${trAttrs(w.id)}>
-        <td class="gl tk trn">${glossCell(w)}</td>${eyeTd()}
+        <td class="gl tk trn">${glossCell(w)}</td>
         <td class="inf">${vfRow("å " + f.inf, w)}${modalBadge(w)}</td>
         <td>${vf(f.pres, w)}</td>
         <td>${vf(f.past, w)}</td>
@@ -638,14 +638,14 @@ function renderVerbs() {
         <td>${modal ? "—" : vfRow("skal " + f.inf, w)}</td>
         <td>${modal ? "—" : vf(imperative(f.inf), w)}</td>
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>
-        <td class="drill-cell"><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button></td>
+        <td class="drill-cell"><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button>${state.blur ? eyeBtn : ""}</td>
       </tr>`;
     };
     // modal (then semi-modal) verbs first, set apart; the ▶ of the group reads them first too
     const special = trickyFirst(list.filter(modalKind)
       .sort((a, b) => (modalKind(a) === "modal" ? 0 : 1) - (modalKind(b) === "modal" ? 0 : 1) || (a.rank || 9999) - (b.rank || 9999)), (w) => w.id);
     const rest = trickyFirst(list.filter((w) => !modalKind(w)), (w) => w.id);
-    const sub = (label, hint) => `<tr class="vsub"><td colspan="${state.blur ? 10 : 9}">${label}${hint ? ` <span class="muted">— ${hint}</span>` : ""}</td></tr>`;
+    const sub = (label, hint) => `<tr class="vsub"><td colspan="9">${label}${hint ? ` <span class="muted">— ${hint}</span>` : ""}</td></tr>`;
     const rows = !special.length ? rest.map(row).join("")
       : sub(cls === "irr" ? "Modal and semi-modal verbs" : "Semi-modal verb",
             cls === "irr" ? "modal + infinitif sans å : <i>jeg kan svømme</i> · pour une chose, on ajoute <i>ha</i> : <i>jeg vil ha kaffe</i>"
@@ -658,7 +658,7 @@ function renderVerbs() {
         </span></h2>
       <p class="hint">${help}</p>
       <div class="table-wrap"><table class="vt">
-        <thead><tr><th>Meaning</th>${eyeTh()}<th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th class="drill-cell"></th></tr></thead>
+        <thead><tr><th>Meaning</th><th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th class="drill-cell"></th></tr></thead>
         <tbody>${rows}</tbody></table></div>`;
   }).join("") || `<p class="empty">No verbs found.</p>`;
   drillIcons();   // keep ⏸ on the row being read after a re-render (search, level change)
@@ -731,34 +731,34 @@ function renderPronouns() {
   const questions = trickyFirst(QUESTION_WORDS, (q) => qKey(q[2])).map(([fr, en, no, re]) => {
     const s = exampleQuestion(re);
     return `<tr${trAttrs(qKey(no))}>
-      <td class="gl tk trn">${gl(esc(fr), esc(en))}</td>${eyeTd()}
+      <td class="gl tk trn">${gl(esc(fr), esc(en))}</td>
       <td class="inf">${vfRow(no)}</td>
       <td>${s ? `${tokensHTML(s)}<br><span class="muted trn">${gl(esc(s.fr), esc(s.en))}</span>` : "—"}</td>
-      <td>${s ? `<button class="qplay" data-sid="${esc(s.id)}" aria-label="Play the question">▶</button>` : ""}</td></tr>`;
+      <td>${s ? `<button class="qplay" data-sid="${esc(s.id)}" aria-label="Play the question">▶</button>` : ""}</td>${eyeTd()}</tr>`;
   }).join("");
   const personal = PERSONAL.map(([label, [s, sfr, sen], [o, ofr, oen]]) => `<tr${trAttrs("p:" + label)}>
-      <td class="gl muted tk">${label}</td>${eyeTd()}${pcell(s, sfr, sen, "inf")}${pcell(o, ofr, oen)}</tr>`).join("");
+      <td class="gl muted tk">${label}</td>${pcell(s, sfr, sen, "inf")}${pcell(o, ofr, oen)}${eyeTd()}</tr>`).join("");
   const possessive = trickyFirst(POSSESS, ([[own]]) => "poss:" + own).map(([[own, ofr, oen], forms]) => `<tr${trAttrs("poss:" + own)}>
-      ${eyeTd()}${pcell(own, ofr, oen, "inf tk")}
+      ${pcell(own, ofr, oen, "inf tk")}
       ${forms.length === 4 ? forms.map(([f, ffr, fen]) => pcell(f, ffr, fen)).join("")
         : `<td colspan="4">${vf(forms[0][0])}<br><span class="muted"><span class="trn">${gl(forms[0][1], forms[0][2])}</span> — ne change jamais</span></td>`}
-      </tr>`).join("");
+      ${eyeTd()}</tr>`).join("");
   const others = WORDS.filter((w) => (w.pos === "pron" || w.pos === "det") && inLevel(w))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
   const adverbs = WORDS.filter((w) => w.pos === "adv" && inLevel(w))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
   // Meaning | word | its other forms (mye → mer, mest; fortsatt → fremdeles) | sentences
   const wordTable = (list) => `<div class="table-wrap"><table class="vt">
-      <thead><tr><th>Meaning</th>${eyeTh()}<th>Word</th><th>Forms</th><th></th></tr></thead>
+      <thead><tr><th>Meaning</th><th>Word</th><th>Forms</th><th></th>${eyeTh()}</tr></thead>
       <tbody>${trickyFirst(list, (w) => w.id).map((w) => `<tr${trAttrs(w.id)}>
-        <td class="gl tk trn">${glossCell(w)}</td>${eyeTd()}
+        <td class="gl tk trn">${glossCell(w)}</td>
         <td class="inf">${vf(w.lemma, w)}</td>
         <td>${w.variants.filter((v) => v !== w.lemma.toLowerCase()).map((v) => vf(v, w)).join(", ")}</td>
-        <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td></tr>`).join("")}</tbody></table></div>`;
+        <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>${eyeTd()}</tr>`).join("")}</tbody></table></div>`;
   document.getElementById("pronouns").innerHTML = `
     <h2 class="vh">Personal pronouns</h2>
     <div class="table-wrap"><table class="vt">
-      <thead><tr><th></th>${eyeTh()}<th>Subject <span class="muted">jeg ser…</span></th><th>Object <span class="muted">…ser meg</span></th></tr></thead>
+      <thead><tr><th></th><th>Subject <span class="muted">jeg ser…</span></th><th>Object <span class="muted">…ser meg</span></th>${eyeTh()}</tr></thead>
       <tbody>${personal}</tbody></table></div>
     <div class="note-box">
       <p><b>Objet :</b> <i>ham</i> à l'écrit, mais <i>han</i> est très courant à l'oral (<i>Jeg så han i går</i>).
@@ -771,11 +771,11 @@ function renderPronouns() {
       <p>Le possessif s'accorde avec <b>la chose possédée</b>, pas avec le possesseur : <i>bilen min</i>, <i>boka mi</i>, <i>huset mitt</i>, <i>barna mine</i>.</p>
     </div>
     <div class="table-wrap"><table class="vt">
-      <thead><tr>${eyeTh()}<th>Owner</th>
+      <thead><tr><th>Owner</th>
         <th>Masculine<br><span class="muted">bilen …</span></th>
         <th>Feminine<br><span class="muted">boka …</span></th>
         <th>Neuter<br><span class="muted">huset …</span></th>
-        <th>Plural<br><span class="muted">barna …</span></th></tr></thead>
+        <th>Plural<br><span class="muted">barna …</span></th>${eyeTh()}</tr></thead>
       <tbody>${possessive}</tbody></table></div>
     <div class="note-box">
       <p><b>Après le nom</b> (le plus courant à l'oral) : le nom prend sa forme définie, <i>bilen min</i>, et non <i>bil min</i>.
@@ -787,7 +787,7 @@ function renderPronouns() {
 
     <h2 class="vh">Question words</h2>
     <div class="table-wrap"><table class="vt">
-      <thead><tr><th>Meaning</th>${eyeTh()}<th>Word</th><th>Example</th><th></th></tr></thead>
+      <thead><tr><th>Meaning</th><th>Word</th><th>Example</th><th></th>${eyeTh()}</tr></thead>
       <tbody>${questions}</tbody></table></div>
     <div class="note-box">
       <p><b>hvilken</b> veut dire « quel » et aussi « lequel ». Il s'accorde avec la chose, comme les possessifs :
@@ -868,7 +868,7 @@ function syncControls() {
   document.querySelectorAll(".view").forEach((v) => (v.hidden = v.id !== "view-" + state.view));
   document.getElementById("goCp").hidden = !(state.view === "phrases" && state.checkpoint);
   document.getElementById("blurTr").checked = state.blur;
-  document.body.classList.toggle("set-closed", !state.setOpen);   // folded: only the title, ⚙ and the checkpoint stay
+  document.body.classList.toggle("set-closed", !state.setOpen);   // folded: only the title, ☰ and the checkpoint stay
   document.body.classList.toggle("tr-closed", !state.trOpen);     // folded: only the 4 tabs (and 🌐) stay
   document.getElementById("setToggle").classList.toggle("on", state.setOpen);
   document.getElementById("trToggle").classList.toggle("on", state.trOpen);

@@ -288,3 +288,6 @@ body.noscroll { overflow: hidden; }
 .tr-toggle.on { background: var(--chip); opacity: 1; }
 .set-closed .top .controls { display: none; }
 .tr-closed .tabs .tr-wrap { display: none; }
+
+/* the eye next to ▶ in the sticky right cell of the verb tables */
+.vt .drill-cell .eye { width: 32px; height: 32px; margin-left: 6px; vertical-align: middle; }
