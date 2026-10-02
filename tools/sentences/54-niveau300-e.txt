@@ -130,7 +130,7 @@ Gå bort herfra! | Va-t'en d'ici ! | Get away from here!
 Barna er inne nå. | Les enfants sont à l'intérieur maintenant. | The children are inside now.
 Vi må inn nå. | On doit rentrer maintenant. | We have to go in now.
 Hun så gjennom vinduet. | Elle a regardé par la fenêtre. | She looked through the window.
-Jeg tar heller en annen dag. | Je préfère prendre un autre jour. | I'd rather take another day.
+Jeg tar heller en annen dag. | Je prends plutôt un autre jour. | I'd rather take another day.
 Selvfølgelig er det sant! | Bien sûr que c'est vrai ! | Of course it's true!
 Hun er lei seg [i dag]. | Elle est triste aujourd'hui. | She's sad today.
 Det var flott! | C'était génial ! | That was great!
@@ -166,3 +166,11 @@ Lukk øynene! | Ferme les yeux ! | Close your eyes!
 Er han død? | Il est mort ? | Is he dead?
 Øynene hans er store. | Ses yeux sont grands. | His eyes are big.
 Han lovte å ringe meg. | Il a promis de m'appeler. | He promised to call me.
+
+@theme hverdag Everyday life
+# ikke … heller = non plus (heller after ikke, or "heller ikke" before)
+Ikke jeg heller. | Moi non plus. | Me neither.
+Jeg har ikke tid [i dag] heller. | Je n'ai pas le temps aujourd'hui non plus. | I don't have time today either.
+Han kommer ikke [i dag], og ikke [i morgen] heller. | Il ne vient pas aujourd'hui, et pas demain non plus. | He isn't coming today, or tomorrow either.
+Hun snakker ikke norsk, og ikke engelsk heller. | Elle ne parle pas norvégien, et pas anglais non plus. | She doesn't speak Norwegian, or English either.
+Vi har heller ikke penger. | Nous n'avons pas d'argent non plus. | We don't have any money either.

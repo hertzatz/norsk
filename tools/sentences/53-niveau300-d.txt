@@ -171,7 +171,7 @@ Hun er et menneske som alle liker. | C'est quelqu'un que tout le monde aime bien
 Hva kalles det på norsk? | Comment ça s'appelle en norvégien ? | What's it called in Norwegian?
 De kalte ham *Leo. | Ils l'ont appelé Leo. | They called him Leo.
 Veien går gjennom byen. | La route traverse la ville. | The road goes through the town.
-Da tar jeg heller bilen. | Alors je préfère prendre la voiture. | Then I'd rather take the car.
+Da tar jeg heller bilen. | Alors je prends plutôt la voiture. | Then I'd rather take the car.
 Kan du komme? Ja, selvfølgelig. | Tu peux venir ? Oui, bien sûr. | Can you come? Yes, of course.
 Jeg er lei av å vente. | J'en ai marre d'attendre. | I'm tired of waiting.
 Neste gang skal jeg gjøre det selv. | La prochaine fois, je le ferai moi-même. | Next time I'll do it myself.

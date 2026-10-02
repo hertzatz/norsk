@@ -126,7 +126,7 @@ virkelig | adv | vraiment | really
 sikkert | adv | sûrement | surely, probably
 selvfølgelig | adv | bien sûr | of course | selvsagt
 gjerne | adv | volontiers | gladly, willingly
-heller | adv | plutôt ; non plus | rather ; either (neither)
+heller | adv | plutôt ; ikke … heller = non plus | rather ; not … either
 vel | adv | bien ; n'est-ce pas | well ; I suppose
 visst | adv | paraît-il, apparemment | apparently
 lenge | adv | longtemps | long (time)

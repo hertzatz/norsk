@@ -320,7 +320,7 @@ Hva kaller du det? | Comment tu appelles ça ? | What do you call that?
 Jeg vil lære mer. | Je veux apprendre plus. | I want to learn more.
 Broren min kommer [i dag]. | Mon frère arrive aujourd'hui. | My brother is coming today.
 Vi kjørte gjennom byen. | Nous avons traversé la ville en voiture. | We drove through the town.
-Jeg går heller hjem. | Je préfère rentrer. | I'd rather go home.
+Jeg går heller hjem. | Je rentre plutôt à la maison. | I'd rather go home.
 Kan jeg komme? Selvfølgelig! | Je peux venir ? Bien sûr ! | Can I come? Of course!
 Politiet kom med en gang. | La police est arrivée tout de suite. | The police came right away.
 Jeg er lei meg. | Je suis désolé / triste. | I'm sorry / sad.
