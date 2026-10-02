@@ -256,7 +256,7 @@ const catLabel = (w) => (CAT_OF[w.pos] || { label: w.pos }).label;
 function wordColor(w) {
   if (!w) return "";
   if (w.pos === "noun" || w.pos === "npl") return w.gender ? "g-" + w.gender : "";
-  if (w.pos === "verb") return "v-" + (w.vclass || "irr");   // "å" (pos inf) stays neutral
+  if (w.pos === "verb") return "v-" + (w.vclass || "irr") + (MODAL_VERBS.has(w.lemma) ? " v-modal" : "");   // "å" (pos inf) stays neutral
   return "";
 }
 // A written form -> the word it belongs to. When the caller knows the word (its own row, its own card),
@@ -275,9 +275,16 @@ function vfSpan(text, w = null) {
 
 const LEGEND = `<p class="legend">
   <b class="g-m">en masculin</b><b class="g-f">ei f&eacute;minin</b><b class="g-n">et neutre</b>
-  <b class="v-irr">verbe irr&eacute;gulier</b><b class="v-v1">v. groupe 1</b><b class="v-v2">v. groupe 2</b><b class="v-v3">v. groupe 3</b></p>`;
+  <b class="v-irr">verbe irr&eacute;gulier</b><b class="v-v1">v. groupe 1</b><b class="v-v2">v. groupe 2</b><b class="v-v3">v. groupe 3</b><b class="v-irr v-modal">verbe modal</b></p>`;
 
-const MODALS = new Set(["kunne", "ville", "skulle", "måtte", "burde"]);
+const MODALS = new Set(["kunne", "ville", "skulle", "måtte", "burde"]);   // no future, no imperative
+// Modal verbs: present without -r and a bare infinitive after them (tørre behaves the same way).
+// Semi-modal verbs: ordinary verbs that also introduce an infinitive (få komme, gidde, orke, trenge, pleie å, slippe å).
+const MODAL_VERBS = new Set([...MODALS, "tørre"]);
+const SEMI_MODALS = new Set(["få", "gidde", "slippe", "orke", "trenge", "pleie"]);
+const modalKind = (w) => (!w || w.pos !== "verb") ? "" : MODAL_VERBS.has(w.lemma) ? "modal"
+  : SEMI_MODALS.has(w.lemma) ? "semi-modal" : "";
+const modalBadge = (w) => (modalKind(w) ? `<span class="badge modal-badge">${modalKind(w)}</span>` : "");
 
 // Determiners that agree with the noun: masculine (en), feminine (ei), neuter (et), plural
 const AGREE = {
@@ -442,7 +449,7 @@ function renderWords() {
     <li class="word" data-id="${esc(w.id)}">
       <button class="play" aria-label="Play">🔊</button>
       <div class="main">
-        <div class="lemma">${lemmaHTML(w)}<span class="badge cat">${esc(catLabel(w))}</span>${w.rank ? `<span class="badge">#${w.rank}</span>` : ""}</div>
+        <div class="lemma">${lemmaHTML(w)}<span class="badge cat">${esc(catLabel(w))}</span>${modalBadge(w)}${w.rank ? `<span class="badge">#${w.rank}</span>` : ""}</div>
         <div class="forms">${formsLine(w)}</div>
         <div class="gloss">${glossHTML(w)}</div>
       </div>
@@ -531,11 +538,11 @@ function renderVerbs() {
   document.getElementById("verbs").innerHTML = VERB_GROUPS.map(([cls, title, help]) => {
     const list = verbs.filter((w) => (w.vclass || "irr") === cls);
     if (!list.length) return "";
-    const rows = list.map((w) => {
+    const row = (w) => {
       const f = w.forms, modal = MODALS.has(w.lemma);
       return `<tr>
         <td class="gl">${glossCell(w)}</td>
-        <td class="inf">${vfRow("å " + f.inf, w)}</td>
+        <td class="inf">${vfRow("å " + f.inf, w)}${modalBadge(w)}</td>
         <td>${vf(f.pres, w)}</td>
         <td>${vf(f.past, w)}</td>
         <td>${vfRow("har " + f.perf, w)}</td>
@@ -544,7 +551,18 @@ function renderVerbs() {
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>
         <td class="drill-cell"><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button></td>
       </tr>`;
-    }).join("");
+    };
+    // modal (then semi-modal) verbs first, set apart; the ▶ of the group reads them first too
+    const special = list.filter(modalKind)
+      .sort((a, b) => (modalKind(a) === "modal" ? 0 : 1) - (modalKind(b) === "modal" ? 0 : 1) || (a.rank || 9999) - (b.rank || 9999));
+    const rest = list.filter((w) => !modalKind(w));
+    const sub = (label, hint) => `<tr class="vsub"><td colspan="9">${label}${hint ? ` <span class="muted">— ${hint}</span>` : ""}</td></tr>`;
+    const rows = !special.length ? list.map(row).join("")
+      : sub(cls === "irr" ? "Modal and semi-modal verbs" : "Semi-modal verb",
+            cls === "irr" ? "modal + infinitif sans å : <i>jeg kan svømme</i> · pour une chose, on ajoute <i>ha</i> : <i>jeg vil ha kaffe</i>"
+                          : "il introduit un autre verbe, comme un modal")
+        + special.map(row).join("")
+        + (rest.length ? sub(cls === "irr" ? "Other irregular verbs" : "Other verbs") + rest.map(row).join("") : "");
     return `<h2 class="vh drill-head">${title} <span class="badge">${list.length}</span>
         <span class="drill-ctrl" data-cls="${cls}">
           <button data-act="play" aria-label="Play all">▶</button><button data-act="pause" aria-label="Pause">⏸</button><button data-act="stop" aria-label="Stop">⏹</button>
@@ -704,7 +722,7 @@ function showPop(anchor, tok) {
   const rows = formRows(w);
   const n = sentencesWith(w.id).length;
   pop.innerHTML = `
-    <div class="lemma">${lemmaHTML(w)} <span class="badge cat">${esc(catLabel(w))}</span></div>
+    <div class="lemma">${lemmaHTML(w)} <span class="badge cat">${esc(catLabel(w))}</span>${modalBadge(w)}</div>
     <div class="gloss">${glossHTML(w)}</div>
     ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v, w)}</td></tr>`).join("")}</table>` : ""}
     ${w.pos === "verb" && (tok.t || "").toLowerCase() === w.lemma + "s" ? `<div class="note"><b>${esc(tok.t.toLowerCase())}</b> = forme en <b>-s</b> de <i>${esc(w.lemma)}</i> :

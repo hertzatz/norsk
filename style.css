@@ -237,3 +237,11 @@ body.noscroll { overflow: hidden; }
 .vt tr.drilling, .vt tr.playing { transform: scale(1.04); }
 .vt tr.drilling td, .vt tr.playing td { box-shadow: 0 6px 16px rgba(0,0,0,.22); }
 .vt tr.playing td { background: var(--hl); }   /* the example question being read */
+
+/* modal verbs: red like every irregular verb, but double underlined, everywhere */
+.tok.v-modal, .vf.v-modal, .legend b.v-modal { text-decoration-style: double; }
+.note-box i .vf.v-modal { text-decoration-style: double; }
+.badge.modal-badge { margin-left: 6px; }
+/* verbs page: sub-heading rows inside a group (modal / semi-modal verbs, then the others) */
+.vt tr.vsub td { background: var(--chip); font-weight: 600; font-size: .8rem; padding: 4px 8px; white-space: normal; }
+.vt tr.vsub td .muted { font-weight: 400; }
