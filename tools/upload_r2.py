@@ -5,8 +5,9 @@ Layout in the bucket (same as the local audio/ folder):
   <voice>/s100 … s055/<id>.mp3  sentences at 100 / 85 / 70 / 55 %
   <voice>/verb/<id>.mp3     verb drills (French then Norwegian)
 
-Credentials are read from ../../.norsk-keys.env (outside the repository):
+Credentials are read from ../../.cloudflare-keys.env (outside the repository):
   R2_ACCOUNT=…  R2_KEY=…  R2_SECRET=…
+The file may hold keys for other buckets further down: the first value of each name is the one used here.
 Only files missing in the bucket (or with a different size) are sent, so the script can be re-run.
 Usage: python upload_r2.py [--test]
 """
@@ -19,9 +20,9 @@ import boto3
 from botocore.config import Config
 
 ROOT = Path(__file__).resolve().parent.parent
-ENV = ROOT.parent.parent / ".norsk-keys.env"
-if not ENV.exists():                     # former name
-    ENV = ROOT.parent.parent / ".norsk-r2.env"
+# current name first, then the former ones
+ENV = next((p for p in (ROOT.parent.parent / n for n in (".cloudflare-keys.env", ".norsk-keys.env", ".norsk-r2.env"))
+            if p.exists()), None)
 BUCKET = "norsk-app"
 # local folder -> sub-folders sent from it
 SOURCES = [(ROOT / "audio", ("w", "s100", "s085", "s070", "s055", "verb"))]
@@ -29,7 +30,13 @@ VOICES = ("pernille", "finn")
 
 
 def client():
-    env = dict(line.strip().split("=", 1) for line in ENV.read_text(encoding="utf-8").splitlines() if "=" in line)
+    if ENV is None:
+        sys.exit("no keys file (.cloudflare-keys.env) next to the projects folder")
+    env = {}
+    for line in ENV.read_text(encoding="utf-8").splitlines():
+        if "=" in line:
+            name, value = line.strip().split("=", 1)
+            env.setdefault(name, value)      # first value wins: this bucket's keys come first
     return boto3.client("s3", endpoint_url=f"https://{env['R2_ACCOUNT']}.r2.cloudflarestorage.com",
                         aws_access_key_id=env["R2_KEY"], aws_secret_access_key=env["R2_SECRET"],
                         region_name="auto", config=Config(retries={"max_attempts": 8, "mode": "adaptive"},
