@@ -1,7 +1,9 @@
 "use strict";
 
-const state = { level: 300, lang: "both", voice: "alt", speed: 1, view: "phrases", theme: "", list: "", pos: "", hideTr: false, only: false, q: "", sq: "", vq: "",
-  scroll: {}, shown: 50 };   // scroll: the place reached in each view · shown: how many sentences were listed
+const state = { level: 300, lang: "both", voice: "alt", speed: 1, view: "phrases", theme: "", list: "", pos: "", blur: false, only: false, q: "", sq: "", vq: "",
+  scroll: {}, shown: 50, tricky: [], checkpoint: "", setOpen: true, trOpen: true };
+// scroll: the place reached in each view · shown: how many sentences were listed · tricky: keys of the rows marked tricky
+// checkpoint: id of the sentence kept as a bookmark · setOpen / trOpen: top settings and bottom translation unfolded
 let WORDS = [], SENTENCES = [], BY_ID = {}, SENT_BY_ID = {};
 const PAGE = 50;
 
@@ -13,11 +15,14 @@ function load() {
   state.vq = "";
   if (!state.scroll || typeof state.scroll !== "object") state.scroll = {};
   state.shown = Math.min(Math.max(PAGE, state.shown | 0), 5000);
+  if (!Array.isArray(state.tricky)) state.tricky = [];
+  if (state.hideTr) state.blur = true;   // the former "Hide translation" box
+  delete state.hideTr;
 }
 function save() {
   try {
-    const { level, lang, voice, speed, view, theme, list, pos, hideTr, only, scroll, shown } = state;
-    localStorage.setItem("norsk.settings", JSON.stringify({ level, lang, voice, speed, view, theme, list, pos, hideTr, only, scroll, shown }));
+    const { level, lang, voice, speed, view, theme, list, pos, blur, only, scroll, shown, tricky, checkpoint, setOpen, trOpen } = state;
+    localStorage.setItem("norsk.settings", JSON.stringify({ level, lang, voice, speed, view, theme, list, pos, blur, only, scroll, shown, tricky, checkpoint, setOpen, trOpen }));
   } catch (e) {}
 }
 
@@ -354,7 +359,7 @@ function formsLine(w) {
 function glossHTML(w) {
   const fr = `<div><span class="lang">FR</span>${esc(w.fr)}</div>`;
   const en = `<div><span class="lang">EN</span>${esc(w.en)}</div>`;
-  return state.lang === "fr" ? fr : state.lang === "en" ? en : fr + en;
+  return state.lang === "fr" ? fr : state.lang === "en" ? en : state.lang === "enfr" ? en + fr : fr + en;
 }
 
 function lemmaHTML(w) {
@@ -418,18 +423,105 @@ function sentenceHTML(s, hitId = null, showPass = false) {
                  hitId && t.w === hitId && "hit"].filter(Boolean).join(" ");
     return `<span class="${cls}" data-i="${i}">${esc(t.t)}</span>`;
   }).join("");
-  const fr = `<div class="tr"><span class="lang">FR</span>${esc(s.fr)}</div>`;
-  const en = `<div class="tr"><span class="lang">EN</span>${esc(s.en)}</div>`;
-  const tr = state.lang === "fr" ? fr : state.lang === "en" ? en : fr + en;
+  const fr = `<div class="tr trn"><span class="lang">FR</span>${esc(s.fr)}</div>`;
+  const en = `<div class="tr trn"><span class="lang">EN</span>${esc(s.en)}</div>`;
+  const tr = state.lang === "fr" ? fr : state.lang === "en" ? en : state.lang === "enfr" ? en + fr : fr + en;
   return `
-    <article class="sent" data-id="${esc(s.id)}">
+    <article class="sent${showPass && s.id === state.checkpoint ? " checkpoint" : ""}" data-id="${esc(s.id)}">
       <div class="row">
         <div class="no">${toks}</div>
-        <button class="play" aria-label="Play sentence">▶</button>
+        <button class="play" aria-label="Play sentence">▶</button>${state.blur ? eyeBtn : ""}
       </div>
       ${tr}
-      <div class="meta">level ${s.level}${s.theme ? " · " + esc(s.themeLabel || s.theme) : ""}${!showPass ? "" : s._new ? ` · <b>${s._new} new word${s._new > 1 ? "s" : ""}</b>` : s._pass ? ` · pass ${s._pass}` : ""}</div>
+      <div class="meta">level ${s.level}${s.theme ? " · " + esc(s.themeLabel || s.theme) : ""}${!showPass ? "" : s._new ? ` · <b>${s._new} new word${s._new > 1 ? "s" : ""}</b>` : s._pass ? ` · pass ${s._pass}` : ""}${showPass ? `<button class="cp-btn">🔖 Update checkpoint</button>` : ""}</div>
     </article>`;
+}
+
+// ---------- blurred translations ----------
+// "Flouter" in the top bar blurs the Norwegian (sentences and table forms), to recall it from the translation.
+// Holding the 👁 of a row or a sentence card shows it; releasing blurs it again. In the tables the 👁 sits in
+// its own column, just left of the Norwegian.
+const eyeBtn = `<button class="eye" aria-label="Hold to read the Norwegian">👁</button>`;
+const eyeTh = () => (state.blur ? `<th class="eye-col"></th>` : "");
+const eyeTd = () => (state.blur ? `<td class="eye-col">${eyeBtn}</td>` : "");
+function bindEye() {
+  let peeking = null;
+  const stop = () => { if (peeking) { peeking.classList.remove("peek"); peeking = null; } };
+  document.addEventListener("pointerdown", (e) => {
+    const b = e.target.closest(".eye");
+    if (!b) return;
+    e.preventDefault();
+    stop();
+    peeking = b.closest("tr, .sent");
+    if (peeking) peeking.classList.add("peek");
+  });
+  ["pointerup", "pointercancel", "blur"].forEach((ev) => window.addEventListener(ev, stop));
+  document.addEventListener("contextmenu", (e) => { if (e.target.closest(".eye")) e.preventDefault(); });
+}
+
+// ---------- tricky rows ----------
+// A right-click (a long press on a phone) on the left cell of a row (its meaning; the word in Words) opens a mini menu to mark it tricky.
+// Tricky rows rise to the top of their list, under the nearest heading. Words share one key (their id),
+// so a word marked in Words is tricky in Verbs and Pronouns too.
+const isTricky = (key) => state.tricky.includes(key);
+const trickyFirst = (list, key) => [...list.filter((x) => isTricky(key(x))), ...list.filter((x) => !isTricky(key(x)))];
+const trAttrs = (key) => ` data-tk="${esc(key)}"${isTricky(key) ? ' class="tricky"' : ""}`;
+const tkMenu = document.createElement("div");
+tkMenu.className = "tk-menu";
+tkMenu.hidden = true;
+let tkKey = null, tkTouchAt = 0;
+function openTkMenu(row, x, y, byTouch = false) {
+  tkKey = row.dataset.tk;
+  const on = isTricky(tkKey);
+  tkMenu.innerHTML = `<button data-tk-act="${on ? "off" : "on"}">${on ? "✓ Unmark tricky" : "⚠ Mark as tricky"}</button>`;
+  tkMenu.hidden = false;
+  tkMenu.style.left = Math.max(8, Math.min(x, innerWidth - tkMenu.offsetWidth - 8)) + "px";
+  tkMenu.style.top = Math.max(8, Math.min(y, innerHeight - tkMenu.offsetHeight - 8)) + "px";
+  tkTouchAt = byTouch ? Date.now() : 0;
+}
+function setTricky(key, on) {
+  state.tricky = state.tricky.filter((k) => k !== key);
+  if (on) state.tricky.push(key);
+  render();   // re-orders the lists and saves
+}
+function bindTricky() {
+  document.body.appendChild(tkMenu);
+  const rowOf = (target) => { const cell = target.closest(".tk"); return cell && cell.closest("[data-tk]"); };
+  document.addEventListener("contextmenu", (e) => {
+    const row = rowOf(e.target);
+    if (!row) return;
+    e.preventDefault();
+    if (Date.now() - tkTouchAt > 800) openTkMenu(row, e.clientX, e.clientY);   // Android also fires it after our long press
+  });
+  // long press on touch screens (iOS has no contextmenu event for it)
+  let timer = 0, start = null, fired = false, eatClickUntil = 0;
+  document.addEventListener("touchstart", (e) => {
+    const row = rowOf(e.target);
+    if (!row || e.touches.length > 1) return;
+    start = [e.touches[0].clientX, e.touches[0].clientY]; fired = false;
+    timer = setTimeout(() => { fired = true; openTkMenu(row, start[0], start[1], true); }, 550);
+  }, { passive: true });
+  document.addEventListener("touchmove", (e) => {
+    if (start && Math.hypot(e.touches[0].clientX - start[0], e.touches[0].clientY - start[1]) > 10) { clearTimeout(timer); start = null; }
+  }, { passive: true });
+  document.addEventListener("touchend", () => {
+    clearTimeout(timer); start = null;
+    if (fired) { fired = false; eatClickUntil = Date.now() + 600; }
+  }, { passive: true });
+  // the click that ends a long press must not also play the word
+  document.addEventListener("click", (e) => {
+    if (Date.now() < eatClickUntil && !e.target.closest(".tk-menu")) { eatClickUntil = 0; e.stopPropagation(); e.preventDefault(); }
+  }, true);
+  tkMenu.addEventListener("click", (e) => {
+    const b = e.target.closest("button[data-tk-act]");
+    if (!b) return;
+    e.stopPropagation();
+    tkMenu.hidden = true;
+    setTricky(tkKey, b.dataset.tkAct === "on");
+  });
+  document.addEventListener("click", (e) => { if (!e.target.closest(".tk-menu")) tkMenu.hidden = true; });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") tkMenu.hidden = true; });
+  window.addEventListener("scroll", () => { tkMenu.hidden = true; }, { passive: true });
 }
 
 // ---------- words view ----------
@@ -444,17 +536,14 @@ function renderWords() {
     return w.variants.some((v) => fold(v).includes(q)) || fold(w.fr).includes(q) || fold(w.en).includes(q);
   });
   document.getElementById("wordCount").textContent = `${list.length} words · double-click: see sentences`;
-  const ul = document.getElementById("words");
-  ul.innerHTML = list.length ? list.map((w) => `
-    <li class="word" data-id="${esc(w.id)}">
-      <button class="play" aria-label="Play">🔊</button>
-      <div class="main">
-        <div class="lemma">${lemmaHTML(w)}<span class="badge cat">${esc(catLabel(w))}</span>${modalBadge(w)}${w.rank ? `<span class="badge">#${w.rank}</span>` : ""}</div>
-        <div class="forms">${formsLine(w)}</div>
-        <div class="gloss">${glossHTML(w)}</div>
-      </div>
-      <button class="more" aria-label="See sentences">📚 ${countFor(w.id)}<span> sentences</span></button>
-    </li>`).join("") : `<li class="empty">No words found.</li>`;
+  const rows = trickyFirst(list, (w) => w.id).map((w) => `<tr${trAttrs(w.id)}>
+      <td class="gl tk trn">${glossCell(w)}</td>${eyeTd()}
+      <td class="inf">${lemmaHTML(w)} <span class="badge cat">${esc(catLabel(w))}</span>${modalBadge(w)}</td>
+      <td>${formsLine(w)}</td>
+      <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td></tr>`).join("");
+  document.getElementById("words").innerHTML = list.length ? `<div class="table-wrap"><table class="vt">
+      <thead><tr><th>Meaning</th>${eyeTh()}<th>Word</th><th>Forms</th><th></th></tr></thead>
+      <tbody>${rows}</tbody></table></div>` : `<p class="empty">No words found.</p>`;
 }
 
 // ---------- sentences view ----------
@@ -495,7 +584,6 @@ function orderForCoverage(list) {
 
 function renderSentences() {
   const box = document.getElementById("sentences");
-  box.classList.toggle("hide-tr", state.hideTr);
   const list = filteredSentences();
   document.getElementById("sentCount").textContent = `${list.length} sentences`;
   if (!list.length) {
@@ -527,6 +615,7 @@ function vfRow(text, w = null) {
 
 function glossCell(w) {
   return state.lang === "en" ? esc(w.en) : state.lang === "fr" ? esc(w.fr)
+    : state.lang === "enfr" ? `${esc(w.en)}<br><span class="muted">${esc(w.fr)}</span>`
     : `${esc(w.fr)}<br><span class="muted">${esc(w.en)}</span>`;
 }
 
@@ -540,8 +629,8 @@ function renderVerbs() {
     if (!list.length) return "";
     const row = (w) => {
       const f = w.forms, modal = MODALS.has(w.lemma);
-      return `<tr>
-        <td class="gl">${glossCell(w)}</td>
+      return `<tr${trAttrs(w.id)}>
+        <td class="gl tk trn">${glossCell(w)}</td>${eyeTd()}
         <td class="inf">${vfRow("å " + f.inf, w)}${modalBadge(w)}</td>
         <td>${vf(f.pres, w)}</td>
         <td>${vf(f.past, w)}</td>
@@ -553,11 +642,11 @@ function renderVerbs() {
       </tr>`;
     };
     // modal (then semi-modal) verbs first, set apart; the ▶ of the group reads them first too
-    const special = list.filter(modalKind)
-      .sort((a, b) => (modalKind(a) === "modal" ? 0 : 1) - (modalKind(b) === "modal" ? 0 : 1) || (a.rank || 9999) - (b.rank || 9999));
-    const rest = list.filter((w) => !modalKind(w));
-    const sub = (label, hint) => `<tr class="vsub"><td colspan="9">${label}${hint ? ` <span class="muted">— ${hint}</span>` : ""}</td></tr>`;
-    const rows = !special.length ? list.map(row).join("")
+    const special = trickyFirst(list.filter(modalKind)
+      .sort((a, b) => (modalKind(a) === "modal" ? 0 : 1) - (modalKind(b) === "modal" ? 0 : 1) || (a.rank || 9999) - (b.rank || 9999)), (w) => w.id);
+    const rest = trickyFirst(list.filter((w) => !modalKind(w)), (w) => w.id);
+    const sub = (label, hint) => `<tr class="vsub"><td colspan="${state.blur ? 10 : 9}">${label}${hint ? ` <span class="muted">— ${hint}</span>` : ""}</td></tr>`;
+    const rows = !special.length ? rest.map(row).join("")
       : sub(cls === "irr" ? "Modal and semi-modal verbs" : "Semi-modal verb",
             cls === "irr" ? "modal + infinitif sans å : <i>jeg kan svømme</i> · pour une chose, on ajoute <i>ha</i> : <i>jeg vil ha kaffe</i>"
                           : "il introduit un autre verbe, comme un modal")
@@ -569,7 +658,7 @@ function renderVerbs() {
         </span></h2>
       <p class="hint">${help}</p>
       <div class="table-wrap"><table class="vt">
-        <thead><tr><th>Meaning</th><th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th class="drill-cell"></th></tr></thead>
+        <thead><tr><th>Meaning</th>${eyeTh()}<th>Infinitive</th><th>Present</th><th>Past</th><th>Perfect</th><th>Future</th><th>Imperative</th><th></th><th class="drill-cell"></th></tr></thead>
         <tbody>${rows}</tbody></table></div>`;
   }).join("") || `<p class="empty">No verbs found.</p>`;
   drillIcons();   // keep ⏸ on the row being read after a re-render (search, level change)
@@ -605,10 +694,11 @@ const POSSESS = [
 ];
 
 // A cell: the Norwegian form, its translation underneath
-const gl = (fr, en) => state.lang === "en" ? en : state.lang === "fr" ? fr : (en && fr !== en ? `${fr}<br>${en}` : fr);
+const gl = (fr, en) => state.lang === "en" ? en : state.lang === "fr" ? fr
+  : !en || fr === en ? fr : state.lang === "enfr" ? `${en}<br>${fr}` : `${fr}<br>${en}`;
 function pcell(no, fr, en, cls = "") {
   if (no === "—") return `<td class="${cls}">—</td>`;
-  return `<td class="${cls}">${vf(no)}<br><span class="muted">${gl(fr, en)}</span></td>`;
+  return `<td class="${cls}">${vf(no)}<br><span class="muted trn">${gl(fr, en)}</span></td>`;
 }
 
 // Question words: [fr, en, norsk, questions that start with it]. The example is the shortest question of
@@ -637,20 +727,21 @@ function exampleQuestion(re) {
 const tokensHTML = (s) => s.tokens.map((t) => (t.w ? vfSpan(t.t, BY_ID[t.w]) : esc(t.t))).join("");
 
 function renderPronouns() {
-  const questions = QUESTION_WORDS.map(([fr, en, no, re]) => {
+  const qKey = (no) => (BY_ID[no] ? no : "q:" + no);   // a single word shares its key with the word itself
+  const questions = trickyFirst(QUESTION_WORDS, (q) => qKey(q[2])).map(([fr, en, no, re]) => {
     const s = exampleQuestion(re);
-    return `<tr>
-      <td class="gl">${gl(esc(fr), esc(en))}</td>
+    return `<tr${trAttrs(qKey(no))}>
+      <td class="gl tk trn">${gl(esc(fr), esc(en))}</td>${eyeTd()}
       <td class="inf">${vfRow(no)}</td>
-      <td>${s ? `${tokensHTML(s)}<br><span class="muted">${gl(esc(s.fr), esc(s.en))}</span>` : "—"}</td>
+      <td>${s ? `${tokensHTML(s)}<br><span class="muted trn">${gl(esc(s.fr), esc(s.en))}</span>` : "—"}</td>
       <td>${s ? `<button class="qplay" data-sid="${esc(s.id)}" aria-label="Play the question">▶</button>` : ""}</td></tr>`;
   }).join("");
-  const personal = PERSONAL.map(([label, [s, sfr, sen], [o, ofr, oen]]) => `<tr>
-      <td class="gl muted">${label}</td>${pcell(s, sfr, sen, "inf")}${pcell(o, ofr, oen)}</tr>`).join("");
-  const possessive = POSSESS.map(([[own, ofr, oen], forms]) => `<tr>
-      ${pcell(own, ofr, oen, "inf")}
+  const personal = PERSONAL.map(([label, [s, sfr, sen], [o, ofr, oen]]) => `<tr${trAttrs("p:" + label)}>
+      <td class="gl muted tk">${label}</td>${eyeTd()}${pcell(s, sfr, sen, "inf")}${pcell(o, ofr, oen)}</tr>`).join("");
+  const possessive = trickyFirst(POSSESS, ([[own]]) => "poss:" + own).map(([[own, ofr, oen], forms]) => `<tr${trAttrs("poss:" + own)}>
+      ${eyeTd()}${pcell(own, ofr, oen, "inf tk")}
       ${forms.length === 4 ? forms.map(([f, ffr, fen]) => pcell(f, ffr, fen)).join("")
-        : `<td colspan="4">${vf(forms[0][0])}<br><span class="muted">${gl(forms[0][1], forms[0][2])} — ne change jamais</span></td>`}
+        : `<td colspan="4">${vf(forms[0][0])}<br><span class="muted"><span class="trn">${gl(forms[0][1], forms[0][2])}</span> — ne change jamais</span></td>`}
       </tr>`).join("");
   const others = WORDS.filter((w) => (w.pos === "pron" || w.pos === "det") && inLevel(w))
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
@@ -658,16 +749,16 @@ function renderPronouns() {
     .sort((a, b) => (a.rank || 9999) - (b.rank || 9999));
   // Meaning | word | its other forms (mye → mer, mest; fortsatt → fremdeles) | sentences
   const wordTable = (list) => `<div class="table-wrap"><table class="vt">
-      <thead><tr><th>Meaning</th><th>Word</th><th>Forms</th><th></th></tr></thead>
-      <tbody>${list.map((w) => `<tr>
-        <td class="gl">${glossCell(w)}</td>
+      <thead><tr><th>Meaning</th>${eyeTh()}<th>Word</th><th>Forms</th><th></th></tr></thead>
+      <tbody>${trickyFirst(list, (w) => w.id).map((w) => `<tr${trAttrs(w.id)}>
+        <td class="gl tk trn">${glossCell(w)}</td>${eyeTd()}
         <td class="inf">${vf(w.lemma, w)}</td>
         <td>${w.variants.filter((v) => v !== w.lemma.toLowerCase()).map((v) => vf(v, w)).join(", ")}</td>
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td></tr>`).join("")}</tbody></table></div>`;
   document.getElementById("pronouns").innerHTML = `
     <h2 class="vh">Personal pronouns</h2>
     <div class="table-wrap"><table class="vt">
-      <thead><tr><th></th><th>Subject <span class="muted">jeg ser…</span></th><th>Object <span class="muted">…ser meg</span></th></tr></thead>
+      <thead><tr><th></th>${eyeTh()}<th>Subject <span class="muted">jeg ser…</span></th><th>Object <span class="muted">…ser meg</span></th></tr></thead>
       <tbody>${personal}</tbody></table></div>
     <div class="note-box">
       <p><b>Objet :</b> <i>ham</i> à l'écrit, mais <i>han</i> est très courant à l'oral (<i>Jeg så han i går</i>).
@@ -680,7 +771,7 @@ function renderPronouns() {
       <p>Le possessif s'accorde avec <b>la chose possédée</b>, pas avec le possesseur : <i>bilen min</i>, <i>boka mi</i>, <i>huset mitt</i>, <i>barna mine</i>.</p>
     </div>
     <div class="table-wrap"><table class="vt">
-      <thead><tr><th>Owner</th>
+      <thead><tr>${eyeTh()}<th>Owner</th>
         <th>Masculine<br><span class="muted">bilen …</span></th>
         <th>Feminine<br><span class="muted">boka …</span></th>
         <th>Neuter<br><span class="muted">huset …</span></th>
@@ -696,7 +787,7 @@ function renderPronouns() {
 
     <h2 class="vh">Question words</h2>
     <div class="table-wrap"><table class="vt">
-      <thead><tr><th>Meaning</th><th>Word</th><th>Example</th><th></th></tr></thead>
+      <thead><tr><th>Meaning</th>${eyeTh()}<th>Word</th><th>Example</th><th></th></tr></thead>
       <tbody>${questions}</tbody></table></div>
     <div class="note-box">
       <p><b>hvilken</b> veut dire « quel » et aussi « lequel ». Il s'accorde avec la chose, comme les possessifs :
@@ -754,7 +845,7 @@ function openSheet(id) {
     <div class="gloss">${glossHTML(w)}</div>
     ${rows.length ? `<table class="ftable">${rows.map(([k, v]) => `<tr><th>${k}</th><td>${vfRow(v, w)}</td></tr>`).join("")}</table>` : ""}
     <p class="count">${here.length} sentence${here.length > 1 ? "s" : ""} at level ${state.level}</p>
-    <div class="sheet-list ${state.hideTr ? "hide-tr" : ""}">
+    <div class="sheet-list">
       ${here.map((s) => sentenceHTML(s, id)).join("") || `<p class="empty">No sentences at this level.</p>`}
       ${above.length ? `<p class="count">At higher levels: ${above.length}</p>` + above.map((s) => sentenceHTML(s, id)).join("") : ""}
     </div>`;
@@ -775,7 +866,13 @@ function syncControls() {
   document.querySelectorAll("#speedSeg button").forEach((b) => b.classList.toggle("on", +b.dataset.speed === state.speed));
   document.querySelectorAll(".tabs button").forEach((b) => b.classList.toggle("on", b.dataset.view === state.view));
   document.querySelectorAll(".view").forEach((v) => (v.hidden = v.id !== "view-" + state.view));
-  document.getElementById("hideTr").checked = state.hideTr;
+  document.getElementById("goCp").hidden = !(state.view === "phrases" && state.checkpoint);
+  document.getElementById("blurTr").checked = state.blur;
+  document.body.classList.toggle("set-closed", !state.setOpen);   // folded: only the title, ⚙ and the checkpoint stay
+  document.body.classList.toggle("tr-closed", !state.trOpen);     // folded: only the 4 tabs (and 🌐) stay
+  document.getElementById("setToggle").classList.toggle("on", state.setOpen);
+  document.getElementById("trToggle").classList.toggle("on", state.trOpen);
+  document.body.classList.toggle("blur-on", state.blur);
   document.getElementById("onlyLevel").checked = state.only;
   document.getElementById("themeSel").value = state.theme;
   document.getElementById("listSel").value = state.list;
@@ -810,12 +907,30 @@ function fillSelects() {
 }
 
 // Clicks inside any list of sentence cards (main list or sheet)
+// Bring the checkpoint sentence on screen (loading more of the list if it is further down)
+function goToCheckpoint() {
+  const btn = document.getElementById("goCp");
+  const say = (msg) => { btn.textContent = msg; setTimeout(() => { btn.textContent = "🔖 Go to checkpoint"; }, 2500); };
+  if (!state.checkpoint) return say("No checkpoint yet");
+  const i = filteredSentences().findIndex((s) => s.id === state.checkpoint);
+  if (i < 0) return say("Not in this list (level, theme or search)");
+  if (i >= state.shown) { state.shown = Math.ceil((i + 1) / PAGE) * PAGE; save(); renderSentences(); }
+  const card = document.querySelector(`#sentences .sent[data-id="${CSS.escape(state.checkpoint)}"]`);
+  if (card) card.scrollIntoView({ block: "center", behavior: "smooth" });
+}
 function onSentenceClick(e) {
   const art = e.target.closest(".sent"); if (!art) return;
   const s = SENT_BY_ID[art.dataset.id];
+  if (e.target.closest(".cp-btn")) {          // this sentence becomes the bookmark
+    state.checkpoint = s.id;
+    save();
+    document.querySelectorAll("#sentences .sent.checkpoint").forEach((x) => x.classList.remove("checkpoint"));
+    art.classList.add("checkpoint");
+    document.getElementById("goCp").hidden = false;
+    return;
+  }
   const tokEl = e.target.closest(".tok");
   const btn = e.target.closest(".play");
-  const tr = e.target.closest(".tr");
   if (tokEl) {
     const tok = s.tokens[+tokEl.dataset.i];
     playWord(tok.t, tokEl, s.id);
@@ -823,8 +938,6 @@ function onSentenceClick(e) {
     e.stopPropagation();
   } else if (btn) {
     playSentence(s, btn.closest(".sent") || btn);   // the whole card lifts while it is read
-  } else if (tr && tr.closest(".hide-tr")) {
-    tr.classList.toggle("shown");
   }
 }
 function onSentenceDblClick(e) {
@@ -869,24 +982,22 @@ function bind() {
   };
   // the bottom bar grows with the translation line: keep the page content clear of it
   const bar = document.querySelector(".tabs");
-  new ResizeObserver(() => { document.body.style.paddingBottom = bar.offsetHeight + 12 + "px"; }).observe(bar);
+  new ResizeObserver(() => { document.body.style.paddingBottom = bar.offsetHeight + 12 + "px";
+    document.documentElement.style.setProperty("--barH", bar.offsetHeight + "px"); }).observe(bar);
   document.getElementById("sentSearch").oninput = (e) => { state.sq = e.target.value; resetList(); renderSentences(); };
   document.getElementById("listSel").onchange = (e) => { state.list = e.target.value; render(); };
   document.getElementById("posSel").onchange = (e) => { state.pos = e.target.value; render(); };
   document.getElementById("themeSel").onchange = (e) => { state.theme = e.target.value; resetList(); render(); };
-  document.getElementById("hideTr").onchange = (e) => { state.hideTr = e.target.checked; render(); };
+  document.getElementById("goCp").onclick = goToCheckpoint;
+  document.getElementById("setToggle").onclick = () => { state.setOpen = !state.setOpen; save(); syncControls(); };
+  document.getElementById("trToggle").onclick = () => { state.trOpen = !state.trOpen; save(); syncControls(); };
+  document.getElementById("blurTr").onchange = (e) => { state.blur = e.target.checked; render(); };
   document.getElementById("onlyLevel").onchange = (e) => { state.only = e.target.checked; resetList(); render(); };
 
   const words = document.getElementById("words");
-  words.onclick = (e) => {
-    const li = e.target.closest(".word"); if (!li) return;
-    if (e.target.closest(".vf")) return; // a form: handled by the global word handler
-    if (e.target.closest(".more")) return openSheet(li.dataset.id);
-    const w = BY_ID[li.dataset.id];
-    if (w) playWord(w.lemma, li);   // the whole card lifts, as when the ▶ of a sentence is pressed
-  };
   words.ondblclick = (e) => {
-    const li = e.target.closest(".word"); if (li) openSheet(li.dataset.id);
+    const row = e.target.closest("tr[data-tk]");
+    if (row && BY_ID[row.dataset.tk]) openSheet(row.dataset.tk);
   };
 
   const sentences = document.getElementById("sentences");
@@ -914,6 +1025,8 @@ function bind() {
   sheetBody.addEventListener("scroll", () => { pop.hidden = true; }, { passive: true });
   window.addEventListener("scroll", rememberScroll, { passive: true });
   window.addEventListener("pagehide", () => { rememberScroll(); save(); });
+  bindTricky();
+  bindEye();
 }
 
 async function init() {
