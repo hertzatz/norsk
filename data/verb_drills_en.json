@@ -1,0 +1,12860 @@
+{
+"være": [
+[
+"to be",
+"å være"
+],
+[
+"I am",
+"jeg er"
+],
+[
+"I was",
+"jeg var"
+],
+[
+"I have been",
+"jeg har vært"
+],
+[
+"I will be",
+"jeg skal være"
+],
+[
+"be!",
+"vær!"
+]
+],
+"ha": [
+[
+"to have",
+"å ha"
+],
+[
+"I have",
+"jeg har"
+],
+[
+"I had",
+"jeg hadde"
+],
+[
+"I have had",
+"jeg har hatt"
+],
+[
+"I will have",
+"jeg skal ha"
+],
+[
+"have!",
+"ha!"
+]
+],
+"se": [
+[
+"to see",
+"å se"
+],
+[
+"I see",
+"jeg ser"
+],
+[
+"I saw",
+"jeg så"
+],
+[
+"I have seen",
+"jeg har sett"
+],
+[
+"I will see",
+"jeg skal se"
+],
+[
+"see!",
+"se!"
+]
+],
+"kunne": [
+[
+"to be able to",
+"å kunne"
+],
+[
+"I can",
+"jeg kan"
+],
+[
+"I could",
+"jeg kunne"
+],
+[
+"I have been able to",
+"jeg har kunnet"
+]
+],
+"ville": [
+[
+"to want",
+"å ville"
+],
+[
+"I want",
+"jeg vil"
+],
+[
+"I wanted",
+"jeg ville"
+],
+[
+"I have wanted",
+"jeg har villet"
+]
+],
+"skulle": [
+[
+"to be going to",
+"å skulle"
+],
+[
+"I shall",
+"jeg skal"
+],
+[
+"I was going to",
+"jeg skulle"
+],
+[
+"I have been supposed to",
+"jeg har skullet"
+]
+],
+"gjøre": [
+[
+"to do",
+"å gjøre"
+],
+[
+"I do",
+"jeg gjør"
+],
+[
+"I did",
+"jeg gjorde"
+],
+[
+"I have done",
+"jeg har gjort"
+],
+[
+"I will do",
+"jeg skal gjøre"
+],
+[
+"do!",
+"gjør!"
+]
+],
+"komme": [
+[
+"to come",
+"å komme"
+],
+[
+"I come",
+"jeg kommer"
+],
+[
+"I came",
+"jeg kom"
+],
+[
+"I have come",
+"jeg har kommet"
+],
+[
+"I will come",
+"jeg skal komme"
+],
+[
+"come!",
+"kom!"
+]
+],
+"vite": [
+[
+"to know",
+"å vite"
+],
+[
+"I know",
+"jeg vet"
+],
+[
+"I knew",
+"jeg visste"
+],
+[
+"I have known",
+"jeg har visst"
+],
+[
+"I will know",
+"jeg skal vite"
+],
+[
+"know!",
+"vit!"
+]
+],
+"bli": [
+[
+"to become",
+"å bli"
+],
+[
+"I become",
+"jeg blir"
+],
+[
+"I became",
+"jeg ble"
+],
+[
+"I have become",
+"jeg har blitt"
+],
+[
+"I will become",
+"jeg skal bli"
+],
+[
+"become!",
+"bli!"
+]
+],
+"få": [
+[
+"to get",
+"å få"
+],
+[
+"I get",
+"jeg får"
+],
+[
+"I got",
+"jeg fikk"
+],
+[
+"I have got",
+"jeg har fått"
+],
+[
+"I will get",
+"jeg skal få"
+],
+[
+"get!",
+"få!"
+]
+],
+"si": [
+[
+"to say",
+"å si"
+],
+[
+"I say",
+"jeg sier"
+],
+[
+"I said",
+"jeg sa"
+],
+[
+"I have said",
+"jeg har sagt"
+],
+[
+"I will say",
+"jeg skal si"
+],
+[
+"say!",
+"si!"
+]
+],
+"gå": [
+[
+"to go",
+"å gå"
+],
+[
+"I go",
+"jeg går"
+],
+[
+"I went",
+"jeg gikk"
+],
+[
+"I have gone",
+"jeg har gått"
+],
+[
+"I will go",
+"jeg skal gå"
+],
+[
+"go!",
+"gå!"
+]
+],
+"måtte": [
+[
+"to have to",
+"å måtte"
+],
+[
+"I must",
+"jeg må"
+],
+[
+"I had to",
+"jeg måtte"
+],
+[
+"I have had to",
+"jeg har måttet"
+]
+],
+"ta": [
+[
+"to take",
+"å ta"
+],
+[
+"I take",
+"jeg tar"
+],
+[
+"I took",
+"jeg tok"
+],
+[
+"I have taken",
+"jeg har tatt"
+],
+[
+"I will take",
+"jeg skal ta"
+],
+[
+"take!",
+"ta!"
+]
+],
+"tro": [
+[
+"to believe",
+"å tro"
+],
+[
+"I believe",
+"jeg tror"
+],
+[
+"I believed",
+"jeg trodde"
+],
+[
+"I have believed",
+"jeg har trodd"
+],
+[
+"I will believe",
+"jeg skal tro"
+],
+[
+"believe!",
+"tro!"
+]
+],
+"gi": [
+[
+"to give",
+"å gi"
+],
+[
+"I give",
+"jeg gir"
+],
+[
+"I gave",
+"jeg ga"
+],
+[
+"I have given",
+"jeg har gitt"
+],
+[
+"I will give",
+"jeg skal gi"
+],
+[
+"give!",
+"gi!"
+]
+],
+"legge": [
+[
+"to lay",
+"å legge"
+],
+[
+"I lay",
+"jeg legger"
+],
+[
+"I laid",
+"jeg la"
+],
+[
+"I have laid",
+"jeg har lagt"
+],
+[
+"I will lay",
+"jeg skal legge"
+],
+[
+"lay!",
+"legg!"
+]
+],
+"la": [
+[
+"to let",
+"å la"
+],
+[
+"I let",
+"jeg lar"
+],
+[
+"I let",
+"jeg lot"
+],
+[
+"I have let",
+"jeg har latt"
+],
+[
+"I will let",
+"jeg skal la"
+],
+[
+"let!",
+"la!"
+]
+],
+"finne": [
+[
+"to find",
+"å finne"
+],
+[
+"I find",
+"jeg finner"
+],
+[
+"I found",
+"jeg fant"
+],
+[
+"I have found",
+"jeg har funnet"
+],
+[
+"I will find",
+"jeg skal finne"
+],
+[
+"find!",
+"finn!"
+]
+],
+"snakke": [
+[
+"to speak",
+"å snakke"
+],
+[
+"I speak",
+"jeg snakker"
+],
+[
+"I spoke",
+"jeg snakka"
+],
+[
+"I have spoken",
+"jeg har snakka"
+],
+[
+"I will speak",
+"jeg skal snakke"
+],
+[
+"speak!",
+"snakk!"
+]
+],
+"trenge": [
+[
+"to need",
+"å trenge"
+],
+[
+"I need",
+"jeg trenger"
+],
+[
+"I needed",
+"jeg trengte"
+],
+[
+"I have needed",
+"jeg har trengt"
+],
+[
+"I will need",
+"jeg skal trenge"
+]
+],
+"dra": [
+[
+"to go",
+"å dra"
+],
+[
+"I go",
+"jeg drar"
+],
+[
+"I went",
+"jeg dro"
+],
+[
+"I have gone",
+"jeg har dratt"
+],
+[
+"I will go",
+"jeg skal dra"
+],
+[
+"go!",
+"dra!"
+]
+],
+"høre": [
+[
+"to hear",
+"å høre"
+],
+[
+"I hear",
+"jeg hører"
+],
+[
+"I heard",
+"jeg hørte"
+],
+[
+"I have heard",
+"jeg har hørt"
+],
+[
+"I will hear",
+"jeg skal høre"
+],
+[
+"hear!",
+"hør!"
+]
+],
+"like": [
+[
+"to like",
+"å like"
+],
+[
+"I like",
+"jeg liker"
+],
+[
+"I liked",
+"jeg likte"
+],
+[
+"I have liked",
+"jeg har likt"
+],
+[
+"I will like",
+"jeg skal like"
+],
+[
+"like!",
+"lik!"
+]
+],
+"skje": [
+[
+"to happen",
+"å skje"
+],
+[
+"it happens",
+"det skjer"
+],
+[
+"it happened",
+"det skjedde"
+],
+[
+"it has happened",
+"det har skjedd"
+],
+[
+"it will happen",
+"det skal skje"
+]
+],
+"burde": [
+[
+"should",
+"å burde"
+],
+[
+"I should",
+"jeg bør"
+],
+[
+"I was supposed to",
+"jeg burde"
+],
+[
+"I should have",
+"jeg har burdet"
+]
+],
+"holde": [
+[
+"to hold",
+"å holde"
+],
+[
+"I hold",
+"jeg holder"
+],
+[
+"I held",
+"jeg holdt"
+],
+[
+"I have held",
+"jeg har holdt"
+],
+[
+"I will hold",
+"jeg skal holde"
+],
+[
+"hold!",
+"hold!"
+]
+],
+"tenke": [
+[
+"to think",
+"å tenke"
+],
+[
+"I think",
+"jeg tenker"
+],
+[
+"I thought",
+"jeg tenkte"
+],
+[
+"I have thought",
+"jeg har tenkt"
+],
+[
+"I will think",
+"jeg skal tenke"
+],
+[
+"think!",
+"tenk!"
+]
+],
+"prøve_verb": [
+[
+"to try",
+"å prøve"
+],
+[
+"I try",
+"jeg prøver"
+],
+[
+"I tried",
+"jeg prøvde"
+],
+[
+"I have tried",
+"jeg har prøvd"
+],
+[
+"I will try",
+"jeg skal prøve"
+],
+[
+"try!",
+"prøv!"
+]
+],
+"klare": [
+[
+"to manage",
+"å klare"
+],
+[
+"I manage",
+"jeg klarer"
+],
+[
+"I managed",
+"jeg klarte"
+],
+[
+"I have managed",
+"jeg har klart"
+],
+[
+"I will manage",
+"jeg skal klare"
+],
+[
+"manage!",
+"klar!"
+]
+],
+"dø": [
+[
+"to die",
+"å dø"
+],
+[
+"I die",
+"jeg dør"
+],
+[
+"I died",
+"jeg døde"
+],
+[
+"I have died",
+"jeg har dødd"
+],
+[
+"I will die",
+"jeg skal dø"
+],
+[
+"die!",
+"dø!"
+]
+],
+"mene": [
+[
+"to think",
+"å mene"
+],
+[
+"I think",
+"jeg mener"
+],
+[
+"I thought",
+"jeg mente"
+],
+[
+"I have thought",
+"jeg har ment"
+],
+[
+"I will think",
+"jeg skal mene"
+],
+[
+"think!",
+"men!"
+]
+],
+"stå": [
+[
+"to stand",
+"å stå"
+],
+[
+"I stand",
+"jeg står"
+],
+[
+"I stood",
+"jeg sto"
+],
+[
+"I have stood",
+"jeg har stått"
+],
+[
+"I will stand",
+"jeg skal stå"
+],
+[
+"stand!",
+"stå!"
+]
+],
+"kjenne": [
+[
+"to know",
+"å kjenne"
+],
+[
+"I know",
+"jeg kjenner"
+],
+[
+"I knew",
+"jeg kjente"
+],
+[
+"I have known",
+"jeg har kjent"
+],
+[
+"I will know",
+"jeg skal kjenne"
+],
+[
+"know!",
+"kjenn!"
+]
+],
+"hjelpe": [
+[
+"to help",
+"å hjelpe"
+],
+[
+"I help",
+"jeg hjelper"
+],
+[
+"I helped",
+"jeg hjalp"
+],
+[
+"I have helped",
+"jeg har hjulpet"
+],
+[
+"I will help",
+"jeg skal hjelpe"
+],
+[
+"help!",
+"hjelp!"
+]
+],
+"fortelle": [
+[
+"to tell",
+"å fortelle"
+],
+[
+"I tell",
+"jeg forteller"
+],
+[
+"I told",
+"jeg fortalte"
+],
+[
+"I have told",
+"jeg har fortalt"
+],
+[
+"I will tell",
+"jeg skal fortelle"
+],
+[
+"tell!",
+"fortell!"
+]
+],
+"be": [
+[
+"to ask",
+"å be"
+],
+[
+"I ask",
+"jeg ber"
+],
+[
+"I asked",
+"jeg ba"
+],
+[
+"I have asked",
+"jeg har bedt"
+],
+[
+"I will ask",
+"jeg skal be"
+],
+[
+"ask!",
+"be!"
+]
+],
+"elske": [
+[
+"to love",
+"å elske"
+],
+[
+"I love",
+"jeg elsker"
+],
+[
+"I loved",
+"jeg elska"
+],
+[
+"I have loved",
+"jeg har elska"
+],
+[
+"I will love",
+"jeg skal elske"
+],
+[
+"love!",
+"elsk!"
+]
+],
+"forstå": [
+[
+"to understand",
+"å forstå"
+],
+[
+"I understand",
+"jeg forstår"
+],
+[
+"I understood",
+"jeg forsto"
+],
+[
+"I have understood",
+"jeg har forstått"
+],
+[
+"I will understand",
+"jeg skal forstå"
+],
+[
+"understand!",
+"forstå!"
+]
+],
+"jobbe": [
+[
+"to work",
+"å jobbe"
+],
+[
+"I work",
+"jeg jobber"
+],
+[
+"I worked",
+"jeg jobba"
+],
+[
+"I have worked",
+"jeg har jobba"
+],
+[
+"I will work",
+"jeg skal jobbe"
+],
+[
+"work!",
+"jobb!"
+]
+],
+"ringe": [
+[
+"to call",
+"å ringe"
+],
+[
+"I call",
+"jeg ringer"
+],
+[
+"I called",
+"jeg ringte"
+],
+[
+"I have called",
+"jeg har ringt"
+],
+[
+"I will call",
+"jeg skal ringe"
+],
+[
+"call!",
+"ring!"
+]
+],
+"sette": [
+[
+"to put",
+"å sette"
+],
+[
+"I put",
+"jeg setter"
+],
+[
+"I put",
+"jeg satte"
+],
+[
+"I have put",
+"jeg har satt"
+],
+[
+"I will put",
+"jeg skal sette"
+],
+[
+"put!",
+"sett!"
+]
+],
+"begynne": [
+[
+"to begin",
+"å begynne"
+],
+[
+"I begin",
+"jeg begynner"
+],
+[
+"I began",
+"jeg begynte"
+],
+[
+"I have begun",
+"jeg har begynt"
+],
+[
+"I will begin",
+"jeg skal begynne"
+],
+[
+"begin!",
+"begynn!"
+]
+],
+"vente": [
+[
+"to wait",
+"å vente"
+],
+[
+"I wait",
+"jeg venter"
+],
+[
+"I waited",
+"jeg venta"
+],
+[
+"I have waited",
+"jeg har venta"
+],
+[
+"I will wait",
+"jeg skal vente"
+],
+[
+"wait!",
+"vent!"
+]
+],
+"bruke": [
+[
+"to use",
+"å bruke"
+],
+[
+"I use",
+"jeg bruker"
+],
+[
+"I used",
+"jeg brukte"
+],
+[
+"I have used",
+"jeg har brukt"
+],
+[
+"I will use",
+"jeg skal bruke"
+],
+[
+"use!",
+"bruk!"
+]
+],
+"spørre": [
+[
+"to ask",
+"å spørre"
+],
+[
+"I ask",
+"jeg spør"
+],
+[
+"I asked",
+"jeg spurte"
+],
+[
+"I have asked",
+"jeg har spurt"
+],
+[
+"I will ask",
+"jeg skal spørre"
+],
+[
+"ask!",
+"spørr!"
+]
+],
+"fortsette": [
+[
+"to continue",
+"å fortsette"
+],
+[
+"I continue",
+"jeg fortsetter"
+],
+[
+"I continued",
+"jeg fortsatte"
+],
+[
+"I have continued",
+"jeg har fortsatt"
+],
+[
+"I will continue",
+"jeg skal fortsette"
+],
+[
+"continue!",
+"fortsett!"
+]
+],
+"slå": [
+[
+"to hit",
+"å slå"
+],
+[
+"I hit",
+"jeg slår"
+],
+[
+"I hit",
+"jeg slo"
+],
+[
+"I have hit",
+"jeg har slått"
+],
+[
+"I will hit",
+"jeg skal slå"
+],
+[
+"hit!",
+"slå!"
+]
+],
+"sitte": [
+[
+"to sit",
+"å sitte"
+],
+[
+"I sit",
+"jeg sitter"
+],
+[
+"I sat",
+"jeg satt"
+],
+[
+"I have sat",
+"jeg har sittet"
+],
+[
+"I will sit",
+"jeg skal sitte"
+],
+[
+"sit!",
+"sitt!"
+]
+],
+"huske": [
+[
+"to remember",
+"å huske"
+],
+[
+"I remember",
+"jeg husker"
+],
+[
+"I remembered",
+"jeg huska"
+],
+[
+"I have remembered",
+"jeg har huska"
+],
+[
+"I will remember",
+"jeg skal huske"
+],
+[
+"remember!",
+"husk!"
+]
+],
+"hete_verb": [
+[
+"to be called",
+"å hete"
+],
+[
+"I am called",
+"jeg heter"
+],
+[
+"I was called",
+"jeg het"
+],
+[
+"I have been called",
+"jeg har hett"
+],
+[
+"I will be called",
+"jeg skal hete"
+]
+],
+"synes": [
+[
+"to think",
+"å synes"
+],
+[
+"I think",
+"jeg synes"
+],
+[
+"I thought",
+"jeg syntes"
+],
+[
+"I have thought",
+"jeg har syntes"
+]
+],
+"føle": [
+[
+"to feel",
+"å føle"
+],
+[
+"I feel",
+"jeg føler"
+],
+[
+"I felt",
+"jeg følte"
+],
+[
+"I have felt",
+"jeg har følt"
+],
+[
+"I will feel",
+"jeg skal føle"
+],
+[
+"feel!",
+"føl!"
+]
+],
+"lage": [
+[
+"to make",
+"å lage"
+],
+[
+"I make",
+"jeg lager"
+],
+[
+"I made",
+"jeg laga"
+],
+[
+"I have made",
+"jeg har laga"
+],
+[
+"I will make",
+"jeg skal lage"
+],
+[
+"make!",
+"lag!"
+]
+],
+"ønske": [
+[
+"to wish",
+"å ønske"
+],
+[
+"I wish",
+"jeg ønsker"
+],
+[
+"I wished",
+"jeg ønska"
+],
+[
+"I have wished",
+"jeg har ønska"
+],
+[
+"I will wish",
+"jeg skal ønske"
+],
+[
+"wish!",
+"ønsk!"
+]
+],
+"møte_verb": [
+[
+"to meet",
+"å møte"
+],
+[
+"I meet",
+"jeg møter"
+],
+[
+"I met",
+"jeg møtte"
+],
+[
+"I have met",
+"jeg har møtt"
+],
+[
+"I will meet",
+"jeg skal møte"
+],
+[
+"meet!",
+"møt!"
+]
+],
+"vise": [
+[
+"to show",
+"å vise"
+],
+[
+"I show",
+"jeg viser"
+],
+[
+"I showed",
+"jeg viste"
+],
+[
+"I have shown",
+"jeg har vist"
+],
+[
+"I will show",
+"jeg skal vise"
+],
+[
+"show!",
+"vis!"
+]
+],
+"sende": [
+[
+"to send",
+"å sende"
+],
+[
+"I send",
+"jeg sender"
+],
+[
+"I sent",
+"jeg sendte"
+],
+[
+"I have sent",
+"jeg har sendt"
+],
+[
+"I will send",
+"jeg skal sende"
+],
+[
+"send!",
+"send!"
+]
+],
+"kjøre": [
+[
+"to drive",
+"å kjøre"
+],
+[
+"I drive",
+"jeg kjører"
+],
+[
+"I drove",
+"jeg kjørte"
+],
+[
+"I have driven",
+"jeg har kjørt"
+],
+[
+"I will drive",
+"jeg skal kjøre"
+],
+[
+"drive!",
+"kjør!"
+]
+],
+"spille": [
+[
+"to play",
+"å spille"
+],
+[
+"I play",
+"jeg spiller"
+],
+[
+"I played",
+"jeg spilte"
+],
+[
+"I have played",
+"jeg har spilt"
+],
+[
+"I will play",
+"jeg skal spille"
+],
+[
+"play!",
+"spill!"
+]
+],
+"spise": [
+[
+"to eat",
+"å spise"
+],
+[
+"I eat",
+"jeg spiser"
+],
+[
+"I ate",
+"jeg spiste"
+],
+[
+"I have eaten",
+"jeg har spist"
+],
+[
+"I will eat",
+"jeg skal spise"
+],
+[
+"eat!",
+"spis!"
+]
+],
+"slippe": [
+[
+"to let go",
+"å slippe"
+],
+[
+"I let go",
+"jeg slipper"
+],
+[
+"I let go",
+"jeg slapp"
+],
+[
+"I have let go",
+"jeg har sluppet"
+],
+[
+"I will let go",
+"jeg skal slippe"
+],
+[
+"let go!",
+"slipp!"
+]
+],
+"leve": [
+[
+"to live",
+"å leve"
+],
+[
+"I live",
+"jeg lever"
+],
+[
+"I lived",
+"jeg levde"
+],
+[
+"I have lived",
+"jeg har levd"
+],
+[
+"I will live",
+"jeg skal leve"
+],
+[
+"live!",
+"lev!"
+]
+],
+"bety": [
+[
+"to mean",
+"å bety"
+],
+[
+"I mean",
+"jeg betyr"
+],
+[
+"I meant",
+"jeg betydde"
+],
+[
+"I have meant",
+"jeg har betydd"
+],
+[
+"I will mean",
+"jeg skal bety"
+],
+[
+"mean!",
+"bety!"
+]
+],
+"ligge": [
+[
+"to lie",
+"å ligge"
+],
+[
+"I lie",
+"jeg ligger"
+],
+[
+"I lay",
+"jeg lå"
+],
+[
+"I have lain",
+"jeg har ligget"
+],
+[
+"I will lie",
+"jeg skal ligge"
+],
+[
+"lie!",
+"ligg!"
+]
+],
+"treffe": [
+[
+"to meet",
+"å treffe"
+],
+[
+"I meet",
+"jeg treffer"
+],
+[
+"I met",
+"jeg traff"
+],
+[
+"I have met",
+"jeg har truffet"
+],
+[
+"I will meet",
+"jeg skal treffe"
+],
+[
+"meet!",
+"treff!"
+]
+],
+"bo": [
+[
+"to live",
+"å bo"
+],
+[
+"I live",
+"jeg bor"
+],
+[
+"I lived",
+"jeg bodde"
+],
+[
+"I have lived",
+"jeg har bodd"
+],
+[
+"I will live",
+"jeg skal bo"
+],
+[
+"live!",
+"bo!"
+]
+],
+"miste": [
+[
+"to lose",
+"å miste"
+],
+[
+"I lose",
+"jeg mister"
+],
+[
+"I lost",
+"jeg mista"
+],
+[
+"I have lost",
+"jeg har mista"
+],
+[
+"I will lose",
+"jeg skal miste"
+],
+[
+"lose!",
+"mist!"
+]
+],
+"finnes": [
+[
+"to exist",
+"å finnes"
+],
+[
+"I exist",
+"jeg finnes"
+],
+[
+"I existed",
+"jeg fantes"
+],
+[
+"I have existed",
+"jeg har fantes"
+]
+],
+"skjønne": [
+[
+"to understand",
+"å skjønne"
+],
+[
+"I understand",
+"jeg skjønner"
+],
+[
+"I understood",
+"jeg skjønte"
+],
+[
+"I have understood",
+"jeg har skjønt"
+],
+[
+"I will understand",
+"jeg skal skjønne"
+],
+[
+"understand!",
+"skjønn!"
+]
+],
+"håpe": [
+[
+"to hope",
+"å håpe"
+],
+[
+"I hope",
+"jeg håper"
+],
+[
+"I hoped",
+"jeg håpa"
+],
+[
+"I have hoped",
+"jeg har håpa"
+],
+[
+"I will hope",
+"jeg skal håpe"
+],
+[
+"hope!",
+"håp!"
+]
+],
+"skrive": [
+[
+"to write",
+"å skrive"
+],
+[
+"I write",
+"jeg skriver"
+],
+[
+"I wrote",
+"jeg skrev"
+],
+[
+"I have written",
+"jeg har skrevet"
+],
+[
+"I will write",
+"jeg skal skrive"
+],
+[
+"write!",
+"skriv!"
+]
+],
+"virke": [
+[
+"to work",
+"å virke"
+],
+[
+"I work",
+"jeg virker"
+],
+[
+"I worked",
+"jeg virka"
+],
+[
+"I have worked",
+"jeg har virka"
+],
+[
+"I will work",
+"jeg skal virke"
+],
+[
+"work!",
+"virk!"
+]
+],
+"kalle": [
+[
+"to call",
+"å kalle"
+],
+[
+"I call",
+"jeg kaller"
+],
+[
+"I called",
+"jeg kalte"
+],
+[
+"I have called",
+"jeg har kalt"
+],
+[
+"I will call",
+"jeg skal kalle"
+],
+[
+"call!",
+"kall!"
+]
+],
+"lære": [
+[
+"to learn",
+"å lære"
+],
+[
+"I learn",
+"jeg lærer"
+],
+[
+"I learned",
+"jeg lærte"
+],
+[
+"I have learned",
+"jeg har lært"
+],
+[
+"I will learn",
+"jeg skal lære"
+],
+[
+"learn!",
+"lær!"
+]
+],
+"betale": [
+[
+"to pay",
+"å betale"
+],
+[
+"I pay",
+"jeg betaler"
+],
+[
+"I paid",
+"jeg betalte"
+],
+[
+"I have paid",
+"jeg har betalt"
+],
+[
+"I will pay",
+"jeg skal betale"
+],
+[
+"pay!",
+"betal!"
+]
+],
+"kjøpe": [
+[
+"to buy",
+"å kjøpe"
+],
+[
+"I buy",
+"jeg kjøper"
+],
+[
+"I bought",
+"jeg kjøpte"
+],
+[
+"I have bought",
+"jeg har kjøpt"
+],
+[
+"I will buy",
+"jeg skal kjøpe"
+],
+[
+"buy!",
+"kjøp!"
+]
+],
+"stole": [
+[
+"to trust",
+"å stole"
+],
+[
+"I trust",
+"jeg stoler"
+],
+[
+"I trusted",
+"jeg stolte"
+],
+[
+"I have trusted",
+"jeg har stolt"
+],
+[
+"I will trust",
+"jeg skal stole"
+],
+[
+"trust!",
+"stol!"
+]
+],
+"sove": [
+[
+"to sleep",
+"å sove"
+],
+[
+"I sleep",
+"jeg sover"
+],
+[
+"I slept",
+"jeg sov"
+],
+[
+"I have slept",
+"jeg har sovet"
+],
+[
+"I will sleep",
+"jeg skal sove"
+],
+[
+"sleep!",
+"sov!"
+]
+],
+"hente": [
+[
+"to fetch",
+"å hente"
+],
+[
+"I fetch",
+"jeg henter"
+],
+[
+"I fetched",
+"jeg henta"
+],
+[
+"I have fetched",
+"jeg har henta"
+],
+[
+"I will fetch",
+"jeg skal hente"
+],
+[
+"fetch!",
+"hent!"
+]
+],
+"vinne": [
+[
+"to win",
+"å vinne"
+],
+[
+"I win",
+"jeg vinner"
+],
+[
+"I won",
+"jeg vant"
+],
+[
+"I have won",
+"jeg har vunnet"
+],
+[
+"I will win",
+"jeg skal vinne"
+],
+[
+"win!",
+"vinn!"
+]
+],
+"glemme": [
+[
+"to forget",
+"å glemme"
+],
+[
+"I forget",
+"jeg glemmer"
+],
+[
+"I forgot",
+"jeg glemte"
+],
+[
+"I have forgotten",
+"jeg har glemt"
+],
+[
+"I will forget",
+"jeg skal glemme"
+],
+[
+"forget!",
+"glem!"
+]
+],
+"svare": [
+[
+"to answer",
+"å svare"
+],
+[
+"I answer",
+"jeg svarer"
+],
+[
+"I answered",
+"jeg svarte"
+],
+[
+"I have answered",
+"jeg har svart"
+],
+[
+"I will answer",
+"jeg skal svare"
+],
+[
+"answer!",
+"svar!"
+]
+],
+"følge": [
+[
+"to follow",
+"å følge"
+],
+[
+"I follow",
+"jeg følger"
+],
+[
+"I followed",
+"jeg fulgte"
+],
+[
+"I have followed",
+"jeg har fulgt"
+],
+[
+"I will follow",
+"jeg skal følge"
+],
+[
+"follow!",
+"følg!"
+]
+],
+"lure": [
+[
+"to wonder",
+"å lure"
+],
+[
+"I wonder",
+"jeg lurer"
+],
+[
+"I wondered",
+"jeg lurte"
+],
+[
+"I have wondered",
+"jeg har lurt"
+],
+[
+"I will wonder",
+"jeg skal lure"
+],
+[
+"wonder!",
+"lur!"
+]
+],
+"love": [
+[
+"to promise",
+"å love"
+],
+[
+"I promise",
+"jeg lover"
+],
+[
+"I promised",
+"jeg lova"
+],
+[
+"I have promised",
+"jeg har lova"
+],
+[
+"I will promise",
+"jeg skal love"
+],
+[
+"promise!",
+"lov!"
+]
+],
+"stemme_verb": [
+[
+"to be right",
+"å stemme"
+],
+[
+"it is right",
+"det stemmer"
+],
+[
+"it was right",
+"det stemte"
+],
+[
+"it has been right",
+"det har stemt"
+],
+[
+"it will be right",
+"det skal stemme"
+]
+],
+"stikke": [
+[
+"to sting",
+"å stikke"
+],
+[
+"I sting",
+"jeg stikker"
+],
+[
+"I stung",
+"jeg stakk"
+],
+[
+"I have stung",
+"jeg har stukket"
+],
+[
+"I will sting",
+"jeg skal stikke"
+],
+[
+"sting!",
+"stikk!"
+]
+],
+"åpne": [
+[
+"to open",
+"å åpne"
+],
+[
+"I open",
+"jeg åpner"
+],
+[
+"I opened",
+"jeg åpna"
+],
+[
+"I have opened",
+"jeg har åpna"
+],
+[
+"I will open",
+"jeg skal åpne"
+],
+[
+"open!",
+"åpn!"
+]
+],
+"ødelegge": [
+[
+"to break",
+"å ødelegge"
+],
+[
+"I break",
+"jeg ødelegger"
+],
+[
+"I broke",
+"jeg ødela"
+],
+[
+"I have broken",
+"jeg har ødelagt"
+],
+[
+"I will break",
+"jeg skal ødelegge"
+],
+[
+"break!",
+"ødelegg!"
+]
+],
+"lese": [
+[
+"to read",
+"å lese"
+],
+[
+"I read",
+"jeg leser"
+],
+[
+"I read",
+"jeg leste"
+],
+[
+"I have read",
+"jeg har lest"
+],
+[
+"I will read",
+"jeg skal lese"
+],
+[
+"read!",
+"les!"
+]
+],
+"slutte": [
+[
+"to stop",
+"å slutte"
+],
+[
+"I stop",
+"jeg slutter"
+],
+[
+"I stopped",
+"jeg slutta"
+],
+[
+"I have stopped",
+"jeg har slutta"
+],
+[
+"I will stop",
+"jeg skal slutte"
+],
+[
+"stop!",
+"slutt!"
+]
+],
+"løpe": [
+[
+"to run",
+"å løpe"
+],
+[
+"I run",
+"jeg løper"
+],
+[
+"I ran",
+"jeg løp"
+],
+[
+"I have run",
+"jeg har løpt"
+],
+[
+"I will run",
+"jeg skal løpe"
+],
+[
+"run!",
+"løp!"
+]
+],
+"passe": [
+[
+"to fit",
+"å passe"
+],
+[
+"I fit",
+"jeg passer"
+],
+[
+"I fitted",
+"jeg passa"
+],
+[
+"I have fitted",
+"jeg har passa"
+],
+[
+"I will fit",
+"jeg skal passe"
+],
+[
+"fit!",
+"pass!"
+]
+],
+"drikke": [
+[
+"to drink",
+"å drikke"
+],
+[
+"I drink",
+"jeg drikker"
+],
+[
+"I drank",
+"jeg drakk"
+],
+[
+"I have drunk",
+"jeg har drukket"
+],
+[
+"I will drink",
+"jeg skal drikke"
+],
+[
+"drink!",
+"drikk!"
+]
+],
+"reise_verb": [
+[
+"to travel",
+"å reise"
+],
+[
+"I travel",
+"jeg reiser"
+],
+[
+"I travelled",
+"jeg reiste"
+],
+[
+"I have travelled",
+"jeg har reist"
+],
+[
+"I will travel",
+"jeg skal reise"
+],
+[
+"travel!",
+"reis!"
+]
+],
+"kaste": [
+[
+"to throw",
+"å kaste"
+],
+[
+"I throw",
+"jeg kaster"
+],
+[
+"I threw",
+"jeg kasta"
+],
+[
+"I have thrown",
+"jeg har kasta"
+],
+[
+"I will throw",
+"jeg skal kaste"
+],
+[
+"throw!",
+"kast!"
+]
+],
+"skade": [
+[
+"to hurt",
+"å skade"
+],
+[
+"I hurt",
+"jeg skader"
+],
+[
+"I hurt",
+"jeg skada"
+],
+[
+"I have hurt",
+"jeg har skada"
+],
+[
+"I will hurt",
+"jeg skal skade"
+],
+[
+"hurt!",
+"skad!"
+]
+],
+"forlate": [
+[
+"to leave",
+"å forlate"
+],
+[
+"I leave",
+"jeg forlater"
+],
+[
+"I left",
+"jeg forlot"
+],
+[
+"I have left",
+"jeg har forlatt"
+],
+[
+"I will leave",
+"jeg skal forlate"
+],
+[
+"leave!",
+"forlat!"
+]
+],
+"stoppe": [
+[
+"to stop",
+"å stoppe"
+],
+[
+"I stop",
+"jeg stopper"
+],
+[
+"I stopped",
+"jeg stoppa"
+],
+[
+"I have stopped",
+"jeg har stoppa"
+],
+[
+"I will stop",
+"jeg skal stoppe"
+],
+[
+"stop!",
+"stopp!"
+]
+],
+"velge": [
+[
+"to choose",
+"å velge"
+],
+[
+"I choose",
+"jeg velger"
+],
+[
+"I chose",
+"jeg valgte"
+],
+[
+"I have chosen",
+"jeg har valgt"
+],
+[
+"I will choose",
+"jeg skal velge"
+],
+[
+"choose!",
+"velg!"
+]
+],
+"handle": [
+[
+"to shop",
+"å handle"
+],
+[
+"I shop",
+"jeg handler"
+],
+[
+"I shopped",
+"jeg handla"
+],
+[
+"I have shopped",
+"jeg har handla"
+],
+[
+"I will shop",
+"jeg skal handle"
+],
+[
+"shop!",
+"handl!"
+]
+],
+"selge": [
+[
+"to sell",
+"å selge"
+],
+[
+"I sell",
+"jeg selger"
+],
+[
+"I sold",
+"jeg solgte"
+],
+[
+"I have sold",
+"jeg har solgt"
+],
+[
+"I will sell",
+"jeg skal selge"
+],
+[
+"sell!",
+"selg!"
+]
+],
+"hate": [
+[
+"to hate",
+"å hate"
+],
+[
+"I hate",
+"jeg hater"
+],
+[
+"I hated",
+"jeg hata"
+],
+[
+"I have hated",
+"jeg har hata"
+],
+[
+"I will hate",
+"jeg skal hate"
+],
+[
+"hate!",
+"hat!"
+]
+],
+"sjekke": [
+[
+"to check",
+"å sjekke"
+],
+[
+"I check",
+"jeg sjekker"
+],
+[
+"I checked",
+"jeg sjekka"
+],
+[
+"I have checked",
+"jeg har sjekka"
+],
+[
+"I will check",
+"jeg skal sjekke"
+],
+[
+"check!",
+"sjekk!"
+]
+],
+"flytte": [
+[
+"to move",
+"å flytte"
+],
+[
+"I move",
+"jeg flytter"
+],
+[
+"I moved",
+"jeg flytta"
+],
+[
+"I have moved",
+"jeg har flytta"
+],
+[
+"I will move",
+"jeg skal flytte"
+],
+[
+"move!",
+"flytt!"
+]
+],
+"fly_verb": [
+[
+"to fly",
+"å fly"
+],
+[
+"I fly",
+"jeg flyr"
+],
+[
+"I flew",
+"jeg fløy"
+],
+[
+"I have flown",
+"jeg har fløyet"
+],
+[
+"I will fly",
+"jeg skal fly"
+],
+[
+"fly!",
+"fly!"
+]
+],
+"prate": [
+[
+"to chat",
+"å prate"
+],
+[
+"I chat",
+"jeg prater"
+],
+[
+"I chatted",
+"jeg prata"
+],
+[
+"I have chatted",
+"jeg har prata"
+],
+[
+"I will chat",
+"jeg skal prate"
+],
+[
+"chat!",
+"prat!"
+]
+],
+"savne": [
+[
+"to miss",
+"å savne"
+],
+[
+"I miss",
+"jeg savner"
+],
+[
+"I missed",
+"jeg savna"
+],
+[
+"I have missed",
+"jeg har savna"
+],
+[
+"I will miss",
+"jeg skal savne"
+],
+[
+"miss!",
+"savn!"
+]
+],
+"bekymre": [
+[
+"to worry",
+"å bekymre"
+],
+[
+"I worry",
+"jeg bekymrer"
+],
+[
+"I worried",
+"jeg bekymra"
+],
+[
+"I have worried",
+"jeg har bekymra"
+],
+[
+"I will worry",
+"jeg skal bekymre"
+],
+[
+"worry!",
+"bekymr!"
+]
+],
+"lete": [
+[
+"to search",
+"å lete"
+],
+[
+"I search",
+"jeg leter"
+],
+[
+"I searched",
+"jeg lette"
+],
+[
+"I have searched",
+"jeg har lett"
+],
+[
+"I will search",
+"jeg skal lete"
+],
+[
+"search!",
+"let!"
+]
+],
+"gifte": [
+[
+"to marry",
+"å gifte"
+],
+[
+"I marry",
+"jeg gifter"
+],
+[
+"I married",
+"jeg gifta"
+],
+[
+"I have married",
+"jeg har gifta"
+],
+[
+"I will marry",
+"jeg skal gifte"
+],
+[
+"marry!",
+"gift!"
+]
+],
+"falle": [
+[
+"to fall",
+"å falle"
+],
+[
+"I fall",
+"jeg faller"
+],
+[
+"I fell",
+"jeg falt"
+],
+[
+"I have fallen",
+"jeg har falt"
+],
+[
+"I will fall",
+"jeg skal falle"
+],
+[
+"fall!",
+"fall!"
+]
+],
+"forsvinne": [
+[
+"to disappear",
+"å forsvinne"
+],
+[
+"I disappear",
+"jeg forsvinner"
+],
+[
+"I disappeared",
+"jeg forsvant"
+],
+[
+"I have disappeared",
+"jeg har forsvunnet"
+],
+[
+"I will disappear",
+"jeg skal forsvinne"
+],
+[
+"disappear!",
+"forsvinn!"
+]
+],
+"bestemme": [
+[
+"to decide",
+"å bestemme"
+],
+[
+"I decide",
+"jeg bestemmer"
+],
+[
+"I decided",
+"jeg bestemte"
+],
+[
+"I have decided",
+"jeg har bestemt"
+],
+[
+"I will decide",
+"jeg skal bestemme"
+],
+[
+"decide!",
+"bestem!"
+]
+],
+"dele": [
+[
+"to share",
+"å dele"
+],
+[
+"I share",
+"jeg deler"
+],
+[
+"I shared",
+"jeg delte"
+],
+[
+"I have shared",
+"jeg har delt"
+],
+[
+"I will share",
+"jeg skal dele"
+],
+[
+"share!",
+"del!"
+]
+],
+"starte": [
+[
+"to start",
+"å starte"
+],
+[
+"I start",
+"jeg starter"
+],
+[
+"I started",
+"jeg starta"
+],
+[
+"I have started",
+"jeg har starta"
+],
+[
+"I will start",
+"jeg skal starte"
+],
+[
+"start!",
+"start!"
+]
+],
+"tjene": [
+[
+"to earn",
+"å tjene"
+],
+[
+"I earn",
+"jeg tjener"
+],
+[
+"I earned",
+"jeg tjente"
+],
+[
+"I have earned",
+"jeg har tjent"
+],
+[
+"I will earn",
+"jeg skal tjene"
+],
+[
+"earn!",
+"tjen!"
+]
+],
+"tape": [
+[
+"to lose",
+"å tape"
+],
+[
+"I lose",
+"jeg taper"
+],
+[
+"I lost",
+"jeg tapte"
+],
+[
+"I have lost",
+"jeg har tapt"
+],
+[
+"I will lose",
+"jeg skal tape"
+],
+[
+"lose!",
+"tap!"
+]
+],
+"forklare": [
+[
+"to explain",
+"å forklare"
+],
+[
+"I explain",
+"jeg forklarer"
+],
+[
+"I explained",
+"jeg forklarte"
+],
+[
+"I have explained",
+"jeg har forklart"
+],
+[
+"I will explain",
+"jeg skal forklare"
+],
+[
+"explain!",
+"forklar!"
+]
+],
+"trekke": [
+[
+"to pull",
+"å trekke"
+],
+[
+"I pull",
+"jeg trekker"
+],
+[
+"I pulled",
+"jeg trakk"
+],
+[
+"I have pulled",
+"jeg har trukket"
+],
+[
+"I will pull",
+"jeg skal trekke"
+],
+[
+"pull!",
+"trekk!"
+]
+],
+"gjelde": [
+[
+"to apply to",
+"å gjelde"
+],
+[
+"it applies to",
+"det gjelder"
+],
+[
+"it applied to",
+"det gjaldt"
+],
+[
+"it has applied to",
+"det har gjeldt"
+],
+[
+"it will apply to",
+"det skal gjelde"
+]
+],
+"forandre": [
+[
+"to change",
+"å forandre"
+],
+[
+"I change",
+"jeg forandrer"
+],
+[
+"I changed",
+"jeg forandra"
+],
+[
+"I have changed",
+"jeg har forandra"
+],
+[
+"I will change",
+"jeg skal forandre"
+],
+[
+"change!",
+"forandr!"
+]
+],
+"bære": [
+[
+"to carry",
+"å bære"
+],
+[
+"I carry",
+"jeg bærer"
+],
+[
+"I carried",
+"jeg bar"
+],
+[
+"I have carried",
+"jeg har båret"
+],
+[
+"I will carry",
+"jeg skal bære"
+],
+[
+"carry!",
+"bær!"
+]
+],
+"merke": [
+[
+"to notice",
+"å merke"
+],
+[
+"I notice",
+"jeg merker"
+],
+[
+"I noticed",
+"jeg merka"
+],
+[
+"I have noticed",
+"jeg har merka"
+],
+[
+"I will notice",
+"jeg skal merke"
+],
+[
+"notice!",
+"merk!"
+]
+],
+"vare_verb": [
+[
+"to last",
+"å vare"
+],
+[
+"I last",
+"jeg varer"
+],
+[
+"I lasted",
+"jeg varte"
+],
+[
+"I have lasted",
+"jeg har vart"
+],
+[
+"I will last",
+"jeg skal vare"
+],
+[
+"last!",
+"var!"
+]
+],
+"greie": [
+[
+"to manage",
+"å greie"
+],
+[
+"I manage",
+"jeg greier"
+],
+[
+"I managed",
+"jeg greide"
+],
+[
+"I have managed",
+"jeg har greid"
+],
+[
+"I will manage",
+"jeg skal greie"
+],
+[
+"manage!",
+"grei!"
+]
+],
+"telle": [
+[
+"to count",
+"å telle"
+],
+[
+"I count",
+"jeg teller"
+],
+[
+"I counted",
+"jeg talte"
+],
+[
+"I have counted",
+"jeg har talt"
+],
+[
+"I will count",
+"jeg skal telle"
+],
+[
+"count!",
+"tell!"
+]
+],
+"synge": [
+[
+"to sing",
+"å synge"
+],
+[
+"I sing",
+"jeg synger"
+],
+[
+"I sang",
+"jeg sang"
+],
+[
+"I have sung",
+"jeg har sunget"
+],
+[
+"I will sing",
+"jeg skal synge"
+],
+[
+"sing!",
+"syng!"
+]
+],
+"avtale_verb": [
+[
+"to agree",
+"å avtale"
+],
+[
+"I agree",
+"jeg avtaler"
+],
+[
+"I agreed",
+"jeg avtalte"
+],
+[
+"I have agreed",
+"jeg har avtalt"
+],
+[
+"I will agree",
+"jeg skal avtale"
+],
+[
+"agree!",
+"avtal!"
+]
+],
+"fungere": [
+[
+"to work",
+"å fungere"
+],
+[
+"I work",
+"jeg fungerer"
+],
+[
+"I worked",
+"jeg fungerte"
+],
+[
+"I have worked",
+"jeg har fungert"
+],
+[
+"I will work",
+"jeg skal fungere"
+],
+[
+"work!",
+"funger!"
+]
+],
+"glede_verb": [
+[
+"to please",
+"å glede"
+],
+[
+"I please",
+"jeg gleder"
+],
+[
+"I pleased",
+"jeg gleda"
+],
+[
+"I have pleased",
+"jeg har gleda"
+],
+[
+"I will please",
+"jeg skal glede"
+],
+[
+"please!",
+"gled!"
+]
+],
+"møtes": [
+[
+"to meet",
+"å møtes"
+],
+[
+"we meet",
+"vi møtes"
+],
+[
+"we met",
+"vi møttes"
+],
+[
+"we have met",
+"vi har møttes"
+],
+[
+"we will meet",
+"vi skal møtes"
+]
+],
+"endre": [
+[
+"to change",
+"å endre"
+],
+[
+"I change",
+"jeg endrer"
+],
+[
+"I changed",
+"jeg endra"
+],
+[
+"I have changed",
+"jeg har endra"
+],
+[
+"I will change",
+"jeg skal endre"
+],
+[
+"change!",
+"endr!"
+]
+],
+"henge": [
+[
+"to hang",
+"å henge"
+],
+[
+"I hang",
+"jeg henger"
+],
+[
+"I hung",
+"jeg hang"
+],
+[
+"I have hung",
+"jeg har hengt"
+],
+[
+"I will hang",
+"jeg skal henge"
+],
+[
+"hang!",
+"heng!"
+]
+],
+"våkne": [
+[
+"to wake up",
+"å våkne"
+],
+[
+"I wake up",
+"jeg våkner"
+],
+[
+"I woke up",
+"jeg våkna"
+],
+[
+"I have woken up",
+"jeg har våkna"
+],
+[
+"I will wake up",
+"jeg skal våkne"
+],
+[
+"wake up!",
+"våkn!"
+]
+],
+"bygge": [
+[
+"to build",
+"å bygge"
+],
+[
+"I build",
+"jeg bygger"
+],
+[
+"I built",
+"jeg bygde"
+],
+[
+"I have built",
+"jeg har bygd"
+],
+[
+"I will build",
+"jeg skal bygge"
+],
+[
+"build!",
+"bygg!"
+]
+],
+"tulle": [
+[
+"to joke",
+"å tulle"
+],
+[
+"I joke",
+"jeg tuller"
+],
+[
+"I joked",
+"jeg tulla"
+],
+[
+"I have joked",
+"jeg har tulla"
+],
+[
+"I will joke",
+"jeg skal tulle"
+],
+[
+"joke!",
+"tull!"
+]
+],
+"le": [
+[
+"to laugh",
+"å le"
+],
+[
+"I laugh",
+"jeg ler"
+],
+[
+"I laughed",
+"jeg lo"
+],
+[
+"I have laughed",
+"jeg har ledd"
+],
+[
+"I will laugh",
+"jeg skal le"
+],
+[
+"laugh!",
+"le!"
+]
+],
+"leke_verb": [
+[
+"to play",
+"å leke"
+],
+[
+"I play",
+"jeg leker"
+],
+[
+"I played",
+"jeg lekte"
+],
+[
+"I have played",
+"jeg har lekt"
+],
+[
+"I will play",
+"jeg skal leke"
+],
+[
+"play!",
+"lek!"
+]
+],
+"snu": [
+[
+"to turn",
+"å snu"
+],
+[
+"I turn",
+"jeg snur"
+],
+[
+"I turned",
+"jeg snudde"
+],
+[
+"I have turned",
+"jeg har snudd"
+],
+[
+"I will turn",
+"jeg skal snu"
+],
+[
+"turn!",
+"snu!"
+]
+],
+"støtte_verb": [
+[
+"to support",
+"å støtte"
+],
+[
+"I support",
+"jeg støtter"
+],
+[
+"I supported",
+"jeg støtta"
+],
+[
+"I have supported",
+"jeg har støtta"
+],
+[
+"I will support",
+"jeg skal støtte"
+],
+[
+"support!",
+"støtt!"
+]
+],
+"danse": [
+[
+"to dance",
+"å danse"
+],
+[
+"I dance",
+"jeg danser"
+],
+[
+"I danced",
+"jeg dansa"
+],
+[
+"I have danced",
+"jeg har dansa"
+],
+[
+"I will dance",
+"jeg skal danse"
+],
+[
+"dance!",
+"dans!"
+]
+],
+"gråte": [
+[
+"to cry",
+"å gråte"
+],
+[
+"I cry",
+"jeg gråter"
+],
+[
+"I cried",
+"jeg gråt"
+],
+[
+"I have cried",
+"jeg har grått"
+],
+[
+"I will cry",
+"jeg skal gråte"
+],
+[
+"cry!",
+"gråt!"
+]
+],
+"bytte": [
+[
+"to change",
+"å bytte"
+],
+[
+"I change",
+"jeg bytter"
+],
+[
+"I changed",
+"jeg bytta"
+],
+[
+"I have changed",
+"jeg har bytta"
+],
+[
+"I will change",
+"jeg skal bytte"
+],
+[
+"change!",
+"bytt!"
+]
+],
+"hoppe": [
+[
+"to jump",
+"å hoppe"
+],
+[
+"I jump",
+"jeg hopper"
+],
+[
+"I jumped",
+"jeg hoppa"
+],
+[
+"I have jumped",
+"jeg har hoppa"
+],
+[
+"I will jump",
+"jeg skal hoppe"
+],
+[
+"jump!",
+"hopp!"
+]
+],
+"tilgi": [
+[
+"to forgive",
+"å tilgi"
+],
+[
+"I forgive",
+"jeg tilgir"
+],
+[
+"I forgave",
+"jeg tilga"
+],
+[
+"I have forgiven",
+"jeg har tilgitt"
+],
+[
+"I will forgive",
+"jeg skal tilgi"
+],
+[
+"forgive!",
+"tilgi!"
+]
+],
+"lukte": [
+[
+"to smell",
+"å lukte"
+],
+[
+"I smell",
+"jeg lukter"
+],
+[
+"I smelled",
+"jeg lukta"
+],
+[
+"I have smelled",
+"jeg har lukta"
+],
+[
+"I will smell",
+"jeg skal lukte"
+],
+[
+"smell!",
+"lukt!"
+]
+],
+"eie": [
+[
+"to own",
+"å eie"
+],
+[
+"I own",
+"jeg eier"
+],
+[
+"I owned",
+"jeg eide"
+],
+[
+"I have owned",
+"jeg har eid"
+],
+[
+"I will own",
+"jeg skal eie"
+],
+[
+"own!",
+"ei!"
+]
+],
+"vokse": [
+[
+"to grow",
+"å vokse"
+],
+[
+"I grow",
+"jeg vokser"
+],
+[
+"I grew",
+"jeg vokste"
+],
+[
+"I have grown",
+"jeg har vokst"
+],
+[
+"I will grow",
+"jeg skal vokse"
+],
+[
+"grow!",
+"voks!"
+]
+],
+"rekke": [
+[
+"to make it",
+"å rekke"
+],
+[
+"I make it",
+"jeg rekker"
+],
+[
+"I made it",
+"jeg rakk"
+],
+[
+"I have made it",
+"jeg har rukket"
+],
+[
+"I will make it",
+"jeg skal rekke"
+]
+],
+"stenge": [
+[
+"to close",
+"å stenge"
+],
+[
+"I close",
+"jeg stenger"
+],
+[
+"I closed",
+"jeg stengte"
+],
+[
+"I have closed",
+"jeg har stengt"
+],
+[
+"I will close",
+"jeg skal stenge"
+],
+[
+"close!",
+"steng!"
+]
+],
+"nevne": [
+[
+"to mention",
+"å nevne"
+],
+[
+"I mention",
+"jeg nevner"
+],
+[
+"I mentioned",
+"jeg nevnte"
+],
+[
+"I have mentioned",
+"jeg har nevnt"
+],
+[
+"I will mention",
+"jeg skal nevne"
+],
+[
+"mention!",
+"nevn!"
+]
+],
+"nekte": [
+[
+"to refuse",
+"å nekte"
+],
+[
+"I refuse",
+"jeg nekter"
+],
+[
+"I refused",
+"jeg nekta"
+],
+[
+"I have refused",
+"jeg har nekta"
+],
+[
+"I will refuse",
+"jeg skal nekte"
+],
+[
+"refuse!",
+"nekt!"
+]
+],
+"koste": [
+[
+"to cost",
+"å koste"
+],
+[
+"it costs",
+"det koster"
+],
+[
+"it cost",
+"det kosta"
+],
+[
+"it has cost",
+"det har kosta"
+],
+[
+"it will cost",
+"det skal koste"
+]
+],
+"regne": [
+[
+"to calculate",
+"å regne"
+],
+[
+"I calculate",
+"jeg regner"
+],
+[
+"I calculated",
+"jeg regna"
+],
+[
+"I have calculated",
+"jeg har regna"
+],
+[
+"I will calculate",
+"jeg skal regne"
+],
+[
+"calculate!",
+"regn!"
+]
+],
+"kle": [
+[
+"to dress",
+"å kle"
+],
+[
+"I dress",
+"jeg kler"
+],
+[
+"I dressed",
+"jeg kledde"
+],
+[
+"I have dressed",
+"jeg har kledd"
+],
+[
+"I will dress",
+"jeg skal kle"
+],
+[
+"dress!",
+"kle!"
+]
+],
+"planlegge": [
+[
+"to plan",
+"å planlegge"
+],
+[
+"I plan",
+"jeg planlegger"
+],
+[
+"I planned",
+"jeg planla"
+],
+[
+"I have planned",
+"jeg har planlagt"
+],
+[
+"I will plan",
+"jeg skal planlegge"
+],
+[
+"plan!",
+"planlegg!"
+]
+],
+"dekke": [
+[
+"to cover",
+"å dekke"
+],
+[
+"I cover",
+"jeg dekker"
+],
+[
+"I covered",
+"jeg dekka"
+],
+[
+"I have covered",
+"jeg har dekka"
+],
+[
+"I will cover",
+"jeg skal dekke"
+],
+[
+"cover!",
+"dekk!"
+]
+],
+"besøke": [
+[
+"to visit",
+"å besøke"
+],
+[
+"I visit",
+"jeg besøker"
+],
+[
+"I visited",
+"jeg besøkte"
+],
+[
+"I have visited",
+"jeg har besøkt"
+],
+[
+"I will visit",
+"jeg skal besøke"
+],
+[
+"visit!",
+"besøk!"
+]
+],
+"tilby": [
+[
+"to offer",
+"å tilby"
+],
+[
+"I offer",
+"jeg tilbyr"
+],
+[
+"I offered",
+"jeg tilbød"
+],
+[
+"I have offered",
+"jeg har tilbudt"
+],
+[
+"I will offer",
+"jeg skal tilby"
+],
+[
+"offer!",
+"tilby!"
+]
+],
+"søke": [
+[
+"to search",
+"å søke"
+],
+[
+"I search",
+"jeg søker"
+],
+[
+"I searched",
+"jeg søkte"
+],
+[
+"I have searched",
+"jeg har søkt"
+],
+[
+"I will search",
+"jeg skal søke"
+],
+[
+"search!",
+"søk!"
+]
+],
+"bringe": [
+[
+"to bring",
+"å bringe"
+],
+[
+"I bring",
+"jeg bringer"
+],
+[
+"I brought",
+"jeg brakte"
+],
+[
+"I have brought",
+"jeg har brakt"
+],
+[
+"I will bring",
+"jeg skal bringe"
+],
+[
+"bring!",
+"bring!"
+]
+],
+"beholde": [
+[
+"to keep",
+"å beholde"
+],
+[
+"I keep",
+"jeg beholder"
+],
+[
+"I kept",
+"jeg beholdt"
+],
+[
+"I have kept",
+"jeg har beholdt"
+],
+[
+"I will keep",
+"jeg skal beholde"
+],
+[
+"keep!",
+"behold!"
+]
+],
+"låne": [
+[
+"to borrow",
+"å låne"
+],
+[
+"I borrow",
+"jeg låner"
+],
+[
+"I borrowed",
+"jeg lånte"
+],
+[
+"I have borrowed",
+"jeg har lånt"
+],
+[
+"I will borrow",
+"jeg skal låne"
+],
+[
+"borrow!",
+"lån!"
+]
+],
+"fylle": [
+[
+"to fill",
+"å fylle"
+],
+[
+"I fill",
+"jeg fyller"
+],
+[
+"I filled",
+"jeg fylte"
+],
+[
+"I have filled",
+"jeg har fylt"
+],
+[
+"I will fill",
+"jeg skal fylle"
+],
+[
+"fill!",
+"fyll!"
+]
+],
+"banke": [
+[
+"to knock",
+"å banke"
+],
+[
+"I knock",
+"jeg banker"
+],
+[
+"I knocked",
+"jeg banka"
+],
+[
+"I have knocked",
+"jeg har banka"
+],
+[
+"I will knock",
+"jeg skal banke"
+],
+[
+"knock!",
+"bank!"
+]
+],
+"oppdage": [
+[
+"to discover",
+"å oppdage"
+],
+[
+"I discover",
+"jeg oppdager"
+],
+[
+"I discovered",
+"jeg oppdaga"
+],
+[
+"I have discovered",
+"jeg har oppdaga"
+],
+[
+"I will discover",
+"jeg skal oppdage"
+],
+[
+"discover!",
+"oppdag!"
+]
+],
+"invitere": [
+[
+"to invite",
+"å invitere"
+],
+[
+"I invite",
+"jeg inviterer"
+],
+[
+"I invited",
+"jeg inviterte"
+],
+[
+"I have invited",
+"jeg har invitert"
+],
+[
+"I will invite",
+"jeg skal invitere"
+],
+[
+"invite!",
+"inviter!"
+]
+],
+"forsøke": [
+[
+"to try",
+"å forsøke"
+],
+[
+"I try",
+"jeg forsøker"
+],
+[
+"I tried",
+"jeg forsøkte"
+],
+[
+"I have tried",
+"jeg har forsøkt"
+],
+[
+"I will try",
+"jeg skal forsøke"
+],
+[
+"try!",
+"forsøk!"
+]
+],
+"pakke_verb": [
+[
+"to pack",
+"å pakke"
+],
+[
+"I pack",
+"jeg pakker"
+],
+[
+"I packed",
+"jeg pakka"
+],
+[
+"I have packed",
+"jeg har pakka"
+],
+[
+"I will pack",
+"jeg skal pakke"
+],
+[
+"pack!",
+"pakk!"
+]
+],
+"trene": [
+[
+"to train",
+"å trene"
+],
+[
+"I train",
+"jeg trener"
+],
+[
+"I trained",
+"jeg trente"
+],
+[
+"I have trained",
+"jeg har trent"
+],
+[
+"I will train",
+"jeg skal trene"
+],
+[
+"train!",
+"tren!"
+]
+],
+"forvente": [
+[
+"to expect",
+"å forvente"
+],
+[
+"I expect",
+"jeg forventer"
+],
+[
+"I expected",
+"jeg forventa"
+],
+[
+"I have expected",
+"jeg har forventa"
+],
+[
+"I will expect",
+"jeg skal forvente"
+],
+[
+"expect!",
+"forvent!"
+]
+],
+"låse": [
+[
+"to lock",
+"å låse"
+],
+[
+"I lock",
+"jeg låser"
+],
+[
+"I locked",
+"jeg låste"
+],
+[
+"I have locked",
+"jeg har låst"
+],
+[
+"I will lock",
+"jeg skal låse"
+],
+[
+"lock!",
+"lås!"
+]
+],
+"levere": [
+[
+"to deliver",
+"å levere"
+],
+[
+"I deliver",
+"jeg leverer"
+],
+[
+"I delivered",
+"jeg leverte"
+],
+[
+"I have delivered",
+"jeg har levert"
+],
+[
+"I will deliver",
+"jeg skal levere"
+],
+[
+"deliver!",
+"lever!"
+]
+],
+"unngå": [
+[
+"to avoid",
+"å unngå"
+],
+[
+"I avoid",
+"jeg unngår"
+],
+[
+"I avoided",
+"jeg unngikk"
+],
+[
+"I have avoided",
+"jeg har unngått"
+],
+[
+"I will avoid",
+"jeg skal unngå"
+],
+[
+"avoid!",
+"unngå!"
+]
+],
+"overraske": [
+[
+"to surprise",
+"å overraske"
+],
+[
+"I surprise",
+"jeg overrasker"
+],
+[
+"I surprised",
+"jeg overraska"
+],
+[
+"I have surprised",
+"jeg har overraska"
+],
+[
+"I will surprise",
+"jeg skal overraske"
+],
+[
+"surprise!",
+"overrask!"
+]
+],
+"ansette": [
+[
+"to hire",
+"å ansette"
+],
+[
+"I hire",
+"jeg ansetter"
+],
+[
+"I hired",
+"jeg ansatte"
+],
+[
+"I have hired",
+"jeg har ansatt"
+],
+[
+"I will hire",
+"jeg skal ansette"
+],
+[
+"hire!",
+"ansett!"
+]
+],
+"smake": [
+[
+"to taste",
+"å smake"
+],
+[
+"I taste",
+"jeg smaker"
+],
+[
+"I tasted",
+"jeg smakte"
+],
+[
+"I have tasted",
+"jeg har smakt"
+],
+[
+"I will taste",
+"jeg skal smake"
+],
+[
+"taste!",
+"smak!"
+]
+],
+"mangle": [
+[
+"to lack",
+"å mangle"
+],
+[
+"I lack",
+"jeg mangler"
+],
+[
+"I lacked",
+"jeg mangla"
+],
+[
+"I have lacked",
+"jeg har mangla"
+],
+[
+"I will lack",
+"jeg skal mangle"
+],
+[
+"lack!",
+"mangl!"
+]
+],
+"skille": [
+[
+"to separate",
+"å skille"
+],
+[
+"I separate",
+"jeg skiller"
+],
+[
+"I separated",
+"jeg skilte"
+],
+[
+"I have separated",
+"jeg har skilt"
+],
+[
+"I will separate",
+"jeg skal skille"
+],
+[
+"separate!",
+"skill!"
+]
+],
+"vaske": [
+[
+"to wash",
+"å vaske"
+],
+[
+"I wash",
+"jeg vasker"
+],
+[
+"I washed",
+"jeg vaska"
+],
+[
+"I have washed",
+"jeg har vaska"
+],
+[
+"I will wash",
+"jeg skal vaske"
+],
+[
+"wash!",
+"vask!"
+]
+],
+"hvile": [
+[
+"to rest",
+"å hvile"
+],
+[
+"I rest",
+"jeg hviler"
+],
+[
+"I rested",
+"jeg hvilte"
+],
+[
+"I have rested",
+"jeg har hvilt"
+],
+[
+"I will rest",
+"jeg skal hvile"
+],
+[
+"rest!",
+"hvil!"
+]
+],
+"skjære": [
+[
+"to cut",
+"å skjære"
+],
+[
+"I cut",
+"jeg skjærer"
+],
+[
+"I cut",
+"jeg skar"
+],
+[
+"I have cut",
+"jeg har skåret"
+],
+[
+"I will cut",
+"jeg skal skjære"
+],
+[
+"cut!",
+"skjær!"
+]
+],
+"diskutere": [
+[
+"to discuss",
+"å diskutere"
+],
+[
+"I discuss",
+"jeg diskuterer"
+],
+[
+"I discussed",
+"jeg diskuterte"
+],
+[
+"I have discussed",
+"jeg har diskutert"
+],
+[
+"I will discuss",
+"jeg skal diskutere"
+],
+[
+"discuss!",
+"diskuter!"
+]
+],
+"bestille": [
+[
+"to order",
+"å bestille"
+],
+[
+"I order",
+"jeg bestiller"
+],
+[
+"I ordered",
+"jeg bestilte"
+],
+[
+"I have ordered",
+"jeg har bestilt"
+],
+[
+"I will order",
+"jeg skal bestille"
+],
+[
+"order!",
+"bestill!"
+]
+],
+"lytte": [
+[
+"to listen",
+"å lytte"
+],
+[
+"I listen",
+"jeg lytter"
+],
+[
+"I listened",
+"jeg lytta"
+],
+[
+"I have listened",
+"jeg har lytta"
+],
+[
+"I will listen",
+"jeg skal lytte"
+],
+[
+"listen!",
+"lytt!"
+]
+],
+"puste": [
+[
+"to breathe",
+"å puste"
+],
+[
+"I breathe",
+"jeg puster"
+],
+[
+"I breathed",
+"jeg pusta"
+],
+[
+"I have breathed",
+"jeg har pusta"
+],
+[
+"I will breathe",
+"jeg skal puste"
+],
+[
+"breathe!",
+"pust!"
+]
+],
+"hilse": [
+[
+"to greet",
+"å hilse"
+],
+[
+"I greet",
+"jeg hilser"
+],
+[
+"I greeted",
+"jeg hilste"
+],
+[
+"I have greeted",
+"jeg har hilst"
+],
+[
+"I will greet",
+"jeg skal hilse"
+],
+[
+"greet!",
+"hils!"
+]
+],
+"forberede": [
+[
+"to prepare",
+"å forberede"
+],
+[
+"I prepare",
+"jeg forbereder"
+],
+[
+"I prepared",
+"jeg forberedte"
+],
+[
+"I have prepared",
+"jeg har forberedt"
+],
+[
+"I will prepare",
+"jeg skal forberede"
+],
+[
+"prepare!",
+"forbered!"
+]
+],
+"feire": [
+[
+"to celebrate",
+"å feire"
+],
+[
+"I celebrate",
+"jeg feirer"
+],
+[
+"I celebrated",
+"jeg feira"
+],
+[
+"I have celebrated",
+"jeg har feira"
+],
+[
+"I will celebrate",
+"jeg skal feire"
+],
+[
+"celebrate!",
+"feir!"
+]
+],
+"tenne": [
+[
+"to light",
+"å tenne"
+],
+[
+"I light",
+"jeg tenner"
+],
+[
+"I lit",
+"jeg tente"
+],
+[
+"I have lit",
+"jeg har tent"
+],
+[
+"I will light",
+"jeg skal tenne"
+],
+[
+"light!",
+"tenn!"
+]
+],
+"melde": [
+[
+"to report",
+"å melde"
+],
+[
+"I report",
+"jeg melder"
+],
+[
+"I reported",
+"jeg meldte"
+],
+[
+"I have reported",
+"jeg har meldt"
+],
+[
+"I will report",
+"jeg skal melde"
+],
+[
+"report!",
+"meld!"
+]
+],
+"spare": [
+[
+"to save",
+"å spare"
+],
+[
+"I save",
+"jeg sparer"
+],
+[
+"I saved",
+"jeg sparte"
+],
+[
+"I have saved",
+"jeg har spart"
+],
+[
+"I will save",
+"jeg skal spare"
+],
+[
+"save!",
+"spar!"
+]
+],
+"skifte": [
+[
+"to change",
+"å skifte"
+],
+[
+"I change",
+"jeg skifter"
+],
+[
+"I changed",
+"jeg skifta"
+],
+[
+"I have changed",
+"jeg har skifta"
+],
+[
+"I will change",
+"jeg skal skifte"
+],
+[
+"change!",
+"skift!"
+]
+],
+"vekke": [
+[
+"to wake",
+"å vekke"
+],
+[
+"I wake",
+"jeg vekker"
+],
+[
+"I woke",
+"jeg vekka"
+],
+[
+"I have woken",
+"jeg har vekka"
+],
+[
+"I will wake",
+"jeg skal vekke"
+],
+[
+"wake!",
+"vekk!"
+]
+],
+"skru": [
+[
+"to screw",
+"å skru"
+],
+[
+"I screw",
+"jeg skrur"
+],
+[
+"I screwed",
+"jeg skrudde"
+],
+[
+"I have screwed",
+"jeg har skrudd"
+],
+[
+"I will screw",
+"jeg skal skru"
+],
+[
+"screw!",
+"skru!"
+]
+],
+"studere": [
+[
+"to study",
+"å studere"
+],
+[
+"I study",
+"jeg studerer"
+],
+[
+"I studied",
+"jeg studerte"
+],
+[
+"I have studied",
+"jeg har studert"
+],
+[
+"I will study",
+"jeg skal studere"
+],
+[
+"study!",
+"studer!"
+]
+],
+"kutte": [
+[
+"to cut",
+"å kutte"
+],
+[
+"I cut",
+"jeg kutter"
+],
+[
+"I cut",
+"jeg kutta"
+],
+[
+"I have cut",
+"jeg har kutta"
+],
+[
+"I will cut",
+"jeg skal kutte"
+],
+[
+"cut!",
+"kutt!"
+]
+],
+"røyke": [
+[
+"to smoke",
+"å røyke"
+],
+[
+"I smoke",
+"jeg røyker"
+],
+[
+"I smoked",
+"jeg røykte"
+],
+[
+"I have smoked",
+"jeg har røykt"
+],
+[
+"I will smoke",
+"jeg skal røyke"
+],
+[
+"smoke!",
+"røyk!"
+]
+],
+"lukke": [
+[
+"to close",
+"å lukke"
+],
+[
+"I close",
+"jeg lukker"
+],
+[
+"I closed",
+"jeg lukka"
+],
+[
+"I have closed",
+"jeg har lukka"
+],
+[
+"I will close",
+"jeg skal lukke"
+],
+[
+"close!",
+"lukk!"
+]
+],
+"rope": [
+[
+"to shout",
+"å rope"
+],
+[
+"I shout",
+"jeg roper"
+],
+[
+"I shouted",
+"jeg ropte"
+],
+[
+"I have shouted",
+"jeg har ropt"
+],
+[
+"I will shout",
+"jeg skal rope"
+],
+[
+"shout!",
+"rop!"
+]
+],
+"gjenta": [
+[
+"to repeat",
+"å gjenta"
+],
+[
+"I repeat",
+"jeg gjentar"
+],
+[
+"I repeated",
+"jeg gjentok"
+],
+[
+"I have repeated",
+"jeg har gjentatt"
+],
+[
+"I will repeat",
+"jeg skal gjenta"
+],
+[
+"repeat!",
+"gjenta!"
+]
+],
+"leie": [
+[
+"to rent",
+"å leie"
+],
+[
+"I rent",
+"jeg leier"
+],
+[
+"I rented",
+"jeg leide"
+],
+[
+"I have rented",
+"jeg har leid"
+],
+[
+"I will rent",
+"jeg skal leie"
+],
+[
+"rent!",
+"lei!"
+]
+],
+"rydde": [
+[
+"to tidy up",
+"å rydde"
+],
+[
+"I tidy up",
+"jeg rydder"
+],
+[
+"I tidied up",
+"jeg rydda"
+],
+[
+"I have tidied up",
+"jeg har rydda"
+],
+[
+"I will tidy up",
+"jeg skal rydde"
+],
+[
+"tidy up!",
+"rydd!"
+]
+],
+"godta": [
+[
+"to accept",
+"å godta"
+],
+[
+"I accept",
+"jeg godtar"
+],
+[
+"I accepted",
+"jeg godtok"
+],
+[
+"I have accepted",
+"jeg har godtatt"
+],
+[
+"I will accept",
+"jeg skal godta"
+],
+[
+"accept!",
+"godta!"
+]
+],
+"orke": [
+[
+"to have the energy to",
+"å orke"
+],
+[
+"I have the energy to",
+"jeg orker"
+],
+[
+"I had the energy to",
+"jeg orka"
+],
+[
+"I have had the energy to",
+"jeg har orka"
+],
+[
+"I will have the energy to",
+"jeg skal orke"
+]
+],
+"varme_verb": [
+[
+"to heat",
+"å varme"
+],
+[
+"I heat",
+"jeg varmer"
+],
+[
+"I heated",
+"jeg varma"
+],
+[
+"I have heated",
+"jeg har varma"
+],
+[
+"I will heat",
+"jeg skal varme"
+],
+[
+"heat!",
+"varm!"
+]
+],
+"plukke": [
+[
+"to pick",
+"å plukke"
+],
+[
+"I pick",
+"jeg plukker"
+],
+[
+"I picked",
+"jeg plukka"
+],
+[
+"I have picked",
+"jeg har plukka"
+],
+[
+"I will pick",
+"jeg skal plukke"
+],
+[
+"pick!",
+"plukk!"
+]
+],
+"male": [
+[
+"to paint",
+"å male"
+],
+[
+"I paint",
+"jeg maler"
+],
+[
+"I painted",
+"jeg malte"
+],
+[
+"I have painted",
+"jeg har malt"
+],
+[
+"I will paint",
+"jeg skal male"
+],
+[
+"paint!",
+"mal!"
+]
+],
+"klage": [
+[
+"to complain",
+"å klage"
+],
+[
+"I complain",
+"jeg klager"
+],
+[
+"I complained",
+"jeg klaga"
+],
+[
+"I have complained",
+"jeg har klaga"
+],
+[
+"I will complain",
+"jeg skal klage"
+],
+[
+"complain!",
+"klag!"
+]
+],
+"slite": [
+[
+"to struggle",
+"å slite"
+],
+[
+"I struggle",
+"jeg sliter"
+],
+[
+"I struggled",
+"jeg slet"
+],
+[
+"I have struggled",
+"jeg har slitt"
+],
+[
+"I will struggle",
+"jeg skal slite"
+],
+[
+"struggle!",
+"slit!"
+]
+],
+"foretrekke": [
+[
+"to prefer",
+"å foretrekke"
+],
+[
+"I prefer",
+"jeg foretrekker"
+],
+[
+"I preferred",
+"jeg foretrakk"
+],
+[
+"I have preferred",
+"jeg har foretrukket"
+],
+[
+"I will prefer",
+"jeg skal foretrekke"
+],
+[
+"prefer!",
+"foretrekk!"
+]
+],
+"trykke": [
+[
+"to press",
+"å trykke"
+],
+[
+"I press",
+"jeg trykker"
+],
+[
+"I pressed",
+"jeg trykka"
+],
+[
+"I have pressed",
+"jeg har trykka"
+],
+[
+"I will press",
+"jeg skal trykke"
+],
+[
+"press!",
+"trykk!"
+]
+],
+"gjette": [
+[
+"to guess",
+"å gjette"
+],
+[
+"I guess",
+"jeg gjetter"
+],
+[
+"I guessed",
+"jeg gjetta"
+],
+[
+"I have guessed",
+"jeg har gjetta"
+],
+[
+"I will guess",
+"jeg skal gjette"
+],
+[
+"guess!",
+"gjett!"
+]
+],
+"lykkes": [
+[
+"to succeed",
+"å lykkes"
+],
+[
+"I succeed",
+"jeg lykkes"
+],
+[
+"I succeeded",
+"jeg lyktes"
+],
+[
+"I have succeeded",
+"jeg har lyktes"
+]
+],
+"smile": [
+[
+"to smile",
+"å smile"
+],
+[
+"I smile",
+"jeg smiler"
+],
+[
+"I smiled",
+"jeg smilte"
+],
+[
+"I have smiled",
+"jeg har smilt"
+],
+[
+"I will smile",
+"jeg skal smile"
+],
+[
+"smile!",
+"smil!"
+]
+],
+"tørre": [
+[
+"to dare",
+"å tørre"
+],
+[
+"I dare",
+"jeg tør"
+],
+[
+"I dared",
+"jeg turte"
+],
+[
+"I have dared",
+"jeg har turt"
+],
+[
+"I will dare",
+"jeg skal tørre"
+],
+[
+"dare!",
+"tørr!"
+]
+],
+"kose": [
+[
+"to cuddle",
+"å kose"
+],
+[
+"I cuddle",
+"jeg koser"
+],
+[
+"I cuddled",
+"jeg koste"
+],
+[
+"I have cuddled",
+"jeg har kost"
+],
+[
+"I will cuddle",
+"jeg skal kose"
+],
+[
+"cuddle!",
+"kos!"
+]
+],
+"svømme": [
+[
+"to swim",
+"å svømme"
+],
+[
+"I swim",
+"jeg svømmer"
+],
+[
+"I swam",
+"jeg svømte"
+],
+[
+"I have swum",
+"jeg har svømt"
+],
+[
+"I will swim",
+"jeg skal svømme"
+],
+[
+"swim!",
+"svøm!"
+]
+],
+"tåle": [
+[
+"to tolerate",
+"å tåle"
+],
+[
+"I tolerate",
+"jeg tåler"
+],
+[
+"I tolerated",
+"jeg tålte"
+],
+[
+"I have tolerated",
+"jeg har tålt"
+],
+[
+"I will tolerate",
+"jeg skal tåle"
+],
+[
+"tolerate!",
+"tål!"
+]
+],
+"slappe": [
+[
+"to relax",
+"å slappe av"
+],
+[
+"I relax",
+"jeg slapper av"
+],
+[
+"I relaxed",
+"jeg slappa av"
+],
+[
+"I have relaxed",
+"jeg har slappa av"
+],
+[
+"I will relax",
+"jeg skal slappe av"
+],
+[
+"relax!",
+"slapp av!"
+]
+],
+"fryse": [
+[
+"to freeze",
+"å fryse"
+],
+[
+"I freeze",
+"jeg fryser"
+],
+[
+"I froze",
+"jeg frøs"
+],
+[
+"I have frozen",
+"jeg har frosset"
+],
+[
+"I will freeze",
+"jeg skal fryse"
+]
+],
+"tegne": [
+[
+"to draw",
+"å tegne"
+],
+[
+"I draw",
+"jeg tegner"
+],
+[
+"I drew",
+"jeg tegna"
+],
+[
+"I have drawn",
+"jeg har tegna"
+],
+[
+"I will draw",
+"jeg skal tegne"
+],
+[
+"draw!",
+"tegn!"
+]
+],
+"klatre": [
+[
+"to climb",
+"å klatre"
+],
+[
+"I climb",
+"jeg klatrer"
+],
+[
+"I climbed",
+"jeg klatra"
+],
+[
+"I have climbed",
+"jeg har klatra"
+],
+[
+"I will climb",
+"jeg skal klatre"
+],
+[
+"climb!",
+"klatr!"
+]
+],
+"øve": [
+[
+"to practise",
+"å øve"
+],
+[
+"I practise",
+"jeg øver"
+],
+[
+"I practised",
+"jeg øvde"
+],
+[
+"I have practised",
+"jeg har øvd"
+],
+[
+"I will practise",
+"jeg skal øve"
+],
+[
+"practise!",
+"øv!"
+]
+],
+"oversette": [
+[
+"to translate",
+"å oversette"
+],
+[
+"I translate",
+"jeg oversetter"
+],
+[
+"I translated",
+"jeg oversatte"
+],
+[
+"I have translated",
+"jeg har oversatt"
+],
+[
+"I will translate",
+"jeg skal oversette"
+],
+[
+"translate!",
+"oversett!"
+]
+],
+"fiske": [
+[
+"to fish",
+"å fiske"
+],
+[
+"I fish",
+"jeg fisker"
+],
+[
+"I fished",
+"jeg fiska"
+],
+[
+"I have fished",
+"jeg har fiska"
+],
+[
+"I will fish",
+"jeg skal fiske"
+],
+[
+"fish!",
+"fisk!"
+]
+],
+"servere": [
+[
+"to serve",
+"å servere"
+],
+[
+"I serve",
+"jeg serverer"
+],
+[
+"I served",
+"jeg serverte"
+],
+[
+"I have served",
+"jeg har servert"
+],
+[
+"I will serve",
+"jeg skal servere"
+],
+[
+"serve!",
+"server!"
+]
+],
+"passere": [
+[
+"to pass",
+"å passere"
+],
+[
+"I pass",
+"jeg passerer"
+],
+[
+"I passed",
+"jeg passerte"
+],
+[
+"I have passed",
+"jeg har passert"
+],
+[
+"I will pass",
+"jeg skal passere"
+],
+[
+"pass!",
+"passer!"
+]
+],
+"reparere": [
+[
+"to repair",
+"å reparere"
+],
+[
+"I repair",
+"jeg reparerer"
+],
+[
+"I repaired",
+"jeg reparerte"
+],
+[
+"I have repaired",
+"jeg har reparert"
+],
+[
+"I will repair",
+"jeg skal reparere"
+],
+[
+"repair!",
+"reparer!"
+]
+],
+"anbefale": [
+[
+"to recommend",
+"å anbefale"
+],
+[
+"I recommend",
+"jeg anbefaler"
+],
+[
+"I recommended",
+"jeg anbefalte"
+],
+[
+"I have recommended",
+"jeg har anbefalt"
+],
+[
+"I will recommend",
+"jeg skal anbefale"
+],
+[
+"recommend!",
+"anbefal!"
+]
+],
+"skynde": [
+[
+"to hurry",
+"å skynde seg"
+],
+[
+"I hurry",
+"jeg skynder meg"
+],
+[
+"I hurried",
+"jeg skyndte meg"
+],
+[
+"I have hurried",
+"jeg har skyndt meg"
+],
+[
+"I will hurry",
+"jeg skal skynde meg"
+],
+[
+"hurry!",
+"skynd deg!"
+]
+],
+"bake": [
+[
+"to bake",
+"å bake"
+],
+[
+"I bake",
+"jeg baker"
+],
+[
+"I baked",
+"jeg bakte"
+],
+[
+"I have baked",
+"jeg har bakt"
+],
+[
+"I will bake",
+"jeg skal bake"
+],
+[
+"bake!",
+"bak!"
+]
+],
+"kjede": [
+[
+"to be bored",
+"å kjede seg"
+],
+[
+"I am bored",
+"jeg kjeder meg"
+],
+[
+"I was bored",
+"jeg kjeda meg"
+],
+[
+"I have been bored",
+"jeg har kjeda meg"
+],
+[
+"I will be bored",
+"jeg skal kjede meg"
+],
+[
+"be bored!",
+"kjed deg!"
+]
+],
+"tørke_verb": [
+[
+"to dry",
+"å tørke"
+],
+[
+"I dry",
+"jeg tørker"
+],
+[
+"I dried",
+"jeg tørka"
+],
+[
+"I have dried",
+"jeg har tørka"
+],
+[
+"I will dry",
+"jeg skal tørke"
+],
+[
+"dry!",
+"tørk!"
+]
+],
+"nå_verb": [
+[
+"to reach",
+"å nå"
+],
+[
+"I reach",
+"jeg når"
+],
+[
+"I reached",
+"jeg nådde"
+],
+[
+"I have reached",
+"jeg har nådd"
+],
+[
+"I will reach",
+"jeg skal nå"
+],
+[
+"reach!",
+"nå!"
+]
+],
+"klippe": [
+[
+"to cut",
+"å klippe"
+],
+[
+"I cut",
+"jeg klipper"
+],
+[
+"I cut",
+"jeg klipte"
+],
+[
+"I have cut",
+"jeg har klipt"
+],
+[
+"I will cut",
+"jeg skal klippe"
+],
+[
+"cut!",
+"klipp!"
+]
+],
+"tømme": [
+[
+"to empty",
+"å tømme"
+],
+[
+"I empty",
+"jeg tømmer"
+],
+[
+"I emptied",
+"jeg tømte"
+],
+[
+"I have emptied",
+"jeg har tømt"
+],
+[
+"I will empty",
+"jeg skal tømme"
+],
+[
+"empty!",
+"tøm!"
+]
+],
+"trives": [
+[
+"to thrive",
+"å trives"
+],
+[
+"I thrive",
+"jeg trives"
+],
+[
+"I thrived",
+"jeg trivdes"
+],
+[
+"I have thrived",
+"jeg har trivdes"
+]
+],
+"gidde": [
+[
+"to bother",
+"å gidde"
+],
+[
+"I bother",
+"jeg gidder"
+],
+[
+"I bothered",
+"jeg gadd"
+],
+[
+"I have bothered",
+"jeg har giddet"
+],
+[
+"I will bother",
+"jeg skal gidde"
+]
+],
+"parkere": [
+[
+"to park",
+"å parkere"
+],
+[
+"I park",
+"jeg parkerer"
+],
+[
+"I parked",
+"jeg parkerte"
+],
+[
+"I have parked",
+"jeg har parkert"
+],
+[
+"I will park",
+"jeg skal parkere"
+],
+[
+"park!",
+"parker!"
+]
+],
+"koke": [
+[
+"to boil",
+"å koke"
+],
+[
+"I boil",
+"jeg koker"
+],
+[
+"I boiled",
+"jeg kokte"
+],
+[
+"I have boiled",
+"jeg har kokt"
+],
+[
+"I will boil",
+"jeg skal koke"
+],
+[
+"boil!",
+"kok!"
+]
+],
+"fyre": [
+[
+"to heat",
+"å fyre"
+],
+[
+"I heat",
+"jeg fyrer"
+],
+[
+"I heated",
+"jeg fyrte"
+],
+[
+"I have heated",
+"jeg har fyrt"
+],
+[
+"I will heat",
+"jeg skal fyre"
+],
+[
+"heat!",
+"fyr!"
+]
+],
+"steke": [
+[
+"to fry",
+"å steke"
+],
+[
+"I fry",
+"jeg steker"
+],
+[
+"I fried",
+"jeg stekte"
+],
+[
+"I have fried",
+"jeg har stekt"
+],
+[
+"I will fry",
+"jeg skal steke"
+],
+[
+"fry!",
+"stek!"
+]
+],
+"sykle": [
+[
+"to cycle",
+"å sykle"
+],
+[
+"I cycle",
+"jeg sykler"
+],
+[
+"I cycled",
+"jeg sykla"
+],
+[
+"I have cycled",
+"jeg har sykla"
+],
+[
+"I will cycle",
+"jeg skal sykle"
+],
+[
+"cycle!",
+"sykl!"
+]
+],
+"lade": [
+[
+"to charge",
+"å lade"
+],
+[
+"I charge",
+"jeg lader"
+],
+[
+"I charged",
+"jeg lada"
+],
+[
+"I have charged",
+"jeg har lada"
+],
+[
+"I will charge",
+"jeg skal lade"
+],
+[
+"charge!",
+"lad!"
+]
+],
+"uttale": [
+[
+"to pronounce",
+"å uttale"
+],
+[
+"I pronounce",
+"jeg uttaler"
+],
+[
+"I pronounced",
+"jeg uttalte"
+],
+[
+"I have pronounced",
+"jeg har uttalt"
+],
+[
+"I will pronounce",
+"jeg skal uttale"
+],
+[
+"pronounce!",
+"uttal!"
+]
+],
+"stave": [
+[
+"to spell",
+"å stave"
+],
+[
+"I spell",
+"jeg staver"
+],
+[
+"I spelled",
+"jeg stava"
+],
+[
+"I have spelled",
+"jeg har stava"
+],
+[
+"I will spell",
+"jeg skal stave"
+],
+[
+"spell!",
+"stav!"
+]
+],
+"drepe": [
+[
+"to kill",
+"å drepe"
+],
+[
+"I kill",
+"jeg dreper"
+],
+[
+"I killed",
+"jeg drepte"
+],
+[
+"I have killed",
+"jeg har drept"
+],
+[
+"I will kill",
+"jeg skal drepe"
+],
+[
+"kill!",
+"drep!"
+]
+],
+"skyte": [
+[
+"to shoot",
+"å skyte"
+],
+[
+"I shoot",
+"jeg skyter"
+],
+[
+"I shot",
+"jeg skjøt"
+],
+[
+"I have shot",
+"jeg har skutt"
+],
+[
+"I will shoot",
+"jeg skal skyte"
+],
+[
+"shoot!",
+"skyt!"
+]
+],
+"redde": [
+[
+"to save",
+"å redde"
+],
+[
+"I save",
+"jeg redder"
+],
+[
+"I saved",
+"jeg redda"
+],
+[
+"I have saved",
+"jeg har redda"
+],
+[
+"I will save",
+"jeg skal redde"
+],
+[
+"save!",
+"redd!"
+]
+],
+"nyte": [
+[
+"to enjoy",
+"å nyte"
+],
+[
+"I enjoy",
+"jeg nyter"
+],
+[
+"I enjoyed",
+"jeg nøt"
+],
+[
+"I have enjoyed",
+"jeg har nytt"
+],
+[
+"I will enjoy",
+"jeg skal nyte"
+],
+[
+"enjoy!",
+"nyt!"
+]
+],
+"drive": [
+[
+"to run",
+"å drive"
+],
+[
+"I run",
+"jeg driver"
+],
+[
+"I ran",
+"jeg drev"
+],
+[
+"I have run",
+"jeg har drevet"
+],
+[
+"I will run",
+"jeg skal drive"
+],
+[
+"run!",
+"driv!"
+]
+],
+"stjele": [
+[
+"to steal",
+"å stjele"
+],
+[
+"I steal",
+"jeg stjeler"
+],
+[
+"I stole",
+"jeg stjal"
+],
+[
+"I have stolen",
+"jeg har stjålet"
+],
+[
+"I will steal",
+"jeg skal stjele"
+],
+[
+"steal!",
+"stjel!"
+]
+],
+"lyve": [
+[
+"to lie",
+"å lyve"
+],
+[
+"I lie",
+"jeg lyver"
+],
+[
+"I lied",
+"jeg løy"
+],
+[
+"I have lied",
+"jeg har løyet"
+],
+[
+"I will lie",
+"jeg skal lyve"
+],
+[
+"lie!",
+"lyv!"
+]
+],
+"ordne": [
+[
+"to arrange",
+"å ordne"
+],
+[
+"I arrange",
+"jeg ordner"
+],
+[
+"I arranged",
+"jeg ordna"
+],
+[
+"I have arranged",
+"jeg har ordna"
+],
+[
+"I will arrange",
+"jeg skal ordne"
+],
+[
+"arrange!",
+"ordn!"
+]
+],
+"beskytte": [
+[
+"to protect",
+"å beskytte"
+],
+[
+"I protect",
+"jeg beskytter"
+],
+[
+"I protected",
+"jeg beskytta"
+],
+[
+"I have protected",
+"jeg har beskytta"
+],
+[
+"I will protect",
+"jeg skal beskytte"
+],
+[
+"protect!",
+"beskytt!"
+]
+],
+"hende": [
+[
+"to happen",
+"å hende"
+],
+[
+"it happens",
+"det hender"
+],
+[
+"it happened",
+"det hendte"
+],
+[
+"it has happened",
+"det har hendt"
+],
+[
+"it will happen",
+"det skal hende"
+]
+],
+"fange_verb": [
+[
+"to catch",
+"å fange"
+],
+[
+"I catch",
+"jeg fanger"
+],
+[
+"I caught",
+"jeg fanga"
+],
+[
+"I have caught",
+"jeg har fanga"
+],
+[
+"I will catch",
+"jeg skal fange"
+],
+[
+"catch!",
+"fang!"
+]
+],
+"arbeide": [
+[
+"to work",
+"å arbeide"
+],
+[
+"I work",
+"jeg arbeider"
+],
+[
+"I worked",
+"jeg arbeida"
+],
+[
+"I have worked",
+"jeg har arbeida"
+],
+[
+"I will work",
+"jeg skal arbeide"
+],
+[
+"work!",
+"arbeid!"
+]
+],
+"bryte": [
+[
+"to break",
+"å bryte"
+],
+[
+"I break",
+"jeg bryter"
+],
+[
+"I broke",
+"jeg brøt"
+],
+[
+"I have broken",
+"jeg har brutt"
+],
+[
+"I will break",
+"jeg skal bryte"
+],
+[
+"break!",
+"bryt!"
+]
+],
+"lyse": [
+[
+"to shine",
+"å lyse"
+],
+[
+"I shine",
+"jeg lyser"
+],
+[
+"I shone",
+"jeg lyste"
+],
+[
+"I have shone",
+"jeg har lyst"
+],
+[
+"I will shine",
+"jeg skal lyse"
+],
+[
+"shine!",
+"lys!"
+]
+],
+"lede": [
+[
+"to lead",
+"å lede"
+],
+[
+"I lead",
+"jeg leder"
+],
+[
+"I led",
+"jeg leda"
+],
+[
+"I have led",
+"jeg har leda"
+],
+[
+"I will lead",
+"jeg skal lede"
+],
+[
+"lead!",
+"led!"
+]
+],
+"takke": [
+[
+"to thank",
+"å takke"
+],
+[
+"I thank",
+"jeg takker"
+],
+[
+"I thanked",
+"jeg takka"
+],
+[
+"I have thanked",
+"jeg har takka"
+],
+[
+"I will thank",
+"jeg skal takke"
+],
+[
+"thank!",
+"takk!"
+]
+],
+"pleie": [
+[
+"to be in the habit of",
+"å pleie"
+],
+[
+"I am in the habit of",
+"jeg pleier"
+],
+[
+"I was in the habit of",
+"jeg pleide"
+],
+[
+"I have been in the habit of",
+"jeg har pleid"
+],
+[
+"I will be in the habit of",
+"jeg skal pleie"
+]
+],
+"overleve": [
+[
+"to survive",
+"å overleve"
+],
+[
+"I survive",
+"jeg overlever"
+],
+[
+"I survived",
+"jeg overlevde"
+],
+[
+"I have survived",
+"jeg har overlevd"
+],
+[
+"I will survive",
+"jeg skal overleve"
+],
+[
+"survive!",
+"overlev!"
+]
+],
+"skaffe": [
+[
+"to get",
+"å skaffe"
+],
+[
+"I get",
+"jeg skaffer"
+],
+[
+"I got",
+"jeg skaffa"
+],
+[
+"I have got",
+"jeg har skaffa"
+],
+[
+"I will get",
+"jeg skal skaffe"
+],
+[
+"get!",
+"skaff!"
+]
+],
+"rette": [
+[
+"to correct",
+"å rette"
+],
+[
+"I correct",
+"jeg retter"
+],
+[
+"I corrected",
+"jeg retta"
+],
+[
+"I have corrected",
+"jeg har retta"
+],
+[
+"I will correct",
+"jeg skal rette"
+],
+[
+"correct!",
+"rett!"
+]
+],
+"brenne": [
+[
+"to burn",
+"å brenne"
+],
+[
+"I burn",
+"jeg brenner"
+],
+[
+"I burned",
+"jeg brant"
+],
+[
+"I have burned",
+"jeg har brent"
+],
+[
+"I will burn",
+"jeg skal brenne"
+],
+[
+"burn!",
+"brenn!"
+]
+],
+"gjemme": [
+[
+"to hide",
+"å gjemme"
+],
+[
+"I hide",
+"jeg gjemmer"
+],
+[
+"I hid",
+"jeg gjemte"
+],
+[
+"I have hidden",
+"jeg har gjemt"
+],
+[
+"I will hide",
+"jeg skal gjemme"
+],
+[
+"hide!",
+"gjem!"
+]
+],
+"ende_verb": [
+[
+"to end",
+"å ende"
+],
+[
+"I end",
+"jeg ender"
+],
+[
+"I ended",
+"jeg endte"
+],
+[
+"I have ended",
+"jeg har endt"
+],
+[
+"I will end",
+"jeg skal ende"
+],
+[
+"end!",
+"end!"
+]
+],
+"skremme": [
+[
+"to scare",
+"å skremme"
+],
+[
+"I scare",
+"jeg skremmer"
+],
+[
+"I scared",
+"jeg skremte"
+],
+[
+"I have scared",
+"jeg har skremt"
+],
+[
+"I will scare",
+"jeg skal skremme"
+],
+[
+"scare!",
+"skrem!"
+]
+],
+"slåss": [
+[
+"to fight",
+"å slåss"
+],
+[
+"I fight",
+"jeg slåss"
+],
+[
+"I fought",
+"jeg sloss"
+],
+[
+"I have fought",
+"jeg har slåss"
+]
+],
+"skjule": [
+[
+"to hide",
+"å skjule"
+],
+[
+"I hide",
+"jeg skjuler"
+],
+[
+"I hid",
+"jeg skjulte"
+],
+[
+"I have hidden",
+"jeg har skjult"
+],
+[
+"I will hide",
+"jeg skal skjule"
+],
+[
+"hide!",
+"skjul!"
+]
+],
+"minne_verb": [
+[
+"to remind",
+"å minne"
+],
+[
+"I remind",
+"jeg minner"
+],
+[
+"I reminded",
+"jeg minte"
+],
+[
+"I have reminded",
+"jeg har mint"
+],
+[
+"I will remind",
+"jeg skal minne"
+],
+[
+"remind!",
+"minn!"
+]
+],
+"samle": [
+[
+"to gather",
+"å samle"
+],
+[
+"I gather",
+"jeg samler"
+],
+[
+"I gathered",
+"jeg samla"
+],
+[
+"I have gathered",
+"jeg har samla"
+],
+[
+"I will gather",
+"jeg skal samle"
+],
+[
+"gather!",
+"saml!"
+]
+],
+"vanne": [
+[
+"to water",
+"å vanne"
+],
+[
+"I water",
+"jeg vanner"
+],
+[
+"I watered",
+"jeg vanna"
+],
+[
+"I have watered",
+"jeg har vanna"
+],
+[
+"I will water",
+"jeg skal vanne"
+],
+[
+"water!",
+"vann!"
+]
+],
+"styre_verb": [
+[
+"to steer",
+"å styre"
+],
+[
+"I steer",
+"jeg styrer"
+],
+[
+"I steered",
+"jeg styrte"
+],
+[
+"I have steered",
+"jeg har styrt"
+],
+[
+"I will steer",
+"jeg skal styre"
+],
+[
+"steer!",
+"styr!"
+]
+],
+"kreve": [
+[
+"to require",
+"å kreve"
+],
+[
+"I require",
+"jeg krever"
+],
+[
+"I required",
+"jeg krevde"
+],
+[
+"I have required",
+"jeg har krevd"
+],
+[
+"I will require",
+"jeg skal kreve"
+],
+[
+"require!",
+"krev!"
+]
+],
+"tvinge": [
+[
+"to force",
+"å tvinge"
+],
+[
+"I force",
+"jeg tvinger"
+],
+[
+"I forced",
+"jeg tvang"
+],
+[
+"I have forced",
+"jeg har tvunget"
+],
+[
+"I will force",
+"jeg skal tvinge"
+],
+[
+"force!",
+"tving!"
+]
+],
+"sørge": [
+[
+"to grieve",
+"å sørge"
+],
+[
+"I grieve",
+"jeg sørger"
+],
+[
+"I grieved",
+"jeg sørga"
+],
+[
+"I have grieved",
+"jeg har sørga"
+],
+[
+"I will grieve",
+"jeg skal sørge"
+],
+[
+"grieve!",
+"sørg!"
+]
+],
+"rive": [
+[
+"to tear",
+"å rive"
+],
+[
+"I tear",
+"jeg river"
+],
+[
+"I tore",
+"jeg rev"
+],
+[
+"I have torn",
+"jeg har revet"
+],
+[
+"I will tear",
+"jeg skal rive"
+],
+[
+"tear!",
+"riv!"
+]
+],
+"sikre": [
+[
+"to secure",
+"å sikre"
+],
+[
+"I secure",
+"jeg sikrer"
+],
+[
+"I secured",
+"jeg sikra"
+],
+[
+"I have secured",
+"jeg har sikra"
+],
+[
+"I will secure",
+"jeg skal sikre"
+],
+[
+"secure!",
+"sikr!"
+]
+],
+"plage": [
+[
+"to bother",
+"å plage"
+],
+[
+"I bother",
+"jeg plager"
+],
+[
+"I bothered",
+"jeg plaga"
+],
+[
+"I have bothered",
+"jeg har plaga"
+],
+[
+"I will bother",
+"jeg skal plage"
+],
+[
+"bother!",
+"plag!"
+]
+],
+"kysse": [
+[
+"to kiss",
+"å kysse"
+],
+[
+"I kiss",
+"jeg kysser"
+],
+[
+"I kissed",
+"jeg kyssa"
+],
+[
+"I have kissed",
+"jeg har kyssa"
+],
+[
+"I will kiss",
+"jeg skal kysse"
+],
+[
+"kiss!",
+"kyss!"
+]
+],
+"behandle": [
+[
+"to treat",
+"å behandle"
+],
+[
+"I treat",
+"jeg behandler"
+],
+[
+"I treated",
+"jeg behandla"
+],
+[
+"I have treated",
+"jeg har behandla"
+],
+[
+"I will treat",
+"jeg skal behandle"
+],
+[
+"treat!",
+"behandl!"
+]
+],
+"kontakte": [
+[
+"to contact",
+"å kontakte"
+],
+[
+"I contact",
+"jeg kontakter"
+],
+[
+"I contacted",
+"jeg kontakta"
+],
+[
+"I have contacted",
+"jeg har kontakta"
+],
+[
+"I will contact",
+"jeg skal kontakte"
+],
+[
+"contact!",
+"kontakt!"
+]
+],
+"sparke": [
+[
+"to kick",
+"å sparke"
+],
+[
+"I kick",
+"jeg sparker"
+],
+[
+"I kicked",
+"jeg sparka"
+],
+[
+"I have kicked",
+"jeg har sparka"
+],
+[
+"I will kick",
+"jeg skal sparke"
+],
+[
+"kick!",
+"spark!"
+]
+],
+"løfte": [
+[
+"to lift",
+"å løfte"
+],
+[
+"I lift",
+"jeg løfter"
+],
+[
+"I lifted",
+"jeg løfta"
+],
+[
+"I have lifted",
+"jeg har løfta"
+],
+[
+"I will lift",
+"jeg skal løfte"
+],
+[
+"lift!",
+"løft!"
+]
+],
+"stanse": [
+[
+"to stop",
+"å stanse"
+],
+[
+"I stop",
+"jeg stanser"
+],
+[
+"I stopped",
+"jeg stansa"
+],
+[
+"I have stopped",
+"jeg har stansa"
+],
+[
+"I will stop",
+"jeg skal stanse"
+],
+[
+"stop!",
+"stans!"
+]
+],
+"lide": [
+[
+"to suffer",
+"å lide"
+],
+[
+"I suffer",
+"jeg lider"
+],
+[
+"I suffered",
+"jeg led"
+],
+[
+"I have suffered",
+"jeg har lidd"
+],
+[
+"I will suffer",
+"jeg skal lide"
+],
+[
+"suffer!",
+"lid!"
+]
+],
+"krangle": [
+[
+"to argue",
+"å krangle"
+],
+[
+"I argue",
+"jeg krangler"
+],
+[
+"I argued",
+"jeg krangla"
+],
+[
+"I have argued",
+"jeg har krangla"
+],
+[
+"I will argue",
+"jeg skal krangle"
+],
+[
+"argue!",
+"krangl!"
+]
+],
+"bite": [
+[
+"to bite",
+"å bite"
+],
+[
+"I bite",
+"jeg biter"
+],
+[
+"I bit",
+"jeg bet"
+],
+[
+"I have bitten",
+"jeg har bitt"
+],
+[
+"I will bite",
+"jeg skal bite"
+],
+[
+"bite!",
+"bit!"
+]
+],
+"filme": [
+[
+"to film",
+"å filme"
+],
+[
+"I film",
+"jeg filmer"
+],
+[
+"I filmed",
+"jeg filma"
+],
+[
+"I have filmed",
+"jeg har filma"
+],
+[
+"I will film",
+"jeg skal filme"
+],
+[
+"film!",
+"film!"
+]
+],
+"avsløre": [
+[
+"to reveal",
+"å avsløre"
+],
+[
+"I reveal",
+"jeg avslører"
+],
+[
+"I revealed",
+"jeg avslørte"
+],
+[
+"I have revealed",
+"jeg har avslørt"
+],
+[
+"I will reveal",
+"jeg skal avsløre"
+],
+[
+"reveal!",
+"avslør!"
+]
+],
+"advare": [
+[
+"to warn",
+"å advare"
+],
+[
+"I warn",
+"jeg advarer"
+],
+[
+"I warned",
+"jeg advarte"
+],
+[
+"I have warned",
+"jeg har advart"
+],
+[
+"I will warn",
+"jeg skal advare"
+],
+[
+"warn!",
+"advar!"
+]
+],
+"bekrefte": [
+[
+"to confirm",
+"å bekrefte"
+],
+[
+"I confirm",
+"jeg bekrefter"
+],
+[
+"I confirmed",
+"jeg bekrefta"
+],
+[
+"I have confirmed",
+"jeg har bekrefta"
+],
+[
+"I will confirm",
+"jeg skal bekrefte"
+],
+[
+"confirm!",
+"bekreft!"
+]
+],
+"foreslå": [
+[
+"to suggest",
+"å foreslå"
+],
+[
+"I suggest",
+"jeg foreslår"
+],
+[
+"I suggested",
+"jeg foreslo"
+],
+[
+"I have suggested",
+"jeg har foreslått"
+],
+[
+"I will suggest",
+"jeg skal foreslå"
+],
+[
+"suggest!",
+"foreslå!"
+]
+],
+"skrike": [
+[
+"to scream",
+"å skrike"
+],
+[
+"I scream",
+"jeg skriker"
+],
+[
+"I screamed",
+"jeg skrek"
+],
+[
+"I have screamed",
+"jeg har skreket"
+],
+[
+"I will scream",
+"jeg skal skrike"
+],
+[
+"scream!",
+"skrik!"
+]
+],
+"oppleve": [
+[
+"to experience",
+"å oppleve"
+],
+[
+"I experience",
+"jeg opplever"
+],
+[
+"I experienced",
+"jeg opplevde"
+],
+[
+"I have experienced",
+"jeg har opplevd"
+],
+[
+"I will experience",
+"jeg skal oppleve"
+],
+[
+"experience!",
+"opplev!"
+]
+],
+"undersøke": [
+[
+"to examine",
+"å undersøke"
+],
+[
+"I examine",
+"jeg undersøker"
+],
+[
+"I examined",
+"jeg undersøkte"
+],
+[
+"I have examined",
+"jeg har undersøkt"
+],
+[
+"I will examine",
+"jeg skal undersøke"
+],
+[
+"examine!",
+"undersøk!"
+]
+],
+"hindre": [
+[
+"to prevent",
+"å hindre"
+],
+[
+"I prevent",
+"jeg hindrer"
+],
+[
+"I prevented",
+"jeg hindra"
+],
+[
+"I have prevented",
+"jeg har hindra"
+],
+[
+"I will prevent",
+"jeg skal hindre"
+],
+[
+"prevent!",
+"hindr!"
+]
+],
+"spre": [
+[
+"to spread",
+"å spre"
+],
+[
+"I spread",
+"jeg sprer"
+],
+[
+"I spread",
+"jeg spredte"
+],
+[
+"I have spread",
+"jeg har spredt"
+],
+[
+"I will spread",
+"jeg skal spre"
+],
+[
+"spread!",
+"spre!"
+]
+],
+"vurdere": [
+[
+"to consider",
+"å vurdere"
+],
+[
+"I consider",
+"jeg vurderer"
+],
+[
+"I considered",
+"jeg vurderte"
+],
+[
+"I have considered",
+"jeg har vurdert"
+],
+[
+"I will consider",
+"jeg skal vurdere"
+],
+[
+"consider!",
+"vurder!"
+]
+],
+"begrave": [
+[
+"to bury",
+"å begrave"
+],
+[
+"I bury",
+"jeg begraver"
+],
+[
+"I buried",
+"jeg begravde"
+],
+[
+"I have buried",
+"jeg har begravd"
+],
+[
+"I will bury",
+"jeg skal begrave"
+],
+[
+"bury!",
+"begrav!"
+]
+],
+"ligne": [
+[
+"to resemble",
+"å ligne"
+],
+[
+"I resemble",
+"jeg ligner"
+],
+[
+"I resembled",
+"jeg ligna"
+],
+[
+"I have resembled",
+"jeg har ligna"
+],
+[
+"I will resemble",
+"jeg skal ligne"
+],
+[
+"resemble!",
+"lign!"
+]
+],
+"avgjøre": [
+[
+"to decide",
+"å avgjøre"
+],
+[
+"I decide",
+"jeg avgjør"
+],
+[
+"I decided",
+"jeg avgjorde"
+],
+[
+"I have decided",
+"jeg har avgjort"
+],
+[
+"I will decide",
+"jeg skal avgjøre"
+],
+[
+"decide!",
+"avgjør!"
+]
+],
+"utføre": [
+[
+"to carry out",
+"å utføre"
+],
+[
+"I carry out",
+"jeg utfører"
+],
+[
+"I carried out",
+"jeg utførte"
+],
+[
+"I have carried out",
+"jeg har utført"
+],
+[
+"I will carry out",
+"jeg skal utføre"
+],
+[
+"carry out!",
+"utfør!"
+]
+],
+"angre": [
+[
+"to regret",
+"å angre"
+],
+[
+"I regret",
+"jeg angrer"
+],
+[
+"I regretted",
+"jeg angra"
+],
+[
+"I have regretted",
+"jeg har angra"
+],
+[
+"I will regret",
+"jeg skal angre"
+],
+[
+"regret!",
+"angr!"
+]
+],
+"samarbeide": [
+[
+"to cooperate",
+"å samarbeide"
+],
+[
+"I cooperate",
+"jeg samarbeider"
+],
+[
+"I cooperated",
+"jeg samarbeida"
+],
+[
+"I have cooperated",
+"jeg har samarbeida"
+],
+[
+"I will cooperate",
+"jeg skal samarbeide"
+],
+[
+"cooperate!",
+"samarbeid!"
+]
+],
+"teste": [
+[
+"to test",
+"å teste"
+],
+[
+"I test",
+"jeg tester"
+],
+[
+"I tested",
+"jeg testa"
+],
+[
+"I have tested",
+"jeg har testa"
+],
+[
+"I will test",
+"jeg skal teste"
+],
+[
+"test!",
+"test!"
+]
+],
+"stige_verb": [
+[
+"to rise",
+"å stige"
+],
+[
+"I rise",
+"jeg stiger"
+],
+[
+"I rose",
+"jeg steg"
+],
+[
+"I have risen",
+"jeg har steget"
+],
+[
+"I will rise",
+"jeg skal stige"
+],
+[
+"rise!",
+"stig!"
+]
+],
+"jakte": [
+[
+"to hunt",
+"å jakte"
+],
+[
+"I hunt",
+"jeg jakter"
+],
+[
+"I hunted",
+"jeg jakta"
+],
+[
+"I have hunted",
+"jeg har jakta"
+],
+[
+"I will hunt",
+"jeg skal jakte"
+],
+[
+"hunt!",
+"jakt!"
+]
+],
+"innrømme": [
+[
+"to admit",
+"å innrømme"
+],
+[
+"I admit",
+"jeg innrømmer"
+],
+[
+"I admitted",
+"jeg innrømte"
+],
+[
+"I have admitted",
+"jeg har innrømt"
+],
+[
+"I will admit",
+"jeg skal innrømme"
+],
+[
+"admit!",
+"innrøm!"
+]
+],
+"gulve": [
+[
+"to wash the floor",
+"å gulve"
+],
+[
+"I wash the floor",
+"jeg gulver"
+],
+[
+"I washed the floor",
+"jeg gulva"
+],
+[
+"I have washed the floor",
+"jeg har gulva"
+],
+[
+"I will wash the floor",
+"jeg skal gulve"
+],
+[
+"wash the floor!",
+"gulv!"
+]
+],
+"våge": [
+[
+"to dare",
+"å våge"
+],
+[
+"I dare",
+"jeg våger"
+],
+[
+"I dared",
+"jeg våga"
+],
+[
+"I have dared",
+"jeg har våga"
+],
+[
+"I will dare",
+"jeg skal våge"
+],
+[
+"dare!",
+"våg!"
+]
+],
+"brekke": [
+[
+"to break",
+"å brekke"
+],
+[
+"I break",
+"jeg brekker"
+],
+[
+"I broke",
+"jeg brakk"
+],
+[
+"I have broken",
+"jeg har brukket"
+],
+[
+"I will break",
+"jeg skal brekke"
+],
+[
+"break!",
+"brekk!"
+]
+],
+"lyde": [
+[
+"to sound",
+"å lyde"
+],
+[
+"it sounds",
+"det lyder"
+],
+[
+"it sounded",
+"det lød"
+],
+[
+"it has sounded",
+"det har lydt"
+],
+[
+"it will sound",
+"det skal lyde"
+]
+],
+"blø": [
+[
+"to bleed",
+"å blø"
+],
+[
+"I bleed",
+"jeg blør"
+],
+[
+"I bled",
+"jeg blødde"
+],
+[
+"I have bled",
+"jeg har blødd"
+],
+[
+"I will bleed",
+"jeg skal blø"
+],
+[
+"bleed!",
+"blø!"
+]
+],
+"unnskylde": [
+[
+"to excuse",
+"å unnskylde"
+],
+[
+"I excuse",
+"jeg unnskylder"
+],
+[
+"I excused",
+"jeg unnskyldte"
+],
+[
+"I have excused",
+"jeg har unnskyldt"
+],
+[
+"I will excuse",
+"jeg skal unnskylde"
+],
+[
+"excuse!",
+"unnskyld!"
+]
+],
+"overta": [
+[
+"to take over",
+"å overta"
+],
+[
+"I take over",
+"jeg overtar"
+],
+[
+"I took over",
+"jeg overtok"
+],
+[
+"I have taken over",
+"jeg har overtatt"
+],
+[
+"I will take over",
+"jeg skal overta"
+],
+[
+"take over!",
+"overta!"
+]
+],
+"gripe": [
+[
+"to grab",
+"å gripe"
+],
+[
+"I grab",
+"jeg griper"
+],
+[
+"I grabbed",
+"jeg grep"
+],
+[
+"I have grabbed",
+"jeg har grepet"
+],
+[
+"I will grab",
+"jeg skal gripe"
+],
+[
+"grab!",
+"grip!"
+]
+],
+"binde": [
+[
+"to tie",
+"å binde"
+],
+[
+"I tie",
+"jeg binder"
+],
+[
+"I tied",
+"jeg bandt"
+],
+[
+"I have tied",
+"jeg har bundet"
+],
+[
+"I will tie",
+"jeg skal binde"
+],
+[
+"tie!",
+"bind!"
+]
+],
+"akseptere": [
+[
+"to accept",
+"å akseptere"
+],
+[
+"I accept",
+"jeg aksepterer"
+],
+[
+"I accepted",
+"jeg aksepterte"
+],
+[
+"I have accepted",
+"jeg har akseptert"
+],
+[
+"I will accept",
+"jeg skal akseptere"
+],
+[
+"accept!",
+"aksepter!"
+]
+],
+"utvikle": [
+[
+"to develop",
+"å utvikle"
+],
+[
+"I develop",
+"jeg utvikler"
+],
+[
+"I developed",
+"jeg utvikla"
+],
+[
+"I have developed",
+"jeg har utvikla"
+],
+[
+"I will develop",
+"jeg skal utvikle"
+],
+[
+"develop!",
+"utvikl!"
+]
+],
+"fokusere": [
+[
+"to focus",
+"å fokusere"
+],
+[
+"I focus",
+"jeg fokuserer"
+],
+[
+"I focused",
+"jeg fokuserte"
+],
+[
+"I have focused",
+"jeg har fokusert"
+],
+[
+"I will focus",
+"jeg skal fokusere"
+],
+[
+"focus!",
+"fokuser!"
+]
+],
+"forsikre": [
+[
+"to assure",
+"å forsikre"
+],
+[
+"I assure",
+"jeg forsikrer"
+],
+[
+"I assured",
+"jeg forsikra"
+],
+[
+"I have assured",
+"jeg har forsikra"
+],
+[
+"I will assure",
+"jeg skal forsikre"
+],
+[
+"assure!",
+"forsikr!"
+]
+],
+"straffe": [
+[
+"to punish",
+"å straffe"
+],
+[
+"I punish",
+"jeg straffer"
+],
+[
+"I punished",
+"jeg straffa"
+],
+[
+"I have punished",
+"jeg har straffa"
+],
+[
+"I will punish",
+"jeg skal straffe"
+],
+[
+"punish!",
+"straff!"
+]
+],
+"veie": [
+[
+"to weigh",
+"å veie"
+],
+[
+"I weigh",
+"jeg veier"
+],
+[
+"I weighed",
+"jeg veide"
+],
+[
+"I have weighed",
+"jeg har veid"
+],
+[
+"I will weigh",
+"jeg skal veie"
+],
+[
+"weigh!",
+"vei!"
+]
+],
+"forårsake": [
+[
+"to cause",
+"å forårsake"
+],
+[
+"I cause",
+"jeg forårsaker"
+],
+[
+"I caused",
+"jeg forårsaka"
+],
+[
+"I have caused",
+"jeg har forårsaka"
+],
+[
+"I will cause",
+"jeg skal forårsake"
+],
+[
+"cause!",
+"forårsak!"
+]
+],
+"spandere": [
+[
+"to treat",
+"å spandere"
+],
+[
+"I treat",
+"jeg spanderer"
+],
+[
+"I treated",
+"jeg spanderte"
+],
+[
+"I have treated",
+"jeg har spandert"
+],
+[
+"I will treat",
+"jeg skal spandere"
+],
+[
+"treat!",
+"spander!"
+]
+],
+"øke": [
+[
+"to increase",
+"å øke"
+],
+[
+"I increase",
+"jeg øker"
+],
+[
+"I increased",
+"jeg øka"
+],
+[
+"I have increased",
+"jeg har øka"
+],
+[
+"I will increase",
+"jeg skal øke"
+],
+[
+"increase!",
+"øk!"
+]
+],
+"stryke": [
+[
+"to iron",
+"å stryke"
+],
+[
+"I iron",
+"jeg stryker"
+],
+[
+"I ironed",
+"jeg strøk"
+],
+[
+"I have ironed",
+"jeg har strøket"
+],
+[
+"I will iron",
+"jeg skal stryke"
+],
+[
+"iron!",
+"stryk!"
+]
+],
+"plante_verb": [
+[
+"to plant",
+"å plante"
+],
+[
+"I plant",
+"jeg planter"
+],
+[
+"I planted",
+"jeg planta"
+],
+[
+"I have planted",
+"jeg har planta"
+],
+[
+"I will plant",
+"jeg skal plante"
+],
+[
+"plant!",
+"plant!"
+]
+],
+"synke": [
+[
+"to sink",
+"å synke"
+],
+[
+"I sink",
+"jeg synker"
+],
+[
+"I sank",
+"jeg sank"
+],
+[
+"I have sunk",
+"jeg har sunket"
+],
+[
+"I will sink",
+"jeg skal synke"
+],
+[
+"sink!",
+"synk!"
+]
+],
+"dytte": [
+[
+"to push",
+"å dytte"
+],
+[
+"I push",
+"jeg dytter"
+],
+[
+"I pushed",
+"jeg dytta"
+],
+[
+"I have pushed",
+"jeg har dytta"
+],
+[
+"I will push",
+"jeg skal dytte"
+],
+[
+"push!",
+"dytt!"
+]
+],
+"representere": [
+[
+"to represent",
+"å representere"
+],
+[
+"I represent",
+"jeg representerer"
+],
+[
+"I represented",
+"jeg representerte"
+],
+[
+"I have represented",
+"jeg har representert"
+],
+[
+"I will represent",
+"jeg skal representere"
+],
+[
+"represent!",
+"representer!"
+]
+],
+"slette": [
+[
+"to delete",
+"å slette"
+],
+[
+"I delete",
+"jeg sletter"
+],
+[
+"I deleted",
+"jeg sletta"
+],
+[
+"I have deleted",
+"jeg har sletta"
+],
+[
+"I will delete",
+"jeg skal slette"
+],
+[
+"delete!",
+"slett!"
+]
+],
+"klemme": [
+[
+"to hug",
+"å klemme"
+],
+[
+"I hug",
+"jeg klemmer"
+],
+[
+"I hugged",
+"jeg klemte"
+],
+[
+"I have hugged",
+"jeg har klemt"
+],
+[
+"I will hug",
+"jeg skal klemme"
+],
+[
+"hug!",
+"klem!"
+]
+],
+"bestå": [
+[
+"to pass",
+"å bestå"
+],
+[
+"I pass",
+"jeg består"
+],
+[
+"I passed",
+"jeg besto"
+],
+[
+"I have passed",
+"jeg har bestått"
+],
+[
+"I will pass",
+"jeg skal bestå"
+],
+[
+"pass!",
+"bestå!"
+]
+],
+"sy": [
+[
+"to sew",
+"å sy"
+],
+[
+"I sew",
+"jeg syr"
+],
+[
+"I sewed",
+"jeg sydde"
+],
+[
+"I have sewn",
+"jeg har sydd"
+],
+[
+"I will sew",
+"jeg skal sy"
+],
+[
+"sew!",
+"sy!"
+]
+],
+"svinge": [
+[
+"to turn",
+"å svinge"
+],
+[
+"I turn",
+"jeg svinger"
+],
+[
+"I turned",
+"jeg svingte"
+],
+[
+"I have turned",
+"jeg har svingt"
+],
+[
+"I will turn",
+"jeg skal svinge"
+],
+[
+"turn!",
+"sving!"
+]
+],
+"svette": [
+[
+"to sweat",
+"å svette"
+],
+[
+"I sweat",
+"jeg svetter"
+],
+[
+"I sweated",
+"jeg svetta"
+],
+[
+"I have sweated",
+"jeg har svetta"
+],
+[
+"I will sweat",
+"jeg skal svette"
+],
+[
+"sweat!",
+"svett!"
+]
+],
+"bidra": [
+[
+"to contribute",
+"å bidra"
+],
+[
+"I contribute",
+"jeg bidrar"
+],
+[
+"I contributed",
+"jeg bidro"
+],
+[
+"I have contributed",
+"jeg har bidratt"
+],
+[
+"I will contribute",
+"jeg skal bidra"
+],
+[
+"contribute!",
+"bidra!"
+]
+],
+"sulte": [
+[
+"to starve",
+"å sulte"
+],
+[
+"I starve",
+"jeg sulter"
+],
+[
+"I starved",
+"jeg sulta"
+],
+[
+"I have starved",
+"jeg har sulta"
+],
+[
+"I will starve",
+"jeg skal sulte"
+]
+],
+"pipe": [
+[
+"to beep",
+"å pipe"
+],
+[
+"I beep",
+"jeg piper"
+],
+[
+"I beeped",
+"jeg pep"
+],
+[
+"I have beeped",
+"jeg har pepet"
+],
+[
+"I will beep",
+"jeg skal pipe"
+],
+[
+"beep!",
+"pip!"
+]
+],
+"opptre": [
+[
+"to perform",
+"å opptre"
+],
+[
+"I perform",
+"jeg opptrer"
+],
+[
+"I performed",
+"jeg opptrådte"
+],
+[
+"I have performed",
+"jeg har opptrådt"
+],
+[
+"I will perform",
+"jeg skal opptre"
+],
+[
+"perform!",
+"opptr!"
+]
+],
+"gli": [
+[
+"to slide",
+"å gli"
+],
+[
+"I slide",
+"jeg glir"
+],
+[
+"I slid",
+"jeg gled"
+],
+[
+"I have slid",
+"jeg har glidd"
+],
+[
+"I will slide",
+"jeg skal gli"
+],
+[
+"slide!",
+"gli!"
+]
+],
+"strekke": [
+[
+"to stretch",
+"å strekke"
+],
+[
+"I stretch",
+"jeg strekker"
+],
+[
+"I stretched",
+"jeg strakk"
+],
+[
+"I have stretched",
+"jeg har strukket"
+],
+[
+"I will stretch",
+"jeg skal strekke"
+],
+[
+"stretch!",
+"strekk!"
+]
+],
+"skjelve": [
+[
+"to shake",
+"å skjelve"
+],
+[
+"I shake",
+"jeg skjelver"
+],
+[
+"I shook",
+"jeg skalv"
+],
+[
+"I have shaken",
+"jeg har skjelvet"
+],
+[
+"I will shake",
+"jeg skal skjelve"
+],
+[
+"shake!",
+"skjelv!"
+]
+],
+"bøye": [
+[
+"to bend",
+"å bøye"
+],
+[
+"I bend",
+"jeg bøyer"
+],
+[
+"I bent",
+"jeg bøyde"
+],
+[
+"I have bent",
+"jeg har bøyd"
+],
+[
+"I will bend",
+"jeg skal bøye"
+],
+[
+"bend!",
+"bøy!"
+]
+],
+"krype": [
+[
+"to crawl",
+"å krype"
+],
+[
+"I crawl",
+"jeg kryper"
+],
+[
+"I crawled",
+"jeg krøp"
+],
+[
+"I have crawled",
+"jeg har krøpet"
+],
+[
+"I will crawl",
+"jeg skal krype"
+],
+[
+"crawl!",
+"kryp!"
+]
+],
+"bråke": [
+[
+"to make noise",
+"å bråke"
+],
+[
+"I make noise",
+"jeg bråker"
+],
+[
+"I made noise",
+"jeg bråka"
+],
+[
+"I have made noise",
+"jeg har bråka"
+],
+[
+"I will make noise",
+"jeg skal bråke"
+],
+[
+"make noise!",
+"bråk!"
+]
+],
+"svelge": [
+[
+"to swallow",
+"å svelge"
+],
+[
+"I swallow",
+"jeg svelger"
+],
+[
+"I swallowed",
+"jeg svelga"
+],
+[
+"I have swallowed",
+"jeg har svelga"
+],
+[
+"I will swallow",
+"jeg skal svelge"
+],
+[
+"swallow!",
+"svelg!"
+]
+],
+"sprekke": [
+[
+"to crack",
+"å sprekke"
+],
+[
+"I crack",
+"jeg sprekker"
+],
+[
+"I cracked",
+"jeg sprakk"
+],
+[
+"I have cracked",
+"jeg har sprukket"
+],
+[
+"I will crack",
+"jeg skal sprekke"
+],
+[
+"crack!",
+"sprekk!"
+]
+],
+"måle": [
+[
+"to measure",
+"å måle"
+],
+[
+"I measure",
+"jeg måler"
+],
+[
+"I measured",
+"jeg målte"
+],
+[
+"I have measured",
+"jeg har målt"
+],
+[
+"I will measure",
+"jeg skal måle"
+],
+[
+"measure!",
+"mål!"
+]
+],
+"mase": [
+[
+"to nag",
+"å mase"
+],
+[
+"I nag",
+"jeg maser"
+],
+[
+"I nagged",
+"jeg masa"
+],
+[
+"I have nagged",
+"jeg har masa"
+],
+[
+"I will nag",
+"jeg skal mase"
+],
+[
+"nag!",
+"mas!"
+]
+],
+"hviske": [
+[
+"to whisper",
+"å hviske"
+],
+[
+"I whisper",
+"jeg hvisker"
+],
+[
+"I whispered",
+"jeg hviska"
+],
+[
+"I have whispered",
+"jeg har hviska"
+],
+[
+"I will whisper",
+"jeg skal hviske"
+],
+[
+"whisper!",
+"hvisk!"
+]
+],
+"nøle": [
+[
+"to hesitate",
+"å nøle"
+],
+[
+"I hesitate",
+"jeg nøler"
+],
+[
+"I hesitated",
+"jeg nølte"
+],
+[
+"I have hesitated",
+"jeg har nølt"
+],
+[
+"I will hesitate",
+"jeg skal nøle"
+],
+[
+"hesitate!",
+"nøl!"
+]
+],
+"lagre": [
+[
+"to save",
+"å lagre"
+],
+[
+"I save",
+"jeg lagrer"
+],
+[
+"I saved",
+"jeg lagra"
+],
+[
+"I have saved",
+"jeg har lagra"
+],
+[
+"I will save",
+"jeg skal lagre"
+],
+[
+"save!",
+"lagr!"
+]
+],
+"klikke": [
+[
+"to click",
+"å klikke"
+],
+[
+"I click",
+"jeg klikker"
+],
+[
+"I clicked",
+"jeg klikka"
+],
+[
+"I have clicked",
+"jeg har klikka"
+],
+[
+"I will click",
+"jeg skal klikke"
+],
+[
+"click!",
+"klikk!"
+]
+],
+"ake": [
+[
+"to sledge",
+"å ake"
+],
+[
+"I sledge",
+"jeg aker"
+],
+[
+"I sledged",
+"jeg akte"
+],
+[
+"I have sledged",
+"jeg har akt"
+],
+[
+"I will sledge",
+"jeg skal ake"
+],
+[
+"sledge!",
+"ak!"
+]
+],
+"snuble": [
+[
+"to stumble",
+"å snuble"
+],
+[
+"I stumble",
+"jeg snubler"
+],
+[
+"I stumbled",
+"jeg snubla"
+],
+[
+"I have stumbled",
+"jeg har snubla"
+],
+[
+"I will stumble",
+"jeg skal snuble"
+],
+[
+"stumble!",
+"snubl!"
+]
+],
+"gni": [
+[
+"to rub",
+"å gni"
+],
+[
+"I rub",
+"jeg gnir"
+],
+[
+"I rubbed",
+"jeg gned"
+],
+[
+"I have rubbed",
+"jeg har gnidd"
+],
+[
+"I will rub",
+"jeg skal gni"
+],
+[
+"rub!",
+"gni!"
+]
+],
+"grille": [
+[
+"to barbecue",
+"å grille"
+],
+[
+"I barbecue",
+"jeg griller"
+],
+[
+"I barbecued",
+"jeg grilla"
+],
+[
+"I have barbecued",
+"jeg har grilla"
+],
+[
+"I will barbecue",
+"jeg skal grille"
+],
+[
+"barbecue!",
+"grill!"
+]
+],
+"smelle": [
+[
+"to slam",
+"å smelle"
+],
+[
+"I slam",
+"jeg smeller"
+],
+[
+"I slammed",
+"jeg smalt"
+],
+[
+"I have slammed",
+"jeg har smelt"
+],
+[
+"I will slam",
+"jeg skal smelle"
+],
+[
+"slam!",
+"smell!"
+]
+],
+"trøste": [
+[
+"to comfort",
+"å trøste"
+],
+[
+"I comfort",
+"jeg trøster"
+],
+[
+"I comforted",
+"jeg trøsta"
+],
+[
+"I have comforted",
+"jeg har trøsta"
+],
+[
+"I will comfort",
+"jeg skal trøste"
+],
+[
+"comfort!",
+"trøst!"
+]
+],
+"tygge": [
+[
+"to chew",
+"å tygge"
+],
+[
+"I chew",
+"jeg tygger"
+],
+[
+"I chewed",
+"jeg tygga"
+],
+[
+"I have chewed",
+"jeg har tygga"
+],
+[
+"I will chew",
+"jeg skal tygge"
+],
+[
+"chew!",
+"tygg!"
+]
+],
+"fotografere": [
+[
+"to photograph",
+"å fotografere"
+],
+[
+"I photograph",
+"jeg fotograferer"
+],
+[
+"I photographed",
+"jeg fotograferte"
+],
+[
+"I have photographed",
+"jeg har fotografert"
+],
+[
+"I will photograph",
+"jeg skal fotografere"
+],
+[
+"photograph!",
+"fotografer!"
+]
+],
+"hoste_verb": [
+[
+"to cough",
+"å hoste"
+],
+[
+"I cough",
+"jeg hoster"
+],
+[
+"I coughed",
+"jeg hosta"
+],
+[
+"I have coughed",
+"jeg har hosta"
+],
+[
+"I will cough",
+"jeg skal hoste"
+],
+[
+"cough!",
+"host!"
+]
+],
+"vinke": [
+[
+"to wave",
+"å vinke"
+],
+[
+"I wave",
+"jeg vinker"
+],
+[
+"I waved",
+"jeg vinka"
+],
+[
+"I have waved",
+"jeg har vinka"
+],
+[
+"I will wave",
+"jeg skal vinke"
+],
+[
+"wave!",
+"vink!"
+]
+],
+"bremse": [
+[
+"to brake",
+"å bremse"
+],
+[
+"I brake",
+"jeg bremser"
+],
+[
+"I braked",
+"jeg bremsa"
+],
+[
+"I have braked",
+"jeg har bremsa"
+],
+[
+"I will brake",
+"jeg skal bremse"
+],
+[
+"brake!",
+"brems!"
+]
+],
+"høste": [
+[
+"to harvest",
+"å høste"
+],
+[
+"I harvest",
+"jeg høster"
+],
+[
+"I harvested",
+"jeg høsta"
+],
+[
+"I have harvested",
+"jeg har høsta"
+],
+[
+"I will harvest",
+"jeg skal høste"
+],
+[
+"harvest!",
+"høst!"
+]
+],
+"rygge": [
+[
+"to reverse",
+"å rygge"
+],
+[
+"I reverse",
+"jeg rygger"
+],
+[
+"I reversed",
+"jeg rygga"
+],
+[
+"I have reversed",
+"jeg har rygga"
+],
+[
+"I will reverse",
+"jeg skal rygge"
+],
+[
+"reverse!",
+"rygg!"
+]
+],
+"forurense": [
+[
+"to pollute",
+"å forurense"
+],
+[
+"I pollute",
+"jeg forurenser"
+],
+[
+"I polluted",
+"jeg forurensa"
+],
+[
+"I have polluted",
+"jeg har forurensa"
+],
+[
+"I will pollute",
+"jeg skal forurense"
+],
+[
+"pollute!",
+"forurens!"
+]
+],
+"strikke": [
+[
+"to knit",
+"å strikke"
+],
+[
+"I knit",
+"jeg strikker"
+],
+[
+"I knitted",
+"jeg strikka"
+],
+[
+"I have knitted",
+"jeg har strikka"
+],
+[
+"I will knit",
+"jeg skal strikke"
+],
+[
+"knit!",
+"strikk!"
+]
+],
+"nyse": [
+[
+"to sneeze",
+"å nyse"
+],
+[
+"I sneeze",
+"jeg nyser"
+],
+[
+"I sneezed",
+"jeg nøs"
+],
+[
+"I have sneezed",
+"jeg har nyst"
+],
+[
+"I will sneeze",
+"jeg skal nyse"
+],
+[
+"sneeze!",
+"nys!"
+]
+],
+"be_om": [
+[
+"to ask for",
+"å be om"
+],
+[
+"I ask for",
+"jeg ber om"
+],
+[
+"I asked for",
+"jeg ba om"
+],
+[
+"I have asked for",
+"jeg har bedt om"
+],
+[
+"I will ask for",
+"jeg skal be om"
+],
+[
+"ask for!",
+"be om!"
+]
+],
+"gjelde_for": [
+[
+"to apply to",
+"å gjelde for"
+],
+[
+"it applies to",
+"det gjelder for"
+],
+[
+"it applied to",
+"det gjaldt for"
+],
+[
+"it has applied to",
+"det har gjeldt for"
+],
+[
+"it will apply to",
+"det skal gjelde for"
+]
+],
+"tilby_seg": [
+[
+"to offer oneself",
+"å tilby seg"
+],
+[
+"I offer myself",
+"jeg tilbyr meg"
+],
+[
+"I offered myself",
+"jeg tilbød meg"
+],
+[
+"I have offered myself",
+"jeg har tilbudt meg"
+],
+[
+"I will offer myself",
+"jeg skal tilby meg"
+],
+[
+"offer yourself!",
+"tilby deg!"
+]
+],
+"finne_ut": [
+[
+"to find out",
+"å finne ut"
+],
+[
+"I find out",
+"jeg finner ut"
+],
+[
+"I found out",
+"jeg fant ut"
+],
+[
+"I have found out",
+"jeg har funnet ut"
+],
+[
+"I will find out",
+"jeg skal finne ut"
+],
+[
+"find out!",
+"finn ut!"
+]
+],
+"gi_seg": [
+[
+"to give up",
+"å gi seg"
+],
+[
+"I give up",
+"jeg gir meg"
+],
+[
+"I gave up",
+"jeg ga meg"
+],
+[
+"I have given up",
+"jeg har gitt meg"
+],
+[
+"I will give up",
+"jeg skal gi meg"
+],
+[
+"give up!",
+"gi deg!"
+]
+],
+"ta_med": [
+[
+"to bring along",
+"å ta med"
+],
+[
+"I bring along",
+"jeg tar med"
+],
+[
+"I brought along",
+"jeg tok med"
+],
+[
+"I have brought along",
+"jeg har tatt med"
+],
+[
+"I will bring along",
+"jeg skal ta med"
+],
+[
+"bring along!",
+"ta med!"
+]
+],
+"ta_imot": [
+[
+"to receive",
+"å ta imot"
+],
+[
+"I receive",
+"jeg tar imot"
+],
+[
+"I received",
+"jeg tok imot"
+],
+[
+"I have received",
+"jeg har tatt imot"
+],
+[
+"I will receive",
+"jeg skal ta imot"
+],
+[
+"receive!",
+"ta imot!"
+]
+],
+"se_ut": [
+[
+"to look",
+"å se ut"
+],
+[
+"I look",
+"jeg ser ut"
+],
+[
+"I looked",
+"jeg så ut"
+],
+[
+"I have looked",
+"jeg har sett ut"
+],
+[
+"I will look",
+"jeg skal se ut"
+]
+],
+"skrive_under": [
+[
+"to sign",
+"å skrive under"
+],
+[
+"I sign",
+"jeg skriver under"
+],
+[
+"I signed",
+"jeg skrev under"
+],
+[
+"I have signed",
+"jeg har skrevet under"
+],
+[
+"I will sign",
+"jeg skal skrive under"
+],
+[
+"sign!",
+"skriv under!"
+]
+],
+"holde_på": [
+[
+"to be busy doing",
+"å holde på"
+],
+[
+"I am busy doing",
+"jeg holder på"
+],
+[
+"I was busy doing",
+"jeg holdt på"
+],
+[
+"I have been busy doing",
+"jeg har holdt på"
+],
+[
+"I will be busy doing",
+"jeg skal holde på"
+],
+[
+"be busy doing!",
+"hold på!"
+]
+],
+"gå_an": [
+[
+"to be possible",
+"å gå an"
+],
+[
+"it is possible",
+"det går an"
+],
+[
+"it was possible",
+"det gikk an"
+],
+[
+"it has been possible",
+"det har gått an"
+],
+[
+"it will be possible",
+"det skal gå an"
+]
+],
+"komme_seg": [
+[
+"to recover",
+"å komme seg"
+],
+[
+"I recover",
+"jeg kommer meg"
+],
+[
+"I recovered",
+"jeg kom meg"
+],
+[
+"I have recovered",
+"jeg har kommet meg"
+],
+[
+"I will recover",
+"jeg skal komme meg"
+],
+[
+"recover!",
+"kom deg!"
+]
+],
+"sette_seg": [
+[
+"to sit down",
+"å sette seg"
+],
+[
+"I sit down",
+"jeg setter meg"
+],
+[
+"I sat down",
+"jeg satte meg"
+],
+[
+"I have sat down",
+"jeg har satt meg"
+],
+[
+"I will sit down",
+"jeg skal sette meg"
+],
+[
+"sit down!",
+"sett deg!"
+]
+],
+"legge_seg": [
+[
+"to go to bed",
+"å legge seg"
+],
+[
+"I go to bed",
+"jeg legger meg"
+],
+[
+"I went to bed",
+"jeg la meg"
+],
+[
+"I have gone to bed",
+"jeg har lagt meg"
+],
+[
+"I will go to bed",
+"jeg skal legge meg"
+],
+[
+"go to bed!",
+"legg deg!"
+]
+],
+"stå_opp": [
+[
+"to get up",
+"å stå opp"
+],
+[
+"I get up",
+"jeg står opp"
+],
+[
+"I got up",
+"jeg sto opp"
+],
+[
+"I have got up",
+"jeg har stått opp"
+],
+[
+"I will get up",
+"jeg skal stå opp"
+],
+[
+"get up!",
+"stå opp!"
+]
+],
+"slå_av": [
+[
+"to turn off",
+"å slå av"
+],
+[
+"I turn off",
+"jeg slår av"
+],
+[
+"I turned off",
+"jeg slo av"
+],
+[
+"I have turned off",
+"jeg har slått av"
+],
+[
+"I will turn off",
+"jeg skal slå av"
+],
+[
+"turn off!",
+"slå av!"
+]
+],
+"slå_på": [
+[
+"to turn on",
+"å slå på"
+],
+[
+"I turn on",
+"jeg slår på"
+],
+[
+"I turned on",
+"jeg slo på"
+],
+[
+"I have turned on",
+"jeg har slått på"
+],
+[
+"I will turn on",
+"jeg skal slå på"
+],
+[
+"turn on!",
+"slå på!"
+]
+],
+"få_tak_i": [
+[
+"to get hold of",
+"å få tak i"
+],
+[
+"I get hold of",
+"jeg får tak i"
+],
+[
+"I got hold of",
+"jeg fikk tak i"
+],
+[
+"I have got hold of",
+"jeg har fått tak i"
+],
+[
+"I will get hold of",
+"jeg skal få tak i"
+],
+[
+"get hold of!",
+"få tak i!"
+]
+],
+"ha_lyst_på": [
+[
+"to feel like",
+"å ha lyst på"
+],
+[
+"I feel like",
+"jeg har lyst på"
+],
+[
+"I felt like",
+"jeg hadde lyst på"
+],
+[
+"I have felt like",
+"jeg har hatt lyst på"
+],
+[
+"I will feel like",
+"jeg skal ha lyst på"
+]
+],
+"være_med": [
+[
+"to join",
+"å være med"
+],
+[
+"I join",
+"jeg er med"
+],
+[
+"I joined",
+"jeg var med"
+],
+[
+"I have joined",
+"jeg har vært med"
+],
+[
+"I will join",
+"jeg skal være med"
+],
+[
+"join!",
+"vær med!"
+]
+],
+"stole_på": [
+[
+"to rely on",
+"å stole på"
+],
+[
+"I rely on",
+"jeg stoler på"
+],
+[
+"I relied on",
+"jeg stolte på"
+],
+[
+"I have relied on",
+"jeg har stolt på"
+],
+[
+"I will rely on",
+"jeg skal stole på"
+],
+[
+"rely on!",
+"stol på!"
+]
+],
+"kaste_bort": [
+[
+"to waste",
+"å kaste bort"
+],
+[
+"I waste",
+"jeg kaster bort"
+],
+[
+"I wasted",
+"jeg kasta bort"
+],
+[
+"I have wasted",
+"jeg har kasta bort"
+],
+[
+"I will waste",
+"jeg skal kaste bort"
+],
+[
+"waste!",
+"kast bort!"
+]
+],
+"pakke_inn": [
+[
+"to wrap",
+"å pakke inn"
+],
+[
+"I wrap",
+"jeg pakker inn"
+],
+[
+"I wrapped",
+"jeg pakka inn"
+],
+[
+"I have wrapped",
+"jeg har pakka inn"
+],
+[
+"I will wrap",
+"jeg skal pakke inn"
+],
+[
+"wrap!",
+"pakk inn!"
+]
+],
+"rydde_opp": [
+[
+"to clean up",
+"å rydde opp"
+],
+[
+"I clean up",
+"jeg rydder opp"
+],
+[
+"I cleaned up",
+"jeg rydda opp"
+],
+[
+"I have cleaned up",
+"jeg har rydda opp"
+],
+[
+"I will clean up",
+"jeg skal rydde opp"
+],
+[
+"clean up!",
+"rydd opp!"
+]
+],
+"hoppe_over": [
+[
+"to skip",
+"å hoppe over"
+],
+[
+"I skip",
+"jeg hopper over"
+],
+[
+"I skipped",
+"jeg hoppa over"
+],
+[
+"I have skipped",
+"jeg har hoppa over"
+],
+[
+"I will skip",
+"jeg skal hoppe over"
+],
+[
+"skip!",
+"hopp over!"
+]
+],
+"passe_på": [
+[
+"to look after",
+"å passe på"
+],
+[
+"I look after",
+"jeg passer på"
+],
+[
+"I looked after",
+"jeg passa på"
+],
+[
+"I have looked after",
+"jeg har passa på"
+],
+[
+"I will look after",
+"jeg skal passe på"
+],
+[
+"look after!",
+"pass på!"
+]
+],
+"snakke_om": [
+[
+"to talk about",
+"å snakke om"
+],
+[
+"I talk about",
+"jeg snakker om"
+],
+[
+"I talked about",
+"jeg snakka om"
+],
+[
+"I have talked about",
+"jeg har snakka om"
+],
+[
+"I will talk about",
+"jeg skal snakke om"
+],
+[
+"talk about!",
+"snakk om!"
+]
+],
+"høre_på": [
+[
+"to listen to",
+"å høre på"
+],
+[
+"I listen to",
+"jeg hører på"
+],
+[
+"I listened to",
+"jeg hørte på"
+],
+[
+"I have listened to",
+"jeg har hørt på"
+],
+[
+"I will listen to",
+"jeg skal høre på"
+],
+[
+"listen to!",
+"hør på!"
+]
+],
+"bo_sammen": [
+[
+"to live together",
+"å bo sammen"
+],
+[
+"I live together",
+"jeg bor sammen"
+],
+[
+"I lived together",
+"jeg bodde sammen"
+],
+[
+"I have lived together",
+"jeg har bodd sammen"
+],
+[
+"I will live together",
+"jeg skal bo sammen"
+],
+[
+"live together!",
+"bo sammen!"
+]
+],
+"levere_inn": [
+[
+"to hand in",
+"å levere inn"
+],
+[
+"I hand in",
+"jeg leverer inn"
+],
+[
+"I handed in",
+"jeg leverte inn"
+],
+[
+"I have handed in",
+"jeg har levert inn"
+],
+[
+"I will hand in",
+"jeg skal levere inn"
+],
+[
+"hand in!",
+"lever inn!"
+]
+],
+"dukke_opp": [
+[
+"to show up",
+"å dukke opp"
+],
+[
+"I show up",
+"jeg dukker opp"
+],
+[
+"I showed up",
+"jeg dukka opp"
+],
+[
+"I have shown up",
+"jeg har dukka opp"
+],
+[
+"I will show up",
+"jeg skal dukke opp"
+],
+[
+"show up!",
+"dukk opp!"
+]
+],
+"vise_fram": [
+[
+"to show off",
+"å vise fram"
+],
+[
+"I show off",
+"jeg viser fram"
+],
+[
+"I showed off",
+"jeg viste fram"
+],
+[
+"I have shown off",
+"jeg har vist fram"
+],
+[
+"I will show off",
+"jeg skal vise fram"
+],
+[
+"show off!",
+"vis fram!"
+]
+],
+"tørre_ut": [
+[
+"to dry out",
+"å tørre ut"
+],
+[
+"I dry out",
+"jeg tørrer ut"
+],
+[
+"I dried out",
+"jeg tørra ut"
+],
+[
+"I have dried out",
+"jeg har tørra ut"
+],
+[
+"I will dry out",
+"jeg skal tørre ut"
+],
+[
+"dry out!",
+"tørr ut!"
+]
+],
+"låse_opp": [
+[
+"to unlock",
+"å låse opp"
+],
+[
+"I unlock",
+"jeg låser opp"
+],
+[
+"I unlocked",
+"jeg låste opp"
+],
+[
+"I have unlocked",
+"jeg har låst opp"
+],
+[
+"I will unlock",
+"jeg skal låse opp"
+],
+[
+"unlock!",
+"lås opp!"
+]
+],
+"bygge_om": [
+[
+"to rebuild",
+"å bygge om"
+],
+[
+"I rebuild",
+"jeg bygger om"
+],
+[
+"I rebuilt",
+"jeg bygde om"
+],
+[
+"I have rebuilt",
+"jeg har bygd om"
+],
+[
+"I will rebuild",
+"jeg skal bygge om"
+],
+[
+"rebuild!",
+"bygg om!"
+]
+],
+"regne_med": [
+[
+"to count on",
+"å regne med"
+],
+[
+"I count on",
+"jeg regner med"
+],
+[
+"I counted on",
+"jeg regna med"
+],
+[
+"I have counted on",
+"jeg har regna med"
+],
+[
+"I will count on",
+"jeg skal regne med"
+],
+[
+"count on!",
+"regn med!"
+]
+],
+"lete_etter": [
+[
+"to look for",
+"å lete etter"
+],
+[
+"I look for",
+"jeg leter etter"
+],
+[
+"I looked for",
+"jeg lette etter"
+],
+[
+"I have looked for",
+"jeg har lett etter"
+],
+[
+"I will look for",
+"jeg skal lete etter"
+],
+[
+"look for!",
+"let etter!"
+]
+],
+"ta_vare_på": [
+[
+"to take care of",
+"å ta vare på"
+],
+[
+"I take care of",
+"jeg tar vare på"
+],
+[
+"I took care of",
+"jeg tok vare på"
+],
+[
+"I have taken care of",
+"jeg har tatt vare på"
+],
+[
+"I will take care of",
+"jeg skal ta vare på"
+],
+[
+"take care of!",
+"ta vare på!"
+]
+],
+"sette_pris_på": [
+[
+"to appreciate",
+"å sette pris på"
+],
+[
+"I appreciate",
+"jeg setter pris på"
+],
+[
+"I appreciated",
+"jeg satte pris på"
+],
+[
+"I have appreciated",
+"jeg har satt pris på"
+],
+[
+"I will appreciate",
+"jeg skal sette pris på"
+],
+[
+"appreciate!",
+"sett pris på!"
+]
+],
+"gå_glipp_av": [
+[
+"to miss out on",
+"å gå glipp av"
+],
+[
+"I miss out on",
+"jeg går glipp av"
+],
+[
+"I missed out on",
+"jeg gikk glipp av"
+],
+[
+"I have missed out on",
+"jeg har gått glipp av"
+],
+[
+"I will miss out on",
+"jeg skal gå glipp av"
+],
+[
+"miss out on!",
+"gå glipp av!"
+]
+],
+"bli_kvitt": [
+[
+"to get rid of",
+"å bli kvitt"
+],
+[
+"I get rid of",
+"jeg blir kvitt"
+],
+[
+"I got rid of",
+"jeg ble kvitt"
+],
+[
+"I have got rid of",
+"jeg har blitt kvitt"
+],
+[
+"I will get rid of",
+"jeg skal bli kvitt"
+],
+[
+"get rid of!",
+"bli kvitt!"
+]
+],
+"komme_til_å": [
+[
+"to be going to",
+"å komme til å"
+],
+[
+"I am going to",
+"jeg kommer til å"
+],
+[
+"I was going to",
+"jeg kom til å"
+],
+[
+"I have been going to",
+"jeg har kommet til å"
+],
+[
+"I will be going to",
+"jeg skal komme til å"
+]
+],
+"sørge_for": [
+[
+"to make sure",
+"å sørge for"
+],
+[
+"I make sure",
+"jeg sørger for"
+],
+[
+"I made sure",
+"jeg sørga for"
+],
+[
+"I have made sure",
+"jeg har sørga for"
+],
+[
+"I will make sure",
+"jeg skal sørge for"
+],
+[
+"make sure!",
+"sørg for!"
+]
+],
+"gi_opp": [
+[
+"to give up",
+"å gi opp"
+],
+[
+"I give up",
+"jeg gir opp"
+],
+[
+"I gave up",
+"jeg ga opp"
+],
+[
+"I have given up",
+"jeg har gitt opp"
+],
+[
+"I will give up",
+"jeg skal gi opp"
+],
+[
+"give up!",
+"gi opp!"
+]
+],
+"hvile_seg": [
+[
+"to rest",
+"å hvile seg"
+],
+[
+"I rest",
+"jeg hviler meg"
+],
+[
+"I rested",
+"jeg hvilte meg"
+],
+[
+"I have rested",
+"jeg har hvilt meg"
+],
+[
+"I will rest",
+"jeg skal hvile meg"
+],
+[
+"rest!",
+"hvil deg!"
+]
+],
+"kle_av": [
+[
+"to undress",
+"å kle av"
+],
+[
+"I undress",
+"jeg kler av"
+],
+[
+"I undressed",
+"jeg kledde av"
+],
+[
+"I have undressed",
+"jeg har kledd av"
+],
+[
+"I will undress",
+"jeg skal kle av"
+],
+[
+"undress!",
+"kle av!"
+]
+],
+"dra_i": [
+[
+"to pull on",
+"å dra i"
+],
+[
+"I pull on",
+"jeg drar i"
+],
+[
+"I pulled on",
+"jeg dro i"
+],
+[
+"I have pulled on",
+"jeg har dratt i"
+],
+[
+"I will pull on",
+"jeg skal dra i"
+],
+[
+"pull on!",
+"dra i!"
+]
+],
+"dele_ut": [
+[
+"to hand out",
+"å dele ut"
+],
+[
+"I hand out",
+"jeg deler ut"
+],
+[
+"I handed out",
+"jeg delte ut"
+],
+[
+"I have handed out",
+"jeg har delt ut"
+],
+[
+"I will hand out",
+"jeg skal dele ut"
+],
+[
+"hand out!",
+"del ut!"
+]
+],
+"telle_opp": [
+[
+"to count up",
+"å telle opp"
+],
+[
+"I count up",
+"jeg teller opp"
+],
+[
+"I counted up",
+"jeg talte opp"
+],
+[
+"I have counted up",
+"jeg har talt opp"
+],
+[
+"I will count up",
+"jeg skal telle opp"
+],
+[
+"count up!",
+"tell opp!"
+]
+],
+"tømme_ut": [
+[
+"to pour out",
+"å tømme ut"
+],
+[
+"I pour out",
+"jeg tømmer ut"
+],
+[
+"I poured out",
+"jeg tømte ut"
+],
+[
+"I have poured out",
+"jeg har tømt ut"
+],
+[
+"I will pour out",
+"jeg skal tømme ut"
+],
+[
+"pour out!",
+"tøm ut!"
+]
+],
+"varme_opp": [
+[
+"to heat up",
+"å varme opp"
+],
+[
+"I heat up",
+"jeg varmer opp"
+],
+[
+"I heated up",
+"jeg varma opp"
+],
+[
+"I have heated up",
+"jeg har varma opp"
+],
+[
+"I will heat up",
+"jeg skal varme opp"
+],
+[
+"heat up!",
+"varm opp!"
+]
+],
+"kjøle_ned": [
+[
+"to cool down",
+"å kjøle ned"
+],
+[
+"I cool down",
+"jeg kjøler ned"
+],
+[
+"I cooled down",
+"jeg kjølte ned"
+],
+[
+"I have cooled down",
+"jeg har kjølt ned"
+],
+[
+"I will cool down",
+"jeg skal kjøle ned"
+],
+[
+"cool down!",
+"kjøl ned!"
+]
+],
+"love_bort": [
+[
+"to promise away",
+"å love bort"
+],
+[
+"I promise away",
+"jeg lover bort"
+],
+[
+"I promised away",
+"jeg lova bort"
+],
+[
+"I have promised away",
+"jeg har lova bort"
+],
+[
+"I will promise away",
+"jeg skal love bort"
+],
+[
+"promise away!",
+"lov bort!"
+]
+],
+"stemme_for": [
+[
+"to vote for",
+"å stemme for"
+],
+[
+"I vote for",
+"jeg stemmer for"
+],
+[
+"I voted for",
+"jeg stemte for"
+],
+[
+"I have voted for",
+"jeg har stemt for"
+],
+[
+"I will vote for",
+"jeg skal stemme for"
+],
+[
+"vote for!",
+"stem for!"
+]
+],
+"telle_med": [
+[
+"to count",
+"å telle med"
+],
+[
+"I count",
+"jeg teller med"
+],
+[
+"I counted",
+"jeg talte med"
+],
+[
+"I have counted",
+"jeg har talt med"
+],
+[
+"I will count",
+"jeg skal telle med"
+],
+[
+"count!",
+"tell med!"
+]
+],
+"vare_ved": [
+[
+"to last",
+"å vare ved"
+],
+[
+"it lasts",
+"det varer ved"
+],
+[
+"it lasted",
+"det varte ved"
+],
+[
+"it has lasted",
+"det har vart ved"
+],
+[
+"it will last",
+"det skal vare ved"
+]
+],
+"låne_bort": [
+[
+"to lend",
+"å låne bort"
+],
+[
+"I lend",
+"jeg låner bort"
+],
+[
+"I lent",
+"jeg lånte bort"
+],
+[
+"I have lent",
+"jeg har lånt bort"
+],
+[
+"I will lend",
+"jeg skal låne bort"
+],
+[
+"lend!",
+"lån bort!"
+]
+],
+"melde_seg": [
+[
+"to sign up",
+"å melde seg"
+],
+[
+"I sign up",
+"jeg melder meg"
+],
+[
+"I signed up",
+"jeg meldte meg"
+],
+[
+"I have signed up",
+"jeg har meldt meg"
+],
+[
+"I will sign up",
+"jeg skal melde meg"
+],
+[
+"sign up!",
+"meld deg!"
+]
+],
+"møte_opp": [
+[
+"to turn up",
+"å møte opp"
+],
+[
+"I turn up",
+"jeg møter opp"
+],
+[
+"I turned up",
+"jeg møtte opp"
+],
+[
+"I have turned up",
+"jeg har møtt opp"
+],
+[
+"I will turn up",
+"jeg skal møte opp"
+],
+[
+"turn up!",
+"møt opp!"
+]
+],
+"ringe_tilbake": [
+[
+"to call back",
+"å ringe tilbake"
+],
+[
+"I call back",
+"jeg ringer tilbake"
+],
+[
+"I called back",
+"jeg ringte tilbake"
+],
+[
+"I have called back",
+"jeg har ringt tilbake"
+],
+[
+"I will call back",
+"jeg skal ringe tilbake"
+],
+[
+"call back!",
+"ring tilbake!"
+]
+],
+"sjekke_inn": [
+[
+"to check in",
+"å sjekke inn"
+],
+[
+"I check in",
+"jeg sjekker inn"
+],
+[
+"I checked in",
+"jeg sjekka inn"
+],
+[
+"I have checked in",
+"jeg har sjekka inn"
+],
+[
+"I will check in",
+"jeg skal sjekke inn"
+],
+[
+"check in!",
+"sjekk inn!"
+]
+],
+"sjekke_ut": [
+[
+"to check out",
+"å sjekke ut"
+],
+[
+"I check out",
+"jeg sjekker ut"
+],
+[
+"I checked out",
+"jeg sjekka ut"
+],
+[
+"I have checked out",
+"jeg har sjekka ut"
+],
+[
+"I will check out",
+"jeg skal sjekke ut"
+],
+[
+"check out!",
+"sjekk ut!"
+]
+],
+"gjøre_rent": [
+[
+"to clean",
+"å gjøre rent"
+],
+[
+"I clean",
+"jeg gjør rent"
+],
+[
+"I cleaned",
+"jeg gjorde rent"
+],
+[
+"I have cleaned",
+"jeg har gjort rent"
+],
+[
+"I will clean",
+"jeg skal gjøre rent"
+],
+[
+"clean!",
+"gjør rent!"
+]
+],
+"ta_en_pause": [
+[
+"to take a break",
+"å ta en pause"
+],
+[
+"I take a break",
+"jeg tar en pause"
+],
+[
+"I took a break",
+"jeg tok en pause"
+],
+[
+"I have taken a break",
+"jeg har tatt en pause"
+],
+[
+"I will take a break",
+"jeg skal ta en pause"
+],
+[
+"take a break!",
+"ta en pause!"
+]
+],
+"ha_det_travelt": [
+[
+"to be busy",
+"å ha det travelt"
+],
+[
+"I am busy",
+"jeg har det travelt"
+],
+[
+"I was busy",
+"jeg hadde det travelt"
+],
+[
+"I have been busy",
+"jeg har hatt det travelt"
+],
+[
+"I will be busy",
+"jeg skal ha det travelt"
+],
+[
+"be busy!",
+"ha det travelt!"
+]
+],
+"gå_av": [
+[
+"to get off",
+"å gå av"
+],
+[
+"I get off",
+"jeg går av"
+],
+[
+"I got off",
+"jeg gikk av"
+],
+[
+"I have got off",
+"jeg har gått av"
+],
+[
+"I will get off",
+"jeg skal gå av"
+],
+[
+"get off!",
+"gå av!"
+]
+],
+"gå_på": [
+[
+"to get on",
+"å gå på"
+],
+[
+"I get on",
+"jeg går på"
+],
+[
+"I got on",
+"jeg gikk på"
+],
+[
+"I have got on",
+"jeg har gått på"
+],
+[
+"I will get on",
+"jeg skal gå på"
+],
+[
+"get on!",
+"gå på!"
+]
+],
+"stille_inn": [
+[
+"to set",
+"å stille inn"
+],
+[
+"I set",
+"jeg stiller inn"
+],
+[
+"I set",
+"jeg stilte inn"
+],
+[
+"I have set",
+"jeg har stilt inn"
+],
+[
+"I will set",
+"jeg skal stille inn"
+],
+[
+"set!",
+"still inn!"
+]
+],
+"stille_spørsmål": [
+[
+"to ask a question",
+"å stille spørsmål"
+],
+[
+"I ask a question",
+"jeg stiller spørsmål"
+],
+[
+"I asked a question",
+"jeg stilte spørsmål"
+],
+[
+"I have asked a question",
+"jeg har stilt spørsmål"
+],
+[
+"I will ask a question",
+"jeg skal stille spørsmål"
+],
+[
+"ask a question!",
+"still spørsmål!"
+]
+],
+"lure_på": [
+[
+"to wonder",
+"å lure på"
+],
+[
+"I wonder",
+"jeg lurer på"
+],
+[
+"I wondered",
+"jeg lurte på"
+],
+[
+"I have wondered",
+"jeg har lurt på"
+],
+[
+"I will wonder",
+"jeg skal lure på"
+],
+[
+"wonder!",
+"lur på!"
+]
+],
+"glede_seg_til": [
+[
+"to look forward to",
+"å glede seg til"
+],
+[
+"I look forward to",
+"jeg gleder meg til"
+],
+[
+"I looked forward to",
+"jeg gleda meg til"
+],
+[
+"I have looked forward to",
+"jeg har gleda meg til"
+],
+[
+"I will look forward to",
+"jeg skal glede meg til"
+],
+[
+"look forward to!",
+"gled deg til!"
+]
+],
+"ha_råd_til": [
+[
+"to afford",
+"å ha råd til"
+],
+[
+"I afford",
+"jeg har råd til"
+],
+[
+"I afforded",
+"jeg hadde råd til"
+],
+[
+"I have afforded",
+"jeg har hatt råd til"
+],
+[
+"I will afford",
+"jeg skal ha råd til"
+],
+[
+"afford!",
+"ha råd til!"
+]
+],
+"ha_rett": [
+[
+"to be right",
+"å ha rett"
+],
+[
+"I am right",
+"jeg har rett"
+],
+[
+"I was right",
+"jeg hadde rett"
+],
+[
+"I have been right",
+"jeg har hatt rett"
+],
+[
+"I will be right",
+"jeg skal ha rett"
+],
+[
+"be right!",
+"ha rett!"
+]
+],
+"ta_feil": [
+[
+"to be wrong",
+"å ta feil"
+],
+[
+"I am wrong",
+"jeg tar feil"
+],
+[
+"I was wrong",
+"jeg tok feil"
+],
+[
+"I have been wrong",
+"jeg har tatt feil"
+],
+[
+"I will be wrong",
+"jeg skal ta feil"
+],
+[
+"be wrong!",
+"ta feil!"
+]
+],
+"være_enig": [
+[
+"to agree",
+"å være enig"
+],
+[
+"I agree",
+"jeg er enig"
+],
+[
+"I agreed",
+"jeg var enig"
+],
+[
+"I have agreed",
+"jeg har vært enig"
+],
+[
+"I will agree",
+"jeg skal være enig"
+],
+[
+"agree!",
+"vær enig!"
+]
+],
+"være_lei_seg": [
+[
+"to be sad",
+"å være lei seg"
+],
+[
+"I am sad",
+"jeg er lei meg"
+],
+[
+"I was sad",
+"jeg var lei meg"
+],
+[
+"I have been sad",
+"jeg har vært lei meg"
+],
+[
+"I will be sad",
+"jeg skal være lei meg"
+],
+[
+"be sad!",
+"vær lei deg!"
+]
+],
+"holde_ut": [
+[
+"to endure",
+"å holde ut"
+],
+[
+"I endure",
+"jeg holder ut"
+],
+[
+"I endured",
+"jeg holdt ut"
+],
+[
+"I have endured",
+"jeg har holdt ut"
+],
+[
+"I will endure",
+"jeg skal holde ut"
+],
+[
+"endure!",
+"hold ut!"
+]
+],
+"slå_seg": [
+[
+"to hurt oneself",
+"å slå seg"
+],
+[
+"I hurt myself",
+"jeg slår meg"
+],
+[
+"I hurt myself",
+"jeg slo meg"
+],
+[
+"I have hurt myself",
+"jeg har slått meg"
+],
+[
+"I will hurt myself",
+"jeg skal slå meg"
+],
+[
+"hurt yourself!",
+"slå deg!"
+]
+],
+"kjenne_på": [
+[
+"to feel",
+"å kjenne på"
+],
+[
+"I feel",
+"jeg kjenner på"
+],
+[
+"I felt",
+"jeg kjente på"
+],
+[
+"I have felt",
+"jeg har kjent på"
+],
+[
+"I will feel",
+"jeg skal kjenne på"
+],
+[
+"feel!",
+"kjenn på!"
+]
+],
+"kaste_opp": [
+[
+"to throw up",
+"å kaste opp"
+],
+[
+"I throw up",
+"jeg kaster opp"
+],
+[
+"I threw up",
+"jeg kasta opp"
+],
+[
+"I have thrown up",
+"jeg har kasta opp"
+],
+[
+"I will throw up",
+"jeg skal kaste opp"
+],
+[
+"throw up!",
+"kast opp!"
+]
+],
+"tørke_opp": [
+[
+"to wipe up",
+"å tørke opp"
+],
+[
+"I wipe up",
+"jeg tørker opp"
+],
+[
+"I wiped up",
+"jeg tørka opp"
+],
+[
+"I have wiped up",
+"jeg har tørka opp"
+],
+[
+"I will wipe up",
+"jeg skal tørke opp"
+],
+[
+"wipe up!",
+"tørk opp!"
+]
+],
+"pusse_opp": [
+[
+"to renovate",
+"å pusse opp"
+],
+[
+"I renovate",
+"jeg pusser opp"
+],
+[
+"I renovated",
+"jeg pussa opp"
+],
+[
+"I have renovated",
+"jeg har pussa opp"
+],
+[
+"I will renovate",
+"jeg skal pusse opp"
+],
+[
+"renovate!",
+"puss opp!"
+]
+],
+"koste_på": [
+[
+"to spend on",
+"å koste på"
+],
+[
+"I spend on",
+"jeg koster på"
+],
+[
+"I spent on",
+"jeg kosta på"
+],
+[
+"I have spent on",
+"jeg har kosta på"
+],
+[
+"I will spend on",
+"jeg skal koste på"
+],
+[
+"spend on!",
+"kost på!"
+]
+],
+"handle_inn": [
+[
+"to shop",
+"å handle inn"
+],
+[
+"I shop",
+"jeg handler inn"
+],
+[
+"I shopped",
+"jeg handla inn"
+],
+[
+"I have shopped",
+"jeg har handla inn"
+],
+[
+"I will shop",
+"jeg skal handle inn"
+],
+[
+"shop!",
+"handl inn!"
+]
+],
+"bytte_om": [
+[
+"to swap around",
+"å bytte om"
+],
+[
+"I swap around",
+"jeg bytter om"
+],
+[
+"I swapped around",
+"jeg bytta om"
+],
+[
+"I have swapped around",
+"jeg har bytta om"
+],
+[
+"I will swap around",
+"jeg skal bytte om"
+],
+[
+"swap around!",
+"bytt om!"
+]
+],
+"kjøre_på": [
+[
+"to run into",
+"å kjøre på"
+],
+[
+"I run into",
+"jeg kjører på"
+],
+[
+"I ran into",
+"jeg kjørte på"
+],
+[
+"I have run into",
+"jeg har kjørt på"
+],
+[
+"I will run into",
+"jeg skal kjøre på"
+],
+[
+"run into!",
+"kjør på!"
+]
+],
+"kjøre_inn": [
+[
+"to drive in",
+"å kjøre inn"
+],
+[
+"I drive in",
+"jeg kjører inn"
+],
+[
+"I drove in",
+"jeg kjørte inn"
+],
+[
+"I have driven in",
+"jeg har kjørt inn"
+],
+[
+"I will drive in",
+"jeg skal kjøre inn"
+],
+[
+"drive in!",
+"kjør inn!"
+]
+],
+"fylle_bensin": [
+[
+"to fill up petrol",
+"å fylle bensin"
+],
+[
+"I fill up petrol",
+"jeg fyller bensin"
+],
+[
+"I filled up petrol",
+"jeg fylte bensin"
+],
+[
+"I have filled up petrol",
+"jeg har fylt bensin"
+],
+[
+"I will fill up petrol",
+"jeg skal fylle bensin"
+],
+[
+"fill up petrol!",
+"fyll bensin!"
+]
+],
+"skifte_dekk": [
+[
+"to change tyres",
+"å skifte dekk"
+],
+[
+"I change tyres",
+"jeg skifter dekk"
+],
+[
+"I changed tyres",
+"jeg skifta dekk"
+],
+[
+"I have changed tyres",
+"jeg har skifta dekk"
+],
+[
+"I will change tyres",
+"jeg skal skifte dekk"
+],
+[
+"change tyres!",
+"skift dekk!"
+]
+],
+"le_av": [
+[
+"to laugh at",
+"å le av"
+],
+[
+"I laugh at",
+"jeg ler av"
+],
+[
+"I laughed at",
+"jeg lo av"
+],
+[
+"I have laughed at",
+"jeg har ledd av"
+],
+[
+"I will laugh at",
+"jeg skal le av"
+],
+[
+"laugh at!",
+"le av!"
+]
+],
+"sette_i_gang": [
+[
+"to get started",
+"å sette i gang"
+],
+[
+"I get started",
+"jeg setter i gang"
+],
+[
+"I got started",
+"jeg satte i gang"
+],
+[
+"I have got started",
+"jeg har satt i gang"
+],
+[
+"I will get started",
+"jeg skal sette i gang"
+],
+[
+"get started!",
+"sett i gang!"
+]
+],
+"gå_gjennom": [
+[
+"to go through",
+"å gå gjennom"
+],
+[
+"I go through",
+"jeg går gjennom"
+],
+[
+"I went through",
+"jeg gikk gjennom"
+],
+[
+"I have gone through",
+"jeg har gått gjennom"
+],
+[
+"I will go through",
+"jeg skal gå gjennom"
+],
+[
+"go through!",
+"gå gjennom!"
+]
+],
+"slå_opp": [
+[
+"to look up",
+"å slå opp"
+],
+[
+"I look up",
+"jeg slår opp"
+],
+[
+"I looked up",
+"jeg slo opp"
+],
+[
+"I have looked up",
+"jeg har slått opp"
+],
+[
+"I will look up",
+"jeg skal slå opp"
+],
+[
+"look up!",
+"slå opp!"
+]
+],
+"skrive_ned": [
+[
+"to write down",
+"å skrive ned"
+],
+[
+"I write down",
+"jeg skriver ned"
+],
+[
+"I wrote down",
+"jeg skrev ned"
+],
+[
+"I have written down",
+"jeg har skrevet ned"
+],
+[
+"I will write down",
+"jeg skal skrive ned"
+],
+[
+"write down!",
+"skriv ned!"
+]
+],
+"lese_gjennom": [
+[
+"to read through",
+"å lese gjennom"
+],
+[
+"I read through",
+"jeg leser gjennom"
+],
+[
+"I read through",
+"jeg leste gjennom"
+],
+[
+"I have read through",
+"jeg har lest gjennom"
+],
+[
+"I will read through",
+"jeg skal lese gjennom"
+],
+[
+"read through!",
+"les gjennom!"
+]
+],
+"laste_ned": [
+[
+"to download",
+"å laste ned"
+],
+[
+"I download",
+"jeg laster ned"
+],
+[
+"I downloaded",
+"jeg lasta ned"
+],
+[
+"I have downloaded",
+"jeg har lasta ned"
+],
+[
+"I will download",
+"jeg skal laste ned"
+],
+[
+"download!",
+"last ned!"
+]
+],
+"laste_opp": [
+[
+"to upload",
+"å laste opp"
+],
+[
+"I upload",
+"jeg laster opp"
+],
+[
+"I uploaded",
+"jeg lasta opp"
+],
+[
+"I have uploaded",
+"jeg har lasta opp"
+],
+[
+"I will upload",
+"jeg skal laste opp"
+],
+[
+"upload!",
+"last opp!"
+]
+],
+"logge_inn": [
+[
+"to log in",
+"å logge inn"
+],
+[
+"I log in",
+"jeg logger inn"
+],
+[
+"I logged in",
+"jeg logga inn"
+],
+[
+"I have logged in",
+"jeg har logga inn"
+],
+[
+"I will log in",
+"jeg skal logge inn"
+],
+[
+"log in!",
+"logg inn!"
+]
+],
+"logge_ut": [
+[
+"to log out",
+"å logge ut"
+],
+[
+"I log out",
+"jeg logger ut"
+],
+[
+"I logged out",
+"jeg logga ut"
+],
+[
+"I have logged out",
+"jeg har logga ut"
+],
+[
+"I will log out",
+"jeg skal logge ut"
+],
+[
+"log out!",
+"logg ut!"
+]
+],
+"trykke_på": [
+[
+"to press",
+"å trykke på"
+],
+[
+"I press",
+"jeg trykker på"
+],
+[
+"I pressed",
+"jeg trykka på"
+],
+[
+"I have pressed",
+"jeg har trykka på"
+],
+[
+"I will press",
+"jeg skal trykke på"
+],
+[
+"press!",
+"trykk på!"
+]
+],
+"søke_på": [
+[
+"to search for",
+"å søke på"
+],
+[
+"I search for",
+"jeg søker på"
+],
+[
+"I searched for",
+"jeg søkte på"
+],
+[
+"I have searched for",
+"jeg har søkt på"
+],
+[
+"I will search for",
+"jeg skal søke på"
+],
+[
+"search for!",
+"søk på!"
+]
+],
+"sende_inn": [
+[
+"to submit",
+"å sende inn"
+],
+[
+"I submit",
+"jeg sender inn"
+],
+[
+"I submitted",
+"jeg sendte inn"
+],
+[
+"I have submitted",
+"jeg har sendt inn"
+],
+[
+"I will submit",
+"jeg skal sende inn"
+],
+[
+"submit!",
+"send inn!"
+]
+],
+"fylle_ut": [
+[
+"to fill in",
+"å fylle ut"
+],
+[
+"I fill in",
+"jeg fyller ut"
+],
+[
+"I filled in",
+"jeg fylte ut"
+],
+[
+"I have filled in",
+"jeg har fylt ut"
+],
+[
+"I will fill in",
+"jeg skal fylle ut"
+],
+[
+"fill in!",
+"fyll ut!"
+]
+],
+"krysse_av": [
+[
+"to tick",
+"å krysse av"
+],
+[
+"I tick",
+"jeg krysser av"
+],
+[
+"I ticked",
+"jeg kryssa av"
+],
+[
+"I have ticked",
+"jeg har kryssa av"
+],
+[
+"I will tick",
+"jeg skal krysse av"
+],
+[
+"tick!",
+"kryss av!"
+]
+],
+"gå_på_ski": [
+[
+"to ski",
+"å gå på ski"
+],
+[
+"I ski",
+"jeg går på ski"
+],
+[
+"I skied",
+"jeg gikk på ski"
+],
+[
+"I have skied",
+"jeg har gått på ski"
+],
+[
+"I will ski",
+"jeg skal gå på ski"
+],
+[
+"ski!",
+"gå på ski!"
+]
+],
+"gå_på_skøyter": [
+[
+"to skate",
+"å gå på skøyter"
+],
+[
+"I skate",
+"jeg går på skøyter"
+],
+[
+"I skated",
+"jeg gikk på skøyter"
+],
+[
+"I have skated",
+"jeg har gått på skøyter"
+],
+[
+"I will skate",
+"jeg skal gå på skøyter"
+],
+[
+"skate!",
+"gå på skøyter!"
+]
+],
+"tenne_bål": [
+[
+"to light a fire",
+"å tenne bål"
+],
+[
+"I light a fire",
+"jeg tenner bål"
+],
+[
+"I lit a fire",
+"jeg tente bål"
+],
+[
+"I have lit a fire",
+"jeg har tent bål"
+],
+[
+"I will light a fire",
+"jeg skal tenne bål"
+],
+[
+"light a fire!",
+"tenn bål!"
+]
+],
+"avhenge_av": [
+[
+"to depend on",
+"å avhenge av"
+],
+[
+"I depend on",
+"jeg avhenger av"
+],
+[
+"I depended on",
+"jeg avhang av"
+],
+[
+"I have depended on",
+"jeg har avhengt av"
+],
+[
+"I will depend on",
+"jeg skal avhenge av"
+],
+[
+"depend on!",
+"avheng av!"
+]
+],
+"snø_verb": [
+[
+"to snow",
+"å snø"
+],
+[
+"it snows",
+"det snør"
+],
+[
+"it snowed",
+"det snødde"
+],
+[
+"it has snowed",
+"det har snødd"
+],
+[
+"it will snow",
+"det skal snø"
+]
+],
+"hakke": [
+[
+"to chop",
+"å hakke"
+],
+[
+"I chop",
+"jeg hakker"
+],
+[
+"I chopped",
+"jeg hakka"
+],
+[
+"I have chopped",
+"jeg har hakka"
+],
+[
+"I will chop",
+"jeg skal hakke"
+],
+[
+"chop!",
+"hakk!"
+]
+],
+"skrelle": [
+[
+"to peel",
+"å skrelle"
+],
+[
+"I peel",
+"jeg skreller"
+],
+[
+"I peeled",
+"jeg skrella"
+],
+[
+"I have peeled",
+"jeg har skrella"
+],
+[
+"I will peel",
+"jeg skal skrelle"
+],
+[
+"peel!",
+"skrell!"
+]
+],
+"blande": [
+[
+"to mix",
+"å blande"
+],
+[
+"I mix",
+"jeg blander"
+],
+[
+"I mixed",
+"jeg blanda"
+],
+[
+"I have mixed",
+"jeg har blanda"
+],
+[
+"I will mix",
+"jeg skal blande"
+],
+[
+"mix!",
+"bland!"
+]
+],
+"tine": [
+[
+"to thaw",
+"å tine"
+],
+[
+"I thaw",
+"jeg tiner"
+],
+[
+"I thawed",
+"jeg tinte"
+],
+[
+"I have thawed",
+"jeg har tint"
+],
+[
+"I will thaw",
+"jeg skal tine"
+],
+[
+"thaw!",
+"tin!"
+]
+],
+"støvsuge": [
+[
+"to vacuum",
+"å støvsuge"
+],
+[
+"I vacuum",
+"jeg støvsuger"
+],
+[
+"I vacuumed",
+"jeg støvsuga"
+],
+[
+"I have vacuumed",
+"jeg har støvsuga"
+],
+[
+"I will vacuum",
+"jeg skal støvsuge"
+],
+[
+"vacuum!",
+"støvsug!"
+]
+],
+"skrubbe": [
+[
+"to scrub",
+"å skrubbe"
+],
+[
+"I scrub",
+"jeg skrubber"
+],
+[
+"I scrubbed",
+"jeg skrubba"
+],
+[
+"I have scrubbed",
+"jeg har skrubba"
+],
+[
+"I will scrub",
+"jeg skal skrubbe"
+],
+[
+"scrub!",
+"skrubb!"
+]
+],
+"sortere": [
+[
+"to sort",
+"å sortere"
+],
+[
+"I sort",
+"jeg sorterer"
+],
+[
+"I sorted",
+"jeg sorterte"
+],
+[
+"I have sorted",
+"jeg har sortert"
+],
+[
+"I will sort",
+"jeg skal sortere"
+],
+[
+"sort!",
+"sorter!"
+]
+],
+"desinfisere": [
+[
+"to disinfect",
+"å desinfisere"
+],
+[
+"I disinfect",
+"jeg desinfiserer"
+],
+[
+"I disinfected",
+"jeg desinfiserte"
+],
+[
+"I have disinfected",
+"jeg har desinfisert"
+],
+[
+"I will disinfect",
+"jeg skal desinfisere"
+],
+[
+"disinfect!",
+"desinfiser!"
+]
+],
+"feie": [
+[
+"to sweep",
+"å feie"
+],
+[
+"I sweep",
+"jeg feier"
+],
+[
+"I swept",
+"jeg feide"
+],
+[
+"I have swept",
+"jeg har feid"
+],
+[
+"I will sweep",
+"jeg skal feie"
+],
+[
+"sweep!",
+"fei!"
+]
+],
+"pusse": [
+[
+"to brush",
+"å pusse"
+],
+[
+"I brush",
+"jeg pusser"
+],
+[
+"I brushed",
+"jeg pussa"
+],
+[
+"I have brushed",
+"jeg har pussa"
+],
+[
+"I will brush",
+"jeg skal pusse"
+],
+[
+"brush!",
+"puss!"
+]
+],
+"riste": [
+[
+"to shake",
+"å riste"
+],
+[
+"I shake",
+"jeg rister"
+],
+[
+"I shook",
+"jeg rista"
+],
+[
+"I have shaken",
+"jeg har rista"
+],
+[
+"I will shake",
+"jeg skal riste"
+],
+[
+"shake!",
+"rist!"
+]
+],
+"måke_verb": [
+[
+"to shovel",
+"å måke"
+],
+[
+"I shovel",
+"jeg måker"
+],
+[
+"I shovelled",
+"jeg måkte"
+],
+[
+"I have shovelled",
+"jeg har måkt"
+],
+[
+"I will shovel",
+"jeg skal måke"
+],
+[
+"shovel!",
+"måk!"
+]
+],
+"brøyte": [
+[
+"to plough",
+"å brøyte"
+],
+[
+"I plough",
+"jeg brøyter"
+],
+[
+"I ploughed",
+"jeg brøyta"
+],
+[
+"I have ploughed",
+"jeg har brøyta"
+],
+[
+"I will plough",
+"jeg skal brøyte"
+],
+[
+"plough!",
+"brøyt!"
+]
+]
+}

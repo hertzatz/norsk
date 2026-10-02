@@ -199,7 +199,8 @@ function drillPlay(id) {
   player.pause();
   drillId = id;
   drillMark(id);
-  drill.src = audioUrl(voiceFor(id), "verb", id);
+  // the track follows the first translation language: English (EN, EN+FR) or French (FR, FR+EN)
+  drill.src = audioUrl(voiceFor(id), state.lang === "en" || state.lang === "enfr" ? "verb_en" : "verb", id);
   drill.play().catch(() => {});
 }
 // row button: play, pause, resume
@@ -457,6 +458,8 @@ function bindEye() {
   });
   ["pointerup", "pointercancel", "blur"].forEach((ev) => window.addEventListener(ev, stop));
   document.addEventListener("contextmenu", (e) => { if (e.target.closest(".eye")) e.preventDefault(); });
+  // a finger held on the eye is not a long press for the phone: no vibration, no selection, no menu
+  document.addEventListener("touchstart", (e) => { if (e.target.closest(".eye")) e.preventDefault(); }, { passive: false });
 }
 
 // ---------- tricky rows ----------
@@ -638,7 +641,7 @@ function renderVerbs() {
         <td>${modal ? "—" : vfRow("skal " + f.inf, w)}</td>
         <td>${modal ? "—" : vf(imperative(f.inf), w)}</td>
         <td><button class="more" data-id="${esc(w.id)}">📚 ${countFor(w.id)}</button></td>
-        <td class="drill-cell"><button class="drill" data-id="${esc(w.id)}" aria-label="Listen FR / NO">▶</button>${state.blur ? eyeBtn : ""}</td>
+        <td class="drill-cell"><button class="drill" data-id="${esc(w.id)}" aria-label="Listen: translation, then Norwegian">▶</button>${state.blur ? eyeBtn : ""}</td>
       </tr>`;
     };
     // modal (then semi-modal) verbs first, set apart; the ▶ of the group reads them first too

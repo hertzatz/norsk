@@ -25,7 +25,7 @@ ENV = next((p for p in (ROOT.parent.parent / n for n in (".cloudflare-keys.env",
             if p.exists()), None)
 BUCKET = "norsk-app"
 # local folder -> sub-folders sent from it
-SOURCES = [(ROOT / "audio", ("w", "s100", "s085", "s070", "s055", "verb"))]
+SOURCES = [(ROOT / "audio", ("w", "s100", "s085", "s070", "s055", "verb", "verb_en"))]
 VOICES = ("pernille", "finn")
 
 
